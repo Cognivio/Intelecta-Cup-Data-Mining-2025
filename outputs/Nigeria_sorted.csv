@@ -1,0 +1,827 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+2595,1990,Nigeria,'North Central',Coffee,2484.02,9.14,3.97,9,,4.14,98.72,66.67,Tanpa Adaptasi,16.99
+7203,1990,Nigeria,'North Central',Coffee,1718.62,6.01,2.82,8,89.2,46.95,57.81,70.11,Pertanian Organik,21.67
+7806,1990,Nigeria,'North Central',Rice,2686.57,14.04,2.38,10,25.58,22.83,71.24,93.16,Tanpa Adaptasi,19.12
+3573,1990,Nigeria,'North Central',Sugarcane,2904.06,3.42,3.68,7,61.66,10.96,20.49,34.79,Rotasi Tanaman,18.68
+576,1990,Nigeria,'North West',Barley,833.75,8.47,2.24,7,12.29,21.82,35.21,77.68,Tanaman Tahan Kekeringan,34.21
+2468,1990,Nigeria,'North West',Barley,1900.22,15.67,3.402,9,40.47,31.58,44.36,77.78,Pertanian Organik,30.02
+4339,1990,Nigeria,'North West',Barley,1081.11,14.02,2.43,5,17.3,42.33,68.93,41.63,Tanaman Tahan Kekeringan,-0.92
+1544,1990,Nigeria,'North West',Coffee,440.76,11.88,2.106,10,99.56,30.56,10.31,38.12,Manajemen Air,29.84
+6790,1990,Nigeria,'North West',Fruits,535.37,7.31,1.68,1,38.71,4.1,12.15,87.53,Tanaman Tahan Kekeringan,25.79
+3811,1990,Nigeria,'North West',Soybeans,1948.44,6.38,1.54,8,,20.67,4.22,86.41,Tanpa Adaptasi,2.91
+5234,1990,Nigeria,'North West',Vegetables,338.35,6.57,1.116,0,47.31,22.19,1.34,74.72,Tanpa Adaptasi,4.03
+2116,1990,Nigeria,'South East',Fruits,1280.16,28.79,3.852,0,34.99,29.59,11.04,62.46,Manajemen Air,17.87
+6735,1990,Nigeria,'South East',Rice,2800.07,22.15,3.582,2,80.94,21.17,88.26,56.07,Manajemen Air,24.3
+2017,1990,Nigeria,'South West',Fruits,2652.77,1.16,1.12,9,50.53,2.51,86.58,51.21,Pertanian Organik,34.03
+1213,1990,Nigeria,'South West',Rice,1404.53,21.83,1.89,7,65.74,9.89,79.76,98.42,Manajemen Air,9.1
+5350,1990,Nigeria,'South West',Soybeans,281.45,7.59,4.275,3,10.04,46.9,40.18,82.79,Rotasi Tanaman,18.63
+4451,1990,Nigeria,'South West',Wheat,1945.31,26.96,3.357,7,89.12,33.95,24.4,57.4,Rotasi Tanaman,13.7
+4927,1990,Nigeria,'South West',Wheat,375.62,8.82,2.583,3,37.91,43.78,81.46,32.78,Pertanian Organik,8.29
+3012,1991,Nigeria,'North Central',Corn,1105.15,3.84,,8,86.53,6.89,89.81,37.57,Tanpa Adaptasi,25.27
+134,1991,Nigeria,'North Central',Fruits,621.05,19.62,1.0080000000000002,7,56.16,8.5,41.76,70.98,Tanpa Adaptasi,-4.04
+5521,1991,Nigeria,'North Central',Fruits,1752.76,0.69,2.19,1,24.07,16.75,12.54,36.68,Tanpa Adaptasi,2.06
+6068,1991,Nigeria,'North Central',Rice,1270.84,24.99,2.358,8,87.67,25.88,25.1,40.91,Rotasi Tanaman,7.67
+3050,1991,Nigeria,'North Central',Soybeans,1013.81,29.09,2.439,2,74.64,0.58,70.61,74.03,Tanpa Adaptasi,10.7
+1361,1991,Nigeria,'North Central',Wheat,1625.84,15.59,2.385,5,73.44,7.59,69.57,32.43,Pertanian Organik,-2.96
+4560,1991,Nigeria,'North Central',,315.79,25.84,2.097,3,19.66,40.52,28.04,87.12,Tanaman Tahan Kekeringan,-1.18
+3422,1991,Nigeria,'North West',Corn,2774.32,12.9,1.92,0,34.33,40.96,11.47,40.05,Rotasi Tanaman,34.05
+9,1991,Nigeria,'North West',Cotton,1746.26,25.28,2.772,7,39.09,9.33,90.96,59.65,Manajemen Air,20.3
+5221,1991,Nigeria,'North West',Rice,865.03,7.03,0.72,6,14.26,14.05,48.94,40.61,Tanpa Adaptasi,9.82
+798,1991,Nigeria,'North West',Sugarcane,1976.64,25.25,2.232,4,18.31,46.87,26.4,80.38,Rotasi Tanaman,15.87
+1711,1991,Nigeria,'North West',Sugarcane,586.58,3.51,2.32,8,24.03,47.0,60.33,38.12,Rotasi Tanaman,16.91
+3427,1991,Nigeria,'North West',Sugarcane,321.45,21.2,1.089,5,95.09,29.38,66.44,63.73,Pertanian Organik,8.34
+1787,1991,Nigeria,'North West',Vegetables,2205.96,2.02,1.12,10,19.74,21.21,20.05,36.57,Rotasi Tanaman,3.26
+1242,1991,Nigeria,'North West',,2998.72,8.21,3.22,6,60.21,20.02,31.46,96.23,Tanpa Adaptasi,18.41
+3821,1991,Nigeria,'South East',Fruits,,20.19,2.457,5,37.83,47.25,38.37,61.01,Pertanian Organik,8.08
+4140,1991,Nigeria,'South West',Barley,411.91,4.38,2.682,8,65.49,5.82,89.91,44.45,Pertanian Organik,8.07
+4377,1991,Nigeria,'South West',Barley,2748.37,11.91,1.17,4,12.39,48.11,46.77,56.02,Manajemen Air,31.0
+4685,1991,Nigeria,'South West',Barley,1333.9,6.83,2.15,3,89.74,6.97,6.07,41.28,Pertanian Organik,5.07
+7563,1991,Nigeria,'South West',Coffee,2862.85,18.47,1.476,3,23.65,27.24,1.73,53.92,Tanpa Adaptasi,22.23
+5882,1991,Nigeria,'South West',Cotton,2290.48,9.82,1.83,7,30.63,47.16,93.82,86.48,Tanaman Tahan Kekeringan,30.18
+6416,1991,Nigeria,'South West',Fruits,510.91,19.6,2.241,4,67.35,18.14,12.69,76.2,Tanpa Adaptasi,14.38
+6421,1991,Nigeria,'South West',Fruits,1307.02,22.81,1.998,10,24.45,45.48,3.33,51.5,Tanaman Tahan Kekeringan,-4.5
+2706,1991,Nigeria,'South West',Wheat,814.25,8.17,3.85,4,86.69,32.56,83.01,31.37,Pertanian Organik,31.11
+3390,1992,Nigeria,'North Central',Barley,1808.18,5.67,3.11,4,50.14,48.55,37.06,75.77,Manajemen Air,32.09
+4401,1992,Nigeria,'North Central',Barley,1985.39,23.89,1.062,3,95.41,27.71,64.15,51.75,Rotasi Tanaman,9.02
+3337,1992,Nigeria,'North Central',Cotton,1835.93,25.26,1.647,5,94.13,41.03,51.49,84.56,Manajemen Air,14.76
+7176,1992,Nigeria,'North Central',Sugarcane,864.16,18.41,,2,69.6,32.2,64.44,54.36,Tanpa Adaptasi,31.62
+2331,1992,Nigeria,'North Central',Wheat,969.88,2.15,2.01,1,57.96,21.1,55.61,30.49,Tanaman Tahan Kekeringan,0.52
+3839,1992,Nigeria,'North Central',Wheat,2010.36,18.27,1.899,6,36.4,9.61,2.5,66.92,Pertanian Organik,25.22
+6971,1992,Nigeria,'North Central',Wheat,860.56,14.59,3.71,1,97.21,22.06,15.64,47.97,Tanpa Adaptasi,33.5
+2008,1992,Nigeria,'North West',Cotton,2217.23,25.29,2.889,6,87.19,20.0,7.79,60.7,Pertanian Organik,18.13
+5812,1992,Nigeria,'North West',Cotton,368.81,2.39,0.747,5,91.39,48.24,70.2,88.73,Tanaman Tahan Kekeringan,2.12
+6205,1992,Nigeria,'North West',Rice,1926.07,3.16,0.63,4,10.06,47.92,27.56,48.04,Rotasi Tanaman,-2.07
+5938,1992,Nigeria,'North West',Soybeans,1178.25,26.66,1.872,8,54.3,28.24,21.91,98.14,Tanaman Tahan Kekeringan,18.64
+1297,1992,Nigeria,'North West',Sugarcane,2225.61,7.29,3.42,7,90.08,1.93,50.94,85.8,Pertanian Organik,19.12
+4913,1992,Nigeria,'North West',Sugarcane,2648.64,14.86,4.35,10,78.31,39.05,62.15,43.02,Pertanian Organik,15.27
+5247,1992,Nigeria,'North West',Sugarcane,2067.98,20.26,2.871,8,63.9,34.27,20.66,53.07,Rotasi Tanaman,13.02
+7884,1992,Nigeria,'North West',Sugarcane,2802.8,28.59,0.999,6,94.15,13.27,64.03,73.17,Pertanian Organik,20.8
+3239,1992,Nigeria,'North West',Wheat,206.26,25.94,3.177,8,17.59,46.22,26.39,47.93,Tanaman Tahan Kekeringan,28.22
+2767,1992,Nigeria,'South East',Fruits,1828.17,2.23,3.05,7,52.36,48.58,40.35,44.37,Rotasi Tanaman,34.73
+2907,1992,Nigeria,'South East',Sugarcane,2372.27,12.79,1.78,3,96.64,29.17,32.67,75.35,Manajemen Air,4.56
+6833,1992,Nigeria,'South East',Sugarcane,882.62,29.08,0.909,2,,43.57,49.75,51.73,Tanpa Adaptasi,8.97
+1231,1992,Nigeria,'South East',Wheat,2581.98,16.75,3.807,9,10.86,6.04,81.96,95.99,Manajemen Air,17.17
+6139,1992,Nigeria,'South West',Barley,1577.94,19.87,2.529,0,96.38,0.79,99.23,39.11,Rotasi Tanaman,1.73
+6165,1992,Nigeria,'South West',Barley,2373.68,10.81,0.96,2,41.91,44.95,45.93,71.84,Manajemen Air,5.95
+874,1992,Nigeria,'South West',Corn,1504.88,2.56,1.29,1,49.99,39.86,65.47,50.01,Rotasi Tanaman,1.4
+5253,1992,Nigeria,'South West',Corn,2089.93,23.05,1.332,1,55.66,46.21,88.83,72.12,Manajemen Air,2.31
+5715,1992,Nigeria,'South West',Corn,2980.53,2.11,1.21,9,27.24,21.54,14.31,49.42,Tanpa Adaptasi,1.09
+885,1992,Nigeria,'South West',Cotton,1644.2,7.33,3.03,3,52.58,5.65,29.82,46.29,Pertanian Organik,34.55
+4995,1992,Nigeria,'South West',Fruits,388.85,9.5,2.367,5,,39.97,17.32,80.83,Tanaman Tahan Kekeringan,23.74
+7970,1992,Nigeria,'South West',Fruits,2035.07,3.42,1.73,8,18.16,39.48,88.67,72.33,Rotasi Tanaman,8.33
+7284,1992,Nigeria,'South West',Rice,2254.67,10.83,3.03,7,97.72,40.79,67.28,67.12,Pertanian Organik,15.53
+1909,1992,Nigeria,'South West',Soybeans,1590.84,14.11,3.85,8,74.73,30.89,76.55,75.29,Pertanian Organik,23.28
+5184,1993,Nigeria,'North Central',Barley,1042.79,29.0,0.5850000000000001,0,58.97,46.16,8.58,46.36,Rotasi Tanaman,0.39
+7702,1993,Nigeria,'North Central',Coffee,472.15,27.52,2.61,4,66.97,27.28,55.59,89.61,Tanpa Adaptasi,8.66
+5707,1993,Nigeria,'North Central',Cotton,2103.81,13.49,3.77,10,20.58,20.72,99.8,97.43,Tanaman Tahan Kekeringan,23.28
+3147,1993,Nigeria,'North Central',Soybeans,2881.35,5.24,1.85,6,82.51,23.94,85.27,43.42,Tanaman Tahan Kekeringan,8.35
+2208,1993,Nigeria,'North West',Rice,2123.63,3.37,1.5,10,73.54,36.15,21.27,81.22,Rotasi Tanaman,27.75
+2922,1993,Nigeria,'North West',Soybeans,2780.02,20.88,1.917,9,,17.48,7.16,60.97,Pertanian Organik,0.54
+5339,1993,Nigeria,'North West',Soybeans,,1.67,3.68,7,57.68,23.69,6.13,39.51,Tanaman Tahan Kekeringan,20.53
+6252,1993,Nigeria,'South East',Barley,1916.54,27.86,2.538,7,86.8,11.72,63.73,91.64,Tanaman Tahan Kekeringan,16.52
+7326,1993,Nigeria,'South East',Cotton,773.77,9.86,2.84,10,61.49,16.61,92.62,66.51,Pertanian Organik,-0.72
+7673,1993,Nigeria,'South East',Cotton,2999.67,17.76,1.629,7,25.88,18.28,95.1,36.87,Manajemen Air,19.25
+2850,1993,Nigeria,'South East',Rice,2835.77,16.41,1.989,3,97.54,26.05,29.54,79.59,Pertanian Organik,19.22
+7752,1993,Nigeria,'South East',Soybeans,1244.81,3.75,2.67,7,72.65,26.16,37.66,92.29,Manajemen Air,4.28
+4198,1993,Nigeria,'South West',Barley,1264.03,0.68,1.62,7,39.45,40.4,81.32,64.65,Pertanian Organik,18.44
+5285,1993,Nigeria,'South West',Coffee,1754.02,15.34,1.197,3,29.24,44.24,39.17,50.2,Pertanian Organik,24.03
+282,1993,Nigeria,'South West',Fruits,854.02,7.27,2.86,9,98.03,18.45,94.22,83.3,Pertanian Organik,32.78
+3404,1993,Nigeria,'South West',Rice,2775.29,20.83,1.827,4,83.35,8.62,83.78,48.72,Tanpa Adaptasi,-0.57
+146,1993,Nigeria,'South West',Soybeans,1004.29,1.62,0.91,7,73.85,39.65,26.3,52.73,Tanpa Adaptasi,34.81
+3878,1993,Nigeria,'South West',Wheat,2829.1,23.86,2.8440000000000003,5,31.72,33.74,93.84,62.26,Pertanian Organik,32.58
+7034,1994,Nigeria,'North Central',Barley,1297.71,9.68,,3,80.42,9.63,91.14,55.34,Tanaman Tahan Kekeringan,-3.37
+2090,1994,Nigeria,'North Central',Corn,290.15,1.67,2.385,4,69.18,29.61,8.7,61.75,Pertanian Organik,32.06
+5554,1994,Nigeria,'North Central',Soybeans,2390.1,13.81,2.1,3,16.56,2.09,74.08,32.85,Tanpa Adaptasi,-1.54
+3775,1994,Nigeria,'North Central',Sugarcane,1399.07,17.11,2.421,0,21.78,16.22,69.29,65.31,Tanaman Tahan Kekeringan,29.95
+1301,1994,Nigeria,'North West',Barley,2789.99,1.95,1.83,1,19.74,33.2,25.17,68.44,Tanpa Adaptasi,1.96
+2727,1994,Nigeria,'North West',Corn,1249.56,20.06,2.3760000000000003,9,99.44,20.13,16.93,72.22,Pertanian Organik,14.7
+928,1994,Nigeria,'North West',Rice,2627.47,12.27,2.26,1,55.12,34.84,68.57,74.85,Rotasi Tanaman,-3.45
+2794,1994,Nigeria,'North West',Soybeans,797.71,16.09,1.539,8,20.63,28.05,69.24,35.59,Rotasi Tanaman,26.27
+816,1994,Nigeria,'North West',Sugarcane,,21.93,3.339,4,92.27,42.7,15.26,44.63,Rotasi Tanaman,27.2
+5943,1994,Nigeria,'North West',Sugarcane,811.34,9.2,1.24,3,93.94,0.2,50.23,48.67,Tanaman Tahan Kekeringan,27.72
+6383,1994,Nigeria,'North West',Sugarcane,2678.44,2.54,1.86,0,23.5,4.26,84.26,86.37,Manajemen Air,15.78
+479,1994,Nigeria,'North West',Wheat,755.82,6.88,2.39,7,41.49,28.62,96.27,58.63,Tanpa Adaptasi,8.82
+7251,1994,Nigeria,'North West',Wheat,1548.31,3.39,2.84,8,27.21,33.2,1.97,65.61,Manajemen Air,25.43
+1197,1994,Nigeria,'South East',Barley,2461.41,13.82,5.0,4,52.96,39.65,57.86,79.01,Pertanian Organik,12.15
+6874,1994,Nigeria,'South East',Barley,905.84,18.95,0.5040000000000001,3,57.4,41.06,53.26,66.34,Pertanian Organik,-1.5
+6692,1994,Nigeria,'South East',Coffee,1142.65,20.15,0.909,7,64.89,42.59,67.97,56.66,Tanpa Adaptasi,33.41
+4555,1994,Nigeria,'South East',Corn,2884.15,23.54,0.666,3,39.62,41.85,62.26,96.52,Tanaman Tahan Kekeringan,8.99
+3645,1994,Nigeria,'South East',Cotton,622.38,13.77,2.44,5,61.03,28.31,18.4,46.84,Pertanian Organik,13.68
+4486,1994,Nigeria,'South East',Fruits,2383.93,5.98,2.27,5,73.05,17.49,4.04,88.31,Tanpa Adaptasi,34.84
+5441,1994,Nigeria,'South East',Fruits,811.1,18.58,3.996,3,19.58,32.75,72.47,67.28,Pertanian Organik,13.78
+6962,1994,Nigeria,'South East',Soybeans,792.43,28.02,1.881,1,50.3,31.77,5.03,89.23,Manajemen Air,13.29
+3736,1994,Nigeria,'South East',Vegetables,957.49,12.72,2.46,9,21.89,28.91,43.58,71.0,Rotasi Tanaman,11.47
+689,1994,Nigeria,'South East',Wheat,560.59,1.33,1.43,10,72.86,27.79,95.03,95.92,Tanpa Adaptasi,7.29
+7268,1994,Nigeria,'South West',Barley,386.71,4.31,1.683,4,46.88,17.74,66.89,87.81,Manajemen Air,23.46
+3473,1994,Nigeria,'South West',Coffee,2742.35,2.0,0.64,7,84.86,42.08,86.27,57.0,Manajemen Air,2.1
+4687,1994,Nigeria,'South West',Coffee,1414.18,16.42,1.368,7,46.89,16.31,14.45,95.23,Tanaman Tahan Kekeringan,8.9
+5580,1994,Nigeria,'South West',Corn,1823.6,24.51,1.773,5,27.33,40.57,5.68,34.51,Tanaman Tahan Kekeringan,24.4
+3835,1994,Nigeria,'South West',Rice,2485.02,10.18,1.96,2,67.54,16.38,1.32,72.98,Manajemen Air,2.15
+1179,1994,Nigeria,'South West',Sugarcane,2360.84,17.99,1.1880000000000002,6,76.07,37.29,36.6,84.48,Manajemen Air,6.46
+3837,1994,Nigeria,'South West',Sugarcane,2355.14,18.13,3.042,1,69.52,7.38,61.32,44.33,Pertanian Organik,31.32
+5386,1994,Nigeria,'South West',Vegetables,1525.4,21.38,1.773,9,86.3,12.22,98.16,99.38,Tanaman Tahan Kekeringan,31.89
+3236,1995,Nigeria,'North Central',Coffee,961.7,5.76,1.59,9,13.39,2.63,31.04,45.37,Pertanian Organik,0.12
+6318,1995,Nigeria,'North Central',Corn,1914.26,15.54,1.107,6,48.5,40.4,43.42,82.93,Tanpa Adaptasi,34.8
+1083,1995,Nigeria,'North Central',Cotton,1699.59,12.63,3.42,7,25.71,18.76,33.69,69.25,Rotasi Tanaman,14.14
+1794,1995,Nigeria,'North Central',Fruits,1185.54,14.99,3.35,2,50.59,46.13,75.53,58.97,Rotasi Tanaman,18.36
+3180,1995,Nigeria,'North Central',Fruits,2070.22,25.88,2.763,1,55.96,25.79,67.71,66.17,Tanaman Tahan Kekeringan,16.16
+2887,1995,Nigeria,'North Central',Rice,1743.85,16.51,2.493,3,59.3,22.78,13.92,67.45,Rotasi Tanaman,23.97
+7146,1995,Nigeria,'North Central',Wheat,2946.62,3.76,3.56,3,58.28,15.22,7.32,74.66,Rotasi Tanaman,32.51
+3106,1995,Nigeria,'North West',Barley,1979.4,6.66,2.88,4,18.08,27.06,87.43,51.43,Tanaman Tahan Kekeringan,18.64
+4818,1995,Nigeria,'North West',Fruits,2230.13,23.35,1.773,2,36.74,11.93,39.17,76.42,Pertanian Organik,8.19
+2338,1995,Nigeria,'North West',Rice,2753.27,11.79,3.42,7,82.57,28.89,1.6,42.59,Pertanian Organik,21.92
+5376,1995,Nigeria,'North West',Rice,2094.03,12.94,1.43,0,49.75,22.2,93.07,36.33,Rotasi Tanaman,5.98
+6061,1995,Nigeria,'North West',Rice,1359.96,22.65,1.854,1,53.42,25.14,89.34,35.03,Rotasi Tanaman,17.24
+7089,1995,Nigeria,'North West',Soybeans,1246.55,7.56,2.88,7,,14.54,9.68,67.98,Manajemen Air,32.03
+7301,1995,Nigeria,'North West',Sugarcane,2435.68,25.26,2.115,1,45.73,33.43,68.19,84.21,Manajemen Air,23.73
+5249,1995,Nigeria,'North West',Wheat,228.15,7.16,0.747,9,80.57,24.09,92.87,99.14,Tanaman Tahan Kekeringan,29.09
+6203,1995,Nigeria,'South East',Barley,1875.53,17.86,2.8440000000000003,5,16.29,15.95,62.91,76.19,Tanaman Tahan Kekeringan,26.22
+503,1995,Nigeria,'South East',Coffee,548.77,23.37,1.719,6,39.9,13.49,73.75,93.81,Manajemen Air,17.61
+6111,1995,Nigeria,'South East',Fruits,2386.33,20.44,1.431,3,32.26,44.41,39.41,47.6,Pertanian Organik,28.07
+7392,1995,Nigeria,'South East',Fruits,2652.31,28.18,1.719,6,93.26,16.4,12.28,83.84,Tanpa Adaptasi,22.62
+1904,1995,Nigeria,'South East',Wheat,2012.52,6.72,3.62,0,45.35,17.44,27.4,50.53,Tanpa Adaptasi,15.48
+5952,1995,Nigeria,'South East',Wheat,491.26,26.67,3.753,2,32.33,33.19,49.14,97.95,Pertanian Organik,19.49
+3011,1995,Nigeria,'South West',Rice,1350.76,1.87,3.08,3,22.88,18.51,46.52,32.28,Tanpa Adaptasi,15.7
+687,1995,Nigeria,'South West',Soybeans,2372.37,12.37,2.09,2,13.31,7.2,67.13,56.46,Rotasi Tanaman,6.25
+3295,1995,Nigeria,'South West',,1584.28,13.79,4.24,7,32.0,14.06,83.93,32.5,Rotasi Tanaman,18.58
+3301,1996,Nigeria,'North Central',Corn,2781.87,22.34,2.529,10,33.53,40.87,29.84,96.6,Tanpa Adaptasi,14.29
+4132,1996,Nigeria,'North Central',Corn,2097.84,24.41,4.446000000000001,2,89.62,29.73,12.76,85.05,Rotasi Tanaman,19.17
+4161,1996,Nigeria,'North Central',Corn,1992.76,11.6,1.19,5,31.44,42.22,96.94,77.43,Rotasi Tanaman,-0.51
+6076,1996,Nigeria,'North Central',Cotton,1721.27,10.19,1.87,3,16.18,49.32,46.25,30.21,Tanpa Adaptasi,-4.42
+6349,1996,Nigeria,'North Central',Fruits,1245.12,23.32,3.546,4,40.78,2.78,44.39,32.58,Pertanian Organik,10.93
+7457,1996,Nigeria,'North Central',Fruits,2374.62,8.03,4.15,4,24.79,20.0,10.33,93.21,Tanaman Tahan Kekeringan,18.41
+5437,1996,Nigeria,'North Central',Sugarcane,2717.75,28.83,3.375,10,74.93,43.63,5.94,70.24,Pertanian Organik,20.08
+731,1996,Nigeria,'North West',Corn,2032.63,9.27,3.34,1,38.56,28.6,11.36,79.33,Pertanian Organik,18.61
+442,1996,Nigeria,'North West',Rice,1374.66,23.74,1.386,10,,45.5,12.17,71.12,Manajemen Air,14.54
+6268,1996,Nigeria,'North West',Sugarcane,669.77,11.43,1.8,6,52.92,6.44,82.34,33.49,Rotasi Tanaman,6.96
+7856,1996,Nigeria,'North West',,2626.04,3.7,4.97,10,99.29,30.27,14.4,84.35,Manajemen Air,17.72
+6131,1996,Nigeria,'South East',Barley,918.26,28.53,0.5670000000000001,9,40.78,47.93,96.41,42.65,Manajemen Air,-0.78
+6018,1996,Nigeria,'South East',Coffee,1085.84,19.39,0.783,2,17.82,20.55,12.1,62.12,Tanaman Tahan Kekeringan,6.77
+6216,1996,Nigeria,'South East',Corn,1562.2,7.15,1.35,10,42.04,40.81,74.31,99.04,Pertanian Organik,3.17
+829,1996,Nigeria,'South East',Soybeans,230.41,28.09,0.7200000000000001,2,54.52,26.28,47.74,97.68,Pertanian Organik,4.96
+6643,1996,Nigeria,'South East',Wheat,1189.48,18.68,2.6910000000000003,9,11.15,39.42,77.79,88.18,Tanaman Tahan Kekeringan,23.0
+1614,1996,Nigeria,'South West',Barley,2809.2,29.77,0.8370000000000001,3,15.19,20.73,42.55,30.57,Pertanian Organik,9.61
+917,1996,Nigeria,'South West',Cotton,1723.48,25.23,,5,82.66,37.18,87.94,82.22,Tanaman Tahan Kekeringan,29.79
+346,1996,Nigeria,'South West',Vegetables,482.89,19.9,1.161,1,97.97,43.95,40.59,87.58,Tanaman Tahan Kekeringan,-1.99
+2133,1997,Nigeria,'North Central',Barley,2897.43,16.92,2.493,9,60.94,47.02,32.16,58.16,Tanaman Tahan Kekeringan,20.73
+5564,1997,Nigeria,'North Central',Barley,2998.24,5.89,2.97,2,27.83,13.31,6.9,98.17,Rotasi Tanaman,21.47
+6086,1997,Nigeria,'North Central',Corn,2251.15,4.08,2.32,6,43.55,18.76,93.29,30.28,Tanaman Tahan Kekeringan,0.94
+1844,1997,Nigeria,'North Central',Cotton,2928.15,7.75,4.59,2,77.68,33.73,38.86,31.44,Tanaman Tahan Kekeringan,18.68
+7739,1997,Nigeria,'North Central',Rice,960.61,27.4,1.71,2,47.9,19.36,9.79,68.34,Tanaman Tahan Kekeringan,4.89
+443,1997,Nigeria,'North Central',Sugarcane,772.75,28.59,2.277,2,20.19,11.41,65.42,88.23,Manajemen Air,0.82
+5287,1997,Nigeria,'North West',Corn,1414.91,29.64,3.456,9,57.28,26.27,99.5,39.27,Tanpa Adaptasi,33.37
+1740,1997,Nigeria,'North West',Sugarcane,2238.89,15.53,1.692,1,26.7,13.48,86.02,79.55,Tanaman Tahan Kekeringan,-0.39
+2871,1997,Nigeria,'North West',Wheat,294.55,7.67,0.747,4,99.21,36.21,84.05,97.66,Rotasi Tanaman,23.47
+4481,1997,Nigeria,'South East',Barley,750.32,20.35,1.323,5,64.92,11.7,69.06,39.78,Manajemen Air,1.66
+5902,1997,Nigeria,'South East',Barley,749.47,24.56,1.6740000000000002,8,14.0,47.79,76.86,91.62,Pertanian Organik,7.98
+3537,1997,Nigeria,'South East',Cotton,1906.36,0.95,1.17,9,66.99,44.94,93.43,88.13,Rotasi Tanaman,27.3
+5043,1997,Nigeria,'South East',Cotton,2050.08,10.33,2.71,9,14.96,8.58,50.98,70.68,Manajemen Air,34.14
+680,1997,Nigeria,'South East',Soybeans,708.98,3.03,2.93,4,77.1,18.45,54.79,53.34,Tanaman Tahan Kekeringan,4.88
+2661,1997,Nigeria,'South West',Sugarcane,2588.29,11.48,3.0,6,27.96,45.7,26.13,63.03,Rotasi Tanaman,25.71
+6565,1998,Nigeria,'North Central',Barley,2406.05,29.21,,7,21.59,49.42,1.35,82.37,Pertanian Organik,30.84
+5617,1998,Nigeria,'North Central',Soybeans,2692.99,17.54,3.213,6,61.35,17.79,58.7,56.54,Manajemen Air,27.87
+276,1998,Nigeria,'North Central',Sugarcane,2871.38,25.55,1.152,10,20.02,34.18,62.62,31.84,Pertanian Organik,-2.83
+7337,1998,Nigeria,'North Central',Vegetables,1161.19,5.59,1.3,1,64.72,20.95,22.26,62.97,Pertanian Organik,-2.71
+7916,1998,Nigeria,'North Central',,1724.02,28.93,1.287,8,61.56,31.43,42.03,37.27,Manajemen Air,-4.93
+6513,1998,Nigeria,'North West',Barley,636.41,8.14,4.05,8,96.73,22.31,11.04,57.15,Manajemen Air,12.59
+3163,1998,Nigeria,'North West',Coffee,249.87,25.68,2.007,4,20.12,38.1,25.71,33.48,Tanpa Adaptasi,25.64
+4920,1998,Nigeria,'North West',Corn,2269.22,16.75,1.908,10,48.83,44.58,3.99,96.58,Manajemen Air,-1.43
+5176,1998,Nigeria,'North West',Cotton,208.2,9.69,1.737,5,49.83,24.61,80.51,36.15,Rotasi Tanaman,30.62
+3120,1998,Nigeria,'North West',Rice,1606.51,13.58,2.63,9,,9.33,33.95,46.95,Pertanian Organik,14.13
+5000,1998,Nigeria,'North West',Sugarcane,401.76,22.01,0.756,1,49.1,33.38,4.18,79.03,Pertanian Organik,4.81
+2126,1998,Nigeria,'South East',Cotton,1755.19,14.35,1.0,4,98.4,48.88,6.07,46.31,Rotasi Tanaman,27.55
+1181,1998,Nigeria,'South East',Vegetables,1045.3,11.45,2.44,7,39.74,47.92,11.53,93.92,Manajemen Air,14.64
+2432,1998,Nigeria,'South West',Coffee,2083.5,2.92,,8,63.31,23.51,52.49,47.09,Rotasi Tanaman,-3.94
+5610,1998,Nigeria,'South West',Coffee,636.85,26.59,4.113,8,44.02,29.87,78.7,97.83,Rotasi Tanaman,11.35
+3128,1998,Nigeria,'South West',Soybeans,954.89,15.47,3.366,10,75.43,26.62,63.33,38.66,Rotasi Tanaman,33.38
+5352,1998,Nigeria,'South West',Soybeans,797.99,21.68,3.708,4,22.14,22.88,56.04,90.16,Rotasi Tanaman,19.68
+2786,1999,Nigeria,'North Central',Barley,747.89,7.97,1.42,7,58.04,9.65,43.24,40.33,Manajemen Air,5.64
+2363,1999,Nigeria,'North Central',Coffee,1763.49,17.53,1.476,8,42.56,35.9,78.97,74.59,Manajemen Air,9.03
+4548,1999,Nigeria,'North Central',Coffee,484.11,22.54,1.998,6,40.16,22.0,49.67,47.94,Tanpa Adaptasi,26.14
+1174,1999,Nigeria,'North Central',Soybeans,1901.81,4.39,1.74,3,68.27,20.31,29.03,31.32,Manajemen Air,32.71
+4713,1999,Nigeria,'North Central',Soybeans,2394.99,13.71,2.88,9,21.91,29.9,39.6,46.69,Rotasi Tanaman,20.43
+7239,1999,Nigeria,'North Central',Soybeans,1870.7,28.18,2.763,3,71.85,44.72,52.33,64.19,Tanaman Tahan Kekeringan,18.1
+6233,1999,Nigeria,'North Central',Vegetables,2693.57,27.9,1.215,6,49.75,33.51,52.47,52.01,Rotasi Tanaman,1.41
+597,1999,Nigeria,'North West',Barley,1981.97,14.02,,9,46.46,46.01,14.86,83.76,Rotasi Tanaman,-4.79
+2270,1999,Nigeria,'North West',Soybeans,249.05,24.85,0.468,9,12.25,33.87,15.91,43.3,Rotasi Tanaman,2.16
+7999,1999,Nigeria,'North West',Soybeans,328.52,20.15,3.681,9,47.13,32.95,8.69,36.32,Tanaman Tahan Kekeringan,12.16
+626,1999,Nigeria,'North West',Wheat,2611.82,5.78,1.71,9,73.08,44.02,86.64,95.71,Tanpa Adaptasi,-0.4
+3349,1999,Nigeria,'South East',Coffee,1479.68,3.31,2.82,8,83.55,22.5,76.2,82.16,Manajemen Air,1.05
+4916,1999,Nigeria,'South East',Corn,1180.27,13.32,2.01,5,17.61,31.45,90.13,50.24,Pertanian Organik,31.32
+6194,1999,Nigeria,'South East',Corn,1338.01,1.36,3.98,6,55.48,37.96,42.07,75.27,Manajemen Air,25.88
+7513,1999,Nigeria,'South East',Fruits,1471.71,28.35,0.864,8,47.39,42.18,44.18,68.03,Tanaman Tahan Kekeringan,-3.24
+5370,1999,Nigeria,'South East',Rice,2930.69,24.99,3.249,4,35.13,25.3,42.54,31.76,Rotasi Tanaman,28.04
+6730,1999,Nigeria,'South East',,2697.72,2.83,1.96,5,94.13,30.62,55.65,59.19,Manajemen Air,31.08
+471,1999,Nigeria,'South West',Coffee,2781.04,0.78,3.52,10,23.72,26.34,29.8,45.57,Manajemen Air,30.7
+4188,1999,Nigeria,'South West',Coffee,2636.45,17.54,0.855,5,86.69,32.33,72.27,73.32,Tanpa Adaptasi,26.87
+217,1999,Nigeria,'South West',Corn,1477.59,12.94,2.1,1,84.98,43.61,39.42,58.6,Tanaman Tahan Kekeringan,16.48
+1978,1999,Nigeria,'South West',Corn,2502.55,4.88,3.26,0,33.91,44.82,94.42,42.89,Tanaman Tahan Kekeringan,17.0
+2066,1999,Nigeria,'South West',Cotton,1748.58,28.76,2.106,0,97.07,31.32,25.5,72.58,Rotasi Tanaman,17.37
+4257,1999,Nigeria,'South West',Cotton,743.26,14.31,1.26,8,73.67,21.06,42.12,39.17,Pertanian Organik,4.76
+5217,1999,Nigeria,'South West',Cotton,1321.79,24.98,1.4580000000000002,1,63.97,20.1,66.24,98.57,Tanpa Adaptasi,8.97
+4981,1999,Nigeria,'South West',Soybeans,2616.16,9.0,1.7,4,81.2,14.13,15.36,98.96,Manajemen Air,6.85
+7963,1999,Nigeria,'South West',Soybeans,1942.2,18.21,3.609,1,48.27,19.72,96.33,42.54,Rotasi Tanaman,13.96
+3679,1999,Nigeria,'South West',Sugarcane,1450.48,18.34,0.549,3,76.57,42.66,55.57,57.52,Manajemen Air,-3.15
+6715,1999,Nigeria,'South West',Wheat,1290.83,6.79,2.66,2,56.6,11.48,70.85,40.65,Pertanian Organik,-3.05
+4765,2000,Nigeria,'North Central',Sugarcane,1584.7,21.98,2.124,9,49.52,32.38,61.03,55.4,Tanpa Adaptasi,5.89
+2807,2000,Nigeria,'North Central',Vegetables,820.76,27.7,1.2060000000000002,9,30.43,30.41,26.21,89.35,Manajemen Air,21.18
+4540,2000,Nigeria,'North Central',Wheat,2010.45,2.12,3.84,6,65.65,32.48,18.54,46.17,Rotasi Tanaman,12.69
+4803,2000,Nigeria,'North Central',Wheat,1490.98,8.06,4.53,0,48.82,45.84,22.75,59.74,Manajemen Air,12.04
+1953,2000,Nigeria,'North West',Coffee,324.03,12.36,3.294,8,55.42,38.45,80.18,82.33,Tanpa Adaptasi,19.72
+3757,2000,Nigeria,'North West',Corn,1316.09,11.67,4.32,8,12.36,32.36,39.01,63.89,Tanaman Tahan Kekeringan,16.96
+1056,2000,Nigeria,'North West',Fruits,2286.71,9.58,3.5,5,30.27,32.78,85.95,41.73,Pertanian Organik,28.21
+4725,2000,Nigeria,'North West',Rice,629.94,18.29,2.709,2,20.66,15.84,65.9,40.12,Pertanian Organik,21.34
+3909,2000,Nigeria,'North West',Sugarcane,454.67,24.49,2.853,8,52.9,40.43,14.25,63.74,Rotasi Tanaman,28.09
+4809,2000,Nigeria,'North West',Sugarcane,490.57,14.84,1.116,9,80.75,36.07,15.32,90.36,Manajemen Air,27.39
+4679,2000,Nigeria,'North West',Vegetables,720.91,23.65,1.89,9,24.28,49.06,27.64,90.86,Tanaman Tahan Kekeringan,25.73
+658,2000,Nigeria,'North West',Wheat,2581.2,21.41,0.666,10,98.39,32.61,48.54,89.84,Rotasi Tanaman,-2.53
+546,2000,Nigeria,'South East',Corn,2580.97,17.82,2.583,1,59.32,26.29,90.46,38.16,Pertanian Organik,9.23
+557,2000,Nigeria,'South East',Corn,627.06,18.62,1.467,1,40.61,33.76,27.45,30.43,Tanpa Adaptasi,22.35
+2052,2000,Nigeria,'South East',Corn,349.86,4.42,2.628,1,81.96,46.71,44.96,52.79,Tanpa Adaptasi,8.7
+6143,2000,Nigeria,'South East',Fruits,1511.29,13.69,2.08,5,16.32,24.42,14.35,30.64,Tanaman Tahan Kekeringan,-4.44
+7642,2000,Nigeria,'South East',Rice,1312.04,15.52,3.4650000000000003,1,21.39,13.82,63.2,71.49,Tanpa Adaptasi,28.65
+25,2000,Nigeria,'South East',Soybeans,,24.62,2.169,1,54.95,9.96,50.36,53.81,Manajemen Air,20.74
+7044,2000,Nigeria,'South East',Soybeans,602.05,4.98,2.34,3,41.1,33.02,99.59,51.7,Tanpa Adaptasi,31.53
+7659,2000,Nigeria,'South East',Vegetables,543.13,26.65,0.918,10,99.63,16.5,76.67,33.47,Manajemen Air,24.6
+2820,2000,Nigeria,'South East',Wheat,2063.85,15.11,2.907,1,63.25,29.74,8.85,78.82,Pertanian Organik,10.64
+5030,2000,Nigeria,'South East',Wheat,1159.98,15.56,,4,24.45,24.23,62.21,62.27,Pertanian Organik,2.26
+645,2000,Nigeria,'South West',Corn,1140.81,14.17,,0,40.74,40.0,97.58,52.17,Tanpa Adaptasi,14.88
+3514,2000,Nigeria,'South West',Corn,1099.87,9.84,2.76,6,72.85,8.37,47.67,97.34,Rotasi Tanaman,5.1
+4531,2000,Nigeria,'South West',Cotton,1513.52,7.11,0.73,4,33.04,36.2,2.27,92.11,Manajemen Air,-1.77
+6814,2000,Nigeria,'South West',Cotton,734.93,13.17,2.52,5,63.14,36.04,37.23,73.57,Tanpa Adaptasi,-0.37
+5976,2000,Nigeria,'South West',,1839.48,13.18,1.4,4,22.99,41.28,84.82,58.54,Rotasi Tanaman,31.14
+4439,2001,Nigeria,'North Central',Corn,2397.83,0.64,1.07,2,96.58,30.28,74.26,87.63,Pertanian Organik,22.53
+6665,2001,Nigeria,'North Central',Corn,890.49,6.42,3.26,0,66.01,19.98,55.44,85.74,Pertanian Organik,11.15
+93,2001,Nigeria,'North Central',Soybeans,315.35,8.55,1.971,3,26.19,31.43,89.6,49.29,Pertanian Organik,26.86
+499,2001,Nigeria,'North Central',Soybeans,1159.38,27.39,3.879,9,22.04,39.65,15.19,90.28,Rotasi Tanaman,13.19
+586,2001,Nigeria,'North Central',Sugarcane,2506.87,11.15,2.79,3,81.41,13.82,37.68,32.28,Rotasi Tanaman,-2.47
+813,2001,Nigeria,'North Central',Sugarcane,1484.46,27.27,2.61,6,18.66,3.02,57.07,88.39,Tanaman Tahan Kekeringan,-2.06
+3714,2001,Nigeria,'North Central',Sugarcane,2737.4,22.85,2.16,2,12.13,8.03,21.25,79.76,Pertanian Organik,6.67
+6172,2001,Nigeria,'North Central',Vegetables,1400.97,19.65,1.278,0,33.88,26.91,43.64,31.62,Tanpa Adaptasi,-2.36
+1626,2001,Nigeria,'North Central',Wheat,1286.61,27.56,2.8440000000000003,7,37.17,49.89,78.44,39.59,Rotasi Tanaman,32.14
+1048,2001,Nigeria,'North West',Corn,1617.13,1.71,1.89,10,61.29,30.21,34.99,85.77,Tanpa Adaptasi,24.46
+6384,2001,Nigeria,'North West',Cotton,1940.72,11.99,3.97,3,20.22,28.51,19.19,55.69,Tanpa Adaptasi,23.16
+7147,2001,Nigeria,'North West',Vegetables,1415.03,5.36,3.06,9,71.03,18.32,97.2,56.83,Tanaman Tahan Kekeringan,24.93
+1419,2001,Nigeria,'North West',Wheat,2857.71,12.28,4.75,7,,27.27,78.86,42.74,Rotasi Tanaman,13.8
+183,2001,Nigeria,'South East',Barley,1308.97,17.92,3.663,7,41.79,7.26,20.51,72.11,Manajemen Air,11.83
+6629,2001,Nigeria,'South East',Cotton,2226.59,2.59,2.54,6,24.86,31.16,21.42,86.59,Rotasi Tanaman,4.05
+5408,2001,Nigeria,'South East',Rice,2013.61,24.94,1.989,7,81.74,37.49,7.49,78.62,Pertanian Organik,0.75
+6943,2001,Nigeria,'South East',Sugarcane,1072.65,18.75,3.042,5,61.85,11.98,70.77,78.35,Tanaman Tahan Kekeringan,21.79
+2254,2001,Nigeria,'South East',Vegetables,880.87,15.98,3.5730000000000004,10,51.01,16.43,64.69,48.17,Tanaman Tahan Kekeringan,14.15
+3338,2001,Nigeria,'South East',Vegetables,547.37,17.04,2.709,4,97.87,3.77,23.72,87.19,Manajemen Air,27.27
+7964,2001,Nigeria,'South East',Vegetables,1749.04,19.09,1.368,5,53.81,13.08,29.58,42.98,Tanaman Tahan Kekeringan,30.03
+2385,2001,Nigeria,'South West',Coffee,1480.04,2.06,4.88,8,47.89,36.98,13.78,38.68,Tanaman Tahan Kekeringan,15.14
+6267,2001,Nigeria,'South West',Corn,2719.97,5.34,2.94,7,58.19,41.09,45.21,32.54,Pertanian Organik,28.7
+2332,2001,Nigeria,'South West',Rice,480.6,16.15,1.6740000000000002,4,88.13,49.74,24.88,57.51,Manajemen Air,3.32
+5250,2001,Nigeria,'South West',Vegetables,1275.79,17.45,3.456,3,77.26,36.22,30.69,39.12,Tanaman Tahan Kekeringan,31.82
+1335,2001,Nigeria,'South West',,461.38,23.49,0.783,2,82.6,25.71,2.22,58.77,Manajemen Air,28.56
+1476,2002,Nigeria,'North Central',Fruits,2977.09,29.5,0.882,10,63.86,25.39,52.03,68.52,Rotasi Tanaman,-0.51
+5411,2002,Nigeria,'North Central',Soybeans,741.33,23.49,1.107,9,36.86,26.52,60.9,80.43,Tanpa Adaptasi,-0.01
+141,2002,Nigeria,'North Central',Wheat,1197.18,2.03,2.1,8,52.43,19.01,24.21,81.27,Manajemen Air,5.0
+6563,2002,Nigeria,'North Central',,645.62,13.1,3.02,1,80.11,43.82,73.23,39.95,Tanaman Tahan Kekeringan,26.97
+6424,2002,Nigeria,'North West',Fruits,575.19,14.29,1.75,0,29.28,30.93,67.6,98.23,Tanpa Adaptasi,33.57
+2391,2002,Nigeria,'North West',Soybeans,1835.93,11.0,2.46,4,96.37,23.93,31.94,71.28,Tanpa Adaptasi,23.35
+4865,2002,Nigeria,'South East',Barley,1763.19,14.57,1.98,8,98.86,5.14,47.73,85.86,Rotasi Tanaman,2.61
+308,2002,Nigeria,'South East',Corn,1746.55,5.13,2.83,8,81.21,2.66,92.19,83.82,Rotasi Tanaman,14.4
+1023,2002,Nigeria,'South East',Fruits,768.86,14.52,1.47,8,28.98,32.86,37.0,82.36,Manajemen Air,4.71
+307,2002,Nigeria,'South East',Vegetables,208.93,15.19,2.4120000000000004,4,51.08,46.16,83.76,82.21,Rotasi Tanaman,-1.76
+1824,2002,Nigeria,'South East',Vegetables,677.55,26.87,3.0330000000000004,2,85.82,28.25,81.61,44.38,Rotasi Tanaman,30.89
+2082,2002,Nigeria,'South East',Wheat,2222.29,9.25,2.76,2,72.39,8.14,31.67,54.33,Pertanian Organik,2.98
+3112,2002,Nigeria,'South West',Barley,1877.26,14.51,2.72,3,26.75,10.7,19.42,89.84,Rotasi Tanaman,15.94
+5773,2002,Nigeria,'South West',Coffee,478.83,28.2,1.998,5,20.61,4.45,35.9,87.12,Tanpa Adaptasi,33.37
+4774,2002,Nigeria,'South West',Cotton,,16.2,1.575,4,61.54,35.45,96.08,42.84,Manajemen Air,3.41
+118,2002,Nigeria,'South West',Rice,260.18,27.77,3.546,8,86.04,36.85,64.5,61.7,Rotasi Tanaman,11.81
+7348,2002,Nigeria,'South West',Wheat,2051.58,12.07,1.06,5,34.69,11.15,21.21,44.94,Tanpa Adaptasi,8.77
+4042,2003,Nigeria,'North Central',Corn,823.31,24.85,2.466,3,17.06,10.63,11.47,97.47,Rotasi Tanaman,21.07
+5280,2003,Nigeria,'North Central',Rice,1305.68,17.34,2.43,6,23.1,4.3,94.07,92.95,Manajemen Air,4.54
+2597,2003,Nigeria,'North Central',Soybeans,1817.39,18.5,2.4480000000000004,8,84.23,35.39,47.41,91.38,Tanaman Tahan Kekeringan,6.07
+5535,2003,Nigeria,'North West',Barley,2374.08,21.18,1.323,5,20.32,18.29,26.51,36.66,Tanpa Adaptasi,-3.05
+3581,2003,Nigeria,'North West',Cotton,2789.48,28.24,3.411,8,38.45,49.79,68.75,59.77,Tanaman Tahan Kekeringan,23.71
+3810,2003,Nigeria,'North West',Cotton,1205.48,7.59,2.37,3,23.76,15.36,48.26,73.17,Tanpa Adaptasi,-1.1
+2232,2003,Nigeria,'North West',Sugarcane,1335.07,24.12,1.62,10,83.57,37.0,15.22,96.73,Rotasi Tanaman,1.06
+4411,2003,Nigeria,'North West',Sugarcane,967.82,6.77,2.01,1,24.0,34.82,29.85,85.38,Manajemen Air,7.56
+5611,2003,Nigeria,'North West',Wheat,1470.2,15.86,1.854,8,82.41,45.88,36.12,81.14,Manajemen Air,10.47
+735,2003,Nigeria,'South East',Fruits,555.18,20.72,2.286,9,85.24,37.34,37.5,79.28,Pertanian Organik,-1.13
+6477,2003,Nigeria,'South East',Rice,2702.05,12.52,1.09,3,38.12,20.73,42.79,40.11,Pertanian Organik,27.68
+3955,2003,Nigeria,'South East',Soybeans,,19.53,2.088,8,74.67,14.64,34.33,63.02,Rotasi Tanaman,15.87
+7932,2003,Nigeria,'South East',Soybeans,406.73,24.62,2.385,9,12.48,18.44,33.01,80.46,Manajemen Air,17.26
+7459,2003,Nigeria,'South East',Sugarcane,832.09,13.38,1.98,3,95.29,17.16,6.77,61.13,Tanaman Tahan Kekeringan,28.88
+7879,2003,Nigeria,'South East',Sugarcane,2161.31,1.01,1.85,3,11.14,19.59,33.18,72.2,Manajemen Air,31.87
+318,2003,Nigeria,'South East',Wheat,2947.62,15.42,0.7290000000000001,10,56.93,4.64,14.98,76.36,Tanaman Tahan Kekeringan,32.69
+2009,2003,Nigeria,'South East',Wheat,1911.33,1.93,2.89,7,82.38,28.17,33.91,58.47,Tanpa Adaptasi,17.06
+2406,2003,Nigeria,'South East',Wheat,2629.01,0.77,2.53,7,80.95,26.14,38.51,31.51,Rotasi Tanaman,7.4
+4421,2003,Nigeria,'South West',Coffee,805.11,4.7,1.2,9,93.08,39.23,83.28,50.71,Tanpa Adaptasi,-4.97
+1112,2003,Nigeria,'South West',Corn,2831.25,2.23,1.6,5,70.76,2.09,47.07,90.91,Tanpa Adaptasi,14.01
+5310,2003,Nigeria,'South West',Fruits,1226.52,1.55,2.63,4,56.24,15.01,18.56,96.35,Pertanian Organik,11.35
+6667,2003,Nigeria,'South West',Fruits,1084.58,28.81,4.311,0,76.22,31.57,94.55,33.51,Rotasi Tanaman,10.95
+5744,2003,Nigeria,'South West',Rice,2454.88,22.96,1.683,4,21.72,9.99,4.16,57.49,Manajemen Air,32.48
+1920,2003,Nigeria,'South West',Soybeans,2800.15,6.45,1.93,5,35.89,34.43,60.26,45.87,Rotasi Tanaman,9.39
+5831,2003,Nigeria,'South West',Soybeans,2701.05,14.45,2.14,9,55.88,0.72,81.54,45.43,Pertanian Organik,-1.54
+2578,2003,Nigeria,'South West',Vegetables,2243.72,14.58,3.91,7,85.99,20.67,8.89,76.13,Tanaman Tahan Kekeringan,11.01
+4650,2003,Nigeria,'South West',Vegetables,2699.51,14.88,2.64,10,44.99,20.99,60.76,79.86,Manajemen Air,-0.61
+1091,2003,Nigeria,'South West',Wheat,2061.78,20.66,3.5370000000000004,10,31.42,13.36,11.19,32.21,Pertanian Organik,32.47
+4588,2004,Nigeria,'North Central',Corn,2086.66,29.56,2.475,2,77.5,39.81,52.01,96.22,Rotasi Tanaman,26.61
+6912,2004,Nigeria,'North Central',Cotton,707.36,26.82,1.314,4,30.98,22.02,98.06,50.95,Tanaman Tahan Kekeringan,4.48
+1709,2004,Nigeria,'North Central',Rice,2860.44,7.93,2.48,4,86.72,7.08,63.96,61.77,Tanaman Tahan Kekeringan,17.17
+1244,2004,Nigeria,'North Central',Sugarcane,708.22,25.76,1.548,7,72.61,31.63,57.05,59.65,Pertanian Organik,11.81
+4617,2004,Nigeria,'North West',Barley,,13.39,2.51,3,71.46,0.58,93.93,57.99,Tanpa Adaptasi,0.06
+1877,2004,Nigeria,'North West',Corn,2608.95,27.71,2.007,3,43.32,21.64,80.24,79.38,Manajemen Air,-3.61
+3314,2004,Nigeria,'North West',Corn,1682.84,18.39,3.357,2,53.64,42.07,97.55,41.02,Tanaman Tahan Kekeringan,30.33
+5853,2004,Nigeria,'North West',Corn,2698.66,9.5,0.56,9,35.48,36.11,27.31,94.11,Manajemen Air,-3.68
+6974,2004,Nigeria,'North West',Corn,1836.63,11.44,3.42,1,37.67,16.76,29.79,35.55,Manajemen Air,32.28
+163,2004,Nigeria,'North West',Rice,2453.05,15.66,2.736,3,43.25,31.9,77.59,60.78,Manajemen Air,20.89
+5714,2004,Nigeria,'North West',Wheat,1475.19,6.8,2.59,5,26.2,48.53,62.33,98.63,Tanpa Adaptasi,4.94
+4316,2004,Nigeria,'South East',Cotton,909.25,9.63,4.77,8,47.95,23.46,11.96,61.27,Rotasi Tanaman,18.13
+5242,2004,Nigeria,'South East',Sugarcane,653.41,12.7,1.2,4,65.18,22.0,93.35,73.08,Tanpa Adaptasi,-4.77
+5760,2004,Nigeria,'South East',Sugarcane,2350.99,20.05,2.7,8,56.78,8.38,16.2,33.23,Pertanian Organik,4.9
+4723,2004,Nigeria,'South East',Vegetables,1353.37,16.46,2.331,0,46.83,7.39,87.31,45.02,Manajemen Air,31.92
+639,2004,Nigeria,'South West',Corn,1664.49,25.23,0.756,6,17.17,8.64,75.43,74.75,Rotasi Tanaman,20.03
+1218,2004,Nigeria,'South West',Corn,,16.28,0.7020000000000001,6,79.54,5.63,98.15,52.03,Pertanian Organik,7.73
+1560,2004,Nigeria,'South West',Cotton,2555.84,10.68,2.37,5,55.78,29.17,63.39,52.94,Pertanian Organik,14.69
+2374,2004,Nigeria,'South West',Cotton,1154.47,20.8,1.638,8,83.48,25.06,17.22,89.87,Manajemen Air,29.21
+3787,2004,Nigeria,'South West',Fruits,1919.79,3.37,2.69,9,21.79,1.97,42.83,48.7,Tanpa Adaptasi,6.53
+6787,2004,Nigeria,'South West',Soybeans,1720.86,5.35,1.79,6,64.09,36.56,70.16,64.94,Tanaman Tahan Kekeringan,-2.57
+6201,2004,Nigeria,'South West',Sugarcane,1320.71,17.48,1.287,2,67.14,34.47,1.37,47.87,Manajemen Air,22.54
+4201,2005,Nigeria,'North Central',Coffee,2825.35,14.27,1.96,10,40.95,37.74,76.07,34.18,Tanpa Adaptasi,21.21
+7359,2005,Nigeria,'North Central',Corn,2871.71,3.35,2.8,4,14.97,47.27,1.6,30.29,Tanpa Adaptasi,17.87
+711,2005,Nigeria,'North Central',Rice,1550.83,17.82,1.827,6,,28.14,66.93,74.0,Pertanian Organik,17.06
+2598,2005,Nigeria,'North Central',Rice,271.61,29.74,1.359,1,62.77,39.15,20.67,99.54,Pertanian Organik,6.45
+5067,2005,Nigeria,'North Central',Soybeans,2636.96,8.0,3.66,9,33.45,44.35,37.07,76.06,Tanpa Adaptasi,24.34
+5576,2005,Nigeria,'North Central',Soybeans,923.02,24.01,1.431,9,67.59,15.8,61.6,46.6,Pertanian Organik,20.16
+3548,2005,Nigeria,'North Central',Sugarcane,2133.29,7.34,2.14,5,73.71,38.46,12.08,97.16,Rotasi Tanaman,31.98
+1838,2005,Nigeria,'North Central',Vegetables,1983.47,8.26,3.81,5,,31.29,28.27,39.28,Tanpa Adaptasi,23.93
+3135,2005,Nigeria,'North Central',Wheat,1517.16,25.17,0.972,8,17.93,23.76,32.35,77.64,Pertanian Organik,8.49
+7559,2005,Nigeria,'North West',Barley,636.34,18.91,2.592,8,62.02,0.52,50.44,32.24,Tanaman Tahan Kekeringan,-2.32
+3751,2005,Nigeria,'North West',Coffee,971.43,24.24,2.0160000000000005,9,94.06,43.06,25.68,99.03,Tanpa Adaptasi,11.21
+4694,2005,Nigeria,'North West',Corn,606.84,23.89,2.079,5,58.98,10.74,63.19,47.01,Tanaman Tahan Kekeringan,-0.03
+4667,2005,Nigeria,'North West',Cotton,864.73,21.4,2.439,7,44.23,7.14,31.24,38.21,Tanpa Adaptasi,13.68
+1720,2005,Nigeria,'North West',Sugarcane,1742.62,12.3,0.61,6,47.97,19.31,44.08,38.96,Pertanian Organik,3.94
+1019,2005,Nigeria,'North West',Vegetables,1846.87,24.28,2.07,4,95.44,13.94,23.02,32.99,Tanpa Adaptasi,7.23
+3635,2005,Nigeria,'North West',Vegetables,1580.81,14.44,3.5,7,29.45,11.46,22.26,43.49,Pertanian Organik,17.72
+833,2005,Nigeria,'North West',Wheat,2046.86,9.21,2.44,5,32.66,42.25,58.12,92.81,Rotasi Tanaman,27.2
+4119,2005,Nigeria,'North West',Wheat,989.08,3.39,0.66,3,15.11,21.65,60.86,42.06,Rotasi Tanaman,-3.02
+675,2005,Nigeria,'South East',Coffee,1354.53,29.0,2.547,4,84.2,47.26,21.53,56.29,Rotasi Tanaman,-2.16
+3035,2005,Nigeria,'South East',Corn,1754.94,6.26,2.03,9,78.61,28.56,4.89,44.96,Rotasi Tanaman,5.57
+29,2005,Nigeria,'South East',Sugarcane,1387.98,6.08,2.97,0,55.31,21.83,61.65,66.47,Pertanian Organik,32.69
+210,2005,Nigeria,'South East',Sugarcane,1280.06,7.2,4.96,7,92.89,35.89,67.96,86.01,Tanpa Adaptasi,19.61
+5653,2005,Nigeria,'South East',Sugarcane,2975.33,10.22,2.05,7,30.93,16.23,55.82,74.59,Pertanian Organik,15.65
+321,2005,Nigeria,'South East',Wheat,2988.23,0.82,1.35,2,76.59,33.78,66.99,79.5,Tanaman Tahan Kekeringan,20.68
+4539,2005,Nigeria,'South West',Barley,2563.82,23.89,1.971,5,11.0,37.41,33.14,33.45,Rotasi Tanaman,-4.69
+6832,2005,Nigeria,'South West',Coffee,2957.39,11.75,4.14,3,74.86,19.19,51.51,91.44,Manajemen Air,12.0
+5799,2005,Nigeria,'South West',Cotton,2513.45,22.79,1.971,5,85.77,25.46,83.3,85.96,Pertanian Organik,2.83
+4962,2005,Nigeria,'South West',Rice,1155.69,7.8,1.31,0,31.67,44.96,55.46,60.72,Manajemen Air,2.54
+2823,2005,Nigeria,'South West',Soybeans,2976.4,1.06,,10,23.39,36.12,58.26,98.21,Tanpa Adaptasi,25.92
+1822,2005,Nigeria,'South West',Vegetables,1547.81,29.28,2.367,7,58.94,11.36,17.04,51.44,Tanpa Adaptasi,5.02
+2802,2005,Nigeria,'South West',Vegetables,1272.89,14.48,1.92,6,53.43,26.88,23.58,34.8,Manajemen Air,15.8
+7291,2005,Nigeria,'South West',,1098.44,25.56,,9,19.29,40.35,53.95,57.99,Rotasi Tanaman,14.41
+191,2006,Nigeria,'North Central',Corn,1706.26,19.84,1.251,6,,26.07,17.8,86.77,Rotasi Tanaman,7.84
+7363,2006,Nigeria,'North Central',Corn,1135.57,28.4,1.35,2,94.32,14.49,59.35,39.99,Pertanian Organik,-2.61
+264,2006,Nigeria,'North Central',Rice,1426.25,25.23,1.773,5,55.41,6.16,4.51,42.18,Tanpa Adaptasi,3.99
+2257,2006,Nigeria,'North Central',Rice,2740.61,4.02,3.08,0,64.48,34.43,23.02,96.03,Rotasi Tanaman,16.73
+5828,2006,Nigeria,'North Central',Rice,1937.77,27.16,3.177,2,18.07,23.94,72.33,31.53,Pertanian Organik,24.26
+7275,2006,Nigeria,'North Central',Rice,588.7,21.77,1.485,7,74.73,32.34,64.12,51.19,Pertanian Organik,-1.84
+1561,2006,Nigeria,'North Central',Wheat,1850.29,3.06,2.24,4,90.16,20.82,67.97,90.84,Pertanian Organik,21.23
+1522,2006,Nigeria,'North West',Corn,2429.21,9.63,1.68,6,92.63,20.81,92.61,74.03,Rotasi Tanaman,14.43
+2563,2006,Nigeria,'North West',Fruits,229.57,14.03,2.322,10,15.78,34.32,28.86,83.96,Tanaman Tahan Kekeringan,26.6
+4808,2006,Nigeria,'North West',Wheat,620.17,14.9,2.64,4,86.44,36.81,39.36,85.3,Tanpa Adaptasi,24.93
+6208,2006,Nigeria,'North West',,902.58,5.7,1.75,8,91.92,2.42,94.13,60.42,Pertanian Organik,-4.62
+1076,2006,Nigeria,'South East',Barley,2635.42,13.86,0.74,9,49.25,37.09,50.26,41.46,Rotasi Tanaman,5.9
+1951,2006,Nigeria,'South East',Coffee,651.1,1.54,0.97,7,98.83,13.51,95.61,64.4,Tanpa Adaptasi,2.46
+3439,2006,Nigeria,'South East',Cotton,1602.02,7.22,1.54,3,52.5,19.25,75.13,69.25,Tanpa Adaptasi,2.78
+7612,2006,Nigeria,'South East',Cotton,1403.43,24.92,2.322,0,74.23,14.44,40.03,77.14,Pertanian Organik,1.11
+2277,2006,Nigeria,'South East',Fruits,1065.43,1.13,3.27,10,99.2,47.1,70.88,55.28,Pertanian Organik,31.71
+1473,2006,Nigeria,'South East',Rice,314.68,2.19,1.125,1,80.03,43.31,90.66,69.99,Tanpa Adaptasi,26.68
+2056,2006,Nigeria,'South East',Sugarcane,1402.97,5.49,2.67,10,19.17,4.38,12.02,44.12,Manajemen Air,-3.57
+5076,2006,Nigeria,'South East',Sugarcane,2411.13,0.94,2.8,3,32.8,7.16,1.52,39.32,Manajemen Air,10.83
+1995,2006,Nigeria,'South West',Barley,1561.24,12.11,1.37,10,19.79,0.08,36.44,95.53,Tanpa Adaptasi,-0.13
+7084,2007,Nigeria,'North Central',Barley,1090.53,20.27,0.657,1,81.75,8.37,46.42,79.97,Manajemen Air,-1.7
+1329,2007,Nigeria,'North Central',Cotton,372.19,15.31,2.934,5,49.52,33.01,12.9,83.82,Tanaman Tahan Kekeringan,30.75
+1424,2007,Nigeria,'North Central',Vegetables,2431.28,28.99,0.63,3,51.32,29.62,19.21,75.76,Rotasi Tanaman,-0.44
+3273,2007,Nigeria,'North West',Coffee,644.03,17.12,3.384,8,26.3,14.88,45.02,32.51,Manajemen Air,11.39
+2059,2007,Nigeria,'North West',Rice,2347.13,15.66,0.558,9,63.53,26.38,10.22,56.33,Rotasi Tanaman,1.86
+5566,2007,Nigeria,'North West',Sugarcane,516.92,17.31,2.979,7,60.09,17.26,11.81,80.67,Rotasi Tanaman,14.55
+1633,2007,Nigeria,'North West',Vegetables,1656.51,28.55,1.71,4,49.7,2.37,14.38,47.94,Rotasi Tanaman,-0.46
+7731,2007,Nigeria,'North West',Vegetables,2260.54,20.23,2.295,2,22.83,3.17,23.63,33.17,Pertanian Organik,-3.24
+7567,2007,Nigeria,'South East',Cotton,2176.06,13.91,0.58,1,10.06,44.8,78.27,80.53,Tanaman Tahan Kekeringan,4.38
+6601,2007,Nigeria,'South East',Rice,1029.01,28.93,0.513,10,76.59,20.43,94.38,47.04,Manajemen Air,3.38
+2761,2007,Nigeria,'South East',Soybeans,1904.65,24.17,2.367,5,35.82,8.66,43.36,35.55,Pertanian Organik,32.22
+3423,2007,Nigeria,'South East',Soybeans,2670.18,11.49,0.92,4,23.43,43.72,48.61,82.31,Manajemen Air,-0.86
+1587,2007,Nigeria,'South East',Wheat,286.26,16.47,1.629,7,22.29,46.55,61.53,31.27,Pertanian Organik,-3.52
+6675,2007,Nigeria,'South West',Cotton,2156.19,13.86,2.15,4,32.75,40.92,29.44,85.62,Manajemen Air,21.23
+2593,2007,Nigeria,'South West',Soybeans,2528.32,14.91,1.03,0,59.26,45.01,44.65,80.41,Tanpa Adaptasi,28.35
+6257,2007,Nigeria,'South West',Soybeans,1047.99,21.5,3.591,6,19.27,46.52,4.02,61.37,Tanpa Adaptasi,31.8
+6756,2007,Nigeria,'South West',Soybeans,1757.87,27.59,1.944,2,52.01,34.52,43.74,54.54,Rotasi Tanaman,26.78
+801,2007,Nigeria,'South West',Sugarcane,2796.98,28.36,1.728,0,25.3,49.42,1.76,33.18,Manajemen Air,16.2
+1949,2007,Nigeria,'South West',Vegetables,1747.99,10.11,0.87,6,31.7,1.76,76.94,99.84,Manajemen Air,31.87
+2147,2008,Nigeria,'North Central',Coffee,2530.29,29.23,2.151,10,34.18,42.57,32.9,64.25,Tanaman Tahan Kekeringan,4.34
+7888,2008,Nigeria,'North Central',Fruits,598.64,17.34,2.295,1,91.47,47.55,36.78,53.82,Rotasi Tanaman,12.33
+3745,2008,Nigeria,'North West',Barley,2914.54,23.93,0.5670000000000001,3,40.07,49.44,96.4,89.38,Rotasi Tanaman,4.58
+7312,2008,Nigeria,'North West',Barley,2275.16,8.16,1.19,2,67.55,42.95,50.41,64.23,Tanaman Tahan Kekeringan,9.82
+5391,2008,Nigeria,'North West',Cotton,258.67,4.3,,10,92.8,29.77,7.76,89.79,Tanpa Adaptasi,17.72
+4180,2008,Nigeria,'North West',Fruits,991.37,4.57,3.75,0,51.82,12.07,56.07,94.98,Rotasi Tanaman,24.3
+441,2008,Nigeria,'North West',Rice,1395.54,3.49,2.77,1,79.01,6.27,17.06,55.88,Tanpa Adaptasi,25.36
+5765,2008,Nigeria,'North West',Soybeans,2395.73,26.57,2.799,0,93.22,47.24,87.25,89.89,Manajemen Air,11.18
+3,2008,Nigeria,'North West',Sugarcane,209.89,16.16,4.158,5,91.74,36.8,37.5,73.59,Pertanian Organik,12.81
+3612,2008,Nigeria,'North West',Sugarcane,1343.19,12.2,2.18,9,75.9,7.03,55.53,96.03,Manajemen Air,30.01
+324,2008,Nigeria,'North West',Vegetables,357.34,25.86,2.799,7,79.1,49.6,3.89,69.53,Manajemen Air,27.27
+2140,2008,Nigeria,'North West',Vegetables,507.65,18.59,1.368,1,64.75,14.38,51.48,62.07,Manajemen Air,12.86
+7746,2008,Nigeria,'North West',Wheat,1064.1,23.37,1.044,5,89.47,6.45,9.21,30.94,Manajemen Air,29.89
+7892,2008,Nigeria,'South East',Corn,1740.45,22.01,2.088,1,98.54,5.79,19.06,78.23,Manajemen Air,25.59
+2109,2008,Nigeria,'South East',Fruits,1218.43,27.76,0.855,5,42.24,2.39,49.51,87.87,Tanaman Tahan Kekeringan,29.3
+5911,2008,Nigeria,'South East',Sugarcane,1509.48,5.84,2.86,3,64.59,34.41,23.68,40.97,Tanaman Tahan Kekeringan,27.81
+6275,2008,Nigeria,'South East',Sugarcane,764.67,5.56,3.28,1,48.49,15.97,64.87,65.49,Tanaman Tahan Kekeringan,34.04
+2906,2008,Nigeria,'South East',Wheat,2277.07,6.88,0.97,4,90.54,12.93,95.07,65.34,Manajemen Air,23.22
+3802,2008,Nigeria,'South West',Barley,1638.63,5.41,1.95,0,67.84,2.41,13.09,62.92,Tanpa Adaptasi,-0.23
+6807,2008,Nigeria,'South West',Coffee,444.51,27.06,4.383,0,64.89,4.38,42.55,50.02,Manajemen Air,18.69
+7166,2008,Nigeria,'South West',Coffee,1890.09,7.31,1.56,3,40.69,11.68,29.76,76.88,Tanpa Adaptasi,-0.56
+7055,2008,Nigeria,'South West',Cotton,,19.17,2.196,3,51.49,18.16,11.79,33.68,Pertanian Organik,3.71
+1915,2008,Nigeria,'South West',Rice,2501.33,28.68,3.6,0,83.33,38.43,68.14,77.9,Pertanian Organik,11.02
+3678,2008,Nigeria,'South West',Rice,1522.71,9.84,3.84,6,93.13,14.59,79.75,85.55,Rotasi Tanaman,20.87
+2982,2008,Nigeria,'South West',Vegetables,2188.48,28.79,3.078,8,62.25,11.35,2.29,47.06,Pertanian Organik,27.28
+255,2009,Nigeria,'North Central',Corn,1173.17,29.6,3.114,3,51.31,1.34,37.94,50.3,Tanaman Tahan Kekeringan,15.89
+1656,2009,Nigeria,'North Central',Corn,2634.21,7.03,2.31,6,88.8,15.74,58.52,58.48,Tanpa Adaptasi,-1.78
+7023,2009,Nigeria,'North Central',Cotton,2207.56,21.73,3.087,6,44.23,46.03,49.4,76.26,Rotasi Tanaman,10.2
+7679,2009,Nigeria,'North Central',Fruits,2268.05,12.79,2.12,1,71.86,30.96,38.08,43.52,Tanpa Adaptasi,27.59
+3799,2009,Nigeria,'North Central',Rice,1322.18,9.36,2.58,10,97.9,34.02,25.51,63.09,Tanpa Adaptasi,13.06
+4911,2009,Nigeria,'North Central',Sugarcane,1648.15,3.72,2.9,8,38.75,13.57,61.82,34.13,Pertanian Organik,31.06
+1785,2009,Nigeria,'North Central',Wheat,981.68,19.89,1.161,9,81.9,13.33,60.82,66.48,Tanpa Adaptasi,3.12
+2138,2009,Nigeria,'North West',Barley,2225.55,28.09,1.764,7,38.93,16.6,1.03,78.78,Pertanian Organik,2.39
+4048,2009,Nigeria,'North West',Barley,1069.15,9.37,3.27,7,67.5,23.66,67.46,82.28,Pertanian Organik,29.24
+6213,2009,Nigeria,'North West',Barley,1534.66,21.25,0.99,10,72.52,40.58,99.85,81.39,Pertanian Organik,25.53
+4342,2009,Nigeria,'North West',Coffee,1895.35,10.47,2.5,10,73.52,39.42,17.62,64.02,Tanaman Tahan Kekeringan,21.85
+1411,2009,Nigeria,'North West',Corn,2028.04,23.05,3.564,0,30.98,21.65,13.14,54.29,Tanpa Adaptasi,32.08
+1538,2009,Nigeria,'North West',Corn,1035.24,19.66,2.709,4,15.7,24.14,84.99,38.47,Pertanian Organik,34.02
+6024,2009,Nigeria,'North West',Rice,2159.59,10.16,3.16,3,88.05,0.63,67.47,46.25,Manajemen Air,13.82
+7522,2009,Nigeria,'North West',Soybeans,1108.1,6.95,3.17,2,71.81,26.38,93.49,96.09,Pertanian Organik,31.28
+1470,2009,Nigeria,'South East',Cotton,1440.98,9.51,1.59,9,32.21,39.56,28.23,53.14,Tanpa Adaptasi,12.22
+2986,2009,Nigeria,'South East',Fruits,2034.26,16.17,2.4480000000000004,9,16.33,2.33,78.02,86.34,Pertanian Organik,21.1
+3058,2009,Nigeria,'South East',Rice,845.93,15.78,2.322,10,45.56,30.66,63.64,59.23,Manajemen Air,2.68
+4715,2009,Nigeria,'South East',Rice,2602.27,4.42,0.84,3,26.52,43.51,67.58,32.52,Tanpa Adaptasi,-3.52
+5190,2009,Nigeria,'South East',Soybeans,2291.42,16.74,1.728,6,16.58,40.99,47.13,94.6,Rotasi Tanaman,-0.85
+5369,2009,Nigeria,'South East',Soybeans,2252.53,5.97,0.89,8,92.09,29.26,27.15,56.15,Tanpa Adaptasi,26.98
+3948,2009,Nigeria,'South East',Wheat,2368.07,1.09,3.65,8,52.5,40.24,22.42,92.34,Tanpa Adaptasi,18.74
+6967,2009,Nigeria,'South East',Wheat,873.78,18.75,,7,77.41,44.69,26.35,90.07,Manajemen Air,24.96
+4097,2009,Nigeria,'South West',Fruits,2881.32,7.68,2.3,2,77.42,10.59,88.63,83.83,Tanaman Tahan Kekeringan,9.36
+4417,2009,Nigeria,'South West',Soybeans,1167.97,24.28,1.557,5,93.02,18.67,81.93,73.62,Tanpa Adaptasi,34.98
+1353,2009,Nigeria,'South West',Sugarcane,1873.6,21.33,2.907,1,41.78,47.64,71.09,83.17,Tanpa Adaptasi,27.16
+415,2010,Nigeria,'North Central',Soybeans,2952.27,22.86,1.287,5,97.76,10.67,80.66,96.05,Rotasi Tanaman,33.56
+5800,2010,Nigeria,'North Central',Sugarcane,629.24,2.6,2.61,0,88.12,27.14,12.09,48.52,Tanpa Adaptasi,7.47
+4336,2010,Nigeria,'North West',Coffee,1800.48,25.57,2.421,2,56.46,11.94,19.13,73.25,Rotasi Tanaman,34.51
+4758,2010,Nigeria,'North West',Cotton,1433.71,26.41,1.557,8,11.69,38.76,87.34,42.17,Manajemen Air,8.79
+1342,2010,Nigeria,'North West',Rice,852.52,0.51,3.4,7,22.8,49.38,73.11,96.54,Tanpa Adaptasi,25.11
+2816,2010,Nigeria,'North West',Wheat,2062.55,19.14,0.873,0,45.73,19.74,47.83,34.41,Manajemen Air,20.54
+4234,2010,Nigeria,'South East',Barley,1469.88,5.66,2.4,0,70.19,27.26,68.21,88.5,Tanaman Tahan Kekeringan,30.92
+5801,2010,Nigeria,'South East',Barley,1024.81,18.19,1.782,3,50.57,47.26,58.34,83.82,Tanpa Adaptasi,-1.0
+5517,2010,Nigeria,'South East',Coffee,1668.4,9.27,3.19,7,74.52,21.91,91.04,34.36,Pertanian Organik,29.45
+2124,2010,Nigeria,'South East',Cotton,1001.42,22.42,1.881,10,,12.44,47.98,81.37,Tanpa Adaptasi,13.22
+6185,2010,Nigeria,'South East',Cotton,2372.71,26.8,1.737,9,19.52,33.57,22.99,48.43,Pertanian Organik,4.11
+4356,2010,Nigeria,'South East',Soybeans,256.05,2.89,2.727,8,35.74,42.96,40.99,82.37,Manajemen Air,26.48
+3949,2010,Nigeria,'South East',Sugarcane,327.94,5.05,1.71,2,41.93,1.48,77.64,44.75,Manajemen Air,3.45
+175,2010,Nigeria,'South East',Vegetables,2160.14,11.6,3.11,8,15.71,45.8,32.98,73.07,Pertanian Organik,27.05
+4287,2010,Nigeria,'South East',Vegetables,1171.56,12.65,1.47,4,50.83,30.57,33.83,54.93,Tanaman Tahan Kekeringan,1.24
+1717,2010,Nigeria,'South West',Coffee,446.41,4.49,2.241,2,14.01,11.7,71.38,63.18,Manajemen Air,24.14
+7992,2010,Nigeria,'South West',Coffee,1533.02,24.09,3.519,6,74.86,15.76,36.44,92.23,Manajemen Air,26.73
+2678,2010,Nigeria,'South West',Sugarcane,1365.06,16.17,3.951,10,14.92,34.45,20.57,78.09,Rotasi Tanaman,10.03
+4004,2010,Nigeria,'South West',Wheat,260.99,17.7,3.195,10,79.81,13.82,23.67,73.38,Rotasi Tanaman,16.87
+2104,2011,Nigeria,'North Central',Cotton,1082.69,17.71,1.368,7,84.34,3.53,43.81,93.03,Tanpa Adaptasi,-1.24
+5561,2011,Nigeria,'North Central',Cotton,874.46,22.34,3.402,8,40.45,46.63,37.36,63.71,Tanaman Tahan Kekeringan,27.48
+1371,2011,Nigeria,'North Central',Fruits,1015.88,25.67,1.872,3,52.38,14.67,88.4,42.99,Rotasi Tanaman,5.77
+5081,2011,Nigeria,'North Central',Fruits,1029.28,6.78,2.62,3,64.89,20.28,28.92,92.14,Pertanian Organik,11.13
+2430,2011,Nigeria,'North Central',Rice,769.54,19.87,0.486,7,12.8,20.44,66.59,61.94,Pertanian Organik,3.52
+79,2011,Nigeria,'North Central',Soybeans,1714.8,8.64,2.5,1,80.7,20.26,36.33,68.03,Tanpa Adaptasi,-3.3
+1256,2011,Nigeria,'North Central',Soybeans,468.68,12.38,1.917,10,20.28,0.84,7.12,80.67,Tanpa Adaptasi,-1.83
+3165,2011,Nigeria,'North Central',Soybeans,586.46,2.03,0.95,7,81.72,3.22,28.51,41.01,Rotasi Tanaman,-2.44
+6648,2011,Nigeria,'South East',Coffee,2018.96,6.81,3.81,4,17.24,45.47,36.72,75.4,Manajemen Air,17.68
+1407,2011,Nigeria,'South East',Corn,2854.67,9.3,1.19,3,10.95,28.78,48.47,71.48,Rotasi Tanaman,20.36
+5366,2011,Nigeria,'South East',Cotton,466.17,16.66,2.25,0,40.22,29.8,71.37,76.77,Rotasi Tanaman,4.9
+1712,2011,Nigeria,'South East',Vegetables,1138.11,12.24,2.91,8,81.99,16.92,37.5,73.0,Tanaman Tahan Kekeringan,5.17
+6160,2011,Nigeria,'South East',Wheat,2180.99,21.95,1.53,0,,42.58,25.6,83.78,Manajemen Air,3.48
+4977,2011,Nigeria,'South West',Barley,1776.79,10.12,1.49,0,10.26,36.78,78.38,48.89,Pertanian Organik,27.28
+3396,2011,Nigeria,'South West',Coffee,1060.85,1.44,1.59,8,98.3,32.45,55.57,77.76,Pertanian Organik,5.2
+5498,2011,Nigeria,'South West',Coffee,2076.54,1.57,3.09,9,65.47,22.6,55.54,56.97,Pertanian Organik,32.45
+6196,2011,Nigeria,'South West',Coffee,1771.39,21.29,1.4400000000000002,4,67.63,44.13,89.41,68.38,Pertanian Organik,0.34
+1010,2011,Nigeria,'South West',Sugarcane,406.74,11.46,2.619,5,50.86,17.44,30.65,43.95,Tanaman Tahan Kekeringan,22.36
+4857,2011,Nigeria,'South West',Vegetables,1767.74,13.1,0.92,8,70.61,14.56,87.68,30.93,Tanpa Adaptasi,32.25
+3939,2012,Nigeria,'North Central',Coffee,2975.7,14.07,3.13,1,11.12,43.61,63.64,53.4,Manajemen Air,29.62
+4780,2012,Nigeria,'North Central',Coffee,1849.13,23.15,1.818,2,99.67,22.66,16.79,72.31,Manajemen Air,8.81
+668,2012,Nigeria,'North Central',Fruits,2073.4,6.05,4.46,5,68.1,35.26,10.81,94.79,Rotasi Tanaman,10.67
+5198,2012,Nigeria,'North Central',Fruits,2513.61,13.6,2.38,3,35.69,46.78,80.84,52.44,Rotasi Tanaman,-4.72
+2923,2012,Nigeria,'North Central',Sugarcane,2609.33,21.52,2.097,8,51.35,31.34,5.41,32.27,Pertanian Organik,30.43
+6728,2012,Nigeria,'North Central',Sugarcane,716.86,13.39,0.62,7,19.18,7.7,55.7,44.7,Pertanian Organik,0.76
+907,2012,Nigeria,'North Central',Vegetables,2486.7,19.51,3.0690000000000004,9,25.19,42.18,49.31,49.73,Pertanian Organik,13.84
+1636,2012,Nigeria,'North West',Barley,2307.02,18.43,2.664,0,53.04,32.66,34.45,34.28,Rotasi Tanaman,-2.56
+4186,2012,Nigeria,'North West',Coffee,1878.22,10.45,1.16,2,,7.82,85.37,79.82,Pertanian Organik,20.48
+2013,2012,Nigeria,'North West',Corn,1156.21,9.94,1.62,3,69.89,21.64,16.46,80.15,Tanaman Tahan Kekeringan,-1.88
+5786,2012,Nigeria,'North West',Soybeans,1983.43,29.87,2.196,4,71.45,17.4,47.7,65.15,Tanpa Adaptasi,8.01
+7409,2012,Nigeria,'North West',Sugarcane,2232.5,20.58,3.564,6,29.63,41.09,35.99,38.13,Rotasi Tanaman,18.69
+852,2012,Nigeria,'North West',Vegetables,1497.4,29.45,1.7009999999999998,2,49.02,13.99,5.19,56.61,Tanaman Tahan Kekeringan,-4.24
+3272,2012,Nigeria,'North West',Wheat,677.91,12.52,4.21,1,51.13,1.03,28.41,83.51,Manajemen Air,17.85
+4738,2012,Nigeria,'South East',Barley,1074.39,26.54,2.682,7,48.32,12.32,80.27,91.46,Tanpa Adaptasi,14.55
+2329,2012,Nigeria,'South East',Corn,947.23,17.8,1.395,8,49.0,17.45,50.62,50.55,Manajemen Air,24.14
+6901,2012,Nigeria,'South East',Sugarcane,2239.26,0.83,4.15,10,68.33,49.49,81.63,73.8,Pertanian Organik,19.65
+5166,2012,Nigeria,'South West',Cotton,1973.49,15.99,3.3480000000000003,4,23.71,44.65,36.88,92.47,Tanaman Tahan Kekeringan,33.29
+1700,2012,Nigeria,'South West',Sugarcane,937.15,14.89,1.39,10,94.45,29.32,71.86,71.59,Tanaman Tahan Kekeringan,-2.26
+6450,2012,Nigeria,'South West',Sugarcane,1709.32,14.35,4.85,1,15.88,47.6,79.93,30.48,Pertanian Organik,14.66
+7271,2012,Nigeria,'South West',Wheat,2561.69,9.4,1.34,0,31.15,43.93,55.86,86.07,Rotasi Tanaman,31.33
+4404,2013,Nigeria,'North Central',Coffee,1485.41,17.71,0.648,0,25.42,38.88,92.32,36.38,Manajemen Air,5.55
+4220,2013,Nigeria,'North Central',Rice,1347.03,29.7,2.043,5,21.11,48.6,56.05,85.71,Rotasi Tanaman,25.07
+5893,2013,Nigeria,'North Central',Rice,2923.04,27.9,3.402,10,50.8,22.68,53.64,44.98,Manajemen Air,24.65
+7991,2013,Nigeria,'North Central',Wheat,2499.58,23.19,2.106,7,49.46,40.5,1.19,69.0,Tanpa Adaptasi,25.04
+3323,2013,Nigeria,'North West',Barley,2676.8,20.34,2.97,8,68.34,49.21,20.54,80.2,Pertanian Organik,26.48
+7165,2013,Nigeria,'North West',Corn,1020.75,5.36,2.6,10,37.1,11.2,65.19,52.02,Rotasi Tanaman,31.52
+2182,2013,Nigeria,'North West',Cotton,818.91,16.35,2.907,0,61.91,5.69,15.27,99.82,Tanpa Adaptasi,31.88
+733,2013,Nigeria,'North West',Fruits,1023.83,3.61,,5,77.42,18.95,31.2,56.45,Manajemen Air,9.49
+3793,2013,Nigeria,'North West',Soybeans,588.01,11.41,1.84,8,81.01,27.24,28.77,78.51,Manajemen Air,27.84
+4219,2013,Nigeria,'North West',Sugarcane,375.63,26.43,1.2060000000000002,9,97.21,46.53,1.28,35.37,Manajemen Air,0.6
+7903,2013,Nigeria,'North West',Sugarcane,761.12,19.16,3.222,5,83.13,44.02,62.12,86.13,Tanaman Tahan Kekeringan,12.6
+410,2013,Nigeria,'North West',Vegetables,851.97,15.85,3.402,3,23.14,13.59,49.93,76.6,Tanaman Tahan Kekeringan,20.27
+7236,2013,Nigeria,'North West',Vegetables,1347.72,12.91,,9,33.65,26.15,57.74,68.04,Manajemen Air,-2.82
+4308,2013,Nigeria,'North West',Wheat,2076.62,11.29,2.11,2,81.17,6.71,97.72,57.83,Tanaman Tahan Kekeringan,30.6
+285,2013,Nigeria,'South East',Barley,2371.1,4.16,2.92,10,48.9,0.59,8.99,82.54,Pertanian Organik,29.49
+2494,2013,Nigeria,'South East',Soybeans,937.86,4.81,2.68,1,77.86,33.11,63.32,58.17,Manajemen Air,25.7
+7354,2013,Nigeria,'South East',Soybeans,2010.44,21.89,2.1870000000000003,9,80.23,26.64,55.08,61.82,Rotasi Tanaman,29.12
+3092,2013,Nigeria,'South East',Wheat,2694.32,0.81,1.18,5,14.86,2.89,84.33,30.14,Manajemen Air,2.04
+1511,2013,Nigeria,'South West',Barley,1494.8,8.77,3.25,9,32.14,5.65,8.92,59.28,Rotasi Tanaman,18.12
+3808,2013,Nigeria,'South West',Corn,407.3,26.08,0.6030000000000001,8,41.6,43.88,69.91,31.24,Tanaman Tahan Kekeringan,-3.33
+84,2013,Nigeria,'South West',Cotton,481.49,16.53,1.1880000000000002,7,81.49,1.26,2.76,33.39,Pertanian Organik,23.94
+5396,2013,Nigeria,'South West',Cotton,331.29,8.64,1.908,9,61.1,44.69,43.37,93.17,Tanaman Tahan Kekeringan,19.48
+2397,2013,Nigeria,'South West',Fruits,2960.81,14.06,3.73,4,55.9,34.63,64.96,86.09,Tanpa Adaptasi,33.97
+7755,2013,Nigeria,'South West',Fruits,1201.62,14.41,1.06,2,22.34,9.47,11.84,92.74,Tanpa Adaptasi,34.13
+2271,2013,Nigeria,'South West',Wheat,1258.04,11.47,,5,36.6,20.35,24.62,74.39,Tanaman Tahan Kekeringan,5.5
+543,2013,Nigeria,'South West',,399.98,27.15,2.547,5,60.3,20.83,55.76,97.09,Tanpa Adaptasi,20.31
+2976,2014,Nigeria,'North Central',Corn,722.73,1.74,1.69,6,43.89,33.03,15.44,95.4,Tanpa Adaptasi,-0.54
+4440,2014,Nigeria,'North West',Corn,881.06,22.01,2.007,5,35.6,38.3,89.6,78.13,Rotasi Tanaman,32.31
+2604,2014,Nigeria,'North West',Cotton,1046.09,28.26,2.502,8,19.24,3.13,32.51,96.6,Manajemen Air,5.73
+2424,2014,Nigeria,'North West',Rice,2698.2,2.76,3.32,1,48.03,29.22,39.06,67.64,Tanpa Adaptasi,15.67
+1634,2014,Nigeria,'North West',Sugarcane,1028.61,4.8,2.23,3,32.67,48.32,17.67,59.15,Rotasi Tanaman,-0.34
+1997,2014,Nigeria,'North West',Sugarcane,1270.58,7.09,2.93,1,10.82,1.55,29.7,37.58,Manajemen Air,-0.68
+6889,2014,Nigeria,'North West',Sugarcane,311.71,22.4,1.611,5,67.93,4.19,77.71,56.1,Rotasi Tanaman,25.14
+2321,2014,Nigeria,'North West',Vegetables,1125.87,25.9,3.384,7,26.1,21.26,93.93,92.74,Tanpa Adaptasi,29.84
+6063,2014,Nigeria,'North West',Wheat,1966.01,8.2,0.91,9,82.19,21.41,17.63,99.02,Manajemen Air,30.28
+1885,2014,Nigeria,'South East',Corn,2614.9,15.13,3.168,4,61.49,29.88,53.89,72.28,Pertanian Organik,18.83
+4337,2014,Nigeria,'South East',Cotton,746.72,2.68,2.52,8,60.55,23.42,28.02,55.66,Tanaman Tahan Kekeringan,11.77
+3450,2014,Nigeria,'South East',Fruits,1314.12,25.65,1.152,4,66.76,33.03,63.98,65.8,Rotasi Tanaman,27.59
+2781,2014,Nigeria,'South East',Sugarcane,1280.41,16.92,2.43,10,25.94,43.4,42.15,47.27,Rotasi Tanaman,1.52
+3522,2014,Nigeria,'South East',Sugarcane,1586.81,17.07,1.125,3,,3.5,52.13,98.8,Rotasi Tanaman,30.85
+3224,2014,Nigeria,'South East',Wheat,1617.77,3.92,2.45,0,53.6,43.47,89.7,45.96,Tanaman Tahan Kekeringan,34.32
+2657,2014,Nigeria,'South West',Barley,1342.69,1.94,0.84,5,95.15,0.26,78.99,48.67,Pertanian Organik,28.7
+3448,2014,Nigeria,'South West',Fruits,2138.14,4.5,1.91,1,62.56,46.01,74.03,46.42,Rotasi Tanaman,26.04
+6125,2014,Nigeria,'South West',,2646.14,11.55,,4,31.52,37.8,48.16,88.84,Tanpa Adaptasi,17.56
+3996,2015,Nigeria,'North Central',Barley,2173.23,11.71,3.4,4,63.5,3.22,82.57,98.59,Manajemen Air,32.01
+7901,2015,Nigeria,'North Central',Coffee,763.92,29.17,0.8190000000000001,9,17.65,2.8,78.87,50.77,Pertanian Organik,33.14
+5588,2015,Nigeria,'North Central',Corn,1715.01,17.74,3.213,6,34.69,32.92,47.46,55.53,Tanaman Tahan Kekeringan,34.03
+6993,2015,Nigeria,'North Central',Fruits,1340.5,24.04,1.449,7,71.81,15.0,13.84,48.7,Rotasi Tanaman,12.83
+7346,2015,Nigeria,'North Central',Rice,1713.74,8.73,2.02,3,14.74,27.22,63.36,46.34,Tanaman Tahan Kekeringan,9.9
+4532,2015,Nigeria,'North Central',Soybeans,410.46,9.43,0.54,4,87.12,21.86,27.76,46.4,Tanaman Tahan Kekeringan,-3.23
+5055,2015,Nigeria,'North West',Barley,1052.85,13.6,1.76,1,40.91,10.08,1.44,72.36,Pertanian Organik,7.72
+7332,2015,Nigeria,'North West',Barley,1604.19,11.52,2.43,7,92.54,17.15,18.25,37.46,Pertanian Organik,-1.95
+1852,2015,Nigeria,'North West',Coffee,748.73,6.36,3.9,5,37.16,34.86,65.01,44.3,Pertanian Organik,12.62
+2068,2015,Nigeria,'North West',Corn,1195.91,9.38,0.76,5,86.9,11.16,96.69,85.38,Manajemen Air,2.33
+2698,2015,Nigeria,'North West',Wheat,1220.91,7.12,4.96,7,36.1,43.0,64.52,76.62,Manajemen Air,13.76
+6060,2015,Nigeria,'North West',Wheat,1329.14,20.64,0.945,7,91.85,19.79,72.31,66.63,Tanpa Adaptasi,2.05
+3779,2015,Nigeria,'South East',Barley,2713.01,9.65,1.7,7,75.86,13.31,83.91,47.28,Manajemen Air,31.16
+5533,2015,Nigeria,'South East',Coffee,778.37,9.54,0.71,8,20.55,29.62,10.28,77.39,Manajemen Air,-1.16
+1926,2015,Nigeria,'South East',Corn,1676.1,11.83,0.94,6,17.24,14.75,73.69,82.4,Manajemen Air,-4.84
+2703,2015,Nigeria,'South East',Corn,330.68,26.61,1.4220000000000002,4,93.29,29.61,65.12,81.66,Rotasi Tanaman,-0.77
+3479,2015,Nigeria,'South East',Cotton,1554.02,20.0,3.5370000000000004,4,19.79,10.39,47.35,34.48,Manajemen Air,11.38
+4574,2015,Nigeria,'South East',Cotton,2066.14,5.24,2.17,5,71.58,4.9,59.55,78.87,Tanpa Adaptasi,5.6
+416,2015,Nigeria,'South East',Soybeans,,20.63,0.675,3,47.63,44.22,36.15,31.45,Tanaman Tahan Kekeringan,0.56
+3830,2015,Nigeria,'South East',Sugarcane,2809.9,10.71,1.62,4,35.19,9.49,80.95,40.65,Manajemen Air,0.1
+1369,2015,Nigeria,'South East',Vegetables,1772.94,6.9,4.78,8,73.2,40.22,89.16,89.24,Pertanian Organik,15.51
+1527,2015,Nigeria,'South East',Vegetables,516.64,2.44,1.2,9,41.43,5.73,53.7,36.14,Tanpa Adaptasi,5.55
+5384,2015,Nigeria,'South East',Vegetables,2144.66,27.99,2.7,5,99.24,31.68,26.4,94.27,Pertanian Organik,1.76
+627,2015,Nigeria,'South East',,1771.1,6.38,4.65,6,84.48,20.65,11.26,45.77,Tanpa Adaptasi,13.35
+7441,2015,Nigeria,'South West',Cotton,1644.8,6.05,2.08,8,46.91,25.66,60.71,99.96,Tanpa Adaptasi,4.53
+3373,2015,Nigeria,'South West',Fruits,2782.88,24.84,2.709,6,93.25,18.55,92.85,58.82,Pertanian Organik,25.46
+5236,2015,Nigeria,'South West',Fruits,2088.01,4.37,2.19,0,35.77,33.88,91.45,46.42,Tanaman Tahan Kekeringan,22.73
+6386,2015,Nigeria,'South West',Soybeans,1568.25,12.81,2.87,3,20.97,12.72,13.94,36.48,Rotasi Tanaman,14.98
+7261,2015,Nigeria,'South West',Soybeans,2684.02,9.98,4.76,0,25.39,23.5,81.53,37.91,Tanpa Adaptasi,14.63
+2932,2015,Nigeria,'South West',Sugarcane,408.91,16.88,0.531,3,38.58,41.98,76.66,66.94,Rotasi Tanaman,0.06
+4933,2015,Nigeria,'South West',Sugarcane,802.28,14.35,1.28,4,86.61,35.33,13.55,83.85,Manajemen Air,9.89
+5170,2015,Nigeria,'South West',Vegetables,1901.87,2.97,2.13,10,,29.01,28.2,36.64,Pertanian Organik,-2.85
+6626,2016,Nigeria,'North Central',Barley,371.97,10.13,1.2060000000000002,8,56.13,26.53,84.38,44.57,Rotasi Tanaman,-4.11
+3557,2016,Nigeria,'North Central',Corn,337.9,28.22,2.943,0,19.31,33.12,56.38,48.14,Tanpa Adaptasi,30.46
+4113,2016,Nigeria,'North Central',Corn,1197.21,12.93,3.06,9,16.04,18.96,50.18,39.49,Tanaman Tahan Kekeringan,31.9
+5336,2016,Nigeria,'North Central',Corn,1705.08,7.53,4.64,1,62.81,24.76,37.48,39.89,Tanaman Tahan Kekeringan,10.21
+5674,2016,Nigeria,'North Central',Fruits,2348.9,4.94,1.21,6,95.47,23.81,55.86,69.16,Tanpa Adaptasi,28.65
+2940,2016,Nigeria,'North Central',Soybeans,356.53,16.87,2.79,6,86.03,33.06,52.28,66.54,Tanpa Adaptasi,12.85
+3762,2016,Nigeria,'North Central',Sugarcane,1371.02,9.03,3.57,8,99.17,48.25,35.47,53.02,Pertanian Organik,25.99
+828,2016,Nigeria,'North Central',Vegetables,940.42,8.86,2.5,10,60.67,47.78,83.79,89.87,Manajemen Air,27.66
+4100,2016,Nigeria,'North Central',Wheat,208.78,14.9,1.98,5,92.85,23.11,55.13,57.32,Tanpa Adaptasi,6.05
+634,2016,Nigeria,'North West',Cotton,228.6,10.36,2.457,4,25.52,37.78,83.93,87.96,Tanaman Tahan Kekeringan,3.55
+3080,2016,Nigeria,'North West',Cotton,2187.21,8.65,3.9,10,54.6,36.25,58.41,90.75,Manajemen Air,12.98
+7588,2016,Nigeria,'North West',Rice,2354.09,9.04,1.67,9,66.07,34.12,35.61,98.57,Pertanian Organik,-3.21
+5100,2016,Nigeria,'North West',Sugarcane,315.51,4.66,0.7020000000000001,5,68.67,25.96,62.63,38.17,Manajemen Air,9.24
+3755,2016,Nigeria,'North West',Vegetables,1562.94,22.36,0.765,9,52.36,44.35,37.91,54.62,Tanpa Adaptasi,3.41
+5156,2016,Nigeria,'North West',Vegetables,2525.94,23.55,1.764,9,19.3,6.59,96.14,67.95,Manajemen Air,7.07
+812,2016,Nigeria,'North West',Wheat,1426.45,22.61,1.683,4,43.2,29.04,10.45,31.75,Tanaman Tahan Kekeringan,28.1
+5461,2016,Nigeria,'South East',Barley,793.7,24.39,1.512,5,23.77,19.22,59.21,65.22,Rotasi Tanaman,-1.26
+1866,2016,Nigeria,'South East',Corn,879.77,6.87,1.2,4,68.48,19.23,28.09,56.71,Tanaman Tahan Kekeringan,7.34
+2947,2016,Nigeria,'South East',Cotton,2491.86,6.26,2.73,1,51.77,47.42,54.39,55.8,Tanaman Tahan Kekeringan,29.7
+5073,2016,Nigeria,'South East',Cotton,520.38,13.35,3.6,10,69.0,19.72,86.17,49.25,Manajemen Air,18.42
+6377,2016,Nigeria,'South East',Fruits,1800.65,16.67,1.0080000000000002,1,43.4,31.55,52.13,86.97,Tanaman Tahan Kekeringan,-1.25
+1573,2016,Nigeria,'South East',Rice,731.17,22.29,0.873,8,44.38,23.44,68.18,33.23,Tanaman Tahan Kekeringan,30.51
+4136,2016,Nigeria,'South East',Rice,,14.31,,6,52.47,19.78,24.82,99.69,Rotasi Tanaman,10.19
+6056,2016,Nigeria,'South East',Rice,2793.2,21.63,1.1700000000000002,9,71.29,5.91,3.14,75.43,Tanaman Tahan Kekeringan,34.19
+6843,2016,Nigeria,'South East',Vegetables,1710.17,14.74,3.78,7,11.55,16.87,47.93,80.75,Manajemen Air,20.89
+2994,2016,Nigeria,'South East',Wheat,1801.23,2.67,2.13,2,38.2,22.81,6.13,52.66,Tanpa Adaptasi,28.54
+2415,2016,Nigeria,'South East',,705.94,1.06,1.51,2,89.98,41.26,72.19,52.67,Tanpa Adaptasi,19.1
+2699,2016,Nigeria,'South West',Corn,1325.87,22.07,1.809,2,37.5,35.74,25.3,36.75,Rotasi Tanaman,2.16
+6888,2016,Nigeria,'South West',Corn,2251.09,29.66,1.017,2,50.45,11.55,33.71,30.84,Manajemen Air,33.74
+2606,2016,Nigeria,'South West',Cotton,454.67,5.56,1.719,7,53.88,35.67,25.38,95.48,Manajemen Air,30.66
+1134,2016,Nigeria,'South West',Fruits,602.78,22.23,0.8280000000000001,4,81.13,0.03,9.26,68.89,Tanpa Adaptasi,-2.96
+3797,2016,Nigeria,'South West',Fruits,2806.55,11.07,3.72,10,10.97,47.53,36.41,60.34,Pertanian Organik,19.64
+4246,2016,Nigeria,'South West',Fruits,2094.77,15.15,1.854,0,28.99,16.69,21.51,48.25,Rotasi Tanaman,3.72
+6809,2016,Nigeria,'South West',Soybeans,971.38,25.32,1.602,5,88.79,26.55,44.37,34.75,Tanaman Tahan Kekeringan,24.52
+2388,2016,Nigeria,'South West',Sugarcane,800.02,19.32,3.933,4,92.02,1.69,73.58,48.19,Rotasi Tanaman,10.45
+2511,2016,Nigeria,'South West',Vegetables,269.88,8.11,2.7,10,46.62,41.17,92.92,42.24,Pertanian Organik,5.38
+3836,2016,Nigeria,'South West',Vegetables,1833.25,7.11,1.55,9,29.67,10.16,66.84,48.33,Tanpa Adaptasi,1.78
+6918,2016,Nigeria,'South West',Vegetables,2160.96,11.2,3.33,3,19.31,7.58,97.34,34.08,Manajemen Air,33.67
+5146,2017,Nigeria,'North Central',Barley,1847.94,1.09,3.06,4,33.25,1.11,12.19,40.63,Tanaman Tahan Kekeringan,20.02
+434,2017,Nigeria,'North Central',Coffee,2008.99,20.55,1.269,9,27.04,32.35,95.89,35.05,Tanaman Tahan Kekeringan,-4.37
+2220,2017,Nigeria,'North Central',Cotton,2298.79,20.59,1.53,9,44.55,20.88,16.19,61.68,Tanpa Adaptasi,6.68
+4847,2017,Nigeria,'North Central',Cotton,588.27,9.73,1.72,1,15.47,23.47,91.38,63.52,Rotasi Tanaman,14.61
+1176,2017,Nigeria,'North Central',Rice,2812.62,17.75,0.756,3,55.16,28.14,52.44,86.0,Rotasi Tanaman,2.88
+3060,2017,Nigeria,'North Central',Rice,2612.43,23.83,1.638,3,60.09,9.55,8.16,97.35,Tanpa Adaptasi,17.84
+7082,2017,Nigeria,'North Central',Rice,1784.86,22.3,1.62,10,24.7,1.76,22.37,82.82,Tanaman Tahan Kekeringan,1.4
+1627,2017,Nigeria,'North Central',Vegetables,2518.39,19.31,4.014,1,96.76,26.17,96.81,49.01,Manajemen Air,10.13
+4734,2017,Nigeria,'North West',Barley,552.79,6.75,2.2,0,37.04,6.7,95.58,32.56,Rotasi Tanaman,-0.72
+3980,2017,Nigeria,'North West',Cotton,1715.06,28.67,3.357,9,23.75,19.45,4.11,78.71,Pertanian Organik,22.91
+5900,2017,Nigeria,'North West',Cotton,1719.66,29.28,3.276,7,35.09,47.85,76.28,35.11,Manajemen Air,20.54
+5362,2017,Nigeria,'South East',Barley,2265.5,0.73,1.69,2,35.03,5.9,50.6,75.34,Tanaman Tahan Kekeringan,14.61
+5259,2017,Nigeria,'South East',Corn,2720.38,15.68,2.43,8,62.12,13.18,55.04,86.73,Tanaman Tahan Kekeringan,0.16
+1569,2017,Nigeria,'South East',Fruits,1528.99,23.11,2.295,6,98.54,39.18,51.96,81.36,Pertanian Organik,-0.73
+7994,2017,Nigeria,'South East',Fruits,249.08,12.06,1.872,4,94.58,48.73,75.09,64.02,Tanaman Tahan Kekeringan,31.29
+5805,2017,Nigeria,'South East',Rice,782.2,26.45,1.503,1,72.81,15.77,10.11,69.97,Pertanian Organik,7.81
+2676,2017,Nigeria,'South East',Soybeans,1690.46,25.12,1.323,6,64.44,1.11,50.11,59.89,Pertanian Organik,26.83
+4068,2017,Nigeria,'South East',Vegetables,1433.47,19.3,2.0160000000000005,8,20.55,15.95,88.35,63.2,Tanpa Adaptasi,1.29
+7121,2017,Nigeria,'South East',Vegetables,1611.57,6.37,3.05,3,65.69,43.78,93.17,73.56,Tanpa Adaptasi,32.38
+3159,2017,Nigeria,'South West',Coffee,2254.93,4.93,2.06,7,32.51,10.2,87.32,63.62,Manajemen Air,3.76
+2683,2017,Nigeria,'South West',Corn,2592.7,9.25,2.31,3,96.65,44.17,21.8,49.6,Pertanian Organik,16.52
+933,2017,Nigeria,'South West',Cotton,1281.7,26.69,4.158,9,57.8,33.13,75.86,78.48,Rotasi Tanaman,12.56
+1163,2017,Nigeria,'South West',Rice,1662.72,7.64,2.39,4,97.96,36.89,63.48,64.06,Rotasi Tanaman,31.92
+2139,2017,Nigeria,'South West',,2334.42,4.04,3.9,0,42.11,7.5,87.9,57.82,Rotasi Tanaman,17.94
+1788,2018,Nigeria,'North Central',Corn,1025.63,11.84,3.96,1,79.18,48.22,87.24,99.32,Tanpa Adaptasi,33.58
+4567,2018,Nigeria,'North Central',Soybeans,2519.04,2.29,2.89,9,90.94,3.17,37.28,40.91,Manajemen Air,2.63
+2875,2018,Nigeria,'North Central',Vegetables,2716.87,23.37,1.593,6,22.09,41.06,8.44,99.04,Tanaman Tahan Kekeringan,-2.34
+1900,2018,Nigeria,'North Central',Wheat,2723.06,18.65,1.314,8,74.55,19.91,48.69,88.77,Rotasi Tanaman,-2.7
+1401,2018,Nigeria,'North West',Barley,475.32,25.74,0.765,1,25.74,44.38,72.92,84.21,Tanpa Adaptasi,21.23
+5393,2018,Nigeria,'North West',Barley,2237.11,7.82,3.81,0,29.4,44.58,78.53,31.13,Tanpa Adaptasi,17.25
+5996,2018,Nigeria,'North West',Coffee,2218.48,24.75,1.989,2,44.5,3.16,90.5,57.21,Pertanian Organik,3.73
+473,2018,Nigeria,'North West',Cotton,2566.62,11.6,0.86,7,30.32,34.18,32.91,68.53,Manajemen Air,25.86
+1887,2018,Nigeria,'North West',Cotton,1795.86,29.8,3.384,10,47.97,45.99,43.84,85.43,Pertanian Organik,10.03
+6998,2018,Nigeria,'North West',Fruits,481.07,4.88,3.393,9,63.53,11.68,22.09,90.46,Tanaman Tahan Kekeringan,32.07
+1716,2018,Nigeria,'North West',Rice,2911.22,1.12,2.66,2,67.16,14.77,71.49,65.91,Tanaman Tahan Kekeringan,29.94
+637,2018,Nigeria,'North West',Vegetables,1183.14,14.23,2.36,5,35.83,21.12,41.5,75.51,Tanpa Adaptasi,17.73
+7433,2018,Nigeria,'South East',Cotton,1455.18,15.81,1.872,3,87.38,33.69,70.83,88.41,Pertanian Organik,5.88
+5553,2018,Nigeria,'South East',Soybeans,494.92,16.8,2.043,6,75.74,39.31,45.94,77.74,Rotasi Tanaman,4.57
+2586,2018,Nigeria,'South East',Sugarcane,1345.87,22.83,2.4480000000000004,6,75.85,33.56,79.59,93.75,Rotasi Tanaman,9.02
+5885,2018,Nigeria,'South East',Vegetables,1066.04,14.56,3.53,7,71.94,46.07,10.27,36.5,Pertanian Organik,24.51
+3051,2018,Nigeria,'South East',Wheat,454.58,4.92,1.845,6,60.52,18.6,86.47,73.38,Rotasi Tanaman,4.61
+4189,2018,Nigeria,'South East',Wheat,2636.93,17.66,1.719,10,26.12,43.01,3.9,36.89,Rotasi Tanaman,25.19
+2136,2018,Nigeria,'South West',Fruits,1778.77,24.25,3.546,1,37.69,34.73,12.98,56.53,Tanaman Tahan Kekeringan,12.65
+4992,2018,Nigeria,'South West',Sugarcane,644.93,7.64,2.56,4,28.36,3.08,98.96,83.39,Tanpa Adaptasi,-1.22
+6627,2018,Nigeria,'South West',Vegetables,852.88,17.71,2.772,8,23.27,43.0,10.41,73.05,Tanaman Tahan Kekeringan,29.41
+4845,2018,Nigeria,'South West',,2691.5,27.07,2.385,4,,43.73,94.32,83.63,Pertanian Organik,20.82
+7730,2019,Nigeria,'North Central',Barley,2652.08,9.95,4.28,1,79.96,35.96,44.17,47.67,Tanpa Adaptasi,11.23
+3318,2019,Nigeria,'North Central',Rice,1904.8,17.7,,8,85.0,41.65,58.38,34.69,Tanaman Tahan Kekeringan,23.24
+532,2019,Nigeria,'North Central',Soybeans,1035.79,28.71,1.125,1,84.57,20.71,12.82,51.25,Pertanian Organik,4.37
+1440,2019,Nigeria,'North Central',Soybeans,1413.86,7.34,4.0,1,59.56,29.48,49.67,43.88,Manajemen Air,19.92
+3430,2019,Nigeria,'North Central',Sugarcane,2127.32,22.27,2.781,9,49.33,14.65,44.68,60.55,Rotasi Tanaman,29.77
+4051,2019,Nigeria,'North Central',Wheat,806.7,22.87,2.745,6,80.83,27.42,95.41,55.7,Pertanian Organik,25.59
+932,2019,Nigeria,'North West',Corn,532.17,22.22,1.4220000000000002,9,14.08,42.88,98.27,33.37,Tanpa Adaptasi,26.46
+5485,2019,Nigeria,'North West',Cotton,2783.16,22.82,4.113,4,44.96,25.22,76.55,92.19,Pertanian Organik,19.22
+4075,2019,Nigeria,'North West',Fruits,1104.96,13.67,1.0,0,81.67,7.11,1.31,98.58,Pertanian Organik,26.57
+1773,2019,Nigeria,'North West',Wheat,,24.21,2.8800000000000003,6,35.36,11.02,84.11,43.32,Tanpa Adaptasi,28.52
+73,2019,Nigeria,'South East',Barley,1668.67,19.53,2.295,3,99.73,6.12,0.78,39.39,Manajemen Air,1.07
+40,2019,Nigeria,'South East',Corn,459.91,12.59,2.3040000000000003,9,74.0,16.41,32.97,97.67,Tanaman Tahan Kekeringan,0.25
+1512,2019,Nigeria,'South East',Corn,2219.41,6.23,2.65,10,66.1,22.64,78.66,36.02,Tanaman Tahan Kekeringan,25.5
+941,2019,Nigeria,'South East',Soybeans,1668.78,21.83,1.773,5,72.91,27.98,44.1,30.11,Pertanian Organik,-1.76
+6509,2019,Nigeria,'South East',Soybeans,1707.86,13.68,2.48,3,85.7,9.4,0.42,50.71,Pertanian Organik,29.75
+230,2019,Nigeria,'South West',Fruits,1123.31,28.06,3.591,1,72.27,1.72,15.42,82.9,Tanaman Tahan Kekeringan,26.64
+1990,2019,Nigeria,'South West',Fruits,1959.59,19.38,3.852,4,28.77,6.1,49.49,39.02,Manajemen Air,17.96
+1347,2019,Nigeria,'South West',Rice,2017.46,4.4,2.36,7,23.41,48.4,62.64,97.99,Rotasi Tanaman,25.53
+6166,2019,Nigeria,'South West',Sugarcane,339.11,10.03,1.944,2,55.14,36.63,5.57,37.48,Tanpa Adaptasi,12.29
+488,2019,Nigeria,'South West',Vegetables,594.36,25.36,1.62,0,42.26,39.62,87.93,66.55,Rotasi Tanaman,20.55
+1177,2019,Nigeria,'South West',Vegetables,2775.95,1.44,1.62,9,85.94,33.06,65.85,65.95,Tanaman Tahan Kekeringan,13.11
+7674,2019,Nigeria,'South West',Vegetables,2022.69,27.14,3.78,6,91.55,43.62,46.35,40.85,Pertanian Organik,14.31
+3258,2019,Nigeria,'South West',Wheat,1332.46,19.97,2.556,0,79.32,15.37,15.92,53.33,Manajemen Air,7.02
+2402,2020,Nigeria,'North Central',Cotton,1365.68,24.43,1.665,0,99.11,28.93,6.44,66.59,Tanpa Adaptasi,-3.18
+483,2020,Nigeria,'North Central',Soybeans,2682.21,23.18,3.357,7,72.88,0.93,84.58,37.09,Tanaman Tahan Kekeringan,15.24
+3117,2020,Nigeria,'North Central',Soybeans,2331.02,7.34,2.99,7,97.55,36.88,27.19,72.45,Manajemen Air,4.19
+968,2020,Nigeria,'North Central',Sugarcane,1662.63,19.85,3.384,0,29.73,8.41,11.89,31.4,Rotasi Tanaman,26.4
+6506,2020,Nigeria,'North Central',Sugarcane,237.57,23.62,4.482,2,38.15,15.54,74.11,70.53,Tanpa Adaptasi,18.6
+5210,2020,Nigeria,'North Central',Vegetables,2321.02,13.7,3.02,9,65.03,1.36,65.74,65.83,Tanaman Tahan Kekeringan,19.8
+495,2020,Nigeria,'North Central',Wheat,1539.0,8.12,0.75,8,91.27,43.47,78.06,46.9,Rotasi Tanaman,6.91
+7472,2020,Nigeria,'North West',Cotton,1858.05,27.72,2.763,3,75.16,7.14,72.32,40.14,Pertanian Organik,22.47
+2631,2020,Nigeria,'North West',Sugarcane,2463.5,7.39,3.79,2,63.3,17.77,39.72,93.44,Rotasi Tanaman,23.48
+7646,2020,Nigeria,'North West',Sugarcane,508.71,26.42,2.7,9,32.45,23.85,24.34,37.47,Manajemen Air,-0.06
+934,2020,Nigeria,'South East',Coffee,1485.09,12.4,3.58,9,46.14,9.89,71.67,68.9,Tanpa Adaptasi,13.06
+1778,2020,Nigeria,'South East',Coffee,1991.71,5.34,3.54,0,29.08,48.59,5.99,77.74,Tanaman Tahan Kekeringan,15.99
+7594,2020,Nigeria,'South East',Coffee,1829.47,22.03,1.143,5,71.59,27.74,5.31,30.69,Manajemen Air,8.91
+3999,2020,Nigeria,'South East',Cotton,1695.14,11.52,2.69,6,13.74,25.97,77.03,80.43,Tanpa Adaptasi,6.5
+96,2020,Nigeria,'South East',Rice,1892.69,8.43,3.56,8,73.05,32.4,0.37,35.52,Tanaman Tahan Kekeringan,23.64
+3188,2020,Nigeria,'South East',Soybeans,2670.8,12.24,2.09,6,16.99,15.02,58.69,48.8,Tanpa Adaptasi,6.11
+3286,2020,Nigeria,'South West',Coffee,1451.61,27.46,1.4400000000000002,4,61.95,5.27,3.41,52.06,Manajemen Air,3.96
+7012,2020,Nigeria,'South West',Coffee,1505.05,15.02,2.079,1,74.9,0.39,81.05,96.01,Tanpa Adaptasi,-1.61
+3409,2020,Nigeria,'South West',Corn,2637.61,14.39,2.51,1,48.65,11.14,10.16,74.36,Tanpa Adaptasi,18.25
+4846,2020,Nigeria,'South West',Corn,2212.03,27.86,2.61,5,15.58,49.77,15.21,92.06,Tanpa Adaptasi,25.66
+580,2020,Nigeria,'South West',Rice,715.09,10.96,3.76,0,96.32,27.56,60.93,31.23,Pertanian Organik,16.07
+2201,2020,Nigeria,'South West',Rice,1872.09,15.87,1.818,4,26.46,41.05,57.68,48.26,Manajemen Air,8.77
+3912,2020,Nigeria,'South West',Sugarcane,2888.38,1.42,1.32,8,59.65,11.21,67.04,49.4,Tanaman Tahan Kekeringan,28.91
+5825,2020,Nigeria,'South West',Wheat,633.52,11.33,3.57,5,67.38,2.79,44.33,72.94,Pertanian Organik,22.22
+1307,2021,Nigeria,'North Central',Barley,2015.28,2.13,3.13,0,15.06,16.6,46.63,38.22,Pertanian Organik,15.69
+2897,2021,Nigeria,'North Central',Coffee,1456.94,10.83,3.6,10,31.32,24.16,39.72,65.33,Tanpa Adaptasi,14.82
+3134,2021,Nigeria,'North Central',Cotton,499.35,14.05,1.017,0,77.06,3.13,66.63,57.02,Pertanian Organik,5.2
+7406,2021,Nigeria,'North Central',Cotton,1860.92,23.77,2.232,0,92.93,36.65,38.73,40.71,Tanaman Tahan Kekeringan,9.57
+6802,2021,Nigeria,'North Central',Soybeans,695.4,0.58,2.53,8,63.74,28.53,65.5,59.37,Tanaman Tahan Kekeringan,13.11
+3852,2021,Nigeria,'North Central',Sugarcane,549.75,27.14,2.466,6,26.93,20.29,74.67,98.4,Tanpa Adaptasi,-0.02
+2143,2021,Nigeria,'North Central',Wheat,1309.44,8.23,2.34,4,32.91,14.53,44.76,89.63,Pertanian Organik,28.38
+1650,2021,Nigeria,'North West',Coffee,1889.26,10.82,4.0,9,36.44,48.88,76.66,78.83,Pertanian Organik,20.55
+6184,2021,Nigeria,'North West',Coffee,1539.17,28.38,3.0690000000000004,8,30.5,44.52,64.85,94.04,Manajemen Air,30.69
+5075,2021,Nigeria,'North West',Rice,1051.89,14.53,2.5,0,28.24,6.57,1.09,38.42,Rotasi Tanaman,11.49
+1154,2021,Nigeria,'North West',Wheat,1182.53,18.45,2.664,2,97.95,13.06,82.76,91.24,Tanpa Adaptasi,-1.79
+1291,2021,Nigeria,'South East',Fruits,2400.13,12.56,1.58,7,63.97,10.86,71.75,92.61,Tanpa Adaptasi,9.5
+7496,2021,Nigeria,'South East',Fruits,2038.17,3.74,4.12,5,76.25,25.48,18.83,98.97,Tanpa Adaptasi,12.27
+1837,2021,Nigeria,'South West',Corn,1497.8,9.09,2.48,1,20.04,37.92,64.38,38.09,Pertanian Organik,8.89
+5349,2021,Nigeria,'South West',Cotton,2399.06,19.83,2.1870000000000003,1,72.14,2.93,61.94,59.48,Manajemen Air,26.15
+6323,2021,Nigeria,'South West',Rice,769.31,18.58,3.699,7,85.76,39.1,54.12,73.58,Manajemen Air,16.66
+1110,2021,Nigeria,'South West',Vegetables,1123.76,16.67,1.908,10,26.83,23.93,71.46,83.32,Pertanian Organik,22.44
+287,2021,Nigeria,'South West',Wheat,2073.05,15.84,3.1050000000000004,9,60.21,8.6,38.87,57.41,Tanpa Adaptasi,14.62
+1684,2022,Nigeria,'North Central',Coffee,2297.04,1.37,2.16,5,77.76,17.39,43.45,74.34,Pertanian Organik,-2.85
+4784,2022,Nigeria,'North Central',Cotton,2047.94,6.45,1.17,10,55.99,43.78,9.34,50.04,Pertanian Organik,0.98
+3151,2022,Nigeria,'North Central',Rice,2484.36,0.52,1.32,5,92.1,45.44,99.2,84.99,Tanaman Tahan Kekeringan,4.34
+6956,2022,Nigeria,'North Central',Rice,658.01,17.28,2.547,5,88.58,17.01,64.93,67.19,Tanpa Adaptasi,22.94
+7600,2022,Nigeria,'North Central',Sugarcane,903.36,23.15,1.998,9,51.75,26.19,94.27,70.8,Manajemen Air,-2.56
+1763,2022,Nigeria,'North West',Fruits,2534.93,10.37,2.04,1,22.66,7.14,97.65,42.11,Tanpa Adaptasi,9.54
+2101,2022,Nigeria,'North West',Wheat,2615.64,17.59,0.936,7,19.21,30.37,42.16,55.84,Manajemen Air,29.75
+4437,2022,Nigeria,'South East',Barley,643.44,24.48,1.269,0,61.75,47.9,54.14,59.31,Tanaman Tahan Kekeringan,26.52
+4584,2022,Nigeria,'South East',Barley,582.59,14.68,3.17,10,99.65,40.87,38.59,34.1,Tanaman Tahan Kekeringan,10.35
+3033,2022,Nigeria,'South East',Coffee,2156.23,0.89,3.41,0,70.38,25.93,74.0,47.84,Manajemen Air,11.49
+837,2022,Nigeria,'South East',Corn,697.11,12.12,1.92,4,34.57,23.4,77.99,68.41,Tanpa Adaptasi,8.69
+242,2022,Nigeria,'South East',Cotton,2892.14,17.31,0.6120000000000001,4,82.47,16.37,12.17,68.0,Tanaman Tahan Kekeringan,0.07
+7931,2022,Nigeria,'South East',Cotton,2404.9,5.07,1.53,2,25.19,19.79,3.86,73.43,Rotasi Tanaman,22.34
+550,2022,Nigeria,'South East',Rice,2404.62,1.06,3.52,8,57.79,22.56,29.9,80.69,Manajemen Air,28.28
+2523,2022,Nigeria,'South East',Rice,609.33,21.82,1.593,3,66.24,20.27,44.35,71.56,Tanaman Tahan Kekeringan,4.53
+3833,2022,Nigeria,'South East',Rice,462.35,15.95,1.827,2,93.05,29.11,53.13,51.62,Manajemen Air,11.35
+5847,2022,Nigeria,'South East',Rice,1834.79,14.96,0.53,10,88.28,24.23,86.92,74.25,Tanpa Adaptasi,-1.0
+656,2022,Nigeria,'South East',Soybeans,203.78,14.18,2.97,10,71.71,2.07,13.05,99.61,Pertanian Organik,15.91
+7520,2022,Nigeria,'South East',Wheat,1692.5,22.37,1.152,9,85.77,45.78,3.5,67.67,Pertanian Organik,21.14
+2750,2022,Nigeria,'South West',Coffee,2656.82,11.71,0.79,1,50.58,10.72,84.7,97.68,Tanaman Tahan Kekeringan,-2.81
+7056,2022,Nigeria,'South West',Cotton,982.35,24.78,4.068,1,44.15,11.77,52.9,88.14,Manajemen Air,19.06
+1156,2022,Nigeria,'South West',Fruits,2022.06,26.58,1.0080000000000002,9,68.05,49.7,46.68,44.76,Manajemen Air,29.74
+5195,2022,Nigeria,'South West',Rice,1696.77,13.58,3.15,8,49.15,19.22,97.03,70.23,Tanaman Tahan Kekeringan,12.91
+6595,2022,Nigeria,'South West',Sugarcane,2514.47,10.47,4.8,0,44.06,13.21,15.07,91.73,Tanpa Adaptasi,19.59
+705,2022,Nigeria,'South West',,1178.85,5.81,3.15,7,89.56,27.84,73.53,99.86,Rotasi Tanaman,28.63
+3625,2023,Nigeria,'North Central',Soybeans,2250.25,16.6,1.017,3,22.18,36.58,57.12,64.93,Rotasi Tanaman,20.25
+3804,2023,Nigeria,'North Central',Soybeans,1812.6,6.24,2.31,1,81.36,29.53,19.45,89.52,Manajemen Air,-0.25
+3940,2023,Nigeria,'North Central',Soybeans,2780.59,16.48,0.684,4,53.59,5.27,9.25,38.8,Rotasi Tanaman,-3.18
+1465,2023,Nigeria,'North Central',Sugarcane,2062.68,15.68,1.935,7,60.68,20.76,79.04,53.89,Tanaman Tahan Kekeringan,9.18
+1660,2023,Nigeria,'North Central',Vegetables,1912.49,10.95,1.34,4,69.63,49.19,28.74,43.51,Tanaman Tahan Kekeringan,-2.32
+2156,2023,Nigeria,'North Central',Vegetables,389.31,6.22,4.131,10,47.78,37.06,5.86,63.85,Manajemen Air,13.36
+6397,2023,Nigeria,'North West',Corn,958.81,7.93,1.92,7,99.24,24.29,41.46,97.48,Rotasi Tanaman,9.69
+6059,2023,Nigeria,'North West',Rice,2411.16,2.84,3.62,5,37.25,13.77,96.53,60.25,Rotasi Tanaman,29.96
+6146,2023,Nigeria,'North West',Soybeans,290.39,24.45,2.988,1,72.95,37.68,80.32,82.99,Manajemen Air,28.1
+918,2023,Nigeria,'North West',Sugarcane,965.32,13.98,2.36,4,50.6,13.55,65.26,41.38,Pertanian Organik,3.91
+1737,2023,Nigeria,'North West',Wheat,1438.82,14.23,2.52,3,98.54,2.63,29.03,99.9,Tanpa Adaptasi,13.72
+320,2023,Nigeria,'South East',Coffee,2581.16,6.38,2.76,7,16.21,3.45,46.24,99.95,Tanpa Adaptasi,34.21
+4743,2023,Nigeria,'South East',Corn,1203.61,17.73,2.457,5,55.33,0.42,84.42,44.41,Pertanian Organik,34.3
+1239,2023,Nigeria,'South East',Rice,2700.72,16.26,1.908,1,77.51,19.43,57.12,41.47,Tanpa Adaptasi,-1.07
+7391,2023,Nigeria,'South East',Rice,2266.41,21.65,2.628,5,89.58,11.01,6.54,46.38,Tanpa Adaptasi,4.06
+1771,2023,Nigeria,'South East',Soybeans,1401.1,4.19,4.58,10,64.34,21.47,53.91,34.4,Tanpa Adaptasi,19.58
+3704,2023,Nigeria,'South East',Sugarcane,531.71,23.73,2.952,4,44.73,20.8,88.1,60.71,Tanaman Tahan Kekeringan,14.31
+1141,2023,Nigeria,'South East',Vegetables,724.51,10.27,4.35,5,59.14,36.94,89.12,39.48,Manajemen Air,17.78
+3205,2023,Nigeria,'South West',Barley,698.12,23.35,2.682,0,87.35,12.98,1.73,82.71,Pertanian Organik,-0.33
+5857,2023,Nigeria,'South West',Barley,2963.12,26.06,1.017,10,92.95,14.51,55.86,71.47,Tanpa Adaptasi,-1.72
+6411,2023,Nigeria,'South West',Barley,2359.0,24.86,3.339,7,67.67,29.71,70.61,32.52,Manajemen Air,28.89
+7854,2023,Nigeria,'South West',Barley,2129.1,15.17,2.9970000000000003,6,17.51,10.22,63.5,54.65,Pertanian Organik,13.25
+3540,2023,Nigeria,'South West',Coffee,2059.35,13.16,0.81,3,21.37,13.81,77.68,98.68,Rotasi Tanaman,-1.74
+4457,2023,Nigeria,'South West',Corn,2058.1,3.43,1.7,9,34.09,4.8,18.76,83.67,Tanpa Adaptasi,17.88
+5240,2023,Nigeria,'South West',Fruits,404.77,13.4,2.475,7,29.15,17.24,15.93,58.42,Rotasi Tanaman,6.89
+467,2023,Nigeria,'South West',Rice,1513.27,11.3,1.95,10,51.69,35.7,89.14,86.03,Pertanian Organik,-2.88
+3662,2023,Nigeria,'South West',Rice,1219.77,27.35,2.178,8,85.73,28.54,45.66,54.58,Rotasi Tanaman,21.12
+5281,2023,Nigeria,'South West',Sugarcane,722.04,13.48,1.41,7,73.51,30.19,55.32,36.78,Manajemen Air,21.16
+5490,2024,Nigeria,'North Central',Coffee,270.64,22.62,2.007,0,80.32,20.78,71.01,34.12,Tanaman Tahan Kekeringan,33.29
+1542,2024,Nigeria,'North Central',Rice,940.32,24.64,2.547,3,54.49,20.61,8.02,65.65,Tanaman Tahan Kekeringan,12.82
+4280,2024,Nigeria,'North Central',Rice,1150.89,11.25,1.29,3,54.95,37.75,14.93,50.93,Tanpa Adaptasi,31.92
+7240,2024,Nigeria,'North Central',Sugarcane,1127.1,28.92,1.683,1,65.48,35.95,44.24,90.25,Rotasi Tanaman,9.5
+1996,2024,Nigeria,'North Central',Wheat,2577.95,11.03,1.77,5,25.33,16.76,20.58,39.26,Tanpa Adaptasi,1.92
+7717,2024,Nigeria,'North Central',Wheat,2882.81,7.83,2.06,1,97.4,44.36,19.29,38.13,Tanaman Tahan Kekeringan,10.71
+6549,2024,Nigeria,'North West',Cotton,2776.25,15.4,2.0160000000000005,8,17.36,0.72,57.5,51.27,Tanpa Adaptasi,13.73
+1907,2024,Nigeria,'North West',Rice,472.59,11.18,2.205,2,62.78,13.39,87.69,98.47,Pertanian Organik,0.7
+7605,2024,Nigeria,'North West',Rice,1263.96,29.57,3.618,5,13.68,18.33,68.81,92.02,Pertanian Organik,11.7
+5672,2024,Nigeria,'North West',Soybeans,2072.82,13.25,0.96,6,83.7,39.43,74.48,49.53,Manajemen Air,28.31
+302,2024,Nigeria,'North West',Wheat,2627.5,22.28,2.385,4,48.09,33.23,12.24,70.9,Rotasi Tanaman,15.34
+3083,2024,Nigeria,'South East',Barley,1066.37,17.01,3.411,4,13.23,46.25,20.59,62.33,Rotasi Tanaman,17.13
+7693,2024,Nigeria,'South East',Barley,2595.59,4.32,3.33,1,98.12,31.76,37.51,35.46,Rotasi Tanaman,13.41
+7366,2024,Nigeria,'South East',Coffee,966.11,6.05,1.13,2,76.96,26.48,98.23,53.95,Tanpa Adaptasi,28.8
+2279,2024,Nigeria,'South East',Cotton,269.37,18.54,1.7009999999999998,6,97.24,8.96,17.61,66.89,Tanaman Tahan Kekeringan,7.79
+2238,2024,Nigeria,'South East',Rice,1906.34,12.95,,6,40.92,38.52,69.34,84.86,Tanaman Tahan Kekeringan,-2.55
+5803,2024,Nigeria,'South East',Rice,2854.67,5.16,1.48,7,31.6,4.89,16.54,50.17,Manajemen Air,20.49
+861,2024,Nigeria,'South East',Soybeans,2350.41,24.58,2.178,7,66.02,37.53,17.31,97.32,Tanpa Adaptasi,-0.38
+1111,2024,Nigeria,'South East',Soybeans,2874.97,18.86,0.5670000000000001,3,69.12,35.41,75.8,49.08,Rotasi Tanaman,-1.73
+1678,2024,Nigeria,'South East',,1723.91,5.87,0.92,0,30.66,27.73,98.17,65.8,Rotasi Tanaman,24.81
+7697,2024,Nigeria,'South West',Barley,1449.75,0.89,2.69,5,96.84,0.11,32.68,78.43,Rotasi Tanaman,4.0
+5962,2024,Nigeria,'South West',Coffee,2390.42,16.52,0.675,3,73.3,15.81,86.75,97.52,Tanaman Tahan Kekeringan,-1.43
+3317,2024,Nigeria,'South West',Soybeans,1181.35,7.45,,7,61.16,39.4,53.95,91.52,Rotasi Tanaman,4.81
+6444,2024,Nigeria,'South West',Vegetables,1379.1,25.99,0.747,2,39.35,7.58,60.44,60.08,Rotasi Tanaman,6.77

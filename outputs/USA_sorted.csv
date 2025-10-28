@@ -1,0 +1,832 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+1117,1990,USA,Midwest,Barley,2964.9,20.32,1.935,3,47.57,40.6,14.56,69.13,Manajemen Air,27.15
+1858,1990,USA,Midwest,Barley,1433.24,11.16,1.05,0,71.39,39.45,71.57,96.65,Rotasi Tanaman,-2.89
+7076,1990,USA,Midwest,Rice,1336.34,21.09,2.0160000000000005,10,63.51,47.87,56.78,85.53,Tanaman Tahan Kekeringan,3.27
+3364,1990,USA,Midwest,Sugarcane,1257.73,14.53,4.57,10,46.12,5.81,78.34,35.84,Manajemen Air,18.76
+7050,1990,USA,Northeast,Fruits,1747.58,5.37,2.07,9,70.97,5.9,40.84,50.84,Pertanian Organik,20.78
+2851,1990,USA,Northeast,Vegetables,1534.92,26.76,2.088,0,54.74,47.33,2.64,76.14,Tanpa Adaptasi,-2.06
+6924,1990,USA,South,Coffee,631.6,8.95,1.78,5,15.25,4.59,2.94,49.12,Tanpa Adaptasi,5.3
+2172,1990,USA,South,Fruits,1835.15,13.23,3.75,5,58.47,3.26,68.67,55.16,Manajemen Air,25.43
+4249,1990,USA,South,Fruits,2293.04,8.14,4.11,7,46.32,32.28,69.17,36.84,Tanpa Adaptasi,15.12
+2521,1990,USA,West,Barley,2215.23,6.8,3.75,10,54.17,5.02,80.83,84.58,Rotasi Tanaman,23.72
+3415,1990,USA,West,Wheat,1722.35,20.14,,1,63.76,17.65,54.47,46.95,Manajemen Air,-1.28
+5188,1991,USA,Midwest,Barley,2061.58,26.0,3.51,1,47.9,43.43,70.79,95.23,Pertanian Organik,23.1
+3961,1991,USA,Midwest,Coffee,2141.28,24.03,3.438,6,59.16,12.15,31.72,82.59,Tanaman Tahan Kekeringan,27.76
+212,1991,USA,Midwest,Corn,,20.83,1.863,5,30.24,41.5,9.59,40.63,Manajemen Air,3.99
+4165,1991,USA,Midwest,Fruits,2062.9,1.38,4.14,10,42.56,45.44,44.9,65.11,Pertanian Organik,18.06
+7983,1991,USA,Midwest,Rice,,7.01,3.13,0,55.74,38.81,29.25,79.86,Rotasi Tanaman,23.62
+954,1991,USA,Midwest,Wheat,1758.07,28.69,1.908,1,57.9,11.81,59.95,31.89,Tanaman Tahan Kekeringan,20.26
+799,1991,USA,Northeast,Barley,2758.27,21.55,1.62,4,31.67,45.86,23.09,30.27,Pertanian Organik,15.93
+6927,1991,USA,Northeast,Coffee,2404.5,19.25,1.917,5,69.24,45.77,12.64,31.23,Manajemen Air,-1.52
+2551,1991,USA,Northeast,Corn,2343.96,17.66,1.278,0,16.08,15.3,71.99,49.81,Tanpa Adaptasi,-1.65
+440,1991,USA,Northeast,Cotton,1795.95,25.36,1.7009999999999998,3,11.82,4.01,73.32,56.53,Rotasi Tanaman,2.03
+3452,1991,USA,Northeast,Fruits,2628.12,16.96,3.51,6,80.44,40.73,91.91,99.39,Pertanian Organik,29.06
+2356,1991,USA,Northeast,Sugarcane,2921.93,27.4,1.647,6,45.82,14.07,10.58,61.18,Manajemen Air,31.89
+2481,1991,USA,Northeast,Wheat,614.39,28.71,2.403,3,36.76,44.91,99.45,70.08,Pertanian Organik,1.46
+2233,1991,USA,South,Cotton,2720.53,24.0,1.2060000000000002,3,83.8,28.41,55.43,43.89,Pertanian Organik,3.24
+1257,1991,USA,South,Vegetables,824.98,4.36,,10,15.5,28.93,85.26,35.16,Manajemen Air,12.23
+1812,1991,USA,South,Vegetables,1468.51,23.72,1.359,2,72.95,0.94,44.17,87.14,Rotasi Tanaman,26.93
+5905,1991,USA,South,Vegetables,2672.46,21.22,0.792,6,77.67,22.37,77.93,99.21,Manajemen Air,33.33
+3324,1991,USA,West,Barley,1859.41,16.34,1.566,6,61.66,30.58,80.51,35.93,Manajemen Air,-2.93
+2210,1991,USA,West,Coffee,2298.83,16.5,1.134,1,43.57,40.58,39.23,88.86,Manajemen Air,29.49
+3282,1991,USA,West,Fruits,418.77,14.3,1.314,3,54.34,30.67,30.06,33.86,Pertanian Organik,7.5
+3026,1991,USA,West,Rice,1533.45,14.68,1.32,10,76.1,10.27,55.21,72.33,Tanpa Adaptasi,-0.35
+6190,1991,USA,West,Soybeans,2811.62,8.18,2.26,8,39.7,31.1,36.25,65.65,Tanpa Adaptasi,4.57
+1432,1991,USA,West,Vegetables,1932.34,27.61,2.322,2,34.22,41.75,22.27,57.97,Tanpa Adaptasi,0.48
+819,1991,USA,West,Wheat,1512.95,29.86,1.503,2,80.19,1.35,35.77,92.83,Rotasi Tanaman,13.27
+1359,1991,USA,West,Wheat,2564.77,29.69,0.981,2,56.74,13.79,62.52,81.67,Tanpa Adaptasi,25.16
+4881,1992,USA,Midwest,Barley,1821.72,2.26,0.7,0,60.86,5.65,20.02,62.38,Tanaman Tahan Kekeringan,7.19
+2492,1992,USA,Midwest,Coffee,2148.81,16.64,1.242,4,15.91,36.91,22.43,30.65,Rotasi Tanaman,30.14
+3872,1992,USA,Midwest,Coffee,2212.49,3.1,2.27,9,93.05,10.79,43.18,53.75,Manajemen Air,4.88
+6265,1992,USA,Midwest,Wheat,641.09,2.28,1.5,0,12.6,21.67,43.55,82.38,Rotasi Tanaman,0.31
+1646,1992,USA,Northeast,Barley,902.9,9.99,1.47,0,37.63,7.03,80.82,55.91,Pertanian Organik,8.91
+5797,1992,USA,Northeast,Cotton,2936.42,14.43,1.75,6,41.92,6.08,55.1,59.76,Tanaman Tahan Kekeringan,27.27
+596,1992,USA,Northeast,,2242.69,22.4,2.205,3,64.81,16.67,48.66,31.38,Tanpa Adaptasi,33.61
+6420,1992,USA,South,Coffee,297.67,2.57,0.99,10,81.84,23.92,22.74,83.52,Tanpa Adaptasi,-3.49
+6621,1992,USA,South,Cotton,278.06,10.02,2.664,3,15.68,9.93,30.04,74.92,Tanaman Tahan Kekeringan,2.58
+1164,1992,USA,South,Sugarcane,2199.25,9.63,0.94,6,55.11,19.7,88.0,44.1,Tanpa Adaptasi,22.58
+1815,1992,USA,South,Sugarcane,2784.8,10.49,1.99,4,44.69,6.19,62.38,32.1,Tanpa Adaptasi,2.71
+7574,1992,USA,West,Coffee,519.53,20.07,1.4580000000000002,7,90.08,35.28,5.71,36.92,Tanpa Adaptasi,8.57
+6520,1992,USA,West,Rice,1507.05,4.75,1.28,7,24.63,49.78,88.63,63.56,Tanaman Tahan Kekeringan,33.2
+7318,1992,USA,West,Rice,1339.99,11.29,1.89,9,18.94,11.88,90.18,55.87,Tanaman Tahan Kekeringan,-2.88
+330,1992,USA,West,Vegetables,1696.26,25.27,1.818,10,62.94,18.21,28.16,73.71,Tanaman Tahan Kekeringan,-3.76
+5165,1993,USA,Midwest,Coffee,2553.41,6.75,3.09,3,32.37,40.82,58.54,90.53,Pertanian Organik,12.53
+4834,1993,USA,Midwest,Fruits,2867.96,19.55,0.558,7,26.97,48.5,12.32,47.27,Rotasi Tanaman,3.64
+667,1993,USA,Midwest,Rice,525.26,27.56,0.7020000000000001,8,83.16,18.98,93.14,90.48,Pertanian Organik,0.35
+3416,1993,USA,Midwest,Rice,202.45,17.3,4.464,9,34.58,49.07,6.44,88.18,Manajemen Air,19.63
+3556,1993,USA,Midwest,Rice,2175.72,22.51,1.26,0,66.4,33.14,20.49,76.08,Manajemen Air,26.44
+3334,1993,USA,Midwest,Soybeans,2446.23,1.02,1.59,1,24.93,17.14,25.96,30.28,Rotasi Tanaman,-4.57
+5342,1993,USA,Midwest,Soybeans,1369.71,23.3,0.7290000000000001,6,89.94,7.96,29.18,81.73,Manajemen Air,24.84
+5088,1993,USA,Midwest,Vegetables,1449.59,18.08,0.882,1,37.67,29.53,61.86,53.04,Pertanian Organik,21.52
+1173,1993,USA,Midwest,Wheat,776.54,22.54,0.684,9,64.22,0.68,41.96,68.45,Tanaman Tahan Kekeringan,7.0
+4864,1993,USA,Northeast,Fruits,2579.76,0.63,2.6,10,97.31,37.72,49.52,99.8,Rotasi Tanaman,10.24
+5480,1993,USA,Northeast,Fruits,642.23,3.83,2.53,6,34.15,10.77,41.14,60.01,Rotasi Tanaman,21.9
+6817,1993,USA,Northeast,Soybeans,837.8,3.07,2.36,5,39.28,20.95,55.34,56.84,Manajemen Air,3.86
+3526,1993,USA,South,Coffee,1676.3,5.96,1.92,2,,2.4,83.93,42.9,Tanaman Tahan Kekeringan,15.62
+1185,1993,USA,South,Cotton,2478.89,3.78,1.92,6,57.77,17.18,23.22,97.54,Pertanian Organik,4.15
+2721,1993,USA,South,Rice,2491.52,3.82,3.38,1,11.85,26.77,65.57,72.54,Tanpa Adaptasi,19.61
+1088,1993,USA,South,Vegetables,1555.67,13.91,3.17,10,43.54,21.83,27.37,50.45,Rotasi Tanaman,30.78
+4274,1993,USA,South,Vegetables,1198.95,10.55,0.57,9,50.35,23.56,6.24,50.98,Tanpa Adaptasi,7.03
+3066,1993,USA,South,Wheat,316.21,15.26,1.512,3,27.08,20.83,95.22,56.8,Manajemen Air,-4.14
+7936,1993,USA,West,Coffee,1326.45,17.85,2.763,7,11.12,48.33,73.34,66.94,Tanpa Adaptasi,32.25
+4207,1993,USA,West,Fruits,2943.26,10.92,1.44,3,43.19,8.05,5.37,75.07,Pertanian Organik,-0.73
+7015,1993,USA,West,Rice,391.16,18.64,3.96,5,91.05,3.76,99.89,37.87,Rotasi Tanaman,18.05
+2079,1993,USA,West,Soybeans,662.13,18.44,1.755,2,90.54,11.34,51.0,98.13,Tanaman Tahan Kekeringan,7.98
+5029,1993,USA,West,Soybeans,1022.87,16.9,2.9970000000000003,3,64.67,2.03,7.91,55.75,Manajemen Air,16.05
+3138,1994,USA,Midwest,Coffee,1278.63,13.49,2.04,2,27.74,0.81,29.01,50.74,Rotasi Tanaman,34.59
+5983,1994,USA,Midwest,Corn,650.52,28.43,2.088,4,83.42,8.9,11.48,58.16,Manajemen Air,31.02
+1724,1994,USA,Midwest,Cotton,1503.93,23.19,0.5850000000000001,10,78.92,39.3,43.1,59.06,Tanpa Adaptasi,-2.25
+6644,1994,USA,Midwest,Fruits,1081.86,27.68,2.25,9,34.31,2.0,69.26,97.58,Rotasi Tanaman,17.18
+2180,1994,USA,Midwest,Vegetables,487.87,28.38,1.116,2,94.87,40.67,71.41,39.28,Manajemen Air,8.95
+7113,1994,USA,Midwest,Vegetables,2895.8,1.5,3.55,6,94.31,48.76,23.63,74.06,Manajemen Air,13.55
+3977,1994,USA,Midwest,Wheat,514.93,25.84,2.565,9,37.11,21.02,69.71,35.49,Pertanian Organik,25.58
+4704,1994,USA,Midwest,Wheat,1200.67,15.25,2.502,1,50.69,21.61,41.97,38.79,Pertanian Organik,9.74
+5628,1994,USA,Midwest,Wheat,2044.97,7.98,1.73,1,33.11,34.51,54.87,80.48,Rotasi Tanaman,8.53
+6395,1994,USA,Midwest,Wheat,2581.05,14.69,2.0,2,67.13,22.39,39.53,98.01,Manajemen Air,11.68
+6239,1994,USA,Midwest,,2197.05,23.61,1.278,8,23.25,28.16,49.61,78.73,Manajemen Air,6.72
+354,1994,USA,Northeast,Barley,1655.88,22.77,1.665,5,22.68,26.53,25.69,34.98,Tanaman Tahan Kekeringan,-0.03
+1216,1994,USA,Northeast,Barley,1441.88,20.79,1.494,10,14.22,12.17,55.62,43.8,Tanpa Adaptasi,2.89
+2203,1994,USA,Northeast,Cotton,1338.12,20.57,1.512,5,80.99,36.58,50.25,94.75,Rotasi Tanaman,3.04
+7141,1994,USA,Northeast,Fruits,646.65,25.35,2.565,4,71.01,23.98,76.83,43.92,Tanaman Tahan Kekeringan,0.5
+574,1994,USA,Northeast,Rice,2083.48,4.07,3.78,8,10.24,34.86,28.57,79.43,Manajemen Air,31.4
+5294,1994,USA,Northeast,Sugarcane,497.36,10.08,2.331,3,18.19,36.36,59.26,48.75,Pertanian Organik,34.98
+35,1994,USA,South,Barley,1109.43,17.92,1.386,7,41.33,3.7,15.4,91.08,Manajemen Air,10.93
+3150,1994,USA,South,Coffee,2968.3,5.78,2.95,7,27.09,4.25,23.64,47.95,Rotasi Tanaman,31.89
+159,1994,USA,South,Fruits,1101.16,11.9,2.1,4,85.23,32.76,47.13,58.12,Tanpa Adaptasi,-1.36
+1096,1994,USA,South,Sugarcane,1875.58,29.44,0.972,5,88.63,15.28,32.0,88.88,Manajemen Air,20.35
+6712,1994,USA,South,Sugarcane,1818.2,19.92,3.285,5,98.87,36.34,55.29,93.5,Pertanian Organik,20.56
+4000,1994,USA,South,Vegetables,1935.64,16.05,0.855,2,50.04,22.31,0.92,65.02,Manajemen Air,6.31
+1229,1994,USA,South,Wheat,1912.09,0.77,3.0,6,98.34,8.93,92.67,90.98,Tanaman Tahan Kekeringan,15.86
+129,1994,USA,West,Coffee,2362.74,24.62,3.3120000000000003,4,11.69,3.32,60.78,79.46,Tanaman Tahan Kekeringan,32.09
+2535,1994,USA,West,Coffee,848.53,26.7,2.988,0,30.18,18.7,12.51,74.58,Rotasi Tanaman,16.86
+3169,1994,USA,West,Coffee,1134.74,29.3,1.917,0,87.54,26.46,58.27,82.28,Manajemen Air,30.74
+2132,1994,USA,West,Corn,1435.48,17.05,2.682,8,45.72,45.57,95.99,74.43,Manajemen Air,-1.96
+4239,1994,USA,West,Fruits,570.5,18.82,1.665,10,33.54,12.82,36.83,70.23,Pertanian Organik,-3.23
+1613,1994,USA,West,Rice,1010.03,4.57,1.68,10,81.77,35.92,81.62,92.59,Pertanian Organik,15.85
+4311,1994,USA,West,Rice,2204.74,22.29,0.522,4,75.41,36.13,36.63,98.61,Pertanian Organik,4.06
+6134,1994,USA,West,Vegetables,2096.14,16.64,2.394,10,57.25,23.48,66.76,37.47,Manajemen Air,23.1
+7637,1994,USA,West,Vegetables,2656.59,3.6,3.81,2,79.55,5.71,16.44,83.49,Manajemen Air,25.67
+2642,1994,USA,West,Wheat,2131.16,16.6,2.43,3,66.31,8.11,48.75,35.35,Tanpa Adaptasi,6.52
+5041,1995,USA,Midwest,Corn,2213.9,27.32,2.565,4,39.95,32.41,73.22,61.86,Manajemen Air,20.3
+6729,1995,USA,Midwest,Fruits,2963.37,14.53,2.86,0,36.32,42.4,94.76,75.02,Pertanian Organik,19.17
+693,1995,USA,Midwest,Soybeans,1258.5,21.47,0.846,4,90.76,22.42,83.8,62.53,Rotasi Tanaman,3.45
+7057,1995,USA,Midwest,Wheat,460.49,2.36,0.765,1,27.19,28.05,24.68,46.38,Pertanian Organik,9.72
+3675,1995,USA,Midwest,,265.47,2.25,3.5370000000000004,3,58.69,16.99,23.04,68.99,Rotasi Tanaman,30.35
+6099,1995,USA,Northeast,Barley,1076.04,5.18,3.42,4,76.24,24.62,3.44,48.22,Rotasi Tanaman,25.61
+5401,1995,USA,Northeast,Cotton,2358.39,14.6,1.18,6,30.72,3.9,70.85,45.84,Tanaman Tahan Kekeringan,5.78
+3938,1995,USA,South,Coffee,435.43,4.6,2.664,5,31.19,33.69,21.25,77.29,Rotasi Tanaman,8.58
+3987,1995,USA,South,Coffee,2503.5,17.05,2.259,1,74.72,46.04,15.25,65.21,Rotasi Tanaman,0.37
+1725,1995,USA,South,Sugarcane,2372.99,21.63,1.728,0,19.59,5.31,57.61,74.96,Manajemen Air,5.95
+3099,1995,USA,South,Sugarcane,2068.86,13.57,0.53,3,65.85,4.03,92.39,44.57,Manajemen Air,-1.65
+5969,1995,USA,South,Vegetables,434.9,29.2,3.708,8,44.35,18.91,99.15,75.6,Tanpa Adaptasi,15.26
+6737,1995,USA,South,Wheat,200.46,22.21,0.5940000000000001,0,55.78,12.28,19.37,31.44,Tanpa Adaptasi,-4.21
+122,1995,USA,West,Barley,1036.18,12.99,2.49,10,,38.87,53.59,43.74,Pertanian Organik,30.28
+1938,1995,USA,West,Fruits,927.61,29.72,3.159,10,96.15,12.77,87.86,57.13,Manajemen Air,10.8
+7061,1995,USA,West,Rice,373.89,4.9,3.5370000000000004,10,76.56,39.17,34.63,52.85,Manajemen Air,32.72
+7604,1995,USA,West,Sugarcane,2768.68,28.51,2.646,10,45.62,1.52,44.94,96.68,Tanaman Tahan Kekeringan,22.21
+1230,1996,USA,Midwest,Fruits,1453.14,23.42,0.549,5,95.57,37.5,90.53,75.7,Tanpa Adaptasi,9.42
+4385,1996,USA,Midwest,Soybeans,1620.25,7.96,3.28,2,39.24,3.86,17.91,64.01,Tanaman Tahan Kekeringan,31.78
+1658,1996,USA,Midwest,Sugarcane,1458.51,18.79,1.386,10,23.83,24.69,91.9,80.18,Tanpa Adaptasi,11.48
+2791,1996,USA,Midwest,Wheat,2169.27,12.49,1.2,5,37.04,28.09,47.48,60.82,Tanaman Tahan Kekeringan,28.83
+1153,1996,USA,Northeast,Barley,2162.54,0.93,2.73,9,32.9,14.21,91.65,86.83,Tanaman Tahan Kekeringan,6.66
+1309,1996,USA,Northeast,Barley,2021.87,11.44,0.82,8,76.85,43.18,24.06,30.85,Pertanian Organik,9.42
+2839,1996,USA,Northeast,Barley,377.84,6.57,2.79,8,98.01,4.05,60.04,72.56,Manajemen Air,33.84
+6545,1996,USA,Northeast,Rice,1573.41,28.65,2.6910000000000003,7,17.9,37.34,86.89,83.45,Manajemen Air,12.65
+2659,1996,USA,Northeast,Sugarcane,2580.47,11.45,,10,35.54,27.5,60.4,90.43,Pertanian Organik,26.81
+5955,1996,USA,Northeast,Vegetables,2770.96,3.05,3.54,8,12.16,47.17,30.83,49.84,Tanpa Adaptasi,32.68
+5428,1996,USA,South,Coffee,677.88,28.04,1.557,9,69.52,48.62,38.91,65.59,Rotasi Tanaman,27.95
+6144,1996,USA,South,Coffee,1621.88,13.92,1.74,10,33.68,28.71,91.48,36.53,Tanaman Tahan Kekeringan,0.95
+2782,1996,USA,South,Cotton,880.59,7.69,1.39,9,47.87,1.53,1.21,34.5,Rotasi Tanaman,-1.78
+3441,1996,USA,South,Cotton,2151.73,28.68,0.783,7,49.31,28.13,62.75,65.52,Tanaman Tahan Kekeringan,-2.59
+6759,1996,USA,South,Cotton,601.56,27.56,3.168,4,93.19,31.76,71.29,44.08,Manajemen Air,29.12
+11,1996,USA,South,Soybeans,,17.41,2.898,8,94.05,18.1,32.65,41.07,Rotasi Tanaman,21.67
+5693,1996,USA,South,Soybeans,1673.81,26.56,3.285,1,88.61,29.11,27.82,96.4,Tanpa Adaptasi,27.73
+3944,1996,USA,South,Vegetables,845.05,4.9,1.97,4,70.13,3.32,96.37,48.44,Tanaman Tahan Kekeringan,6.32
+1783,1996,USA,West,Barley,1294.84,2.03,3.3,10,32.4,39.29,58.9,60.61,Rotasi Tanaman,23.65
+3649,1996,USA,West,Barley,1726.44,15.1,0.756,8,44.68,21.73,25.98,42.69,Pertanian Organik,8.92
+6576,1996,USA,West,Barley,2090.38,23.04,1.404,7,18.86,49.54,27.56,97.37,Tanaman Tahan Kekeringan,4.73
+7640,1996,USA,West,Barley,486.54,19.44,3.492,1,55.73,23.29,36.04,95.77,Rotasi Tanaman,10.55
+7606,1996,USA,West,Coffee,2382.61,17.66,1.017,5,70.28,25.76,61.47,49.08,Tanaman Tahan Kekeringan,28.16
+4129,1996,USA,West,Fruits,204.87,3.3,1.1700000000000002,10,59.92,12.24,5.63,97.74,Manajemen Air,32.27
+7626,1996,USA,West,Sugarcane,1783.49,7.91,2.77,6,18.27,13.05,37.79,86.17,Tanaman Tahan Kekeringan,9.86
+5056,1997,USA,Midwest,Corn,735.38,8.86,1.98,8,40.75,2.62,95.39,64.29,Rotasi Tanaman,34.61
+5547,1997,USA,Midwest,Corn,1427.16,12.64,3.72,10,40.57,49.17,37.04,69.32,Rotasi Tanaman,34.68
+2974,1997,USA,Midwest,Soybeans,2983.78,2.01,2.61,4,88.16,3.75,30.85,93.3,Tanaman Tahan Kekeringan,17.09
+6824,1997,USA,Midwest,Sugarcane,2221.68,5.1,1.67,7,22.03,15.91,60.3,41.13,Pertanian Organik,29.85
+4139,1997,USA,Midwest,Wheat,820.24,1.09,3.6,8,69.12,2.65,8.27,53.86,Tanaman Tahan Kekeringan,26.79
+2005,1997,USA,Midwest,,2322.82,29.74,1.2060000000000002,3,29.58,1.37,32.35,65.05,Manajemen Air,1.32
+2262,1997,USA,Northeast,Barley,2272.05,24.64,2.934,9,68.75,31.16,38.53,97.49,Rotasi Tanaman,34.75
+2427,1997,USA,Northeast,Corn,383.59,8.65,2.763,1,66.87,7.79,4.48,76.0,Manajemen Air,11.31
+3197,1997,USA,Northeast,Cotton,2951.65,7.24,2.73,6,77.61,37.09,28.55,90.68,Tanpa Adaptasi,2.2
+5754,1997,USA,Northeast,Fruits,1313.19,19.3,2.493,1,62.97,43.04,60.03,44.73,Rotasi Tanaman,22.13
+1079,1997,USA,Northeast,Vegetables,744.72,21.7,1.386,6,99.83,31.24,25.39,71.09,Tanpa Adaptasi,0.17
+413,1997,USA,South,Coffee,2624.12,10.0,3.71,7,22.75,33.94,89.34,44.12,Tanaman Tahan Kekeringan,29.68
+6204,1997,USA,South,Coffee,1965.45,20.34,2.853,9,49.77,29.93,1.12,49.98,Tanaman Tahan Kekeringan,34.07
+4874,1997,USA,South,Corn,1312.63,27.5,1.7009999999999998,0,17.02,25.01,83.44,77.64,Pertanian Organik,23.31
+6683,1997,USA,South,Rice,1968.83,7.81,2.79,8,71.27,12.03,16.75,76.97,Rotasi Tanaman,18.83
+4157,1997,USA,South,Sugarcane,,4.17,2.457,9,65.29,22.81,88.15,65.92,Tanpa Adaptasi,18.74
+2510,1997,USA,South,Vegetables,2307.29,26.83,4.095,5,94.89,33.32,40.51,69.28,Pertanian Organik,16.65
+3923,1997,USA,West,Barley,2897.61,9.29,3.82,0,29.47,1.19,91.47,81.06,Tanaman Tahan Kekeringan,29.93
+1487,1997,USA,West,Coffee,1914.95,11.19,3.79,8,70.41,14.02,60.13,39.12,Rotasi Tanaman,12.77
+138,1997,USA,West,Corn,1651.77,16.58,1.2060000000000002,4,51.78,22.73,46.63,32.9,Rotasi Tanaman,0.14
+6611,1997,USA,West,Corn,1167.85,23.73,3.114,0,87.5,29.58,91.78,39.94,Tanaman Tahan Kekeringan,20.43
+2381,1997,USA,West,Cotton,1602.53,26.78,1.359,5,94.03,32.41,8.77,97.42,Pertanian Organik,23.25
+7939,1997,USA,West,Fruits,680.93,6.73,0.95,6,,31.05,16.98,64.98,Tanpa Adaptasi,-2.76
+1759,1997,USA,West,Rice,1408.34,15.62,2.97,3,24.47,23.2,66.49,48.58,Tanaman Tahan Kekeringan,26.24
+5854,1997,USA,West,Rice,2960.06,26.34,4.284,8,42.14,44.6,52.46,45.39,Tanpa Adaptasi,12.39
+389,1997,USA,West,Vegetables,2335.92,7.57,3.52,5,35.9,43.88,2.56,85.96,Manajemen Air,10.25
+5009,1997,USA,West,Wheat,209.88,5.8,2.7,2,16.19,3.94,17.53,82.39,Pertanian Organik,-0.63
+5511,1998,USA,Midwest,Corn,2242.09,28.73,2.214,5,26.7,7.81,14.96,52.81,Tanpa Adaptasi,30.13
+1923,1998,USA,Midwest,Cotton,2777.74,18.47,1.125,9,10.52,7.34,98.5,36.16,Pertanian Organik,34.73
+4036,1998,USA,Midwest,Cotton,483.43,11.76,,8,13.15,11.51,58.63,72.9,Tanaman Tahan Kekeringan,26.77
+6711,1998,USA,Midwest,Cotton,678.13,1.92,0.51,4,44.03,6.65,0.41,76.05,Tanaman Tahan Kekeringan,8.42
+4682,1998,USA,Midwest,Soybeans,2861.03,4.3,3.4,8,83.59,13.08,88.28,42.25,Tanaman Tahan Kekeringan,33.47
+745,1998,USA,Northeast,Fruits,1292.25,20.5,1.53,5,12.2,16.22,74.92,78.01,Tanaman Tahan Kekeringan,12.31
+7972,1998,USA,Northeast,Fruits,2946.38,22.89,2.826,6,46.44,14.31,99.58,76.65,Manajemen Air,21.16
+3418,1998,USA,South,Barley,384.96,23.28,4.482,1,59.39,38.73,62.31,33.51,Tanaman Tahan Kekeringan,11.23
+5643,1998,USA,South,Barley,2328.13,3.44,0.61,5,52.39,37.35,56.33,87.01,Pertanian Organik,5.75
+1474,1998,USA,South,Cotton,2917.28,9.14,3.39,2,89.5,17.88,60.15,71.53,Tanaman Tahan Kekeringan,30.29
+68,1998,USA,South,Fruits,722.52,4.29,2.68,2,17.45,36.88,71.02,69.87,Manajemen Air,6.42
+6788,1998,USA,South,Fruits,522.22,4.89,1.02,9,70.35,38.94,83.36,51.73,Tanaman Tahan Kekeringan,29.37
+7886,1998,USA,South,Fruits,1351.12,7.76,3.12,8,88.02,33.73,89.61,83.61,Tanaman Tahan Kekeringan,19.35
+763,1998,USA,South,Rice,313.06,27.67,1.269,9,27.13,29.69,41.52,94.2,Pertanian Organik,1.95
+7207,1998,USA,South,Rice,1880.3,19.41,2.772,2,94.41,7.11,92.5,67.23,Pertanian Organik,13.93
+5897,1998,USA,South,Soybeans,2811.25,1.06,2.42,9,40.03,19.56,25.89,62.81,Rotasi Tanaman,4.16
+3887,1998,USA,South,Sugarcane,1638.98,19.26,2.3040000000000003,0,30.38,48.64,66.94,42.86,Tanaman Tahan Kekeringan,3.14
+78,1998,USA,West,Coffee,362.14,12.4,3.015,4,40.62,42.43,22.03,46.28,Rotasi Tanaman,27.82
+825,1998,USA,West,Fruits,2208.45,18.8,1.2240000000000002,4,13.52,41.4,95.31,70.43,Rotasi Tanaman,1.88
+1964,1998,USA,West,Soybeans,2219.61,4.36,4.32,4,35.19,34.81,53.64,91.5,Tanaman Tahan Kekeringan,10.18
+4215,1998,USA,West,Sugarcane,640.55,26.79,3.888,3,97.3,10.87,15.09,73.48,Rotasi Tanaman,17.59
+5555,1998,USA,West,Sugarcane,1902.27,29.72,1.161,8,67.63,41.87,46.88,67.69,Rotasi Tanaman,1.19
+2310,1998,USA,West,Vegetables,1063.26,21.42,3.627,4,74.92,23.11,15.09,92.79,Pertanian Organik,19.29
+4833,1998,USA,West,Wheat,2241.99,28.87,3.375,3,54.38,45.93,47.18,57.91,Pertanian Organik,28.35
+7067,1998,USA,West,Wheat,2255.65,11.61,4.15,0,25.58,5.0,2.91,83.13,Manajemen Air,14.7
+4752,1998,USA,West,,2498.83,3.32,2.08,8,41.12,35.82,10.84,70.92,Rotasi Tanaman,6.41
+5360,1998,USA,West,,2947.97,4.2,2.96,2,28.89,46.41,28.67,76.19,Tanpa Adaptasi,-3.52
+7429,1999,USA,Midwest,Barley,1134.38,13.81,2.23,7,44.52,17.55,71.29,64.15,Tanaman Tahan Kekeringan,14.46
+6083,1999,USA,Midwest,Sugarcane,370.81,19.18,2.826,3,19.71,45.61,35.72,75.83,Tanpa Adaptasi,26.46
+2613,1999,USA,Midwest,Wheat,1042.11,14.39,3.22,10,,4.86,33.65,63.48,Tanpa Adaptasi,22.07
+4027,1999,USA,Midwest,Wheat,1204.61,26.56,3.6,10,19.69,19.43,80.68,75.44,Rotasi Tanaman,15.99
+6580,1999,USA,Midwest,,2699.58,3.26,1.17,6,98.4,26.55,40.53,77.68,Pertanian Organik,23.99
+4384,1999,USA,Northeast,Barley,442.91,18.04,0.738,3,98.11,39.46,99.97,40.68,Pertanian Organik,-1.95
+5763,1999,USA,Northeast,Barley,2962.47,8.25,3.58,0,72.18,20.84,26.38,78.3,Manajemen Air,16.8
+1013,1999,USA,Northeast,Coffee,839.88,10.09,1.24,3,77.52,11.23,24.72,85.52,Rotasi Tanaman,-3.28
+7200,1999,USA,Northeast,Coffee,1368.5,22.54,1.728,4,69.95,10.88,92.09,54.93,Tanpa Adaptasi,33.37
+2464,1999,USA,Northeast,Corn,2829.09,4.91,1.14,5,39.77,35.56,76.66,65.75,Pertanian Organik,20.93
+5264,1999,USA,Northeast,Rice,543.5,11.04,3.16,1,67.5,49.45,87.95,75.83,Tanpa Adaptasi,11.25
+2579,1999,USA,Northeast,,408.71,14.49,0.864,4,75.54,36.5,7.0,47.24,Rotasi Tanaman,9.1
+4608,1999,USA,South,Barley,966.75,16.92,1.602,0,97.38,16.14,45.62,89.71,Manajemen Air,15.79
+1602,1999,USA,South,Soybeans,1765.5,26.85,4.023,10,63.72,43.58,49.12,90.1,Tanaman Tahan Kekeringan,17.31
+1668,1999,USA,South,Sugarcane,923.98,7.08,1.03,8,30.87,15.25,21.42,80.02,Manajemen Air,30.94
+176,1999,USA,West,Cotton,2604.8,6.73,1.11,1,39.02,17.4,39.93,47.26,Rotasi Tanaman,27.66
+1238,1999,USA,West,Cotton,2463.6,15.59,1.98,6,21.15,32.98,56.12,77.53,Rotasi Tanaman,3.77
+5532,1999,USA,West,Cotton,1164.74,26.41,0.756,4,,30.47,17.72,97.28,Manajemen Air,32.28
+305,1999,USA,West,Fruits,302.95,21.87,2.43,0,79.72,44.21,8.79,97.35,Manajemen Air,11.64
+1389,1999,USA,West,Rice,2370.41,1.76,1.57,4,48.18,5.67,58.28,61.06,Pertanian Organik,31.76
+4646,1999,USA,West,Rice,2285.87,10.05,1.65,6,25.33,28.39,32.24,59.37,Manajemen Air,0.09
+959,1999,USA,West,Sugarcane,262.55,25.82,2.664,4,46.96,31.39,49.36,92.35,Manajemen Air,24.95
+4224,1999,USA,West,Sugarcane,203.03,14.62,2.628,3,69.84,29.99,13.63,31.39,Pertanian Organik,12.17
+2219,1999,USA,West,Vegetables,2626.9,11.14,3.77,0,28.41,1.86,84.4,87.99,Rotasi Tanaman,15.76
+7192,1999,USA,West,Wheat,1045.38,20.83,3.231,10,51.66,8.39,81.53,39.72,Tanaman Tahan Kekeringan,33.52
+5341,1999,USA,West,,1402.26,21.48,3.519,9,34.7,26.82,54.88,74.55,Tanpa Adaptasi,24.01
+3177,2000,USA,Midwest,Barley,1195.06,25.0,1.656,9,15.6,34.48,79.91,34.13,Rotasi Tanaman,12.48
+4528,2000,USA,Midwest,Barley,1628.49,20.3,1.953,4,54.53,27.16,3.91,87.04,Pertanian Organik,-3.69
+2429,2000,USA,Midwest,Corn,1982.23,3.33,,7,36.24,29.18,8.57,72.18,Manajemen Air,10.14
+2614,2000,USA,Midwest,Fruits,907.18,24.58,2.484,1,11.47,27.93,13.44,43.18,Tanpa Adaptasi,14.75
+4423,2000,USA,Midwest,Fruits,501.17,13.98,1.97,3,41.4,48.48,22.46,82.26,Pertanian Organik,3.19
+340,2000,USA,Midwest,Soybeans,1773.95,23.17,1.764,2,39.8,0.44,64.79,60.55,Rotasi Tanaman,22.28
+3990,2000,USA,Midwest,Wheat,2894.6,29.08,2.4120000000000004,7,93.38,31.12,43.07,66.41,Rotasi Tanaman,17.51
+6836,2000,USA,Midwest,Wheat,469.17,18.76,3.411,3,45.97,1.9,86.16,90.76,Tanpa Adaptasi,28.69
+7219,2000,USA,Northeast,Coffee,859.43,11.97,1.43,2,60.61,2.6,57.88,95.28,Manajemen Air,20.94
+2952,2000,USA,Northeast,Wheat,2194.23,29.3,2.007,1,25.82,29.92,17.53,74.16,Rotasi Tanaman,25.32
+3020,2000,USA,Northeast,Wheat,2932.45,8.62,2.67,9,77.33,2.52,66.94,54.4,Tanaman Tahan Kekeringan,13.95
+1695,2000,USA,South,Barley,2401.56,17.79,2.3040000000000003,3,92.68,3.97,70.75,35.28,Rotasi Tanaman,-4.04
+7486,2000,USA,South,Barley,1067.02,26.09,3.123,8,98.57,21.6,33.41,93.99,Tanaman Tahan Kekeringan,25.43
+3552,2000,USA,South,Coffee,2872.65,22.8,3.1050000000000004,7,96.94,39.84,48.32,39.81,Tanaman Tahan Kekeringan,25.31
+3788,2000,USA,South,Coffee,1218.99,27.61,2.52,9,36.94,38.9,73.15,37.89,Manajemen Air,28.32
+1874,2000,USA,South,Corn,399.47,5.53,1.395,8,72.98,36.8,38.89,91.14,Tanpa Adaptasi,-1.19
+7134,2000,USA,South,Corn,1298.19,27.76,,10,68.11,28.96,57.51,60.82,Pertanian Organik,7.9
+7880,2000,USA,South,Fruits,2987.17,27.72,1.746,2,86.6,34.63,56.85,39.25,Rotasi Tanaman,-2.15
+1531,2000,USA,South,Rice,2388.23,3.1,2.0,1,29.09,2.12,20.69,44.87,Manajemen Air,25.01
+7277,2000,USA,South,Soybeans,1672.16,17.47,1.917,1,66.82,9.49,94.19,49.74,Manajemen Air,29.91
+5201,2000,USA,South,Vegetables,1287.1,17.0,1.476,7,64.45,49.46,29.43,52.68,Rotasi Tanaman,23.61
+1631,2000,USA,West,Corn,2509.19,29.78,2.205,3,55.01,36.72,42.2,87.96,Manajemen Air,30.22
+6115,2000,USA,West,Fruits,2511.91,13.56,2.23,1,89.16,28.09,21.29,52.15,Pertanian Organik,10.24
+6209,2000,USA,West,Fruits,1638.8,24.08,1.395,9,12.99,12.05,77.99,79.65,Tanaman Tahan Kekeringan,3.21
+4907,2000,USA,West,Soybeans,896.44,5.55,1.39,2,66.11,33.59,39.15,44.96,Tanaman Tahan Kekeringan,6.16
+7249,2000,USA,West,Vegetables,1128.97,9.55,1.12,9,18.57,17.52,18.93,32.53,Pertanian Organik,-4.88
+3221,2001,USA,Midwest,Fruits,2320.84,16.24,2.061,4,52.26,19.2,28.94,39.36,Tanaman Tahan Kekeringan,32.51
+5929,2001,USA,Midwest,Rice,1909.3,0.77,1.32,1,13.8,13.64,39.65,84.74,Manajemen Air,25.31
+1466,2001,USA,Midwest,Soybeans,1921.43,19.27,2.124,8,92.64,31.79,41.24,69.75,Tanaman Tahan Kekeringan,21.17
+4196,2001,USA,Midwest,Sugarcane,2111.43,23.46,1.035,9,90.11,28.74,22.4,38.78,Tanpa Adaptasi,3.23
+6831,2001,USA,Midwest,Wheat,972.93,28.1,2.007,0,76.34,0.19,68.57,82.51,Tanpa Adaptasi,17.38
+3238,2001,USA,Northeast,Barley,2482.21,13.08,2.91,3,31.37,2.65,29.33,66.83,Pertanian Organik,30.23
+7725,2001,USA,Northeast,Barley,284.18,4.69,3.5010000000000003,8,83.88,47.97,16.59,44.19,Manajemen Air,34.0
+2419,2001,USA,Northeast,Fruits,2643.53,29.32,2.952,4,93.34,25.51,50.53,44.89,Tanpa Adaptasi,24.43
+830,2001,USA,South,Coffee,1843.01,13.02,2.77,0,95.05,3.29,40.13,67.7,Tanpa Adaptasi,31.24
+3065,2001,USA,South,Coffee,882.69,6.33,1.56,5,71.67,8.34,58.74,80.43,Rotasi Tanaman,11.17
+2399,2001,USA,South,Corn,716.04,23.26,2.007,3,10.16,27.92,77.34,76.22,Manajemen Air,9.86
+5951,2001,USA,South,Fruits,1691.94,24.86,1.134,5,50.2,9.48,95.58,94.75,Manajemen Air,33.5
+7431,2001,USA,South,Fruits,1298.44,29.88,2.826,10,51.65,27.36,97.91,76.88,Pertanian Organik,32.44
+3274,2001,USA,South,Rice,2148.13,20.55,1.638,10,93.76,37.88,61.3,45.54,Pertanian Organik,23.87
+4495,2001,USA,South,Soybeans,912.4,15.32,2.277,1,57.38,19.4,40.85,34.75,Pertanian Organik,23.5
+1427,2001,USA,South,Sugarcane,,2.31,3.81,4,88.05,27.38,74.85,59.43,Rotasi Tanaman,12.85
+1609,2001,USA,South,Sugarcane,483.62,23.1,0.855,2,49.33,19.52,21.12,66.1,Tanaman Tahan Kekeringan,-4.86
+5054,2001,USA,South,Vegetables,1858.39,18.48,1.071,5,90.7,8.26,84.96,82.04,Tanaman Tahan Kekeringan,30.87
+3198,2001,USA,West,Barley,1793.21,25.51,3.87,10,48.23,47.38,54.64,68.15,Tanpa Adaptasi,14.13
+5140,2001,USA,West,Barley,397.04,29.36,1.611,3,13.95,31.67,78.13,84.98,Rotasi Tanaman,11.01
+6640,2001,USA,West,Barley,1520.09,2.23,3.05,7,35.08,35.04,59.87,54.23,Rotasi Tanaman,20.56
+3014,2001,USA,West,Coffee,1881.25,28.61,2.43,6,85.4,44.25,48.48,94.19,Manajemen Air,-0.01
+6753,2001,USA,West,Corn,2813.91,25.23,0.801,6,91.71,1.07,94.27,68.25,Tanaman Tahan Kekeringan,28.53
+7104,2001,USA,West,Cotton,882.25,7.16,2.25,5,85.35,35.22,80.73,56.33,Manajemen Air,-4.66
+5157,2001,USA,West,Fruits,2587.8,24.42,1.332,2,44.86,13.06,91.8,49.12,Rotasi Tanaman,4.46
+39,2001,USA,West,Rice,2430.92,4.53,2.83,6,89.88,17.65,27.41,64.95,Pertanian Organik,20.44
+7597,2001,USA,West,Vegetables,1113.1,26.39,3.726,6,37.66,6.03,62.9,80.57,Manajemen Air,14.65
+4378,2001,USA,West,Wheat,1751.13,10.5,1.86,6,33.29,3.58,8.14,96.72,Pertanian Organik,11.97
+2099,2002,USA,Midwest,Wheat,2747.08,22.75,0.747,9,43.27,26.64,98.87,83.26,Pertanian Organik,34.85
+4146,2002,USA,Midwest,,1882.57,15.72,2.331,6,60.44,24.22,61.38,70.69,Rotasi Tanaman,-2.8
+7497,2002,USA,Northeast,Coffee,580.93,0.7,2.29,7,42.27,44.93,47.48,90.67,Manajemen Air,34.32
+611,2002,USA,Northeast,Corn,1580.5,29.21,2.97,7,37.05,0.38,18.24,90.45,Rotasi Tanaman,25.34
+5712,2002,USA,Northeast,Rice,2280.89,20.42,3.249,10,51.75,20.26,39.87,40.92,Rotasi Tanaman,14.98
+1688,2002,USA,Northeast,Sugarcane,808.84,6.44,,6,82.01,40.99,83.64,95.03,Tanpa Adaptasi,30.58
+1957,2002,USA,Northeast,Wheat,2762.1,1.45,4.81,7,70.09,32.56,35.65,41.33,Tanpa Adaptasi,10.55
+6543,2002,USA,Northeast,Wheat,1078.58,8.98,3.68,6,90.19,14.02,25.75,42.47,Rotasi Tanaman,11.07
+673,2002,USA,South,Corn,322.81,1.37,3.168,4,48.23,35.3,77.11,51.56,Manajemen Air,18.19
+4441,2002,USA,South,Cotton,1633.86,28.68,2.628,7,28.72,49.05,7.54,78.81,Pertanian Organik,5.35
+6382,2002,USA,South,Cotton,656.46,17.65,2.052,9,97.12,33.91,39.73,40.52,Tanaman Tahan Kekeringan,9.8
+3981,2002,USA,South,Rice,2008.57,12.37,3.41,9,30.41,28.5,9.95,39.12,Tanpa Adaptasi,26.38
+5822,2002,USA,South,Rice,2703.16,25.81,0.855,3,87.59,45.31,12.99,71.87,Tanpa Adaptasi,24.39
+1002,2002,USA,South,Soybeans,2127.43,20.33,0.63,2,90.72,3.74,78.46,64.25,Manajemen Air,-4.34
+3929,2002,USA,South,Sugarcane,1115.58,6.03,1.39,7,98.3,24.91,50.13,61.54,Manajemen Air,34.33
+3347,2002,USA,South,Vegetables,,9.24,3.74,8,43.68,17.49,20.94,38.67,Rotasi Tanaman,32.45
+3820,2002,USA,South,Wheat,1601.44,3.29,3.14,0,33.5,5.87,97.4,39.49,Pertanian Organik,26.86
+2960,2002,USA,West,Rice,1344.94,29.85,0.5670000000000001,1,18.83,29.97,20.24,38.64,Tanaman Tahan Kekeringan,1.68
+3220,2002,USA,West,Rice,1350.0,10.75,2.63,6,75.24,9.33,70.87,72.75,Tanaman Tahan Kekeringan,33.15
+6779,2002,USA,West,Rice,208.28,2.61,2.277,9,89.88,29.36,50.02,40.49,Tanaman Tahan Kekeringan,4.44
+7754,2003,USA,Midwest,Coffee,1648.19,6.2,3.12,2,78.0,42.35,89.29,55.67,Pertanian Organik,34.0
+6364,2003,USA,Midwest,Corn,2149.3,4.4,2.91,3,30.61,16.94,12.48,93.23,Tanpa Adaptasi,17.65
+6852,2003,USA,Midwest,Corn,2042.99,16.68,2.745,3,27.47,26.07,63.49,44.59,Manajemen Air,31.66
+506,2003,USA,Midwest,Fruits,1583.82,16.79,2.079,8,11.39,10.04,85.07,96.45,Manajemen Air,29.0
+7025,2003,USA,Midwest,Vegetables,2796.61,26.57,4.392,6,29.07,25.34,72.08,87.52,Rotasi Tanaman,19.68
+5326,2003,USA,Northeast,Barley,2272.28,11.45,2.5,9,57.37,19.48,46.13,77.32,Tanaman Tahan Kekeringan,14.7
+4324,2003,USA,Northeast,Coffee,,13.0,1.84,5,50.2,30.78,93.93,92.72,Manajemen Air,20.2
+1478,2003,USA,Northeast,Corn,963.12,1.0,3.47,4,34.3,23.11,21.03,65.04,Rotasi Tanaman,26.44
+7370,2003,USA,Northeast,Corn,2243.46,1.07,1.79,5,58.7,15.72,33.13,91.69,Tanpa Adaptasi,27.56
+3023,2003,USA,Northeast,Cotton,2653.0,26.56,2.2230000000000003,1,33.62,9.34,20.48,33.47,Pertanian Organik,29.83
+5039,2003,USA,Northeast,,426.87,5.13,0.675,9,91.55,31.03,59.97,34.97,Tanaman Tahan Kekeringan,-3.79
+6521,2003,USA,South,Barley,1162.37,5.47,2.51,5,26.1,27.43,82.99,35.05,Manajemen Air,-1.97
+6942,2003,USA,South,Corn,,14.45,2.42,6,16.27,22.91,65.01,86.87,Tanpa Adaptasi,26.95
+823,2003,USA,South,Soybeans,211.95,24.93,2.358,1,49.83,19.58,24.74,53.63,Tanpa Adaptasi,24.3
+7216,2003,USA,South,Sugarcane,1608.86,22.16,2.889,9,53.44,15.61,90.45,59.1,Tanpa Adaptasi,15.43
+6806,2003,USA,South,Vegetables,2827.23,21.08,2.664,7,39.35,47.62,23.12,93.83,Tanpa Adaptasi,9.71
+4122,2003,USA,West,Corn,642.45,27.27,2.511,7,10.71,4.82,33.31,81.75,Tanaman Tahan Kekeringan,-0.14
+1618,2003,USA,West,Rice,2638.41,7.81,2.41,2,76.69,18.92,17.95,88.58,Tanpa Adaptasi,6.27
+7634,2003,USA,West,Soybeans,2049.9,3.67,2.1,4,10.59,17.96,80.12,58.81,Rotasi Tanaman,31.6
+5865,2003,USA,West,Vegetables,933.81,18.8,2.178,4,46.75,32.63,79.31,72.76,Rotasi Tanaman,-2.78
+7621,2003,USA,West,Vegetables,573.46,7.25,1.01,3,81.19,37.91,53.97,59.17,Tanaman Tahan Kekeringan,31.47
+4329,2003,USA,West,Wheat,1393.78,4.4,2.04,9,91.81,16.3,55.36,67.26,Tanaman Tahan Kekeringan,23.3
+3773,2004,USA,Midwest,Barley,1761.59,21.28,2.079,0,,8.45,65.9,70.67,Manajemen Air,31.2
+4968,2004,USA,Midwest,Barley,1477.6,7.26,3.55,8,11.39,1.47,58.12,45.79,Rotasi Tanaman,32.25
+6596,2004,USA,Midwest,Corn,2997.26,9.49,2.88,1,22.16,31.85,9.13,43.46,Tanaman Tahan Kekeringan,30.43
+2654,2004,USA,Midwest,Sugarcane,1078.3,0.68,2.79,8,72.64,49.07,17.07,64.25,Tanaman Tahan Kekeringan,4.21
+4964,2004,USA,Midwest,Vegetables,1370.45,3.43,1.6,5,53.96,47.98,39.03,32.19,Manajemen Air,28.65
+5732,2004,USA,Midwest,Wheat,2060.07,7.47,4.86,9,20.75,26.98,98.78,86.74,Manajemen Air,18.41
+4128,2004,USA,Northeast,Coffee,1039.43,28.72,1.4400000000000002,6,52.71,16.29,28.71,38.98,Pertanian Organik,7.65
+6116,2004,USA,Northeast,Coffee,2149.75,7.34,1.64,4,60.02,45.05,39.57,97.47,Manajemen Air,16.2
+234,2004,USA,Northeast,Sugarcane,785.01,11.09,3.32,5,,16.97,24.72,31.66,Tanaman Tahan Kekeringan,10.89
+2491,2004,USA,Northeast,Wheat,2816.58,25.14,1.098,7,77.92,49.68,25.52,93.29,Manajemen Air,2.99
+3461,2004,USA,Northeast,Wheat,1139.35,17.31,1.863,6,10.13,42.89,15.74,49.81,Rotasi Tanaman,11.42
+2033,2004,USA,South,Coffee,1043.67,27.15,1.575,4,23.02,11.31,2.88,72.53,Pertanian Organik,0.54
+4615,2004,USA,South,Corn,2271.3,17.11,2.178,1,34.84,7.9,73.43,54.99,Manajemen Air,34.18
+2587,2004,USA,South,Cotton,2264.24,10.69,2.87,10,85.87,39.47,76.12,98.22,Tanpa Adaptasi,-0.46
+7355,2004,USA,South,Cotton,989.36,28.34,2.43,5,72.83,47.75,82.79,87.52,Tanpa Adaptasi,16.34
+6904,2004,USA,South,Vegetables,2292.03,29.68,2.583,2,13.27,22.33,52.3,97.11,Tanpa Adaptasi,-4.37
+2856,2004,USA,South,,2515.73,11.64,3.42,9,74.44,6.65,35.96,69.16,Rotasi Tanaman,27.31
+2819,2004,USA,West,Corn,1483.04,7.29,1.79,10,56.23,31.48,19.63,71.74,Tanaman Tahan Kekeringan,9.69
+5609,2004,USA,West,Cotton,570.13,29.26,3.258,0,91.79,5.25,98.93,65.12,Tanaman Tahan Kekeringan,19.62
+3482,2004,USA,West,Vegetables,2929.26,20.42,0.486,5,34.13,23.73,81.08,82.98,Pertanian Organik,3.34
+4301,2004,USA,West,Vegetables,1860.36,6.18,2.96,10,56.22,38.56,45.88,41.32,Rotasi Tanaman,33.71
+6822,2004,USA,West,Wheat,805.86,2.5,2.9,5,60.23,8.28,86.62,71.19,Manajemen Air,2.77
+6883,2004,USA,West,,1143.0,19.97,0.621,0,10.78,23.34,31.73,93.84,Pertanian Organik,7.78
+1760,2005,USA,Midwest,Barley,,16.82,2.3040000000000003,10,69.36,20.79,77.55,47.18,Pertanian Organik,3.41
+3204,2005,USA,Midwest,Coffee,1891.27,1.82,2.6,7,58.99,9.39,69.44,65.5,Rotasi Tanaman,25.51
+4276,2005,USA,Midwest,Cotton,974.36,23.19,3.69,2,30.21,21.39,29.91,56.66,Pertanian Organik,15.69
+7466,2005,USA,Midwest,Cotton,661.1,14.46,1.57,1,25.61,5.72,74.13,79.03,Rotasi Tanaman,7.14
+5809,2005,USA,Midwest,Rice,2158.95,10.76,1.9,3,35.79,41.96,77.4,76.02,Rotasi Tanaman,3.53
+3885,2005,USA,Midwest,Soybeans,1331.84,29.87,2.664,4,39.9,1.13,80.64,51.29,Tanpa Adaptasi,20.68
+5387,2005,USA,Midwest,Soybeans,2260.5,26.57,1.7009999999999998,9,63.85,41.95,37.01,74.9,Pertanian Organik,12.41
+1860,2005,USA,Northeast,Corn,2422.25,25.33,2.3760000000000003,9,85.16,46.1,23.15,51.46,Tanpa Adaptasi,4.52
+3291,2005,USA,Northeast,Corn,580.37,11.76,,3,63.87,10.37,69.61,78.86,Tanaman Tahan Kekeringan,21.6
+7229,2005,USA,Northeast,Corn,2542.8,17.24,2.619,9,27.74,10.28,40.97,49.62,Rotasi Tanaman,25.1
+5807,2005,USA,Northeast,Soybeans,2921.45,29.44,3.636,3,87.06,31.47,56.6,98.63,Tanpa Adaptasi,12.11
+6301,2005,USA,Northeast,Sugarcane,2725.25,21.25,2.07,10,45.74,42.27,80.94,54.32,Tanaman Tahan Kekeringan,9.6
+7110,2005,USA,Northeast,Sugarcane,2565.5,8.41,2.95,1,78.44,29.8,3.54,59.21,Rotasi Tanaman,26.95
+847,2005,USA,South,Barley,687.45,8.17,3.82,6,73.12,48.32,17.62,60.21,Manajemen Air,30.33
+312,2005,USA,South,Cotton,2397.34,10.31,2.24,5,62.44,16.15,37.7,74.84,Tanpa Adaptasi,12.09
+738,2005,USA,South,Cotton,2698.32,29.4,2.871,3,63.15,2.51,48.9,63.62,Tanpa Adaptasi,15.41
+6072,2005,USA,South,Cotton,2188.98,28.23,3.114,2,56.79,0.98,40.66,84.1,Pertanian Organik,12.65
+4364,2005,USA,South,Fruits,600.92,12.58,2.07,4,53.04,44.69,55.61,83.81,Pertanian Organik,16.27
+5598,2005,USA,West,Barley,2348.4,22.46,1.746,3,96.65,48.18,0.07,37.12,Rotasi Tanaman,19.36
+2804,2005,USA,West,Corn,1891.99,8.72,2.86,2,83.29,34.52,94.08,39.48,Tanpa Adaptasi,14.25
+5985,2005,USA,West,Corn,2155.77,21.02,3.285,6,44.9,20.3,0.51,32.24,Tanaman Tahan Kekeringan,31.9
+4840,2005,USA,West,Fruits,2260.66,29.32,1.098,5,16.94,38.24,6.63,59.3,Manajemen Air,21.33
+7728,2005,USA,West,Soybeans,334.54,14.77,1.395,6,51.89,48.51,1.2,87.21,Rotasi Tanaman,14.66
+7041,2005,USA,West,Sugarcane,1567.56,9.46,2.41,3,46.18,34.96,13.26,96.37,Manajemen Air,32.41
+2357,2006,USA,Midwest,Barley,1351.72,14.73,2.54,9,13.08,28.67,50.8,90.21,Manajemen Air,16.98
+1251,2006,USA,Midwest,Corn,1238.41,8.78,1.42,7,27.64,35.26,27.68,47.13,Manajemen Air,8.51
+6231,2006,USA,Midwest,Cotton,854.85,6.96,2.59,5,88.39,8.2,97.79,31.58,Tanaman Tahan Kekeringan,27.44
+6688,2006,USA,Midwest,Cotton,1547.89,3.53,2.41,5,58.79,47.77,71.34,39.26,Tanaman Tahan Kekeringan,3.16
+1345,2006,USA,Midwest,Fruits,1980.97,25.07,2.3400000000000003,5,55.01,13.82,62.72,48.65,Manajemen Air,8.27
+6669,2006,USA,Midwest,Rice,1952.67,12.89,2.06,6,24.98,3.3,33.04,60.09,Tanpa Adaptasi,9.1
+5114,2006,USA,Midwest,Soybeans,1531.24,22.77,3.771,9,55.47,34.03,87.93,83.98,Tanaman Tahan Kekeringan,12.59
+2920,2006,USA,Midwest,Sugarcane,2776.71,17.8,1.125,3,10.37,21.15,90.48,99.06,Tanaman Tahan Kekeringan,-1.97
+2264,2006,USA,Midwest,Vegetables,2672.74,27.56,1.476,8,77.25,10.81,98.29,77.04,Tanaman Tahan Kekeringan,-4.04
+6749,2006,USA,Midwest,Vegetables,1371.63,20.69,3.735,3,60.01,19.64,23.09,65.81,Manajemen Air,17.7
+376,2006,USA,Midwest,Wheat,1461.89,3.26,3.2,1,99.99,0.07,69.53,92.04,Manajemen Air,31.22
+313,2006,USA,Northeast,Coffee,334.68,17.83,0.99,6,17.75,16.85,2.45,34.36,Manajemen Air,23.91
+7386,2006,USA,Northeast,Coffee,1945.2,15.79,2.196,7,81.11,9.34,6.06,42.12,Manajemen Air,4.42
+5163,2006,USA,Northeast,Cotton,1666.8,24.54,2.322,7,47.39,22.27,87.24,90.23,Tanpa Adaptasi,31.32
+5211,2006,USA,Northeast,Fruits,1112.09,12.17,2.55,3,59.95,4.38,88.59,60.86,Rotasi Tanaman,12.29
+5600,2006,USA,Northeast,Fruits,1648.43,24.16,3.024,1,61.86,8.19,21.27,44.3,Pertanian Organik,18.32
+5921,2006,USA,Northeast,Rice,1347.63,23.99,2.646,2,70.63,30.17,58.43,36.72,Manajemen Air,21.24
+722,2006,USA,Northeast,Vegetables,241.46,8.51,1.08,10,61.18,14.41,35.21,50.33,Tanpa Adaptasi,22.93
+5841,2006,USA,South,Corn,865.03,3.89,3.96,10,76.51,47.2,90.35,80.45,Rotasi Tanaman,20.5
+4348,2006,USA,South,Rice,2520.51,25.85,1.917,4,46.81,42.17,32.53,81.42,Manajemen Air,15.28
+5595,2006,USA,South,Soybeans,1376.61,8.44,2.36,6,,34.5,14.87,52.5,Tanaman Tahan Kekeringan,27.07
+1603,2006,USA,West,Coffee,452.96,5.8,2.466,9,34.42,15.52,82.26,32.99,Tanpa Adaptasi,3.67
+83,2006,USA,West,Vegetables,688.65,9.65,3.91,3,13.51,14.31,99.0,74.17,Tanpa Adaptasi,13.6
+3315,2006,USA,West,Wheat,1295.92,26.14,0.846,10,90.59,6.06,96.23,63.58,Pertanian Organik,30.83
+5086,2006,USA,West,,620.88,25.78,2.862,1,,39.19,24.44,89.52,Tanaman Tahan Kekeringan,25.23
+4637,2007,USA,Midwest,Cotton,2323.27,27.42,3.582,0,28.47,10.55,61.27,54.65,Rotasi Tanaman,11.75
+3687,2007,USA,Midwest,Soybeans,1652.6,8.97,1.49,2,18.57,7.88,22.19,96.78,Rotasi Tanaman,2.02
+4669,2007,USA,Midwest,Wheat,1621.69,27.57,1.764,4,21.74,33.68,91.56,62.06,Rotasi Tanaman,4.46
+6650,2007,USA,Northeast,Fruits,2046.48,22.58,2.079,2,41.83,1.64,30.39,94.92,Tanpa Adaptasi,33.94
+5716,2007,USA,Northeast,Soybeans,1283.78,10.21,2.65,3,46.34,41.53,72.74,80.21,Tanaman Tahan Kekeringan,-2.29
+6733,2007,USA,Northeast,Vegetables,1546.62,14.04,1.03,8,,28.39,44.84,41.05,Tanaman Tahan Kekeringan,2.45
+3359,2007,USA,South,Fruits,2547.07,27.66,1.998,3,15.45,43.65,61.4,39.79,Rotasi Tanaman,23.37
+7978,2007,USA,South,Fruits,784.33,5.16,3.38,6,92.45,27.92,20.83,65.52,Tanpa Adaptasi,22.57
+1376,2007,USA,South,Rice,1408.18,27.02,2.007,2,16.81,36.09,93.75,44.14,Manajemen Air,30.34
+4065,2007,USA,South,Rice,351.91,7.95,2.718,9,57.14,48.75,3.96,64.21,Tanaman Tahan Kekeringan,33.61
+1936,2007,USA,South,Soybeans,1484.05,21.53,3.186,1,11.31,23.84,2.87,64.05,Manajemen Air,22.69
+5162,2007,USA,South,Vegetables,1985.37,4.9,3.51,9,26.47,2.24,54.1,56.61,Tanpa Adaptasi,26.09
+2371,2007,USA,West,Coffee,805.11,28.51,2.511,0,75.13,11.35,86.14,63.66,Manajemen Air,6.7
+2502,2007,USA,West,Coffee,1032.3,4.56,3.38,4,,32.46,69.54,70.02,Pertanian Organik,32.2
+1140,2008,USA,Midwest,Barley,1025.34,6.32,1.95,7,98.74,20.2,53.34,98.08,Rotasi Tanaman,1.32
+3997,2008,USA,Midwest,Cotton,1215.76,12.2,1.68,7,79.29,42.8,26.69,89.66,Pertanian Organik,30.76
+2546,2008,USA,Midwest,Fruits,1315.86,9.82,3.09,9,36.63,24.04,74.66,64.67,Tanaman Tahan Kekeringan,24.25
+7795,2008,USA,Midwest,Wheat,1910.25,1.84,1.53,1,58.14,7.83,52.94,51.44,Pertanian Organik,29.38
+2100,2008,USA,Midwest,,1290.41,17.69,2.385,10,73.62,19.29,67.14,35.97,Manajemen Air,-0.74
+7876,2008,USA,Northeast,Fruits,,3.25,2.29,3,51.02,32.95,88.28,67.11,Tanpa Adaptasi,7.73
+827,2008,USA,South,Cotton,2594.66,28.96,1.7009999999999998,4,32.52,44.29,38.54,45.87,Tanaman Tahan Kekeringan,3.13
+6842,2008,USA,South,Fruits,274.22,10.67,0.63,2,79.05,22.89,96.04,32.58,Tanpa Adaptasi,8.39
+197,2008,USA,South,Rice,1305.31,9.2,1.12,9,20.28,7.73,2.4,37.72,Tanpa Adaptasi,24.55
+4482,2008,USA,South,Wheat,1195.62,22.02,2.853,0,23.26,40.87,47.58,91.71,Tanaman Tahan Kekeringan,30.17
+3280,2008,USA,West,Barley,1212.42,4.38,3.0,2,34.16,39.46,69.5,85.01,Pertanian Organik,24.57
+4360,2008,USA,West,Barley,2932.49,14.79,3.03,1,34.14,38.42,72.56,48.43,Rotasi Tanaman,13.84
+5288,2008,USA,West,Barley,1726.06,17.39,3.519,3,20.93,49.05,38.29,75.91,Manajemen Air,20.12
+951,2008,USA,West,Corn,2083.43,7.77,4.9,9,63.54,16.32,93.93,62.66,Tanaman Tahan Kekeringan,10.81
+1848,2008,USA,West,Corn,2968.26,6.52,1.95,0,74.1,22.71,94.79,66.11,Pertanian Organik,22.79
+105,2008,USA,West,Rice,1534.56,8.11,2.51,7,45.6,36.06,57.03,57.54,Manajemen Air,18.49
+1305,2009,USA,Midwest,Barley,,28.09,2.628,6,82.71,26.27,94.07,76.39,Tanaman Tahan Kekeringan,7.16
+578,2009,USA,Midwest,Corn,2350.72,25.94,1.125,7,14.25,39.5,59.4,73.78,Tanpa Adaptasi,3.19
+1337,2009,USA,Midwest,Fruits,825.55,26.12,2.574,10,73.65,18.88,29.58,45.85,Tanaman Tahan Kekeringan,-4.8
+3712,2009,USA,Midwest,Soybeans,743.21,3.98,1.53,9,44.43,25.87,54.47,55.68,Tanaman Tahan Kekeringan,0.7
+3831,2009,USA,Midwest,Soybeans,751.9,11.49,3.48,4,89.87,2.85,14.82,74.13,Tanaman Tahan Kekeringan,11.86
+466,2009,USA,Midwest,Vegetables,1349.58,17.91,1.539,7,60.47,40.31,89.4,37.66,Manajemen Air,-0.47
+7670,2009,USA,Northeast,Coffee,832.96,13.98,1.6,6,81.26,24.56,83.67,83.17,Tanpa Adaptasi,29.28
+1136,2009,USA,Northeast,Cotton,2729.58,27.73,1.4580000000000002,7,82.1,41.41,21.28,46.02,Tanpa Adaptasi,6.65
+3499,2009,USA,Northeast,Fruits,2726.13,15.92,2.403,6,41.18,17.24,23.88,46.54,Tanaman Tahan Kekeringan,-1.43
+7718,2009,USA,Northeast,Fruits,1151.48,12.0,3.38,10,61.16,30.71,86.94,88.01,Tanaman Tahan Kekeringan,16.16
+2284,2009,USA,Northeast,Soybeans,443.7,14.08,2.313,0,62.87,25.8,55.38,76.83,Manajemen Air,2.21
+1182,2009,USA,Northeast,Sugarcane,2898.89,6.41,1.36,10,71.05,32.18,31.18,88.22,Manajemen Air,2.68
+660,2009,USA,South,Coffee,208.46,22.15,3.366,2,31.64,32.52,40.89,49.52,Rotasi Tanaman,26.84
+7645,2009,USA,South,Coffee,2438.35,1.24,3.03,9,86.92,44.53,48.12,83.27,Rotasi Tanaman,13.43
+3097,2009,USA,South,Corn,2447.18,7.83,2.94,5,14.93,35.6,55.33,42.47,Rotasi Tanaman,-1.5
+2582,2009,USA,South,Rice,2854.23,15.83,1.746,0,14.3,44.99,46.37,93.17,Manajemen Air,10.72
+3794,2009,USA,South,Soybeans,1383.13,17.97,2.151,4,50.84,23.16,45.37,49.64,Rotasi Tanaman,-0.59
+7362,2009,USA,South,Soybeans,1246.87,23.99,1.6740000000000002,2,63.24,4.84,96.54,97.79,Manajemen Air,1.83
+1108,2009,USA,South,Sugarcane,830.22,11.56,2.89,5,32.74,14.04,77.14,34.12,Tanaman Tahan Kekeringan,-3.49
+1260,2009,USA,West,Coffee,2218.26,10.06,2.0,7,75.43,38.29,76.91,91.89,Manajemen Air,19.67
+5397,2009,USA,West,Corn,1381.81,17.55,0.9,2,36.78,23.94,67.9,34.56,Pertanian Organik,3.71
+7546,2009,USA,West,Corn,521.12,1.93,3.09,4,92.6,19.8,32.04,97.91,Tanpa Adaptasi,32.35
+2858,2009,USA,West,Soybeans,1078.42,1.64,0.62,8,,39.41,83.42,38.05,Tanaman Tahan Kekeringan,7.54
+7814,2009,USA,West,Sugarcane,2552.5,21.35,2.979,3,97.86,19.41,73.83,38.45,Pertanian Organik,34.24
+5524,2009,USA,West,Wheat,2084.56,11.62,2.7,3,64.16,44.86,8.94,83.73,Tanpa Adaptasi,16.08
+5320,2010,USA,Midwest,Corn,2100.69,13.17,3.6,6,35.47,42.44,87.22,80.13,Manajemen Air,30.04
+7647,2010,USA,Midwest,Sugarcane,2657.02,16.98,1.1700000000000002,10,20.76,20.47,6.87,77.7,Tanaman Tahan Kekeringan,27.68
+5507,2010,USA,Midwest,Vegetables,2579.93,27.32,2.718,9,35.21,8.95,39.08,43.91,Rotasi Tanaman,32.4
+2881,2010,USA,Northeast,Barley,2640.64,22.94,0.486,7,17.96,40.51,44.01,48.43,Tanpa Adaptasi,-2.32
+3599,2010,USA,Northeast,Barley,648.25,9.24,2.45,9,99.08,15.9,31.57,87.98,Manajemen Air,11.15
+4168,2010,USA,Northeast,Corn,1994.79,17.74,3.3120000000000003,0,27.79,26.73,77.69,42.01,Manajemen Air,26.3
+1586,2010,USA,Northeast,Cotton,2594.63,16.88,0.954,0,50.43,1.69,20.41,77.83,Manajemen Air,8.18
+6584,2010,USA,Northeast,Fruits,2739.44,17.89,1.098,10,86.02,42.88,73.92,75.24,Tanaman Tahan Kekeringan,24.86
+561,2010,USA,Northeast,Sugarcane,2063.48,0.67,2.21,6,99.29,46.13,84.24,70.77,Manajemen Air,10.76
+6055,2010,USA,Northeast,Wheat,568.06,10.53,3.57,0,61.47,33.68,11.06,88.84,Tanpa Adaptasi,13.58
+7782,2010,USA,Northeast,Wheat,882.94,26.64,2.079,8,95.78,0.31,28.41,59.84,Rotasi Tanaman,-3.58
+2692,2010,USA,South,Coffee,2483.94,28.51,3.735,9,12.52,43.89,62.91,98.8,Manajemen Air,12.72
+5006,2010,USA,South,Cotton,1876.37,4.92,2.56,8,15.74,44.4,87.09,60.48,Tanpa Adaptasi,4.05
+1298,2010,USA,South,Sugarcane,2936.51,15.17,0.891,9,72.64,12.69,82.27,37.89,Tanpa Adaptasi,4.1
+6471,2010,USA,South,Vegetables,811.66,29.72,1.143,5,51.84,19.04,74.16,52.48,Tanpa Adaptasi,4.1
+3993,2010,USA,South,Wheat,2096.83,20.77,0.792,10,,28.7,40.4,33.66,Pertanian Organik,21.16
+1681,2010,USA,West,Rice,1930.86,28.82,2.043,1,58.36,1.4,86.17,88.86,Manajemen Air,33.08
+2534,2011,USA,Midwest,Barley,264.39,23.91,1.836,0,15.3,20.7,86.25,63.06,Pertanian Organik,14.08
+7093,2011,USA,Midwest,Barley,1591.94,5.89,1.48,3,79.39,40.06,91.21,72.97,Tanaman Tahan Kekeringan,4.11
+3244,2011,USA,Midwest,Coffee,1596.62,11.92,1.73,3,70.41,44.85,33.57,39.98,Tanpa Adaptasi,21.04
+3299,2011,USA,Midwest,Coffee,981.14,25.23,1.359,5,98.66,25.55,71.41,60.83,Rotasi Tanaman,-0.56
+6646,2011,USA,Midwest,Corn,2342.02,23.51,1.746,0,55.38,20.81,42.82,74.62,Tanpa Adaptasi,32.9
+2969,2011,USA,Midwest,Cotton,254.9,2.93,2.9160000000000004,4,60.13,25.18,23.69,38.68,Manajemen Air,13.55
+3824,2011,USA,Midwest,Fruits,1114.12,16.96,0.945,4,60.38,22.48,37.03,68.21,Pertanian Organik,1.98
+4930,2011,USA,Midwest,Fruits,2802.82,23.28,1.341,10,50.21,8.04,18.97,81.61,Pertanian Organik,-3.01
+5469,2011,USA,Midwest,Sugarcane,850.68,3.09,3.27,10,27.7,4.43,15.19,79.93,Pertanian Organik,30.2
+6053,2011,USA,Midwest,Vegetables,912.32,3.33,3.5,3,20.59,29.75,61.5,92.38,Tanpa Adaptasi,18.06
+5748,2011,USA,Northeast,Barley,1800.53,13.88,2.75,0,,28.89,41.09,67.96,Manajemen Air,10.43
+7982,2011,USA,Northeast,Cotton,1820.84,6.94,2.26,10,11.75,22.76,89.82,36.25,Tanaman Tahan Kekeringan,6.32
+2764,2011,USA,Northeast,Sugarcane,2091.83,3.92,1.64,7,58.42,8.21,52.84,45.48,Tanpa Adaptasi,10.91
+5548,2011,USA,Northeast,Sugarcane,1564.9,11.17,1.18,5,51.78,0.64,60.98,46.99,Pertanian Organik,4.94
+6999,2011,USA,Northeast,Wheat,876.16,23.2,1.404,5,43.54,20.13,28.18,81.93,Tanaman Tahan Kekeringan,24.09
+2726,2011,USA,South,Barley,2332.32,16.22,2.574,3,13.39,4.65,35.8,52.36,Manajemen Air,6.1
+4442,2011,USA,South,Barley,1855.74,17.16,2.394,5,24.48,16.46,63.23,53.25,Rotasi Tanaman,14.39
+6158,2011,USA,South,Coffee,1643.34,28.69,2.3400000000000003,4,40.64,27.28,37.82,33.28,Rotasi Tanaman,5.22
+3706,2011,USA,South,Rice,1064.65,5.87,1.95,10,12.85,45.33,97.32,85.89,Rotasi Tanaman,26.69
+6810,2011,USA,South,Rice,2406.25,16.4,,1,34.4,4.25,21.64,55.01,Tanaman Tahan Kekeringan,21.34
+617,2011,USA,South,Soybeans,445.0,27.91,1.53,7,40.04,30.52,65.4,48.86,Manajemen Air,13.72
+6141,2011,USA,South,Vegetables,1445.59,16.02,1.341,6,97.41,26.58,69.01,48.19,Manajemen Air,23.95
+3813,2011,USA,West,Coffee,,18.98,2.241,6,14.01,28.53,16.18,66.9,Manajemen Air,25.13
+7764,2011,USA,West,Coffee,999.61,13.22,,8,68.91,16.23,87.33,72.25,Tanaman Tahan Kekeringan,24.7
+7842,2011,USA,West,Corn,2317.59,21.33,3.807,0,94.85,47.02,35.76,48.6,Tanaman Tahan Kekeringan,15.76
+7773,2011,USA,West,Soybeans,2104.68,24.95,1.584,9,10.53,29.26,74.17,38.75,Tanpa Adaptasi,25.96
+5091,2012,USA,Midwest,Coffee,596.98,25.81,1.926,0,60.8,41.69,40.34,69.51,Pertanian Organik,4.46
+836,2012,USA,Midwest,Corn,2466.69,28.29,1.863,10,78.21,48.79,35.42,38.81,Rotasi Tanaman,16.53
+6763,2012,USA,Midwest,Rice,1626.26,22.22,1.827,8,67.09,2.85,36.18,32.59,Tanpa Adaptasi,28.99
+395,2012,USA,Midwest,Vegetables,2194.36,3.02,,2,53.91,10.6,6.91,83.95,Pertanian Organik,-3.06
+5823,2012,USA,Midwest,Vegetables,1582.09,15.81,2.979,6,46.85,48.06,94.58,96.8,Manajemen Air,27.78
+4409,2012,USA,Midwest,Wheat,1594.77,12.76,1.82,7,,10.14,22.02,66.59,Manajemen Air,22.54
+4816,2012,USA,Northeast,Coffee,1417.86,5.21,3.89,4,72.04,15.42,38.54,81.07,Pertanian Organik,17.58
+4333,2012,USA,Northeast,Corn,1698.65,23.03,2.421,10,44.48,26.13,61.15,61.1,Tanpa Adaptasi,20.78
+7151,2012,USA,Northeast,Corn,1029.53,3.44,3.12,4,14.43,12.93,7.3,34.33,Rotasi Tanaman,22.72
+7221,2012,USA,Northeast,Wheat,2483.0,15.28,2.322,1,51.16,41.98,10.01,34.49,Rotasi Tanaman,6.96
+7907,2012,USA,South,Coffee,635.39,5.17,1.3,1,48.92,4.37,21.99,51.8,Pertanian Organik,7.35
+3114,2012,USA,South,Rice,2326.18,27.47,2.331,7,27.35,33.06,29.4,61.91,Manajemen Air,13.84
+6875,2012,USA,South,Rice,1364.47,8.22,4.18,4,68.36,32.53,71.58,78.06,Manajemen Air,11.88
+2326,2012,USA,South,Soybeans,2561.33,25.47,2.25,2,41.33,3.61,99.55,57.69,Manajemen Air,1.37
+4800,2012,USA,South,Sugarcane,2770.43,1.26,3.44,6,18.74,39.33,31.43,70.55,Pertanian Organik,18.13
+5059,2012,USA,South,Sugarcane,758.06,29.95,,0,18.75,15.44,61.82,44.87,Manajemen Air,4.16
+7377,2012,USA,South,Vegetables,1011.12,23.7,1.377,5,64.6,16.45,67.44,70.77,Rotasi Tanaman,31.66
+2222,2012,USA,West,Barley,,19.5,1.746,6,10.53,26.9,39.19,78.38,Tanaman Tahan Kekeringan,-1.22
+3235,2012,USA,West,Barley,1818.79,1.37,0.97,0,52.22,38.7,88.64,87.99,Rotasi Tanaman,7.67
+5972,2012,USA,West,Barley,1943.42,11.46,3.5,9,19.46,36.24,27.15,57.64,Tanpa Adaptasi,32.57
+2518,2012,USA,West,Coffee,2968.85,3.31,3.29,6,99.4,24.79,48.22,81.25,Tanpa Adaptasi,16.87
+2179,2012,USA,West,Rice,,9.3,2.51,3,80.9,21.61,26.68,90.6,Tanpa Adaptasi,20.67
+6155,2012,USA,West,Rice,305.61,8.0,3.0330000000000004,1,50.42,19.08,80.23,42.57,Manajemen Air,15.7
+5406,2012,USA,West,Sugarcane,1354.74,16.12,1.989,1,72.91,38.66,74.1,45.28,Manajemen Air,32.8
+5919,2012,USA,West,Sugarcane,2710.72,16.16,2.457,10,,30.43,70.11,71.58,Pertanian Organik,13.0
+2883,2012,USA,West,Vegetables,1610.76,14.39,3.48,7,79.81,4.45,55.34,41.25,Tanpa Adaptasi,31.38
+5845,2012,USA,West,Vegetables,2124.52,21.8,2.07,8,94.89,18.57,54.0,43.35,Manajemen Air,24.66
+5358,2013,USA,Midwest,Barley,246.86,25.26,4.275,5,61.83,24.6,87.06,69.9,Tanaman Tahan Kekeringan,13.37
+2557,2013,USA,Midwest,Cotton,1162.0,24.57,,7,58.84,19.35,20.71,92.25,Rotasi Tanaman,34.33
+5400,2013,USA,Midwest,Fruits,949.96,23.19,3.231,4,25.11,47.58,33.73,70.72,Tanpa Adaptasi,31.59
+3725,2013,USA,Midwest,Vegetables,471.95,12.25,1.539,6,70.68,32.43,74.47,33.81,Pertanian Organik,33.34
+5830,2013,USA,Midwest,Vegetables,1767.99,26.25,0.963,10,62.97,22.52,13.7,68.98,Rotasi Tanaman,-3.26
+3251,2013,USA,Midwest,Wheat,1003.4,10.6,2.16,9,46.35,16.83,58.99,77.76,Tanaman Tahan Kekeringan,28.64
+7294,2013,USA,Northeast,Barley,410.92,3.56,3.285,9,97.09,13.31,15.41,36.78,Manajemen Air,30.71
+356,2013,USA,Northeast,Corn,2826.33,28.46,2.619,10,93.78,44.7,67.67,69.16,Pertanian Organik,5.71
+1443,2013,USA,Northeast,Cotton,2096.12,20.64,3.1050000000000004,9,89.62,24.93,58.47,73.57,Rotasi Tanaman,21.77
+4194,2013,USA,Northeast,Cotton,2791.67,13.68,2.06,7,45.74,2.54,16.26,67.61,Rotasi Tanaman,25.45
+7573,2013,USA,Northeast,Cotton,2567.57,3.21,2.3,5,71.78,20.16,2.17,31.74,Pertanian Organik,12.75
+512,2013,USA,Northeast,Fruits,1429.96,6.5,3.44,9,82.63,6.29,40.65,72.72,Manajemen Air,27.36
+3304,2013,USA,Northeast,Fruits,2960.54,1.0,4.07,3,23.38,19.11,12.31,98.47,Pertanian Organik,17.07
+3469,2013,USA,Northeast,Soybeans,1021.42,23.28,3.303,3,13.35,8.41,98.19,66.79,Tanpa Adaptasi,26.17
+2600,2013,USA,Northeast,Vegetables,1015.64,22.76,0.9,4,39.39,40.55,1.4,87.11,Rotasi Tanaman,24.68
+6340,2013,USA,Northeast,Vegetables,1445.01,21.89,0.99,7,54.42,22.05,87.55,55.03,Pertanian Organik,2.63
+3475,2013,USA,Northeast,Wheat,303.95,10.35,2.16,8,69.16,39.34,25.81,85.32,Pertanian Organik,7.98
+5684,2013,USA,Northeast,Wheat,2541.27,2.05,0.91,2,81.99,41.5,49.85,70.86,Rotasi Tanaman,31.78
+4309,2013,USA,South,Coffee,,15.09,2.736,0,96.21,6.31,37.51,36.51,Rotasi Tanaman,28.88
+7379,2013,USA,South,Corn,394.21,18.53,0.657,8,22.33,35.5,36.68,86.54,Tanpa Adaptasi,-1.31
+4614,2013,USA,South,Rice,2846.66,9.61,1.48,5,57.25,13.99,93.56,86.96,Rotasi Tanaman,8.41
+7719,2013,USA,South,Sugarcane,1037.28,28.51,1.809,10,39.04,26.29,30.46,73.81,Manajemen Air,10.17
+228,2013,USA,South,Vegetables,2217.02,8.75,4.4,10,44.14,29.78,98.7,49.6,Manajemen Air,17.2
+6159,2013,USA,South,Vegetables,1739.75,19.95,2.457,0,62.25,16.94,39.6,70.31,Manajemen Air,10.31
+7072,2013,USA,West,Coffee,1835.45,2.29,2.98,7,57.95,30.86,81.99,62.48,Tanpa Adaptasi,9.54
+595,2013,USA,West,Corn,637.16,13.36,2.84,5,39.17,10.2,50.45,85.45,Tanaman Tahan Kekeringan,0.1
+666,2013,USA,West,Rice,2379.93,11.79,2.98,6,60.03,3.6,74.29,68.05,Pertanian Organik,-4.14
+588,2013,USA,West,Soybeans,2637.55,20.07,1.413,7,82.73,4.71,48.74,45.08,Manajemen Air,6.39
+2234,2013,USA,West,Soybeans,2895.86,1.75,1.2,1,65.35,19.78,91.91,58.43,Tanpa Adaptasi,7.54
+3845,2014,USA,Midwest,Barley,1710.33,17.25,0.5760000000000001,7,79.74,9.74,43.21,39.35,Manajemen Air,7.74
+4250,2014,USA,Midwest,Coffee,2005.53,11.45,2.63,7,82.38,15.58,90.76,48.36,Tanpa Adaptasi,25.93
+366,2014,USA,Northeast,Corn,2697.51,8.53,1.31,0,93.55,43.26,95.81,76.76,Tanaman Tahan Kekeringan,7.39
+4391,2014,USA,Northeast,Rice,655.18,18.08,0.7020000000000001,3,40.7,19.8,33.1,64.71,Tanaman Tahan Kekeringan,2.22
+7929,2014,USA,Northeast,Sugarcane,1632.32,12.77,1.01,8,41.61,34.16,40.76,40.9,Tanaman Tahan Kekeringan,-0.86
+6933,2014,USA,Northeast,,2438.63,3.8,1.43,4,70.34,5.74,63.21,94.38,Manajemen Air,-1.75
+2095,2014,USA,South,Barley,910.32,17.6,1.593,7,82.02,48.4,48.74,56.08,Pertanian Organik,-0.56
+3157,2014,USA,South,Wheat,575.24,21.95,1.539,0,29.2,7.65,70.85,69.74,Rotasi Tanaman,-2.26
+2459,2014,USA,South,,829.01,4.72,1.21,0,56.37,16.48,18.06,40.02,Pertanian Organik,24.17
+6114,2014,USA,West,Corn,2440.29,27.54,2.511,9,57.43,7.26,75.22,64.29,Tanaman Tahan Kekeringan,31.04
+7937,2014,USA,West,Corn,1439.58,26.06,1.935,4,58.01,41.95,58.72,79.03,Tanpa Adaptasi,10.94
+360,2014,USA,West,Cotton,892.55,16.53,0.891,6,42.05,45.65,25.54,34.95,Manajemen Air,31.14
+2746,2014,USA,West,Cotton,617.32,20.53,2.097,1,,7.23,29.91,96.98,Tanaman Tahan Kekeringan,3.45
+7317,2014,USA,West,Cotton,1802.49,10.13,2.5,1,96.3,41.75,41.66,78.21,Tanaman Tahan Kekeringan,28.92
+280,2014,USA,West,Sugarcane,814.12,20.05,2.4480000000000004,8,53.84,16.71,66.95,73.45,Tanaman Tahan Kekeringan,10.33
+6505,2014,USA,West,Vegetables,1693.36,0.81,0.57,9,40.65,3.45,46.78,53.51,Pertanian Organik,-1.11
+1400,2014,USA,West,Wheat,1588.99,2.64,1.94,3,47.19,13.85,70.99,60.88,Pertanian Organik,8.97
+30,2015,USA,Midwest,Barley,2661.73,4.18,3.8,1,64.9,18.16,59.63,67.46,Pertanian Organik,26.58
+5024,2015,USA,Midwest,Barley,2363.91,29.51,2.475,10,23.59,1.36,54.05,50.91,Rotasi Tanaman,17.63
+7310,2015,USA,Midwest,Barley,1259.12,15.35,2.151,9,67.36,26.82,95.75,55.41,Manajemen Air,2.32
+7623,2015,USA,Midwest,Barley,1896.26,9.74,1.59,6,39.67,34.31,4.37,95.19,Tanpa Adaptasi,16.58
+3234,2015,USA,Midwest,Coffee,,13.29,2.043,4,10.74,49.74,47.81,49.98,Tanpa Adaptasi,19.03
+4634,2015,USA,Midwest,Coffee,1416.6,22.01,1.8,5,46.95,8.2,93.15,89.53,Tanpa Adaptasi,32.34
+5299,2015,USA,Midwest,Coffee,2764.18,23.96,1.629,8,66.91,6.61,50.37,45.61,Pertanian Organik,5.02
+6322,2015,USA,Midwest,Coffee,1411.69,1.88,2.33,3,58.07,45.2,25.63,91.9,Tanaman Tahan Kekeringan,11.38
+7264,2015,USA,Midwest,Coffee,1861.98,6.8,3.23,7,36.66,11.26,59.42,83.62,Rotasi Tanaman,19.84
+306,2015,USA,Midwest,Cotton,2003.09,6.52,3.94,4,55.04,22.2,31.74,44.41,Tanpa Adaptasi,25.75
+7681,2015,USA,Midwest,Rice,1604.81,23.14,2.556,1,42.59,29.46,65.1,55.25,Pertanian Organik,2.53
+1664,2015,USA,Midwest,Sugarcane,2161.26,18.32,1.503,0,38.82,26.13,63.68,86.22,Rotasi Tanaman,4.93
+2685,2015,USA,Midwest,Sugarcane,533.42,3.51,3.79,4,44.22,46.22,99.86,41.12,Manajemen Air,27.62
+1491,2015,USA,Midwest,Vegetables,1133.28,6.6,,8,91.72,44.71,52.12,66.49,Pertanian Organik,24.83
+7395,2015,USA,Northeast,Coffee,2973.76,8.9,2.76,1,52.39,7.48,13.27,57.91,Tanaman Tahan Kekeringan,22.26
+2010,2015,USA,Northeast,Cotton,525.44,23.4,2.034,3,76.73,49.48,63.0,89.18,Pertanian Organik,23.9
+3290,2015,USA,Northeast,Cotton,1522.35,11.95,3.98,9,16.7,46.64,55.97,90.4,Pertanian Organik,24.77
+1685,2015,USA,Northeast,Fruits,222.96,26.28,0.8280000000000001,7,52.2,11.41,66.81,52.57,Manajemen Air,2.55
+996,2015,USA,Northeast,Rice,930.21,14.87,2.78,0,77.68,1.48,31.19,43.97,Tanaman Tahan Kekeringan,-0.42
+2417,2015,USA,Northeast,Rice,2684.34,26.77,2.1870000000000003,5,80.82,9.61,81.27,48.14,Rotasi Tanaman,4.76
+2701,2015,USA,Northeast,Vegetables,2936.26,9.63,1.83,5,43.74,31.03,83.88,87.94,Tanaman Tahan Kekeringan,6.01
+7561,2015,USA,Northeast,Wheat,1042.21,17.0,,2,64.12,47.19,73.11,58.74,Pertanian Organik,34.11
+5212,2015,USA,South,Cotton,2929.52,11.02,2.57,7,25.37,15.17,86.04,92.86,Pertanian Organik,34.19
+6909,2015,USA,South,Rice,,29.2,0.783,8,29.87,37.76,90.45,58.15,Rotasi Tanaman,5.07
+0,2015,USA,South,Soybeans,1658.71,13.36,2.62,10,74.41,38.97,2.64,46.07,Manajemen Air,20.43
+1836,2015,USA,South,Soybeans,2044.82,12.22,2.69,6,95.4,14.61,25.51,34.03,Tanpa Adaptasi,20.37
+4003,2015,USA,South,Sugarcane,1998.43,14.77,1.25,6,31.24,39.74,68.09,57.27,Tanpa Adaptasi,32.43
+5960,2015,USA,South,Sugarcane,2771.48,8.03,2.49,10,52.92,32.38,24.57,44.11,Manajemen Air,21.55
+6744,2015,USA,South,Sugarcane,2509.97,2.22,1.53,7,70.29,7.46,60.74,89.67,Manajemen Air,14.48
+2616,2015,USA,West,Barley,1304.0,27.88,1.602,10,94.31,34.39,1.61,53.13,Pertanian Organik,11.66
+4020,2015,USA,West,Barley,761.27,5.57,,10,49.01,30.02,95.24,51.78,Rotasi Tanaman,19.61
+1642,2015,USA,West,Corn,2097.5,16.1,,9,43.04,4.06,81.81,46.33,Pertanian Organik,14.93
+6295,2015,USA,West,Fruits,1893.68,16.42,2.853,7,97.92,25.12,70.79,37.15,Rotasi Tanaman,16.67
+1477,2015,USA,West,Soybeans,1658.49,8.97,3.51,1,18.9,34.96,32.55,75.89,Rotasi Tanaman,25.91
+980,2015,USA,West,Sugarcane,623.29,14.4,1.84,5,92.34,13.02,1.27,99.2,Manajemen Air,-3.99
+6631,2015,USA,West,Wheat,1266.4,5.79,2.54,8,95.69,20.98,63.88,45.35,Tanpa Adaptasi,28.44
+1481,2015,USA,West,,2303.14,28.68,2.232,4,49.91,46.74,26.21,98.35,Rotasi Tanaman,31.41
+6782,2016,USA,Midwest,Cotton,1896.92,27.49,1.845,10,93.17,36.13,76.03,89.5,Rotasi Tanaman,0.95
+1220,2016,USA,Midwest,Fruits,2700.83,29.52,1.953,4,54.07,22.25,59.98,62.86,Tanpa Adaptasi,17.35
+6129,2016,USA,Midwest,Rice,,16.61,3.204,4,87.72,30.0,20.13,71.71,Rotasi Tanaman,14.16
+3822,2016,USA,Midwest,Wheat,1201.46,13.53,1.66,9,83.88,16.88,71.84,88.31,Rotasi Tanaman,34.18
+5584,2016,USA,Northeast,Corn,2444.61,13.23,2.1,6,40.81,2.81,51.51,43.97,Tanpa Adaptasi,7.41
+5848,2016,USA,Northeast,Corn,2490.2,18.95,2.979,10,40.17,36.17,50.09,63.38,Pertanian Organik,19.8
+6352,2016,USA,Northeast,Corn,1069.59,3.32,3.77,3,75.75,39.99,94.38,61.48,Rotasi Tanaman,33.59
+4427,2016,USA,Northeast,Sugarcane,1067.86,15.6,2.709,8,53.82,31.12,75.01,46.0,Rotasi Tanaman,24.58
+5120,2016,USA,Northeast,Sugarcane,1291.25,14.94,0.68,3,87.9,42.54,29.18,36.27,Tanaman Tahan Kekeringan,9.42
+2803,2016,USA,Northeast,Vegetables,1331.22,17.0,0.792,1,69.03,0.31,47.74,31.89,Rotasi Tanaman,-0.47
+140,2016,USA,Northeast,,542.18,28.83,3.933,1,38.02,18.07,27.95,96.73,Tanpa Adaptasi,12.56
+3954,2016,USA,South,Barley,1602.68,6.28,2.82,8,,33.48,84.67,89.28,Tanaman Tahan Kekeringan,32.52
+3668,2016,USA,South,Corn,1494.64,9.98,2.88,2,39.58,12.1,27.29,67.76,Manajemen Air,24.84
+2625,2016,USA,South,Fruits,1213.66,19.5,1.602,3,13.4,45.31,52.76,45.83,Tanpa Adaptasi,24.53
+1698,2016,USA,South,Vegetables,,26.71,1.872,0,95.48,11.72,29.66,54.14,Manajemen Air,22.39
+5262,2016,USA,South,,1774.36,0.76,1.92,4,55.76,4.9,75.09,62.06,Tanaman Tahan Kekeringan,8.95
+4173,2016,USA,West,Corn,1951.14,10.0,1.44,10,32.87,37.11,64.67,44.83,Tanaman Tahan Kekeringan,3.88
+1200,2016,USA,West,Rice,1772.98,11.27,3.66,2,18.71,42.85,29.52,71.04,Tanpa Adaptasi,11.95
+1000,2016,USA,West,Soybeans,1441.42,3.67,3.93,0,50.58,43.64,68.54,87.92,Pertanian Organik,11.83
+1570,2017,USA,Midwest,Barley,333.9,18.86,0.657,1,27.73,43.35,93.32,77.79,Tanaman Tahan Kekeringan,6.1
+5934,2017,USA,Midwest,Coffee,590.94,3.44,3.91,10,82.35,16.73,89.47,91.05,Tanpa Adaptasi,32.35
+7682,2017,USA,Midwest,Corn,1219.32,28.57,1.71,0,72.81,37.56,58.46,44.74,Tanpa Adaptasi,14.47
+1351,2017,USA,Midwest,Fruits,2723.06,23.08,1.71,5,75.23,6.21,12.25,84.27,Tanpa Adaptasi,26.91
+1264,2017,USA,Midwest,Rice,2517.35,8.18,2.98,4,98.85,35.48,79.59,83.69,Rotasi Tanaman,17.56
+1356,2017,USA,Midwest,Vegetables,333.77,29.01,,7,,34.11,0.61,95.49,Rotasi Tanaman,2.33
+2866,2017,USA,Midwest,Vegetables,2630.11,28.46,1.161,1,24.69,28.32,15.32,67.74,Rotasi Tanaman,30.43
+7106,2017,USA,Midwest,Wheat,2502.95,16.25,2.871,9,32.6,46.77,61.63,41.05,Manajemen Air,26.76
+62,2017,USA,Northeast,Barley,853.59,6.12,3.51,5,82.0,26.21,64.44,71.29,Tanaman Tahan Kekeringan,11.54
+2635,2017,USA,Northeast,Fruits,982.91,5.61,2.91,4,10.18,33.62,34.85,79.19,Rotasi Tanaman,12.5
+6235,2017,USA,Northeast,Fruits,2094.39,5.57,2.58,3,48.73,10.07,32.84,95.9,Rotasi Tanaman,25.42
+7437,2017,USA,Northeast,Fruits,2241.18,16.95,1.467,4,68.42,36.32,97.58,73.52,Pertanian Organik,17.44
+6570,2017,USA,Northeast,Rice,1663.81,2.6,0.8,5,66.16,2.1,26.88,95.06,Tanpa Adaptasi,-3.08
+3264,2017,USA,Northeast,Soybeans,2250.47,8.47,3.42,8,54.2,12.91,99.84,98.05,Tanaman Tahan Kekeringan,27.26
+326,2017,USA,Northeast,Sugarcane,742.0,9.21,2.49,2,11.99,12.52,46.69,67.42,Rotasi Tanaman,33.95
+2339,2017,USA,South,Coffee,916.4,21.19,,0,11.3,48.22,88.21,95.21,Rotasi Tanaman,2.35
+216,2017,USA,South,Corn,2792.92,26.14,2.61,9,96.7,10.38,72.31,97.45,Tanaman Tahan Kekeringan,8.97
+5713,2017,USA,South,Cotton,1292.46,20.3,3.276,1,41.61,37.0,98.21,37.6,Rotasi Tanaman,23.58
+708,2017,USA,South,Rice,2399.52,3.93,2.16,3,80.88,39.53,20.25,81.68,Tanpa Adaptasi,8.02
+1550,2017,USA,South,Vegetables,2407.33,24.97,0.783,10,62.06,16.13,59.67,71.97,Rotasi Tanaman,21.24
+2742,2017,USA,South,Vegetables,1009.03,8.15,2.66,9,64.52,13.44,70.92,63.51,Rotasi Tanaman,28.46
+2911,2017,USA,South,Vegetables,1905.67,0.56,2.89,6,83.31,47.33,17.87,57.36,Pertanian Organik,-4.05
+4450,2017,USA,South,Wheat,2069.82,13.73,0.8,9,56.78,38.65,46.74,66.32,Manajemen Air,34.23
+800,2017,USA,West,Barley,1862.21,9.74,3.03,9,44.8,6.92,44.57,46.31,Tanaman Tahan Kekeringan,18.79
+4565,2017,USA,West,Barley,2160.72,2.22,3.56,2,87.53,34.9,41.65,40.9,Manajemen Air,17.07
+4966,2017,USA,West,Coffee,860.92,19.22,1.296,5,46.74,47.55,9.71,45.59,Tanaman Tahan Kekeringan,24.75
+1514,2017,USA,West,Cotton,2321.63,7.98,1.87,8,77.82,12.58,76.73,78.24,Manajemen Air,1.05
+2448,2017,USA,West,Soybeans,1518.09,14.75,3.35,6,69.82,49.77,27.39,33.67,Tanaman Tahan Kekeringan,32.55
+2255,2017,USA,West,Vegetables,1204.36,0.55,1.39,6,20.32,24.63,89.65,65.45,Tanpa Adaptasi,1.96
+3351,2017,USA,West,Wheat,2986.15,7.28,4.62,5,31.98,0.33,65.33,86.26,Pertanian Organik,16.15
+5891,2018,USA,Midwest,Coffee,2170.87,3.47,2.16,9,69.04,1.55,2.55,78.25,Pertanian Organik,22.94
+4678,2018,USA,Midwest,Corn,2703.79,12.98,1.82,0,82.21,44.89,14.51,70.75,Tanaman Tahan Kekeringan,31.47
+3880,2018,USA,Midwest,Fruits,1018.74,26.64,1.755,8,99.79,16.1,83.78,66.82,Tanpa Adaptasi,12.39
+5002,2018,USA,Midwest,Vegetables,1356.09,17.01,,9,51.09,39.83,82.38,94.35,Pertanian Organik,3.3
+3803,2018,USA,Northeast,Corn,1406.84,1.59,1.92,1,45.05,21.66,62.14,92.98,Manajemen Air,25.76
+6693,2018,USA,Northeast,Cotton,1518.57,12.51,3.43,8,98.3,24.49,13.71,38.94,Tanpa Adaptasi,27.28
+1699,2018,USA,Northeast,Rice,2323.3,5.44,4.28,1,85.88,24.22,29.09,81.21,Pertanian Organik,14.03
+6981,2018,USA,Northeast,Wheat,1662.98,3.45,1.29,2,44.76,19.75,36.23,94.76,Rotasi Tanaman,-2.39
+2713,2018,USA,South,Coffee,1072.15,18.39,1.809,3,69.96,9.02,3.18,94.96,Pertanian Organik,34.08
+5171,2018,USA,South,Coffee,2624.98,18.54,4.167,6,83.19,20.4,44.5,91.69,Pertanian Organik,12.57
+2035,2018,USA,South,Cotton,544.18,1.21,0.87,2,58.56,34.13,27.82,51.42,Tanpa Adaptasi,2.11
+2769,2018,USA,South,Cotton,1194.08,13.28,1.34,9,37.3,42.99,45.4,43.94,Tanpa Adaptasi,31.92
+4355,2018,USA,South,Fruits,2239.06,16.86,1.836,8,28.79,1.72,0.58,35.38,Pertanian Organik,20.94
+5539,2018,USA,South,Wheat,1921.47,21.6,0.5760000000000001,1,40.67,39.54,84.81,96.01,Tanaman Tahan Kekeringan,-3.22
+5105,2018,USA,West,Barley,2451.74,5.08,2.82,1,18.96,12.22,46.41,47.97,Manajemen Air,-1.16
+949,2018,USA,West,Coffee,1080.66,11.74,2.64,6,71.96,45.97,88.11,86.35,Rotasi Tanaman,21.26
+1596,2018,USA,West,Coffee,489.64,28.4,2.034,3,74.25,36.92,23.76,82.23,Manajemen Air,2.67
+2824,2018,USA,West,Corn,2567.13,4.75,2.45,9,87.43,49.62,92.58,39.06,Tanpa Adaptasi,-4.23
+2517,2018,USA,West,Rice,2917.47,21.41,,3,54.19,31.21,98.24,94.79,Tanpa Adaptasi,14.0
+3442,2019,USA,Midwest,Barley,1855.74,17.78,1.881,6,43.55,41.87,34.83,69.35,Manajemen Air,17.55
+2788,2019,USA,Midwest,Coffee,2481.43,11.04,2.21,3,62.54,31.15,45.09,78.43,Tanpa Adaptasi,34.2
+3219,2019,USA,Midwest,Coffee,1449.33,20.9,1.584,10,47.54,1.12,7.97,73.18,Pertanian Organik,-3.22
+5699,2019,USA,Midwest,Coffee,975.13,10.73,2.18,5,52.45,26.06,71.56,97.32,Manajemen Air,17.19
+5685,2019,USA,Midwest,Rice,410.59,24.34,2.709,10,97.31,18.17,79.53,62.2,Pertanian Organik,24.0
+3124,2019,USA,Midwest,Soybeans,1835.15,11.94,2.64,0,40.61,23.33,60.14,63.71,Pertanian Organik,32.5
+6270,2019,USA,Midwest,Soybeans,1722.31,11.14,1.25,3,96.93,20.7,65.33,86.27,Tanaman Tahan Kekeringan,0.98
+3695,2019,USA,Midwest,Sugarcane,2346.7,2.73,1.68,5,17.28,16.4,57.26,63.48,Rotasi Tanaman,4.32
+2712,2019,USA,Midwest,Vegetables,2402.94,27.68,3.708,10,47.19,29.81,39.41,64.43,Pertanian Organik,17.07
+3561,2019,USA,Northeast,Fruits,2478.96,10.87,3.71,0,87.88,2.28,99.35,69.25,Pertanian Organik,25.69
+75,2019,USA,Northeast,Rice,745.44,2.91,4.37,7,22.05,27.22,59.66,56.47,Manajemen Air,13.31
+1283,2019,USA,Northeast,Rice,218.63,21.73,1.323,8,68.72,27.24,87.96,33.84,Rotasi Tanaman,9.4
+4164,2019,USA,Northeast,Rice,2034.74,20.83,1.0080000000000002,8,44.24,46.29,52.94,61.84,Tanaman Tahan Kekeringan,0.75
+3900,2019,USA,Northeast,Vegetables,1246.41,9.89,3.47,9,26.7,19.1,18.61,81.57,Tanaman Tahan Kekeringan,11.1
+5973,2019,USA,Northeast,Vegetables,1342.63,27.04,2.628,0,15.98,9.0,49.51,81.09,Tanpa Adaptasi,24.62
+7068,2019,USA,Northeast,Vegetables,224.99,21.42,0.468,6,35.8,13.51,57.32,41.47,Tanpa Adaptasi,8.46
+3764,2019,USA,Northeast,,1264.57,26.52,1.08,8,92.86,0.32,81.16,97.7,Manajemen Air,7.87
+2759,2019,USA,South,Barley,1884.47,14.97,,2,51.09,33.98,40.39,90.72,Manajemen Air,8.49
+1835,2019,USA,South,Cotton,661.15,23.89,2.421,6,82.9,39.48,35.31,34.33,Tanaman Tahan Kekeringan,20.8
+6479,2019,USA,South,Cotton,608.98,19.62,1.4220000000000002,8,40.01,3.61,13.0,83.76,Rotasi Tanaman,28.59
+1362,2019,USA,South,Wheat,1041.21,14.27,0.88,2,97.42,47.25,36.67,45.18,Tanpa Adaptasi,32.0
+3947,2019,USA,South,,2659.12,25.29,1.359,5,66.76,11.36,51.09,83.61,Tanpa Adaptasi,32.85
+4578,2019,USA,West,Soybeans,2797.02,10.47,4.68,3,50.63,3.55,30.36,72.78,Pertanian Organik,12.5
+1152,2019,USA,West,Sugarcane,2779.81,1.46,1.37,10,36.96,20.5,42.87,99.79,Pertanian Organik,24.76
+5915,2019,USA,West,Vegetables,,6.36,2.34,4,14.84,33.66,19.91,90.5,Tanpa Adaptasi,2.89
+3661,2020,USA,Midwest,Cotton,2569.18,24.14,1.278,8,65.59,33.08,53.22,52.94,Manajemen Air,34.46
+1865,2020,USA,Midwest,Rice,2113.45,11.7,3.98,7,92.26,13.81,33.16,45.8,Tanpa Adaptasi,28.96
+1946,2020,USA,Midwest,Rice,630.53,8.77,1.65,9,32.22,46.08,78.47,60.68,Manajemen Air,4.66
+4810,2020,USA,Midwest,Rice,2911.79,14.69,0.65,1,95.11,30.36,6.07,50.42,Rotasi Tanaman,1.08
+5365,2020,USA,Midwest,Rice,803.55,2.56,1.68,2,22.53,33.18,99.97,45.34,Manajemen Air,26.6
+80,2020,USA,Midwest,Vegetables,1595.53,9.34,2.26,9,69.6,13.36,11.84,30.33,Tanaman Tahan Kekeringan,3.27
+652,2020,USA,Midwest,Vegetables,2682.37,25.69,0.9,5,77.18,43.62,91.7,93.14,Tanpa Adaptasi,30.24
+1575,2020,USA,Midwest,Wheat,1357.44,28.11,0.8190000000000001,10,82.21,49.29,31.01,99.01,Rotasi Tanaman,29.42
+3559,2020,USA,Northeast,Barley,1469.19,19.82,2.124,8,76.32,16.87,23.48,97.6,Rotasi Tanaman,26.61
+2778,2020,USA,Northeast,Cotton,1492.96,13.01,2.31,0,77.21,11.57,67.31,52.43,Tanpa Adaptasi,10.83
+2809,2020,USA,Northeast,Cotton,1679.2,5.14,2.65,5,84.84,43.92,41.56,92.48,Manajemen Air,26.96
+4052,2020,USA,Northeast,Soybeans,2758.01,3.56,2.47,5,18.74,6.94,60.18,62.63,Tanaman Tahan Kekeringan,-0.71
+7361,2020,USA,Northeast,Soybeans,2897.95,5.55,2.19,7,60.99,41.0,78.76,40.95,Rotasi Tanaman,19.5
+1236,2020,USA,Northeast,Wheat,1332.34,7.64,1.19,5,29.8,19.18,9.29,57.57,Rotasi Tanaman,33.7
+548,2020,USA,South,Barley,2936.96,9.65,0.66,0,49.96,48.05,58.28,82.8,Tanaman Tahan Kekeringan,8.62
+2251,2020,USA,South,Barley,1934.26,24.5,1.656,7,64.37,6.28,72.84,99.35,Tanaman Tahan Kekeringan,5.99
+2937,2020,USA,South,Corn,2099.06,6.35,2.35,5,93.8,12.89,32.93,53.04,Pertanian Organik,4.6
+4971,2020,USA,South,Corn,2004.95,24.37,2.3760000000000003,0,32.99,31.27,84.44,37.77,Tanaman Tahan Kekeringan,23.03
+662,2020,USA,South,Sugarcane,272.87,20.75,2.718,2,31.15,21.87,84.75,95.27,Rotasi Tanaman,14.17
+3616,2020,USA,South,Sugarcane,1655.03,9.01,4.21,4,27.5,37.73,9.98,78.32,Manajemen Air,11.13
+7885,2020,USA,South,Sugarcane,2303.03,18.31,1.926,0,36.76,19.56,13.89,30.88,Manajemen Air,11.5
+1243,2020,USA,South,Wheat,2154.38,15.91,0.774,10,24.04,41.97,29.09,42.67,Pertanian Organik,24.99
+6794,2020,USA,West,Corn,2463.41,2.43,2.94,9,52.76,42.85,22.12,90.83,Manajemen Air,29.55
+289,2020,USA,West,Cotton,674.67,9.9,0.73,6,31.8,44.12,15.61,65.77,Tanaman Tahan Kekeringan,-4.7
+4912,2020,USA,West,Fruits,419.63,25.35,2.205,10,45.91,26.62,42.66,40.1,Pertanian Organik,17.74
+4787,2020,USA,West,Sugarcane,1504.88,29.46,2.529,2,13.46,48.78,82.58,69.0,Rotasi Tanaman,29.64
+2209,2020,USA,West,,2394.76,16.09,1.296,1,90.73,11.71,23.63,58.25,Tanaman Tahan Kekeringan,0.48
+6385,2021,USA,Midwest,Cotton,1291.86,20.45,2.124,4,57.48,11.39,1.96,52.18,Tanaman Tahan Kekeringan,23.32
+7398,2021,USA,Midwest,Rice,2722.47,9.92,2.91,9,88.77,49.87,43.87,54.96,Tanpa Adaptasi,30.06
+3744,2021,USA,Midwest,Soybeans,2511.06,29.53,0.864,6,69.07,48.35,31.26,50.05,Tanpa Adaptasi,7.95
+6508,2021,USA,Midwest,Sugarcane,1457.66,22.35,3.33,1,44.63,0.42,44.46,76.53,Manajemen Air,16.29
+3998,2021,USA,Midwest,Vegetables,2248.91,14.66,2.58,2,63.59,27.44,88.5,63.03,Tanaman Tahan Kekeringan,5.49
+271,2021,USA,Northeast,Corn,1637.76,11.68,4.69,7,20.69,29.5,4.96,79.62,Tanpa Adaptasi,14.46
+2853,2021,USA,Northeast,Corn,2859.43,18.35,2.097,7,15.44,19.95,12.73,44.39,Pertanian Organik,12.98
+3733,2021,USA,Northeast,Cotton,2199.24,5.39,,0,71.74,26.59,49.64,79.69,Tanpa Adaptasi,-4.66
+7092,2021,USA,Northeast,Fruits,1740.68,25.99,0.747,10,44.5,4.74,20.44,60.39,Tanpa Adaptasi,23.3
+4989,2021,USA,Northeast,Wheat,1284.28,7.31,3.04,0,16.65,48.12,12.75,71.88,Tanaman Tahan Kekeringan,26.02
+3037,2021,USA,South,Coffee,2949.62,6.22,1.88,1,75.49,30.3,67.39,62.08,Pertanian Organik,32.96
+2910,2021,USA,South,Sugarcane,2680.22,25.09,3.546,2,86.45,1.52,27.93,84.91,Tanpa Adaptasi,33.44
+1741,2021,USA,South,Vegetables,2842.03,9.72,2.34,9,70.14,25.6,45.67,68.09,Rotasi Tanaman,-1.85
+3590,2021,USA,South,Vegetables,2030.02,7.38,1.99,5,21.48,18.44,25.56,88.22,Rotasi Tanaman,12.66
+7397,2021,USA,South,Wheat,,24.77,2.025,2,35.38,8.0,43.77,94.55,Tanpa Adaptasi,23.06
+2812,2021,USA,South,,716.5,12.88,3.71,9,98.18,38.85,29.72,46.42,Manajemen Air,28.12
+4949,2021,USA,West,Barley,747.56,13.22,3.62,6,36.12,39.89,11.71,39.11,Tanpa Adaptasi,14.81
+7904,2021,USA,West,Barley,1558.44,23.75,1.926,4,89.36,23.2,34.12,61.1,Tanaman Tahan Kekeringan,27.53
+892,2021,USA,West,Corn,1255.73,24.68,,5,94.67,18.77,0.62,57.86,Tanaman Tahan Kekeringan,1.13
+2299,2021,USA,West,Cotton,,3.13,2.72,9,66.79,9.61,30.43,32.5,Tanpa Adaptasi,3.16
+2711,2021,USA,West,Fruits,2855.34,1.37,1.53,0,16.48,0.8,68.38,41.83,Rotasi Tanaman,17.38
+4707,2021,USA,West,Fruits,313.23,4.96,2.3760000000000003,9,66.17,38.48,76.8,71.19,Pertanian Organik,6.89
+7390,2021,USA,West,Fruits,2598.74,4.37,2.89,4,27.26,33.57,65.33,96.87,Manajemen Air,11.32
+3569,2021,USA,West,Rice,1451.72,13.68,0.82,6,19.02,40.69,35.33,63.28,Tanaman Tahan Kekeringan,24.31
+3528,2021,USA,West,Sugarcane,2326.94,22.34,1.332,4,13.06,14.34,92.5,36.85,Tanaman Tahan Kekeringan,29.15
+3973,2021,USA,West,Vegetables,2850.7,5.65,2.97,8,95.46,20.0,58.39,49.33,Manajemen Air,6.41
+6046,2021,USA,West,Vegetables,505.87,1.83,2.22,1,77.22,8.82,96.88,44.22,Pertanian Organik,-1.19
+5792,2021,USA,West,,2178.0,15.11,1.998,1,64.12,19.24,56.42,72.87,Manajemen Air,28.36
+7329,2022,USA,Midwest,Coffee,2085.71,25.77,2.358,2,14.25,25.53,32.7,53.87,Manajemen Air,18.26
+3170,2022,USA,Midwest,Sugarcane,1862.42,19.91,1.323,7,44.88,24.33,58.66,77.52,Pertanian Organik,4.56
+5095,2022,USA,Midwest,Sugarcane,2695.88,12.28,1.7,9,96.51,0.91,76.57,94.66,Pertanian Organik,1.13
+1198,2022,USA,Midwest,Vegetables,,16.4,2.475,4,27.51,5.5,20.49,62.97,Rotasi Tanaman,18.92
+2345,2022,USA,Northeast,Barley,2429.07,29.08,1.125,1,10.12,0.76,43.84,44.31,Tanpa Adaptasi,-0.16
+3588,2022,USA,Northeast,Barley,2902.3,21.15,4.32,10,37.27,2.87,76.45,48.73,Rotasi Tanaman,17.82
+5890,2022,USA,Northeast,Corn,2654.69,3.93,1.54,1,25.16,39.92,80.34,32.88,Rotasi Tanaman,30.05
+780,2022,USA,Northeast,Cotton,2815.2,26.48,1.737,5,10.78,19.44,70.34,34.88,Rotasi Tanaman,33.96
+2553,2022,USA,Northeast,Fruits,244.4,11.03,1.6740000000000002,8,82.57,14.87,34.69,30.61,Manajemen Air,17.35
+7745,2022,USA,Northeast,Fruits,2797.92,7.91,4.07,4,31.55,1.73,41.72,44.84,Manajemen Air,10.75
+3370,2022,USA,Northeast,Soybeans,1728.88,28.88,2.115,1,64.2,35.62,20.34,35.8,Tanpa Adaptasi,33.22
+4367,2022,USA,Northeast,Soybeans,311.46,26.64,2.898,10,89.29,25.45,81.88,74.98,Manajemen Air,11.08
+5357,2022,USA,Northeast,Sugarcane,542.79,15.97,1.449,9,48.78,5.51,50.82,61.35,Tanaman Tahan Kekeringan,27.64
+2163,2022,USA,Northeast,Vegetables,1377.79,25.37,3.33,3,72.8,48.66,6.76,81.7,Manajemen Air,32.44
+4310,2022,USA,Northeast,Vegetables,,10.92,2.09,10,45.51,32.5,93.69,60.17,Tanpa Adaptasi,1.74
+7347,2022,USA,Northeast,Vegetables,245.45,7.46,1.584,8,93.99,14.48,26.12,71.5,Pertanian Organik,34.16
+4350,2022,USA,Northeast,Wheat,2859.01,14.46,2.3,9,60.04,20.99,32.55,36.84,Tanpa Adaptasi,24.94
+1167,2022,USA,South,Coffee,1129.39,24.85,2.043,9,92.39,38.82,84.67,96.69,Rotasi Tanaman,22.73
+1641,2022,USA,South,Coffee,2488.56,14.72,2.51,2,84.9,3.43,80.52,37.2,Pertanian Organik,4.17
+5989,2022,USA,South,Cotton,1361.1,24.51,3.096,0,12.7,10.58,20.32,93.49,Rotasi Tanaman,28.66
+6206,2022,USA,South,Fruits,2619.65,14.83,3.62,9,82.02,43.42,37.87,73.86,Tanpa Adaptasi,24.97
+3354,2022,USA,South,Sugarcane,204.89,23.68,1.845,4,79.33,32.95,96.84,38.75,Tanpa Adaptasi,9.06
+4695,2022,USA,South,Vegetables,2878.56,3.1,1.92,6,51.2,45.76,84.38,46.41,Tanaman Tahan Kekeringan,-4.84
+1262,2022,USA,South,Wheat,454.66,17.28,3.375,9,17.19,34.81,75.2,42.02,Tanpa Adaptasi,22.59
+7566,2022,USA,South,,433.9,10.35,4.032000000000001,6,59.75,14.12,21.75,61.44,Pertanian Organik,16.49
+1277,2022,USA,West,Rice,1288.54,23.97,1.8,5,25.89,25.61,89.3,35.73,Tanaman Tahan Kekeringan,24.96
+4006,2022,USA,West,Rice,288.85,8.21,1.98,5,99.41,25.59,38.84,46.78,Rotasi Tanaman,14.08
+3071,2023,USA,Midwest,Barley,2025.11,13.39,0.74,1,86.95,7.75,76.86,81.11,Tanaman Tahan Kekeringan,-4.77
+1204,2023,USA,Midwest,Coffee,434.64,8.97,2.2230000000000003,10,75.14,14.48,77.92,40.72,Manajemen Air,34.24
+6846,2023,USA,Midwest,Coffee,1884.72,25.85,1.827,3,68.1,27.74,64.76,73.08,Rotasi Tanaman,22.1
+1947,2023,USA,Midwest,Wheat,480.19,19.92,2.4120000000000004,7,61.37,41.03,61.89,82.3,Manajemen Air,18.14
+871,2023,USA,Northeast,Coffee,1631.1,28.62,0.5940000000000001,4,90.55,7.72,36.87,46.69,Manajemen Air,-2.44
+6949,2023,USA,Northeast,Corn,2665.76,18.69,1.683,8,61.92,28.93,11.47,43.65,Rotasi Tanaman,3.97
+422,2023,USA,Northeast,Cotton,1630.22,29.28,3.249,9,70.31,5.8,49.85,31.92,Rotasi Tanaman,30.62
+2080,2023,USA,Northeast,Soybeans,576.57,13.59,1.86,9,38.58,14.29,61.34,63.49,Tanpa Adaptasi,-4.68
+7622,2023,USA,Northeast,Vegetables,2446.93,2.02,0.67,4,49.95,21.66,12.01,78.5,Tanpa Adaptasi,5.07
+6439,2023,USA,South,Coffee,1489.01,10.09,4.75,6,26.14,33.74,27.91,61.62,Manajemen Air,17.44
+470,2023,USA,South,Cotton,1038.86,19.66,2.052,6,64.97,41.88,47.53,67.56,Tanaman Tahan Kekeringan,8.04
+1235,2023,USA,South,Sugarcane,2207.94,26.66,2.628,3,86.02,10.64,54.5,34.12,Tanpa Adaptasi,-4.3
+535,2023,USA,South,Vegetables,1998.79,1.87,1.61,0,81.44,37.11,90.05,40.73,Tanaman Tahan Kekeringan,4.33
+5559,2023,USA,West,Corn,2446.15,9.26,2.73,6,35.41,19.25,90.97,31.26,Pertanian Organik,31.89
+6796,2023,USA,West,Cotton,275.6,7.62,3.0330000000000004,6,81.51,18.31,71.05,77.06,Manajemen Air,25.45
+1827,2023,USA,West,Rice,1084.22,4.03,2.22,1,53.39,15.15,7.8,42.05,Manajemen Air,-3.67
+3732,2023,USA,West,Rice,2376.15,11.07,2.66,4,59.65,35.26,12.81,95.52,Tanpa Adaptasi,-0.55
+1805,2023,USA,West,Sugarcane,1210.69,15.79,1.656,5,12.21,47.91,6.94,55.92,Manajemen Air,11.75
+1810,2023,USA,West,Vegetables,634.02,3.4,3.34,5,11.95,23.84,34.52,97.13,Manajemen Air,18.17
+3411,2023,USA,West,Wheat,1896.43,15.32,1.908,3,44.02,18.05,79.58,44.3,Pertanian Organik,27.23
+3945,2024,USA,Midwest,Barley,898.57,16.8,2.898,7,74.5,9.26,46.49,70.86,Rotasi Tanaman,26.66
+2235,2024,USA,Midwest,Cotton,809.93,29.79,3.1410000000000005,1,79.05,8.3,63.61,49.15,Pertanian Organik,10.52
+2479,2024,USA,Midwest,Cotton,1150.19,7.48,2.01,9,34.13,44.23,42.72,38.38,Pertanian Organik,8.94
+207,2024,USA,Midwest,Rice,922.9,8.56,0.85,10,69.95,3.81,28.12,92.24,Tanaman Tahan Kekeringan,8.22
+7043,2024,USA,Midwest,Vegetables,1533.25,25.29,1.557,5,70.17,42.51,88.37,35.55,Rotasi Tanaman,-1.01
+4675,2024,USA,Midwest,Wheat,1855.61,11.92,2.09,7,72.26,39.98,67.24,82.6,Tanpa Adaptasi,8.23
+1758,2024,USA,Northeast,Barley,554.49,17.3,1.467,4,88.16,42.64,16.62,93.33,Manajemen Air,5.21
+5327,2024,USA,Northeast,Fruits,2647.11,16.28,3.222,9,34.95,34.81,87.34,68.9,Manajemen Air,11.2
+3882,2024,USA,Northeast,Rice,1169.7,29.39,1.467,3,61.35,0.89,93.41,93.39,Rotasi Tanaman,27.46
+3148,2024,USA,Northeast,Sugarcane,1736.93,10.56,3.08,4,14.57,15.54,67.41,96.2,Manajemen Air,28.85
+977,2024,USA,Northeast,Vegetables,1078.54,17.56,2.952,2,14.95,34.24,80.61,49.96,Manajemen Air,22.63
+178,2024,USA,Northeast,,292.22,7.87,2.106,9,82.15,7.17,33.16,58.5,Tanaman Tahan Kekeringan,6.61
+598,2024,USA,South,Coffee,2613.78,9.76,0.96,2,84.68,47.46,66.98,74.3,Tanaman Tahan Kekeringan,29.92
+4946,2024,USA,South,Coffee,1213.3,14.49,2.6,7,45.12,23.74,91.84,56.62,Tanpa Adaptasi,3.68
+4984,2024,USA,South,Corn,2323.33,20.52,2.205,1,95.23,0.35,98.67,50.16,Tanaman Tahan Kekeringan,8.89
+5795,2024,USA,South,Corn,661.07,1.67,3.27,0,53.16,34.07,99.91,30.1,Pertanian Organik,14.43
+4452,2024,USA,South,Rice,768.86,28.16,1.35,6,69.46,33.56,57.34,34.4,Tanaman Tahan Kekeringan,17.96
+4240,2024,USA,South,Sugarcane,2890.51,20.01,1.098,8,78.87,8.27,28.64,79.38,Manajemen Air,5.04
+6224,2024,USA,South,Wheat,1647.58,19.1,1.872,8,36.61,43.15,22.46,52.18,Manajemen Air,12.18
+3022,2024,USA,West,Barley,2376.99,20.52,2.2230000000000003,1,90.56,22.48,8.93,93.07,Tanpa Adaptasi,-0.66
+3146,2024,USA,West,Barley,2045.78,18.39,1.62,6,,41.92,98.39,74.37,Tanpa Adaptasi,16.71
+3919,2024,USA,West,Barley,2985.78,8.15,1.43,6,79.55,37.52,56.24,57.82,Tanpa Adaptasi,-2.83
+4770,2024,USA,West,Barley,2718.34,26.9,1.512,3,32.51,40.65,71.66,54.72,Manajemen Air,33.15
+2633,2024,USA,West,Coffee,651.75,10.69,3.46,10,99.91,45.07,98.17,38.74,Tanaman Tahan Kekeringan,24.31
+3739,2024,USA,West,Corn,1771.37,24.77,1.809,9,79.29,35.18,78.08,85.96,Tanpa Adaptasi,-4.21
+6618,2024,USA,West,Rice,773.74,29.98,1.125,2,34.77,9.58,93.88,62.16,Pertanian Organik,25.67
+263,2024,USA,West,Soybeans,563.25,2.93,1.64,2,84.63,1.97,64.38,88.14,Tanaman Tahan Kekeringan,-1.57
+2658,2024,USA,West,Soybeans,1341.57,16.33,3.087,1,29.67,20.35,32.31,58.66,Tanaman Tahan Kekeringan,18.69
+7514,2024,USA,West,Soybeans,1376.8,24.06,3.483,9,78.6,37.95,93.82,76.32,Manajemen Air,32.01
+6128,2024,USA,West,Sugarcane,2191.06,10.15,1.19,4,34.65,48.95,14.25,53.45,Pertanian Organik,27.01

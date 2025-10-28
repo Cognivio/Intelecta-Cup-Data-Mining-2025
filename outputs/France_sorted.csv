@@ -1,0 +1,772 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+5035,1990,France,'Grand Est',Barley,341.47,4.51,3.564,2,37.98,49.68,3.71,73.66,Tanpa Adaptasi,25.92
+6884,1990,France,'Grand Est',Barley,1981.22,11.94,4.17,0,60.56,16.87,80.52,33.74,Rotasi Tanaman,11.96
+7149,1990,France,'Grand Est',Cotton,923.99,17.65,1.512,2,82.21,4.32,58.11,74.43,Rotasi Tanaman,9.74
+1864,1990,France,'Grand Est',Soybeans,1549.36,16.18,0.657,8,69.48,15.43,94.14,87.13,Tanpa Adaptasi,8.87
+7335,1990,France,'Grand Est',,1468.76,5.41,3.12,5,62.01,2.49,27.56,76.44,Tanaman Tahan Kekeringan,15.23
+4521,1990,France,'Provence-Alpes-Cote d’Azur',Fruits,268.2,18.18,1.89,10,64.42,11.88,30.0,83.61,Manajemen Air,15.09
+6367,1990,France,'Provence-Alpes-Cote d’Azur',Rice,1012.38,20.9,2.637,0,78.41,39.0,10.63,66.69,Tanaman Tahan Kekeringan,23.2
+1208,1990,France,'Provence-Alpes-Cote d’Azur',Sugarcane,879.0,29.65,1.08,0,56.08,7.7,84.21,79.76,Tanpa Adaptasi,4.16
+5750,1990,France,Ile-de-France,Cotton,564.53,28.3,1.062,7,74.02,40.08,79.84,65.32,Tanpa Adaptasi,4.77
+7794,1990,France,Ile-de-France,Cotton,1016.43,21.38,1.782,6,62.69,19.17,93.74,44.03,Tanaman Tahan Kekeringan,21.8
+6425,1990,France,Ile-de-France,Rice,2563.06,18.25,3.51,7,,44.59,77.99,53.45,Tanpa Adaptasi,33.94
+1046,1990,France,Ile-de-France,Soybeans,754.31,18.55,1.503,0,46.62,13.58,18.34,92.56,Manajemen Air,15.77
+4661,1990,France,Ile-de-France,Vegetables,540.28,9.92,3.54,5,35.58,28.59,27.87,89.12,Tanaman Tahan Kekeringan,19.43
+2165,1990,France,Nouvelle-Aquitaine,Fruits,448.48,29.26,1.719,3,97.43,26.96,47.95,95.49,Tanaman Tahan Kekeringan,17.19
+1433,1990,France,Nouvelle-Aquitaine,Rice,494.84,8.5,2.601,2,65.26,34.85,37.96,31.22,Rotasi Tanaman,22.77
+3632,1990,France,Nouvelle-Aquitaine,Vegetables,1714.72,24.94,2.124,9,15.97,46.98,43.52,71.39,Tanaman Tahan Kekeringan,22.88
+2148,1991,France,'Grand Est',Coffee,2575.26,9.91,2.61,6,39.83,37.42,77.53,30.39,Pertanian Organik,5.32
+5540,1991,France,'Grand Est',Corn,1956.94,22.29,1.341,5,77.77,18.75,49.88,46.85,Tanpa Adaptasi,1.08
+1505,1991,France,'Grand Est',Cotton,2044.29,27.85,1.215,6,20.1,37.42,8.86,75.05,Manajemen Air,1.73
+714,1991,France,'Grand Est',Rice,2122.73,20.14,4.077,8,39.27,26.76,6.85,62.31,Pertanian Organik,16.71
+3254,1991,France,'Grand Est',Rice,2298.89,29.23,2.8440000000000003,4,61.42,9.0,66.21,83.63,Tanpa Adaptasi,20.55
+5542,1991,France,'Grand Est',Vegetables,2851.43,26.94,1.548,7,35.98,15.82,94.95,52.07,Rotasi Tanaman,1.37
+2412,1991,France,'Grand Est',,437.46,5.33,2.52,6,86.74,17.23,66.25,93.46,Pertanian Organik,26.95
+2496,1991,France,'Provence-Alpes-Cote d’Azur',Barley,761.43,6.48,2.7,10,42.78,7.09,19.16,68.7,Manajemen Air,-1.49
+4395,1991,France,'Provence-Alpes-Cote d’Azur',Coffee,2778.47,18.56,0.801,4,52.9,13.68,18.59,99.48,Manajemen Air,-1.52
+6898,1991,France,'Provence-Alpes-Cote d’Azur',Fruits,2768.25,6.01,3.05,5,23.73,43.05,63.27,77.25,Tanpa Adaptasi,35.0
+5689,1991,France,'Provence-Alpes-Cote d’Azur',Rice,2985.81,27.77,3.762,3,88.15,27.69,4.09,53.84,Tanaman Tahan Kekeringan,12.81
+1365,1991,France,'Provence-Alpes-Cote d’Azur',Vegetables,856.16,8.66,3.3,2,38.11,28.98,3.46,72.74,Rotasi Tanaman,24.25
+2825,1991,France,'Provence-Alpes-Cote d’Azur',Vegetables,389.93,28.82,3.4650000000000003,2,38.51,7.95,74.57,35.68,Rotasi Tanaman,18.02
+4021,1991,France,Ile-de-France,Coffee,2115.44,0.88,2.02,1,60.66,30.44,8.48,49.43,Pertanian Organik,20.52
+2288,1991,France,Ile-de-France,Cotton,2268.54,9.93,2.35,1,40.43,14.82,7.08,69.96,Pertanian Organik,-1.18
+7762,1991,France,Ile-de-France,Cotton,269.67,29.46,1.053,0,67.01,7.31,41.85,54.76,Tanaman Tahan Kekeringan,29.05
+95,1991,France,Ile-de-France,Soybeans,1779.55,22.23,0.5670000000000001,2,82.0,8.68,51.88,92.05,Pertanian Organik,4.86
+3139,1991,France,Ile-de-France,Soybeans,545.04,6.49,0.57,8,30.22,27.28,32.82,53.83,Tanaman Tahan Kekeringan,-3.21
+2361,1991,France,Ile-de-France,Sugarcane,2762.2,13.87,2.68,5,68.94,34.05,17.04,62.42,Manajemen Air,17.37
+4289,1991,France,Ile-de-France,Sugarcane,600.24,23.84,2.862,2,30.94,13.79,45.02,59.21,Manajemen Air,31.54
+889,1991,France,Ile-de-France,Vegetables,,4.18,2.99,2,14.0,18.05,56.55,74.26,Manajemen Air,28.32
+5268,1991,France,Ile-de-France,Vegetables,1877.87,4.63,4.1,2,69.46,25.39,42.72,36.62,Rotasi Tanaman,10.21
+86,1991,France,Nouvelle-Aquitaine,Soybeans,1878.82,3.1,4.59,5,13.93,26.07,36.94,43.28,Manajemen Air,12.31
+6760,1991,France,Nouvelle-Aquitaine,Soybeans,2104.67,19.09,1.296,2,75.21,19.02,46.33,31.77,Tanaman Tahan Kekeringan,7.17
+1381,1991,France,Nouvelle-Aquitaine,Vegetables,1011.55,4.89,3.29,8,78.36,37.66,78.02,62.42,Pertanian Organik,34.84
+7769,1991,France,Nouvelle-Aquitaine,Vegetables,813.27,29.98,3.69,4,46.33,4.24,81.54,53.54,Pertanian Organik,18.46
+5101,1992,France,'Grand Est',Barley,2282.66,11.91,3.88,9,,37.49,51.73,92.17,Rotasi Tanaman,31.52
+5663,1992,France,'Grand Est',Barley,825.72,13.54,0.54,0,41.54,26.07,38.58,69.49,Rotasi Tanaman,-2.57
+2469,1992,France,'Grand Est',Cotton,2213.9,29.71,0.855,0,25.22,11.52,27.16,59.79,Tanaman Tahan Kekeringan,-1.14
+6786,1992,France,'Grand Est',Rice,361.64,1.63,1.413,3,66.52,4.82,92.42,35.77,Pertanian Organik,18.66
+1893,1992,France,'Grand Est',Soybeans,2328.51,25.99,1.197,5,63.78,33.29,86.19,57.9,Rotasi Tanaman,33.8
+4205,1992,France,'Grand Est',Sugarcane,2233.65,19.36,3.042,9,28.9,19.98,2.01,98.14,Tanaman Tahan Kekeringan,26.41
+6251,1992,France,'Grand Est',Vegetables,1665.58,0.8,0.89,3,26.97,24.54,22.22,58.23,Pertanian Organik,31.54
+4255,1992,France,'Provence-Alpes-Cote d’Azur',Barley,2157.9,17.48,1.179,3,94.15,36.55,19.72,30.82,Tanaman Tahan Kekeringan,-2.1
+7959,1992,France,Ile-de-France,Barley,2793.42,0.89,1.77,8,77.58,35.13,8.29,36.3,Rotasi Tanaman,25.3
+1935,1992,France,Ile-de-France,Coffee,996.46,28.51,2.4480000000000004,10,13.14,14.9,73.25,72.99,Rotasi Tanaman,-2.68
+501,1992,France,Ile-de-France,Corn,436.31,16.12,4.455,7,99.14,15.07,3.08,33.88,Pertanian Organik,16.28
+1795,1992,France,Ile-de-France,Corn,2868.86,13.96,2.16,6,12.84,47.48,24.57,79.0,Tanaman Tahan Kekeringan,17.65
+5319,1992,France,Ile-de-France,Corn,417.15,28.52,0.63,1,66.63,2.52,3.28,83.43,Manajemen Air,5.33
+1808,1992,France,Ile-de-France,Fruits,1896.9,3.58,0.65,0,99.06,2.0,28.43,58.53,Manajemen Air,3.08
+3785,1992,France,Ile-de-France,Fruits,619.77,7.62,2.82,8,70.4,24.96,16.42,48.84,Tanpa Adaptasi,24.49
+1861,1992,France,Ile-de-France,Vegetables,2757.1,18.53,1.791,7,54.08,1.27,69.74,42.48,Tanaman Tahan Kekeringan,-0.88
+5374,1992,France,Ile-de-France,Vegetables,2205.15,8.49,2.51,5,93.32,44.39,36.74,43.5,Pertanian Organik,-0.54
+5583,1992,France,Nouvelle-Aquitaine,Coffee,934.16,22.96,2.106,1,40.7,14.1,46.28,63.64,Pertanian Organik,20.89
+7156,1992,France,Nouvelle-Aquitaine,Coffee,2932.14,12.8,0.83,10,77.18,8.42,63.14,44.05,Tanaman Tahan Kekeringan,2.66
+696,1992,France,Nouvelle-Aquitaine,Corn,2813.92,15.79,1.845,0,81.65,7.34,19.35,62.52,Manajemen Air,19.96
+5623,1992,France,Nouvelle-Aquitaine,Fruits,209.96,14.33,1.935,1,77.37,32.79,93.59,68.0,Manajemen Air,23.48
+5058,1992,France,Nouvelle-Aquitaine,Rice,935.9,5.23,0.68,6,78.17,8.55,46.94,45.16,Tanpa Adaptasi,-3.5
+7989,1992,France,Nouvelle-Aquitaine,Sugarcane,2805.46,5.52,2.2,4,16.26,13.96,97.42,96.81,Tanaman Tahan Kekeringan,34.35
+4062,1992,France,Nouvelle-Aquitaine,Wheat,1301.16,13.47,2.56,1,22.5,28.04,84.22,63.59,Rotasi Tanaman,-2.89
+1676,1993,France,'Grand Est',Corn,1876.09,17.01,2.385,2,75.29,3.77,88.76,39.7,Manajemen Air,18.87
+1385,1993,France,'Grand Est',Wheat,1907.45,3.77,0.78,0,37.86,35.09,78.64,82.5,Rotasi Tanaman,5.12
+2122,1993,France,'Grand Est',Wheat,2465.51,2.22,1.94,1,69.77,0.88,10.77,45.66,Rotasi Tanaman,27.52
+3607,1993,France,'Grand Est',Wheat,225.72,12.18,3.393,7,81.53,36.0,62.64,65.78,Pertanian Organik,32.14
+5410,1993,France,'Grand Est',Wheat,1128.82,24.69,3.492,3,60.87,5.69,84.57,69.21,Pertanian Organik,16.29
+1221,1993,France,'Grand Est',,1302.06,6.96,2.68,5,60.75,0.71,88.74,85.09,Tanpa Adaptasi,6.62
+5935,1993,France,'Provence-Alpes-Cote d’Azur',Coffee,2312.69,24.67,0.954,1,25.36,2.14,58.67,33.16,Manajemen Air,29.84
+6594,1993,France,'Provence-Alpes-Cote d’Azur',Cotton,2983.3,1.96,2.52,10,32.2,18.65,58.24,59.77,Rotasi Tanaman,26.06
+1880,1993,France,'Provence-Alpes-Cote d’Azur',Vegetables,2054.35,18.7,0.963,1,70.39,17.44,5.84,46.47,Manajemen Air,-2.36
+3357,1993,France,'Provence-Alpes-Cote d’Azur',Vegetables,1091.7,27.16,2.277,2,11.08,35.92,14.15,67.76,Tanaman Tahan Kekeringan,14.25
+4009,1993,France,'Provence-Alpes-Cote d’Azur',Wheat,1628.27,5.77,3.09,7,94.35,33.36,62.36,60.7,Rotasi Tanaman,34.99
+6433,1993,France,Ile-de-France,Barley,1462.82,18.18,4.131,9,61.58,11.28,21.55,41.59,Tanpa Adaptasi,11.9
+85,1993,France,Ile-de-France,Corn,1873.91,26.71,3.447,4,52.2,15.32,24.49,38.92,Manajemen Air,23.4
+4699,1993,France,Ile-de-France,Sugarcane,2189.87,10.81,2.47,6,47.17,12.98,78.95,70.76,Rotasi Tanaman,21.9
+314,1993,France,Ile-de-France,Vegetables,1910.78,3.52,1.04,7,91.61,5.91,38.12,54.95,Manajemen Air,5.85
+5361,1993,France,Ile-de-France,Vegetables,2583.14,3.14,4.24,8,78.88,13.05,9.31,72.86,Rotasi Tanaman,19.19
+2555,1993,France,Ile-de-France,,2518.64,0.7,1.72,2,13.99,10.53,12.33,74.61,Tanpa Adaptasi,5.17
+4187,1993,France,Nouvelle-Aquitaine,Barley,,19.43,1.476,1,87.39,34.2,43.55,80.12,Rotasi Tanaman,13.14
+2984,1993,France,Nouvelle-Aquitaine,Corn,973.64,10.25,2.94,7,22.56,35.62,21.07,68.0,Pertanian Organik,13.01
+640,1993,France,Nouvelle-Aquitaine,Fruits,,24.27,4.329,6,13.45,34.97,27.16,54.91,Tanpa Adaptasi,18.69
+2049,1993,France,Nouvelle-Aquitaine,Fruits,641.8,29.47,0.873,2,44.54,46.22,53.42,83.48,Rotasi Tanaman,5.47
+5235,1993,France,Nouvelle-Aquitaine,Sugarcane,2850.98,17.74,1.746,4,55.52,19.64,58.09,94.06,Tanaman Tahan Kekeringan,0.89
+760,1993,France,Nouvelle-Aquitaine,Wheat,1813.16,16.19,3.132,5,82.37,12.34,51.9,48.21,Tanaman Tahan Kekeringan,32.73
+4214,1994,France,'Grand Est',Corn,2559.52,1.71,1.03,1,34.76,44.49,84.01,32.15,Manajemen Air,30.2
+7481,1994,France,'Grand Est',Corn,384.21,5.66,1.278,6,12.57,41.43,15.57,56.46,Tanaman Tahan Kekeringan,2.8
+6365,1994,France,'Grand Est',Cotton,2440.86,4.87,3.45,7,29.07,10.21,28.88,84.42,Pertanian Organik,10.59
+6603,1994,France,'Grand Est',Cotton,1293.39,5.11,4.3,10,38.26,28.39,4.31,90.77,Tanaman Tahan Kekeringan,13.58
+3962,1994,France,'Grand Est',Fruits,881.73,11.04,1.58,6,33.5,18.78,2.97,61.3,Pertanian Organik,29.1
+4154,1994,France,'Grand Est',Soybeans,1905.98,19.39,3.267,8,34.85,22.17,86.31,47.9,Tanaman Tahan Kekeringan,31.27
+494,1994,France,'Provence-Alpes-Cote d’Azur',Barley,763.49,22.65,1.584,0,42.04,1.8,56.15,60.78,Pertanian Organik,29.66
+5709,1994,France,'Provence-Alpes-Cote d’Azur',Barley,,16.47,0.477,6,78.99,27.3,95.52,58.72,Manajemen Air,3.39
+385,1994,France,'Provence-Alpes-Cote d’Azur',Coffee,1669.24,6.0,0.87,7,92.12,47.04,58.8,88.68,Tanpa Adaptasi,4.89
+4769,1994,France,'Provence-Alpes-Cote d’Azur',Coffee,1287.6,26.5,2.151,4,52.35,44.82,43.78,41.64,Manajemen Air,0.43
+6094,1994,France,Ile-de-France,Fruits,2305.69,27.83,0.846,7,10.53,39.05,63.46,70.46,Pertanian Organik,9.31
+5241,1994,France,Nouvelle-Aquitaine,Barley,944.64,24.35,2.07,9,99.45,49.7,86.56,51.2,Tanpa Adaptasi,26.41
+6388,1994,France,Nouvelle-Aquitaine,Fruits,1220.75,13.92,3.85,9,70.93,7.86,71.9,90.93,Tanpa Adaptasi,24.91
+2440,1994,France,Nouvelle-Aquitaine,Soybeans,209.95,20.28,0.5670000000000001,7,54.78,3.76,79.05,93.6,Manajemen Air,6.59
+3161,1995,France,'Grand Est',Barley,1798.56,17.6,1.548,9,40.38,17.86,11.42,63.56,Pertanian Organik,-1.37
+5416,1995,France,'Grand Est',Corn,2673.77,8.75,2.79,10,74.21,13.26,43.48,51.68,Tanaman Tahan Kekeringan,13.58
+1073,1995,France,'Grand Est',Cotton,924.86,15.86,1.728,2,45.29,39.52,20.28,47.71,Tanpa Adaptasi,1.58
+2845,1995,France,'Grand Est',Soybeans,1497.41,19.99,2.3400000000000003,10,30.3,38.61,48.12,58.51,Tanaman Tahan Kekeringan,27.16
+7556,1995,France,'Grand Est',Soybeans,762.69,9.13,1.1,9,89.83,3.42,59.99,88.75,Pertanian Organik,3.82
+4037,1995,France,'Grand Est',Sugarcane,2321.53,15.43,3.24,0,91.18,26.79,84.86,76.3,Manajemen Air,22.59
+4655,1995,France,'Provence-Alpes-Cote d’Azur',Barley,2579.14,26.14,,5,45.79,24.75,61.52,42.01,Pertanian Organik,21.69
+2237,1995,France,'Provence-Alpes-Cote d’Azur',Coffee,1216.81,26.02,2.979,10,85.92,12.84,62.17,74.59,Pertanian Organik,30.11
+6081,1995,France,'Provence-Alpes-Cote d’Azur',Rice,2514.87,14.05,0.94,0,55.49,13.29,48.98,55.31,Manajemen Air,26.83
+6093,1995,France,Ile-de-France,Barley,2519.67,19.94,2.646,3,85.45,8.43,47.4,64.61,Tanpa Adaptasi,1.33
+5405,1995,France,Ile-de-France,Wheat,925.8,18.05,,5,81.47,38.57,73.52,71.52,Pertanian Organik,17.62
+1293,1995,France,Nouvelle-Aquitaine,Barley,1842.25,27.15,3.186,2,94.23,3.53,70.91,64.24,Pertanian Organik,25.11
+5175,1995,France,Nouvelle-Aquitaine,Barley,2455.22,13.5,3.24,1,52.5,6.69,1.77,63.21,Pertanian Organik,31.58
+5892,1995,France,Nouvelle-Aquitaine,Coffee,1620.19,29.68,0.747,1,23.22,24.6,21.7,33.48,Pertanian Organik,25.18
+3595,1995,France,Nouvelle-Aquitaine,Vegetables,657.65,6.19,1.68,3,89.69,30.98,5.23,32.31,Pertanian Organik,-1.77
+2405,1996,France,'Grand Est',Cotton,837.15,9.19,2.32,4,26.66,14.09,76.19,42.16,Tanpa Adaptasi,6.73
+3791,1996,France,'Grand Est',Fruits,2811.27,0.53,2.35,8,18.54,34.07,9.19,42.52,Tanaman Tahan Kekeringan,34.86
+1460,1996,France,'Grand Est',Sugarcane,1036.47,13.63,2.36,0,27.77,4.32,93.85,79.52,Tanpa Adaptasi,-4.64
+1649,1996,France,'Grand Est',Sugarcane,,24.02,2.4480000000000004,5,15.54,6.82,58.15,52.43,Tanpa Adaptasi,29.79
+7846,1996,France,'Grand Est',Sugarcane,1542.58,2.82,1.2,0,87.58,35.08,63.06,86.04,Tanaman Tahan Kekeringan,-4.41
+4910,1996,France,'Grand Est',Vegetables,2126.58,8.6,2.98,6,85.82,33.71,87.44,79.68,Manajemen Air,12.91
+2643,1996,France,'Provence-Alpes-Cote d’Azur',Corn,337.12,29.78,4.3740000000000006,3,96.72,13.67,34.24,55.25,Tanaman Tahan Kekeringan,10.54
+6698,1996,France,'Provence-Alpes-Cote d’Azur',Corn,2560.43,10.14,1.67,9,28.02,48.44,72.65,48.35,Pertanian Organik,9.96
+1868,1996,France,'Provence-Alpes-Cote d’Azur',Cotton,1104.12,3.54,2.76,7,51.22,6.35,65.43,50.7,Manajemen Air,9.8
+3398,1996,France,'Provence-Alpes-Cote d’Azur',Cotton,2310.96,23.13,1.791,5,18.08,21.48,16.98,40.18,Pertanian Organik,24.83
+6969,1996,France,'Provence-Alpes-Cote d’Azur',Rice,1467.03,19.25,2.196,6,26.76,4.93,88.84,80.57,Manajemen Air,7.95
+7974,1996,France,'Provence-Alpes-Cote d’Azur',,1733.8,18.88,2.331,4,48.98,4.58,90.96,70.97,Manajemen Air,-4.65
+2046,1996,France,Ile-de-France,Rice,2886.9,10.88,2.34,4,47.92,4.32,50.68,89.37,Rotasi Tanaman,14.77
+7690,1996,France,Ile-de-France,Rice,1377.58,3.84,2.41,0,55.24,1.03,15.38,89.39,Pertanian Organik,20.26
+5451,1996,France,Ile-de-France,Sugarcane,1811.29,16.46,0.675,9,72.47,44.58,87.03,37.76,Manajemen Air,5.88
+6671,1996,France,Ile-de-France,Sugarcane,878.59,13.08,3.68,3,24.05,37.28,64.85,36.6,Tanpa Adaptasi,25.97
+437,1996,France,Ile-de-France,Wheat,2359.2,6.01,0.52,3,66.73,34.37,89.26,69.17,Pertanian Organik,1.64
+1952,1996,France,Ile-de-France,Wheat,2578.74,24.56,0.873,9,26.24,49.34,82.98,55.4,Rotasi Tanaman,4.53
+2334,1996,France,Nouvelle-Aquitaine,Barley,201.64,4.97,1.341,4,17.07,7.91,1.58,47.57,Manajemen Air,-4.58
+3754,1996,France,Nouvelle-Aquitaine,Fruits,678.53,10.24,3.87,9,34.37,14.81,73.94,75.55,Tanaman Tahan Kekeringan,17.71
+4643,1996,France,Nouvelle-Aquitaine,Fruits,718.47,2.46,2.93,1,46.02,36.89,78.79,58.7,Pertanian Organik,32.29
+6907,1996,France,Nouvelle-Aquitaine,Soybeans,290.87,15.89,2.493,3,96.55,38.91,67.07,83.78,Tanpa Adaptasi,-0.12
+4381,1996,France,Nouvelle-Aquitaine,Vegetables,2501.67,29.91,2.556,5,30.92,20.32,41.0,68.95,Manajemen Air,19.92
+6157,1996,France,Nouvelle-Aquitaine,Vegetables,793.13,4.16,1.23,9,51.57,5.34,70.35,53.21,Tanpa Adaptasi,3.97
+2985,1997,France,'Grand Est',Barley,441.19,7.16,1.764,0,74.86,43.28,83.1,43.08,Tanpa Adaptasi,-1.58
+3259,1997,France,'Grand Est',Rice,1953.79,26.55,,2,44.53,45.94,67.06,78.92,Pertanian Organik,31.99
+5587,1997,France,'Grand Est',Soybeans,1664.52,13.41,3.46,9,59.53,9.51,9.43,92.02,Rotasi Tanaman,32.29
+2924,1997,France,'Grand Est',Sugarcane,1122.73,12.07,2.44,0,67.9,8.5,25.33,63.18,Manajemen Air,-3.02
+7295,1997,France,'Grand Est',Sugarcane,522.88,29.74,2.889,5,50.68,34.45,64.01,56.35,Tanpa Adaptasi,20.38
+2740,1997,France,'Grand Est',Vegetables,1642.19,12.43,1.74,3,91.53,32.9,6.38,63.65,Manajemen Air,15.5
+5340,1997,France,'Grand Est',Vegetables,2177.78,9.9,3.47,6,90.16,44.62,20.44,42.27,Tanpa Adaptasi,26.74
+7602,1997,France,'Grand Est',,518.11,13.11,2.4,3,70.38,20.54,27.25,80.47,Manajemen Air,34.36
+3127,1997,France,'Provence-Alpes-Cote d’Azur',Coffee,1771.9,6.8,3.41,3,15.83,33.59,43.27,61.45,Rotasi Tanaman,18.13
+6765,1997,France,'Provence-Alpes-Cote d’Azur',Coffee,662.3,11.81,1.57,10,86.79,42.24,88.15,74.95,Manajemen Air,5.59
+7211,1997,France,'Provence-Alpes-Cote d’Azur',Soybeans,2348.2,28.7,1.467,3,66.17,49.93,6.82,78.54,Tanpa Adaptasi,14.42
+3570,1997,France,'Provence-Alpes-Cote d’Azur',Wheat,274.92,9.92,1.098,6,53.6,1.03,33.31,30.68,Manajemen Air,4.34
+5167,1997,France,'Provence-Alpes-Cote d’Azur',Wheat,2611.99,7.6,2.26,7,32.37,46.27,90.75,34.99,Manajemen Air,-1.02
+1901,1997,France,Ile-de-France,Coffee,2850.7,22.22,1.935,2,57.67,42.54,28.79,59.22,Rotasi Tanaman,7.56
+1113,1997,France,Ile-de-France,Corn,2860.32,28.47,2.25,3,67.59,25.26,30.78,87.92,Tanpa Adaptasi,33.43
+3089,1997,France,Ile-de-France,Fruits,1684.1,11.78,0.83,8,33.65,39.11,53.36,83.94,Tanaman Tahan Kekeringan,0.54
+7075,1997,France,Ile-de-France,Vegetables,2767.46,5.3,2.15,9,50.14,47.62,53.89,76.58,Rotasi Tanaman,34.58
+7812,1997,France,Nouvelle-Aquitaine,Corn,2150.98,25.08,2.007,9,51.45,19.64,98.52,86.4,Rotasi Tanaman,31.02
+6706,1997,France,Nouvelle-Aquitaine,Cotton,1487.65,21.36,0.909,9,40.89,34.73,33.41,43.57,Tanpa Adaptasi,-0.42
+3300,1997,France,Nouvelle-Aquitaine,Rice,1250.06,28.1,0.855,10,34.78,33.99,81.2,56.03,Manajemen Air,6.38
+1137,1997,France,Nouvelle-Aquitaine,Vegetables,2134.31,12.86,2.9,5,93.27,43.09,45.2,58.64,Tanpa Adaptasi,32.84
+3656,1997,France,Nouvelle-Aquitaine,Vegetables,942.69,13.85,1.8,2,23.35,1.01,93.97,45.06,Manajemen Air,15.0
+982,1997,France,Nouvelle-Aquitaine,Wheat,689.7,18.46,1.647,2,33.75,31.24,59.49,91.07,Rotasi Tanaman,12.02
+1214,1998,France,'Grand Est',Barley,2559.02,25.62,2.3400000000000003,10,28.45,35.42,67.53,42.78,Pertanian Organik,9.75
+7109,1998,France,'Grand Est',Barley,1178.21,13.34,2.64,10,61.58,24.23,72.43,62.21,Pertanian Organik,28.2
+5329,1998,France,'Grand Est',Wheat,2653.35,18.15,2.259,2,57.82,20.76,83.67,59.63,Manajemen Air,33.9
+3144,1998,France,Ile-de-France,Barley,2570.22,18.69,2.646,3,97.49,43.6,35.32,60.59,Tanpa Adaptasi,7.27
+2316,1998,France,Nouvelle-Aquitaine,Barley,619.93,2.4,2.23,1,70.51,11.68,17.95,83.7,Rotasi Tanaman,11.77
+1458,1998,France,Nouvelle-Aquitaine,Coffee,379.16,21.15,2.4480000000000004,4,97.35,14.38,87.52,31.35,Tanaman Tahan Kekeringan,11.3
+7630,1998,France,Nouvelle-Aquitaine,Corn,,24.0,1.152,10,96.9,33.87,38.85,94.26,Tanaman Tahan Kekeringan,2.86
+2282,1998,France,Nouvelle-Aquitaine,Cotton,1943.57,11.73,1.19,5,21.66,22.72,48.44,73.58,Tanaman Tahan Kekeringan,9.51
+2439,1998,France,Nouvelle-Aquitaine,Fruits,1446.93,11.12,2.57,4,78.46,0.24,78.52,42.46,Pertanian Organik,5.3
+3543,1998,France,Nouvelle-Aquitaine,Fruits,1064.92,16.97,0.684,1,69.7,48.74,49.11,94.42,Tanaman Tahan Kekeringan,6.26
+427,1998,France,Nouvelle-Aquitaine,Soybeans,1371.18,17.36,1.2240000000000002,5,78.42,20.3,91.81,78.81,Rotasi Tanaman,6.36
+3718,1998,France,Nouvelle-Aquitaine,Wheat,2387.01,4.25,1.69,4,18.87,25.09,54.95,31.31,Rotasi Tanaman,10.97
+7427,1999,France,'Grand Est',Coffee,2252.48,28.33,2.655,2,95.67,8.95,85.92,81.99,Pertanian Organik,30.99
+218,1999,France,'Grand Est',Cotton,211.11,20.12,1.863,4,71.77,30.78,26.31,67.09,Pertanian Organik,6.97
+3708,1999,France,'Grand Est',Cotton,258.32,19.03,1.179,1,20.81,41.8,52.11,61.82,Manajemen Air,3.23
+7662,1999,France,'Grand Est',Cotton,1285.84,26.16,1.242,7,20.41,14.47,66.97,44.44,Manajemen Air,31.12
+2664,1999,France,'Grand Est',Fruits,2800.17,20.21,1.7009999999999998,1,75.05,16.27,15.2,42.02,Pertanian Organik,0.51
+2771,1999,France,'Grand Est',Fruits,2293.06,16.36,4.365,0,79.94,16.97,20.44,60.58,Tanpa Adaptasi,17.01
+3476,1999,France,'Grand Est',Fruits,2425.8,22.3,3.258,0,84.94,3.58,36.08,38.18,Tanaman Tahan Kekeringan,25.25
+4817,1999,France,'Grand Est',Fruits,521.4,9.95,2.88,7,99.59,45.02,92.24,89.14,Tanaman Tahan Kekeringan,23.76
+6222,1999,France,'Grand Est',Vegetables,1482.99,14.21,2.57,0,,39.89,52.56,90.17,Manajemen Air,24.43
+7660,1999,France,'Grand Est',Wheat,715.44,12.87,2.36,4,84.24,17.47,53.61,71.41,Manajemen Air,7.78
+1536,1999,France,'Grand Est',,1570.59,13.39,2.2,4,37.41,20.36,87.03,66.44,Manajemen Air,22.38
+5037,1999,France,'Provence-Alpes-Cote d’Azur',Barley,855.78,27.81,2.178,0,10.42,21.6,53.4,31.93,Manajemen Air,24.94
+2931,1999,France,'Provence-Alpes-Cote d’Azur',Soybeans,1837.51,12.23,1.38,6,91.18,25.6,55.1,86.24,Rotasi Tanaman,-2.45
+2389,1999,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1708.39,24.22,1.4220000000000002,6,37.93,15.88,49.99,58.87,Pertanian Organik,28.89
+4941,1999,France,'Provence-Alpes-Cote d’Azur',Sugarcane,2609.95,20.21,1.746,5,47.32,42.56,18.55,74.18,Tanpa Adaptasi,8.02
+6542,1999,France,'Provence-Alpes-Cote d’Azur',Vegetables,2797.1,17.87,2.7,1,44.0,12.54,59.96,47.03,Pertanian Organik,10.31
+6163,1999,France,'Provence-Alpes-Cote d’Azur',Wheat,1331.44,25.45,3.123,7,91.03,37.04,86.82,74.01,Rotasi Tanaman,31.26
+6593,1999,France,Ile-de-France,Barley,,26.58,1.593,7,80.64,39.75,47.83,92.47,Tanpa Adaptasi,-4.57
+2680,1999,France,Ile-de-France,Coffee,817.72,17.71,2.6910000000000003,2,18.62,47.4,40.49,99.25,Rotasi Tanaman,2.66
+5144,1999,France,Ile-de-France,Corn,600.43,16.61,1.305,3,62.23,34.34,74.39,48.93,Tanaman Tahan Kekeringan,27.77
+6350,1999,France,Ile-de-France,Cotton,2975.95,27.11,1.485,4,40.18,21.46,25.01,67.96,Tanpa Adaptasi,-0.5
+5650,1999,France,Ile-de-France,Soybeans,2970.99,23.59,3.087,4,48.37,41.26,97.84,96.76,Tanpa Adaptasi,32.71
+6376,1999,France,Ile-de-France,Soybeans,2104.53,29.24,3.3120000000000003,1,73.0,12.94,30.15,46.14,Tanpa Adaptasi,12.59
+7631,1999,France,Ile-de-France,Sugarcane,,23.26,0.765,5,33.7,19.14,88.31,87.3,Manajemen Air,-3.41
+7582,1999,France,Ile-de-France,Wheat,1739.73,4.12,1.38,2,35.39,18.68,17.56,50.07,Manajemen Air,-2.74
+5380,1999,France,Nouvelle-Aquitaine,Barley,2673.44,2.76,1.8,6,38.97,3.5,78.49,34.81,Manajemen Air,1.89
+2799,1999,France,Nouvelle-Aquitaine,Soybeans,2655.38,21.73,3.1410000000000005,3,11.98,45.18,38.95,74.83,Manajemen Air,21.74
+5423,1999,France,Nouvelle-Aquitaine,Vegetables,434.87,22.68,0.936,9,55.48,46.3,23.61,38.39,Manajemen Air,30.49
+3379,1999,France,Nouvelle-Aquitaine,Wheat,1982.85,20.51,2.511,9,51.79,1.23,95.87,58.56,Rotasi Tanaman,17.83
+6137,2000,France,'Grand Est',Corn,,20.09,,4,69.96,43.21,41.4,43.37,Tanaman Tahan Kekeringan,8.53
+275,2000,France,'Grand Est',Cotton,2147.14,24.96,3.492,1,86.57,28.21,56.63,84.3,Manajemen Air,31.02
+482,2000,France,'Grand Est',Cotton,2302.18,17.79,1.512,7,90.4,16.37,72.89,37.33,Pertanian Organik,14.64
+3786,2000,France,'Grand Est',Cotton,1924.51,19.53,2.232,8,93.34,21.68,61.7,35.02,Tanpa Adaptasi,20.59
+2403,2000,France,'Grand Est',Soybeans,2560.16,13.63,2.92,1,95.81,3.09,5.86,77.88,Manajemen Air,19.02
+4372,2000,France,'Grand Est',Vegetables,231.47,23.36,2.097,2,18.46,24.7,55.82,54.46,Tanpa Adaptasi,2.57
+121,2000,France,'Provence-Alpes-Cote d’Azur',Barley,2962.04,25.72,3.4290000000000003,9,35.27,27.71,38.27,51.78,Rotasi Tanaman,27.0
+3619,2000,France,'Provence-Alpes-Cote d’Azur',Coffee,1781.67,16.57,0.684,1,56.36,45.0,83.03,68.23,Rotasi Tanaman,0.58
+2843,2000,France,'Provence-Alpes-Cote d’Azur',Fruits,1336.73,25.72,1.431,9,64.62,49.3,90.93,41.29,Manajemen Air,27.91
+521,2000,France,Ile-de-France,Barley,2866.06,13.8,4.2,1,88.26,48.98,9.05,30.03,Rotasi Tanaman,18.39
+6074,2000,France,Ile-de-France,Coffee,2567.66,9.25,2.32,0,85.89,5.45,27.45,53.38,Rotasi Tanaman,22.6
+7665,2000,France,Ile-de-France,Corn,2782.74,24.66,2.421,10,15.47,10.52,12.0,66.34,Tanaman Tahan Kekeringan,11.1
+6936,2000,France,Ile-de-France,Vegetables,833.03,18.14,1.6740000000000002,10,67.17,36.63,8.67,32.38,Pertanian Organik,16.59
+4359,2000,France,Ile-de-France,Wheat,1360.77,29.96,0.873,4,60.85,8.34,92.33,54.59,Tanpa Adaptasi,6.33
+5597,2000,France,Ile-de-France,Wheat,2919.47,10.86,2.46,7,63.26,26.0,94.3,71.23,Tanaman Tahan Kekeringan,23.69
+6812,2000,France,Nouvelle-Aquitaine,Barley,2545.11,11.68,3.91,8,12.13,7.38,66.14,83.11,Manajemen Air,24.98
+5102,2000,France,Nouvelle-Aquitaine,Cotton,250.3,1.24,2.511,1,82.27,25.88,3.76,69.07,Tanpa Adaptasi,16.74
+7712,2000,France,Nouvelle-Aquitaine,Cotton,1279.82,11.53,0.83,7,24.85,41.79,79.8,68.72,Rotasi Tanaman,21.67
+6963,2000,France,Nouvelle-Aquitaine,Fruits,1824.41,6.27,2.26,2,13.99,49.85,30.7,36.72,Tanpa Adaptasi,33.2
+7542,2000,France,Nouvelle-Aquitaine,Soybeans,2749.76,1.14,,2,46.56,47.14,26.1,77.93,Manajemen Air,-0.32
+4444,2000,France,Nouvelle-Aquitaine,Vegetables,1856.4,0.85,3.36,7,18.77,2.58,13.05,67.64,Pertanian Organik,12.85
+7540,2001,France,'Grand Est',Barley,2732.38,21.85,3.186,10,34.5,40.19,26.0,87.19,Tanaman Tahan Kekeringan,15.53
+7557,2001,France,'Grand Est',Coffee,2000.51,1.82,4.67,3,22.14,26.48,56.05,78.86,Pertanian Organik,16.56
+3840,2001,France,'Grand Est',Rice,1825.23,24.43,1.341,8,54.47,48.83,2.7,99.66,Tanaman Tahan Kekeringan,-4.71
+476,2001,France,'Grand Est',Soybeans,1709.07,10.71,1.93,7,56.89,31.14,5.49,72.01,Tanaman Tahan Kekeringan,27.93
+1802,2001,France,'Grand Est',Sugarcane,1307.07,14.01,2.93,2,59.55,24.08,16.69,98.12,Tanpa Adaptasi,18.84
+1402,2001,France,'Provence-Alpes-Cote d’Azur',Barley,2215.75,16.61,2.763,6,18.58,15.28,43.62,36.67,Rotasi Tanaman,19.42
+3910,2001,France,'Provence-Alpes-Cote d’Azur',Coffee,402.01,20.64,2.61,0,44.96,42.84,16.63,95.68,Tanaman Tahan Kekeringan,22.86
+1879,2001,France,'Provence-Alpes-Cote d’Azur',Rice,1678.22,23.48,4.428,5,86.01,40.0,92.9,44.0,Rotasi Tanaman,17.7
+2025,2001,France,'Provence-Alpes-Cote d’Azur',Soybeans,1886.41,3.52,2.32,7,33.52,30.01,18.03,55.8,Tanaman Tahan Kekeringan,17.84
+1799,2001,France,'Provence-Alpes-Cote d’Azur',Wheat,1652.48,28.19,2.502,7,42.57,28.04,44.57,47.74,Tanpa Adaptasi,23.18
+7416,2001,France,'Provence-Alpes-Cote d’Azur',Wheat,2900.65,17.69,1.656,1,55.45,1.43,28.83,44.93,Manajemen Air,11.26
+5504,2001,France,'Provence-Alpes-Cote d’Azur',,2728.35,11.68,1.15,7,71.42,49.79,81.67,66.08,Tanpa Adaptasi,-3.18
+3463,2001,France,Ile-de-France,Coffee,763.31,20.12,0.8280000000000001,0,73.56,7.01,83.29,71.12,Rotasi Tanaman,21.11
+5654,2001,France,Ile-de-France,Coffee,2902.21,0.66,1.49,9,10.42,43.43,50.72,78.5,Tanaman Tahan Kekeringan,21.0
+855,2001,France,Ile-de-France,Fruits,2354.07,1.73,2.82,8,94.19,26.84,81.55,91.44,Manajemen Air,-1.96
+3778,2001,France,Ile-de-France,Rice,624.6,28.26,3.294,3,30.35,2.32,68.33,57.18,Pertanian Organik,16.31
+2002,2001,France,Ile-de-France,Soybeans,1153.23,6.86,4.89,6,,23.14,68.69,90.73,Pertanian Organik,11.45
+5970,2001,France,Ile-de-France,Wheat,1301.74,25.75,1.719,5,84.42,27.41,65.53,67.78,Manajemen Air,21.11
+7016,2001,France,Ile-de-France,Wheat,947.69,24.16,1.521,0,13.12,3.27,14.01,46.66,Tanaman Tahan Kekeringan,18.47
+6210,2001,France,Nouvelle-Aquitaine,Barley,2732.01,14.03,1.16,10,35.22,19.95,84.4,87.13,Tanaman Tahan Kekeringan,22.95
+3385,2001,France,Nouvelle-Aquitaine,Coffee,2915.04,3.1,1.17,7,22.97,8.52,21.72,80.19,Pertanian Organik,6.64
+6147,2001,France,Nouvelle-Aquitaine,Coffee,2412.76,28.61,0.45,5,99.88,29.59,10.88,38.87,Pertanian Organik,-4.09
+4118,2001,France,Nouvelle-Aquitaine,Corn,1773.3,16.16,1.539,5,56.7,37.98,54.15,75.72,Manajemen Air,33.24
+4988,2001,France,Nouvelle-Aquitaine,Cotton,2629.57,22.15,2.637,8,17.56,23.77,38.58,36.29,Manajemen Air,19.94
+5066,2001,France,Nouvelle-Aquitaine,Cotton,,23.63,2.898,10,,33.32,16.72,71.43,Rotasi Tanaman,21.55
+2308,2001,France,Nouvelle-Aquitaine,Fruits,1756.92,18.81,2.511,6,43.77,40.32,78.79,30.68,Rotasi Tanaman,-2.59
+1722,2001,France,Nouvelle-Aquitaine,Rice,2086.06,20.1,2.232,2,48.07,39.14,76.82,57.8,Tanpa Adaptasi,9.21
+5778,2001,France,Nouvelle-Aquitaine,Rice,1313.77,25.08,2.124,2,36.37,48.17,97.47,72.5,Pertanian Organik,34.23
+4268,2001,France,Nouvelle-Aquitaine,Soybeans,1699.74,24.1,0.873,1,,48.43,55.35,39.42,Rotasi Tanaman,5.63
+6310,2001,France,Nouvelle-Aquitaine,,2042.27,10.13,0.68,3,53.68,49.94,83.23,64.08,Tanpa Adaptasi,7.38
+2346,2002,France,'Grand Est',Barley,2088.78,19.04,2.007,1,49.0,24.76,45.64,73.46,Pertanian Organik,8.16
+143,2002,France,'Grand Est',Soybeans,2922.22,28.64,1.917,7,67.84,25.77,27.61,62.49,Manajemen Air,23.52
+3531,2002,France,'Grand Est',Soybeans,2432.95,22.67,3.375,5,55.72,26.15,58.83,61.04,Tanaman Tahan Kekeringan,11.77
+315,2002,France,'Grand Est',Vegetables,1635.31,12.13,1.37,10,52.46,47.24,81.72,75.12,Rotasi Tanaman,-2.57
+3717,2002,France,'Grand Est',,1814.94,2.87,,6,47.34,30.39,62.65,69.62,Tanpa Adaptasi,14.59
+4262,2002,France,'Provence-Alpes-Cote d’Azur',Coffee,2867.09,5.04,2.95,5,18.08,38.45,24.29,34.01,Rotasi Tanaman,25.67
+1710,2002,France,'Provence-Alpes-Cote d’Azur',Fruits,2442.57,8.21,2.3,5,53.82,28.99,69.06,87.41,Manajemen Air,31.33
+3211,2002,France,'Provence-Alpes-Cote d’Azur',Fruits,2815.04,16.06,3.303,3,97.65,46.35,52.58,52.88,Pertanian Organik,13.06
+1195,2002,France,'Provence-Alpes-Cote d’Azur',Rice,1994.15,18.68,0.7020000000000001,6,82.61,39.0,31.48,86.82,Manajemen Air,4.97
+6750,2002,France,'Provence-Alpes-Cote d’Azur',Rice,1563.55,20.01,2.898,5,,19.22,85.99,77.61,Rotasi Tanaman,27.59
+7313,2002,France,'Provence-Alpes-Cote d’Azur',Soybeans,,23.05,1.6740000000000002,4,71.4,37.14,3.47,42.6,Rotasi Tanaman,-4.01
+4063,2002,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1032.3,14.15,2.48,4,64.01,37.6,49.72,75.04,Manajemen Air,9.34
+2513,2002,France,'Provence-Alpes-Cote d’Azur',Wheat,974.87,6.17,1.4,2,35.68,34.94,49.91,74.88,Tanaman Tahan Kekeringan,9.99
+3986,2002,France,'Provence-Alpes-Cote d’Azur',Wheat,599.84,5.2,1.25,0,98.54,41.33,67.02,59.99,Tanpa Adaptasi,4.86
+182,2002,France,Ile-de-France,Coffee,1561.03,11.41,1.29,4,79.48,26.7,35.08,65.33,Tanpa Adaptasi,-2.3
+4352,2002,France,Ile-de-France,Coffee,1503.07,28.26,4.428,5,44.8,1.05,69.11,44.35,Pertanian Organik,11.62
+2810,2002,France,Ile-de-France,Corn,2676.48,27.13,2.259,5,41.7,13.69,56.02,99.73,Pertanian Organik,1.55
+6536,2002,France,Ile-de-France,Corn,2101.04,1.33,2.45,7,77.36,32.71,63.12,91.63,Pertanian Organik,20.87
+1471,2002,France,Ile-de-France,Cotton,1592.3,22.34,1.386,5,69.67,22.71,71.57,80.09,Pertanian Organik,19.82
+4323,2002,France,Ile-de-France,Soybeans,1565.72,21.67,1.4220000000000002,7,13.5,45.89,70.92,54.02,Tanaman Tahan Kekeringan,24.45
+2102,2002,France,Ile-de-France,Sugarcane,1332.21,14.88,,6,84.3,33.45,91.97,71.67,Manajemen Air,19.3
+6064,2002,France,Ile-de-France,Sugarcane,1387.38,20.21,2.646,0,22.0,16.89,61.65,58.38,Pertanian Organik,28.35
+6085,2002,France,Ile-de-France,Sugarcane,2993.1,7.16,1.5,0,95.25,25.67,20.68,41.07,Tanaman Tahan Kekeringan,22.94
+6950,2002,France,Ile-de-France,Wheat,1087.45,21.98,2.124,9,,26.23,19.98,67.0,Tanpa Adaptasi,17.07
+4091,2002,France,Ile-de-France,,579.01,16.59,1.98,8,29.46,33.62,10.98,36.76,Rotasi Tanaman,21.8
+6694,2002,France,Nouvelle-Aquitaine,Barley,362.07,29.82,2.556,8,52.33,9.64,92.57,64.53,Manajemen Air,16.94
+5642,2002,France,Nouvelle-Aquitaine,Corn,1826.44,2.62,2.71,8,68.67,29.1,35.86,43.61,Manajemen Air,29.81
+751,2002,France,Nouvelle-Aquitaine,Cotton,2486.09,17.53,1.683,4,96.6,36.46,97.56,47.13,Manajemen Air,-0.04
+4388,2002,France,Nouvelle-Aquitaine,Cotton,1129.25,10.19,2.62,6,32.57,1.01,45.16,34.88,Tanaman Tahan Kekeringan,15.2
+6390,2002,France,Nouvelle-Aquitaine,Fruits,2962.83,26.22,0.873,5,80.21,44.45,89.38,58.89,Rotasi Tanaman,-2.85
+854,2002,France,Nouvelle-Aquitaine,Soybeans,745.46,22.32,0.6930000000000001,4,31.9,32.29,24.95,41.51,Tanaman Tahan Kekeringan,-3.43
+4241,2002,France,Nouvelle-Aquitaine,Sugarcane,1323.22,4.27,4.61,0,84.21,28.45,48.81,31.29,Pertanian Organik,12.75
+2978,2002,France,Nouvelle-Aquitaine,Vegetables,227.39,16.61,2.628,5,34.96,16.61,72.55,72.74,Manajemen Air,20.22
+3017,2002,France,Nouvelle-Aquitaine,Vegetables,2577.67,8.85,2.24,6,39.48,40.98,78.57,63.13,Manajemen Air,23.88
+5415,2003,France,'Grand Est',Coffee,2160.23,19.66,0.8280000000000001,7,46.31,2.15,1.99,60.1,Tanaman Tahan Kekeringan,4.42
+1175,2003,France,'Grand Est',Rice,1381.31,17.22,3.267,2,83.22,15.12,75.13,33.93,Rotasi Tanaman,34.34
+5545,2003,France,'Grand Est',Sugarcane,1193.78,8.97,1.83,3,35.39,44.88,42.55,98.12,Pertanian Organik,24.5
+7503,2003,France,'Grand Est',Vegetables,603.69,8.93,1.55,0,94.2,6.72,77.86,54.36,Tanaman Tahan Kekeringan,-3.53
+6722,2003,France,'Provence-Alpes-Cote d’Azur',Barley,2985.93,7.77,2.4,3,13.03,16.01,29.53,71.76,Tanaman Tahan Kekeringan,16.0
+450,2003,France,'Provence-Alpes-Cote d’Azur',Corn,633.39,9.08,2.15,2,56.79,31.96,12.23,78.45,Rotasi Tanaman,13.09
+6906,2003,France,'Provence-Alpes-Cote d’Azur',Fruits,1868.14,18.55,1.377,8,61.43,13.6,36.67,84.08,Pertanian Organik,6.89
+5174,2003,France,'Provence-Alpes-Cote d’Azur',Sugarcane,638.11,20.1,3.24,3,98.75,49.74,70.07,62.11,Tanaman Tahan Kekeringan,20.87
+624,2003,France,Ile-de-France,Coffee,279.23,12.9,2.862,7,25.64,15.01,33.95,56.24,Tanaman Tahan Kekeringan,16.11
+1051,2003,France,Ile-de-France,Corn,1756.42,4.58,3.43,0,94.41,3.81,46.36,54.04,Tanpa Adaptasi,23.84
+1751,2003,France,Ile-de-France,Cotton,253.79,8.18,1.08,9,96.27,11.47,41.84,51.12,Tanpa Adaptasi,7.02
+4954,2003,France,Ile-de-France,Cotton,250.71,17.41,3.447,7,93.13,6.74,1.87,90.54,Pertanian Organik,11.69
+7872,2003,France,Ile-de-France,Fruits,2661.05,19.69,0.7020000000000001,6,88.4,7.88,53.63,77.04,Tanpa Adaptasi,-2.62
+3240,2003,France,Ile-de-France,Rice,655.61,9.01,2.22,1,60.74,26.46,85.95,34.7,Tanaman Tahan Kekeringan,-1.02
+2993,2003,France,Ile-de-France,Soybeans,2555.13,19.28,3.519,3,,25.76,40.26,60.44,Rotasi Tanaman,11.41
+6162,2003,France,Ile-de-France,Vegetables,1276.14,9.91,1.65,5,13.13,45.63,96.42,64.13,Manajemen Air,14.86
+1290,2003,France,Nouvelle-Aquitaine,Barley,920.72,12.26,1.81,10,26.38,14.48,4.22,53.37,Tanaman Tahan Kekeringan,25.43
+6876,2003,France,Nouvelle-Aquitaine,Corn,2939.98,16.34,3.303,4,58.02,7.77,54.09,49.22,Manajemen Air,24.35
+4751,2003,France,Nouvelle-Aquitaine,Soybeans,2538.59,23.79,2.628,0,37.72,10.08,11.01,79.05,Tanpa Adaptasi,33.59
+4918,2003,France,Nouvelle-Aquitaine,Wheat,534.58,6.59,1.06,10,31.32,9.18,54.64,42.5,Manajemen Air,25.87
+530,2004,France,'Grand Est',Fruits,1631.39,8.87,3.87,2,63.04,34.87,51.94,33.98,Manajemen Air,29.64
+4782,2004,France,'Grand Est',Fruits,1287.85,1.14,2.35,5,35.92,41.59,77.22,40.79,Tanpa Adaptasi,1.01
+7190,2004,France,'Grand Est',Soybeans,748.37,3.23,2.86,1,51.69,19.25,27.82,32.94,Tanaman Tahan Kekeringan,8.95
+1429,2004,France,'Grand Est',Sugarcane,1865.09,17.0,0.7200000000000001,1,20.65,47.95,5.82,96.53,Manajemen Air,5.06
+1932,2004,France,'Grand Est',Wheat,2075.38,15.36,2.9970000000000003,4,71.51,48.69,12.53,91.27,Tanaman Tahan Kekeringan,28.02
+1853,2004,France,'Provence-Alpes-Cote d’Azur',Barley,2905.52,3.26,2.13,0,87.67,34.8,6.27,97.45,Manajemen Air,32.78
+6649,2004,France,'Provence-Alpes-Cote d’Azur',Barley,,12.7,3.861,4,37.3,15.72,74.28,98.07,Rotasi Tanaman,12.41
+1028,2004,France,'Provence-Alpes-Cote d’Azur',Corn,2198.25,26.18,1.4580000000000002,2,85.94,3.05,8.12,41.03,Tanpa Adaptasi,30.52
+1295,2004,France,'Provence-Alpes-Cote d’Azur',Cotton,1253.11,2.24,1.46,4,77.93,45.25,48.06,95.43,Pertanian Organik,29.94
+379,2004,France,'Provence-Alpes-Cote d’Azur',Fruits,2692.83,3.74,3.03,9,15.75,3.21,56.05,36.25,Rotasi Tanaman,13.09
+5649,2004,France,'Provence-Alpes-Cote d’Azur',Fruits,2420.47,2.53,2.51,3,39.34,0.24,52.54,75.34,Tanaman Tahan Kekeringan,6.73
+2275,2004,France,'Provence-Alpes-Cote d’Azur',Vegetables,1454.73,28.07,1.962,4,45.66,4.53,66.68,40.6,Tanpa Adaptasi,18.94
+4343,2004,France,'Provence-Alpes-Cote d’Azur',Vegetables,2283.51,22.66,1.719,8,21.26,3.86,13.11,31.86,Rotasi Tanaman,1.0
+4735,2004,France,'Provence-Alpes-Cote d’Azur',Wheat,2538.52,29.2,1.584,3,57.74,4.71,55.97,83.22,Rotasi Tanaman,30.79
+4928,2004,France,'Provence-Alpes-Cote d’Azur',Wheat,722.35,22.76,4.257000000000001,9,16.04,15.23,81.54,64.1,Rotasi Tanaman,16.71
+1370,2004,France,Ile-de-France,Barley,2091.74,15.63,2.259,6,39.33,2.81,17.94,69.75,Pertanian Organik,11.92
+2787,2004,France,Ile-de-France,Coffee,250.89,20.3,1.71,7,64.87,17.62,40.33,82.26,Pertanian Organik,23.84
+5946,2004,France,Ile-de-France,Corn,522.62,8.25,2.6,9,93.08,36.84,94.03,91.27,Tanpa Adaptasi,21.58
+66,2004,France,Ile-de-France,Rice,2109.89,1.74,2.59,9,76.2,0.08,78.88,89.02,Manajemen Air,-4.05
+764,2004,France,Ile-de-France,Rice,2128.61,6.77,1.85,7,57.74,27.34,16.72,42.41,Tanaman Tahan Kekeringan,15.09
+2708,2004,France,Ile-de-France,Sugarcane,656.69,18.52,2.7,9,26.95,38.37,30.78,95.32,Manajemen Air,11.9
+6859,2004,France,Ile-de-France,Wheat,825.28,10.67,,3,34.81,44.62,62.97,82.21,Pertanian Organik,-1.84
+963,2004,France,Nouvelle-Aquitaine,Coffee,2987.51,22.29,2.439,7,65.91,10.76,68.26,80.25,Pertanian Organik,32.2
+765,2004,France,Nouvelle-Aquitaine,Fruits,1585.19,6.21,2.79,1,94.58,31.23,79.1,89.81,Manajemen Air,9.82
+4235,2004,France,Nouvelle-Aquitaine,Rice,1771.35,15.04,4.059,2,37.91,46.07,56.72,65.17,Rotasi Tanaman,11.7
+5224,2004,France,Nouvelle-Aquitaine,Rice,2113.54,10.57,3.04,10,14.39,27.62,85.9,79.52,Manajemen Air,32.74
+6487,2004,France,Nouvelle-Aquitaine,Sugarcane,1741.61,25.12,0.6030000000000001,5,77.14,40.89,12.03,91.78,Manajemen Air,5.34
+6939,2005,France,'Grand Est',Wheat,486.6,9.0,1.566,6,91.7,30.36,65.73,68.07,Tanpa Adaptasi,-1.44
+2901,2005,France,'Provence-Alpes-Cote d’Azur',Coffee,2717.62,17.6,1.494,5,83.9,14.75,90.39,94.83,Manajemen Air,21.2
+3565,2005,France,'Provence-Alpes-Cote d’Azur',Corn,2520.36,24.98,2.601,1,58.93,18.27,5.44,57.22,Manajemen Air,7.2
+878,2005,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1953.81,21.04,3.375,1,48.76,29.92,84.48,44.87,Manajemen Air,26.15
+5154,2005,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1851.55,22.08,3.357,1,77.84,1.31,25.9,39.89,Pertanian Organik,28.39
+1780,2005,France,Ile-de-France,Barley,2621.62,17.26,2.088,5,42.62,37.45,66.86,57.46,Rotasi Tanaman,8.56
+747,2005,France,Ile-de-France,Corn,2811.65,13.27,1.6,9,32.3,5.13,77.83,92.38,Tanaman Tahan Kekeringan,25.23
+5510,2005,France,Ile-de-France,Rice,2551.71,29.05,2.601,7,93.39,45.95,91.2,82.03,Tanpa Adaptasi,16.87
+251,2005,France,Ile-de-France,Soybeans,1579.74,26.96,3.591,4,90.61,0.4,7.52,93.64,Manajemen Air,12.94
+704,2005,France,Ile-de-France,Soybeans,2411.6,25.42,2.25,1,26.74,13.29,62.32,79.41,Tanpa Adaptasi,30.89
+407,2005,France,Ile-de-France,Sugarcane,1618.75,25.94,2.835,2,10.01,44.94,42.64,49.54,Pertanian Organik,33.1
+5961,2005,France,Ile-de-France,Sugarcane,2714.94,3.71,1.12,4,87.73,36.42,97.18,76.67,Manajemen Air,0.75
+6337,2005,France,Ile-de-France,Sugarcane,278.61,12.38,1.305,5,23.72,48.81,40.35,49.66,Pertanian Organik,32.89
+6404,2005,France,Nouvelle-Aquitaine,Fruits,2800.33,10.69,2.93,4,87.68,20.09,64.43,43.33,Rotasi Tanaman,20.35
+7713,2005,France,Nouvelle-Aquitaine,Rice,568.41,3.01,2.22,3,28.54,24.81,16.7,87.84,Tanaman Tahan Kekeringan,21.6
+4599,2006,France,'Grand Est',Corn,2183.26,6.44,2.07,8,17.86,33.21,43.55,50.99,Tanpa Adaptasi,16.87
+5046,2006,France,'Grand Est',Cotton,1275.44,12.94,3.95,8,48.95,12.58,84.95,31.5,Pertanian Organik,32.45
+7238,2006,France,'Grand Est',Fruits,950.14,17.58,1.89,1,95.08,46.1,57.05,56.39,Tanpa Adaptasi,25.68
+3928,2006,France,'Grand Est',Rice,1656.12,12.09,2.39,8,87.73,36.57,61.91,59.26,Pertanian Organik,31.83
+4935,2006,France,'Grand Est',Rice,934.48,1.14,2.67,4,98.78,17.04,62.2,95.32,Pertanian Organik,5.74
+3519,2006,France,'Grand Est',Soybeans,502.02,6.38,4.04,3,36.67,36.69,13.85,47.07,Pertanian Organik,13.99
+5439,2006,France,'Provence-Alpes-Cote d’Azur',Barley,2329.12,9.11,1.84,1,87.28,28.15,68.21,50.51,Rotasi Tanaman,3.02
+361,2006,France,'Provence-Alpes-Cote d’Azur',Wheat,2573.35,3.62,3.27,1,74.36,27.9,6.18,96.56,Tanpa Adaptasi,34.29
+607,2006,France,Ile-de-France,Barley,915.04,23.88,1.863,3,,42.54,66.05,64.39,Tanaman Tahan Kekeringan,8.31
+3525,2006,France,Ile-de-France,Coffee,2953.01,14.58,2.07,0,40.39,34.32,41.65,59.12,Pertanian Organik,24.32
+7519,2006,France,Ile-de-France,Fruits,2462.3,18.28,3.177,2,68.39,5.05,0.57,53.6,Pertanian Organik,22.1
+867,2006,France,Ile-de-France,Soybeans,1301.67,24.42,2.232,10,49.04,7.5,35.67,57.63,Pertanian Organik,-3.18
+7547,2006,France,Nouvelle-Aquitaine,Barley,2077.16,21.46,1.161,6,42.11,30.76,49.8,95.28,Rotasi Tanaman,22.86
+1546,2006,France,Nouvelle-Aquitaine,Coffee,2429.02,29.41,2.007,10,87.67,5.68,12.91,60.37,Pertanian Organik,17.38
+2078,2006,France,Nouvelle-Aquitaine,Soybeans,784.68,26.88,1.134,0,62.78,28.87,17.06,85.44,Tanpa Adaptasi,-4.53
+6298,2007,France,'Grand Est',Barley,1517.83,23.1,1.296,10,26.3,47.75,34.7,40.11,Tanaman Tahan Kekeringan,-0.19
+4733,2007,France,'Grand Est',Corn,619.39,25.05,4.032000000000001,5,88.17,34.21,75.81,87.54,Tanaman Tahan Kekeringan,10.36
+1441,2007,France,'Grand Est',Vegetables,2444.37,13.7,2.6,5,49.37,25.89,25.3,42.09,Rotasi Tanaman,28.35
+3077,2007,France,'Grand Est',,1700.95,23.6,3.564,5,18.14,38.72,26.41,56.98,Manajemen Air,30.74
+4033,2007,France,'Provence-Alpes-Cote d’Azur',Barley,709.78,9.38,1.3,2,58.5,48.78,0.31,87.75,Tanpa Adaptasi,5.49
+252,2007,France,'Provence-Alpes-Cote d’Azur',Cotton,,7.63,1.95,3,52.98,25.18,99.22,84.52,Rotasi Tanaman,3.11
+7947,2007,France,'Provence-Alpes-Cote d’Azur',Rice,2729.88,13.38,3.43,1,65.1,16.03,56.65,56.38,Tanpa Adaptasi,19.74
+5464,2007,France,'Provence-Alpes-Cote d’Azur',Sugarcane,2587.95,19.07,2.637,4,91.71,6.29,1.55,71.14,Tanaman Tahan Kekeringan,25.6
+6475,2007,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1671.61,18.76,0.7020000000000001,10,46.68,37.95,76.04,70.96,Tanaman Tahan Kekeringan,-2.73
+5048,2007,France,'Provence-Alpes-Cote d’Azur',Wheat,1502.53,24.38,3.006,0,88.41,48.66,47.82,78.15,Tanaman Tahan Kekeringan,16.92
+3551,2007,France,Ile-de-France,Coffee,1511.26,11.66,0.99,7,72.54,34.24,85.33,91.22,Tanaman Tahan Kekeringan,1.43
+2651,2007,France,Ile-de-France,Soybeans,1629.51,6.21,3.43,9,56.48,35.35,10.59,65.28,Tanpa Adaptasi,13.93
+6451,2007,France,Ile-de-France,Soybeans,2544.51,11.68,1.75,6,70.42,26.38,99.06,88.39,Tanaman Tahan Kekeringan,12.89
+6871,2007,France,Ile-de-France,Sugarcane,1458.09,11.49,1.95,0,60.09,46.85,56.73,87.55,Tanaman Tahan Kekeringan,29.76
+6725,2007,France,Nouvelle-Aquitaine,Barley,443.37,27.01,2.52,1,85.38,14.72,2.25,87.71,Manajemen Air,14.45
+1047,2007,France,Nouvelle-Aquitaine,Coffee,726.19,3.82,3.28,1,53.36,29.02,33.93,30.71,Pertanian Organik,26.69
+5248,2007,France,Nouvelle-Aquitaine,Corn,422.08,20.38,2.511,7,99.64,7.13,19.97,81.0,Tanaman Tahan Kekeringan,2.29
+1911,2007,France,Nouvelle-Aquitaine,Cotton,692.63,21.47,1.962,0,46.77,2.88,14.2,56.36,Pertanian Organik,23.76
+4897,2007,France,Nouvelle-Aquitaine,Rice,1946.76,20.41,,8,77.58,25.1,71.6,79.38,Pertanian Organik,7.99
+4760,2007,France,Nouvelle-Aquitaine,Soybeans,1752.01,3.19,1.71,6,38.69,3.1,95.12,55.58,Tanpa Adaptasi,-0.36
+3628,2007,France,Nouvelle-Aquitaine,Wheat,1675.71,8.2,1.95,0,78.21,5.46,30.74,30.06,Rotasi Tanaman,20.94
+6078,2008,France,'Grand Est',Barley,2011.86,13.15,2.53,7,20.15,49.49,48.71,44.48,Pertanian Organik,24.86
+3484,2008,France,'Grand Est',Coffee,2091.63,6.38,0.72,4,65.53,7.82,32.96,88.71,Manajemen Air,9.46
+916,2008,France,'Grand Est',Corn,1395.04,13.8,0.54,7,44.1,13.54,61.25,38.56,Tanaman Tahan Kekeringan,4.9
+4425,2008,France,'Grand Est',Wheat,1911.49,17.11,1.395,0,82.28,35.23,86.11,61.35,Pertanian Organik,-4.65
+7716,2008,France,'Grand Est',Wheat,,11.41,4.97,3,66.69,48.36,24.43,41.56,Pertanian Organik,17.23
+332,2008,France,'Provence-Alpes-Cote d’Azur',Barley,1931.12,26.47,3.6,9,31.7,36.14,71.84,61.0,Tanpa Adaptasi,17.13
+7733,2008,France,'Provence-Alpes-Cote d’Azur',Corn,1504.2,20.06,1.53,10,90.93,14.64,82.08,66.3,Rotasi Tanaman,7.86
+7935,2008,France,'Provence-Alpes-Cote d’Azur',Cotton,485.56,9.13,3.897,10,30.16,4.51,35.68,44.85,Pertanian Organik,16.09
+4387,2008,France,'Provence-Alpes-Cote d’Azur',Fruits,2208.48,7.3,2.39,9,70.22,39.32,43.48,60.39,Manajemen Air,14.94
+2197,2008,France,Ile-de-France,Barley,626.03,6.47,2.44,1,58.64,24.6,62.7,44.59,Rotasi Tanaman,21.66
+4332,2008,France,Ile-de-France,Barley,2986.54,1.75,2.03,0,50.39,13.42,99.7,56.18,Tanpa Adaptasi,13.16
+6828,2008,France,Ile-de-France,Corn,2890.34,7.04,0.88,6,73.97,7.22,18.46,66.85,Manajemen Air,5.59
+6854,2008,France,Ile-de-France,Corn,1518.25,23.06,1.017,6,40.51,16.7,4.41,31.34,Rotasi Tanaman,-2.03
+5984,2008,France,Ile-de-France,Cotton,1909.78,28.4,4.383,7,75.29,35.98,50.25,96.6,Tanpa Adaptasi,15.99
+6903,2008,France,Ile-de-France,Fruits,2348.3,4.79,2.38,8,12.07,34.02,13.18,48.12,Rotasi Tanaman,17.9
+432,2008,France,Ile-de-France,Rice,2853.78,9.41,0.62,7,11.73,3.84,69.61,40.15,Tanpa Adaptasi,-2.05
+636,2008,France,Ile-de-France,Vegetables,1177.51,29.49,3.3120000000000003,10,23.03,33.07,71.3,60.67,Pertanian Organik,22.69
+7837,2008,France,Ile-de-France,Wheat,2796.32,6.38,2.04,5,27.74,5.72,80.41,61.67,Manajemen Air,4.02
+594,2008,France,Nouvelle-Aquitaine,Barley,2877.36,15.45,0.81,6,91.38,44.58,40.34,87.82,Manajemen Air,34.31
+2796,2008,France,Nouvelle-Aquitaine,Corn,1004.6,4.05,1.41,10,59.23,46.54,77.88,76.54,Manajemen Air,25.07
+5293,2008,France,Nouvelle-Aquitaine,Cotton,2318.15,14.62,2.96,0,95.05,26.65,60.89,67.05,Tanaman Tahan Kekeringan,9.84
+6419,2008,France,Nouvelle-Aquitaine,Cotton,356.38,20.62,2.8080000000000003,7,21.03,47.23,4.95,40.59,Rotasi Tanaman,31.96
+3530,2008,France,Nouvelle-Aquitaine,Rice,2256.95,27.93,1.1700000000000002,2,74.84,44.1,33.97,85.71,Manajemen Air,3.99
+4970,2008,France,Nouvelle-Aquitaine,Rice,2486.73,15.26,3.969,1,53.98,49.21,98.07,88.06,Rotasi Tanaman,12.56
+7460,2008,France,Nouvelle-Aquitaine,Soybeans,237.27,3.33,1.602,9,26.07,28.26,35.78,69.65,Tanpa Adaptasi,17.19
+5328,2008,France,Nouvelle-Aquitaine,Vegetables,486.03,6.16,2.673,5,16.36,49.37,46.29,88.89,Pertanian Organik,26.77
+6623,2008,France,Nouvelle-Aquitaine,Vegetables,2136.96,11.06,1.62,9,47.9,23.69,67.88,49.93,Manajemen Air,2.35
+4204,2009,France,'Grand Est',Corn,2934.4,14.04,,0,19.78,22.77,75.18,81.57,Rotasi Tanaman,-4.96
+6014,2009,France,'Grand Est',Cotton,1105.28,13.68,,1,43.32,41.83,0.17,58.53,Rotasi Tanaman,0.84
+6751,2009,France,'Grand Est',Rice,587.2,9.64,0.54,0,36.26,38.91,37.95,93.18,Pertanian Organik,0.77
+851,2009,France,'Grand Est',Soybeans,1591.77,24.59,1.908,8,64.1,20.69,84.03,39.86,Tanaman Tahan Kekeringan,28.93
+7898,2009,France,'Grand Est',Wheat,,18.43,0.873,5,62.26,16.43,50.16,98.06,Rotasi Tanaman,-4.26
+7185,2009,France,'Provence-Alpes-Cote d’Azur',Coffee,855.12,23.86,4.05,5,30.33,34.45,17.9,96.77,Rotasi Tanaman,10.81
+3424,2009,France,'Provence-Alpes-Cote d’Azur',Fruits,2851.45,18.3,0.774,10,24.96,9.02,73.13,66.46,Tanpa Adaptasi,34.65
+5730,2009,France,'Provence-Alpes-Cote d’Azur',Fruits,731.18,28.42,2.439,0,54.76,30.72,8.87,37.01,Manajemen Air,14.87
+1855,2009,France,'Provence-Alpes-Cote d’Azur',Rice,1133.18,6.7,2.96,9,45.97,41.22,63.2,82.99,Manajemen Air,6.19
+6897,2009,France,Ile-de-France,Cotton,2432.28,28.83,1.719,5,48.88,33.99,94.88,86.51,Tanaman Tahan Kekeringan,4.71
+4269,2009,France,Ile-de-France,Fruits,,16.17,,7,30.78,44.86,86.84,82.3,Tanaman Tahan Kekeringan,12.59
+2313,2009,France,Nouvelle-Aquitaine,Cotton,2129.52,13.04,2.1,7,90.16,41.05,6.36,45.69,Tanaman Tahan Kekeringan,3.83
+3621,2009,France,Nouvelle-Aquitaine,Cotton,1525.38,5.63,2.15,10,16.76,46.01,53.06,90.45,Manajemen Air,31.4
+5793,2009,France,Nouvelle-Aquitaine,Cotton,1011.55,14.85,2.01,2,47.73,45.34,66.49,39.38,Pertanian Organik,33.11
+4158,2009,France,Nouvelle-Aquitaine,Rice,1021.01,25.56,1.179,1,30.28,19.93,39.16,77.91,Rotasi Tanaman,2.01
+2125,2009,France,Nouvelle-Aquitaine,Sugarcane,2244.58,15.6,1.818,0,56.56,18.28,36.04,83.06,Tanaman Tahan Kekeringan,-1.97
+3748,2010,France,'Grand Est',Barley,1374.08,2.29,2.85,9,47.8,17.77,42.53,37.3,Manajemen Air,-2.87
+3309,2010,France,'Grand Est',Fruits,2303.49,24.85,1.116,2,19.22,47.65,4.51,94.47,Pertanian Organik,6.61
+7538,2010,France,'Grand Est',Fruits,852.78,4.05,2.09,0,82.37,43.0,39.09,62.78,Pertanian Organik,19.91
+236,2010,France,'Grand Est',Sugarcane,1373.86,11.04,2.89,7,40.97,18.76,83.82,38.37,Tanaman Tahan Kekeringan,31.14
+2328,2010,France,'Grand Est',Vegetables,665.05,15.03,1.917,3,22.22,18.85,92.39,73.03,Tanpa Adaptasi,22.79
+1782,2010,France,'Provence-Alpes-Cote d’Azur',Barley,2507.4,6.67,3.52,10,71.05,47.11,34.28,67.87,Rotasi Tanaman,24.74
+3915,2010,France,'Provence-Alpes-Cote d’Azur',Rice,1013.61,17.48,1.746,2,47.56,32.77,16.83,45.94,Tanaman Tahan Kekeringan,14.91
+6259,2010,France,'Provence-Alpes-Cote d’Azur',Soybeans,1908.26,4.5,1.15,6,11.17,7.06,50.32,32.69,Tanaman Tahan Kekeringan,30.47
+575,2010,France,'Provence-Alpes-Cote d’Azur',Sugarcane,2891.75,1.94,2.53,0,45.01,30.91,17.37,34.44,Pertanian Organik,28.85
+3457,2010,France,'Provence-Alpes-Cote d’Azur',Sugarcane,256.48,18.95,0.936,4,97.88,15.82,54.91,99.09,Manajemen Air,2.41
+839,2010,France,'Provence-Alpes-Cote d’Azur',Vegetables,2342.09,29.16,1.125,10,78.84,7.44,44.01,62.42,Manajemen Air,20.74
+7209,2010,France,'Provence-Alpes-Cote d’Azur',Vegetables,1853.22,15.08,1.638,0,47.5,5.63,3.48,52.81,Tanpa Adaptasi,21.68
+1368,2010,France,Ile-de-France,Barley,1831.97,5.3,3.8,10,,0.72,49.91,99.65,Manajemen Air,29.45
+3395,2010,France,Ile-de-France,Barley,1351.8,17.93,1.071,3,90.02,32.82,20.32,80.67,Manajemen Air,22.88
+3567,2010,France,Ile-de-France,Cotton,1422.24,27.14,2.898,3,84.98,37.4,82.27,92.65,Tanaman Tahan Kekeringan,15.24
+6297,2010,France,Ile-de-France,Wheat,2458.4,5.01,4.06,10,91.4,38.6,40.7,70.82,Rotasi Tanaman,17.42
+3932,2010,France,Nouvelle-Aquitaine,Coffee,1476.84,5.3,1.21,3,19.15,49.49,0.24,73.35,Manajemen Air,26.75
+3029,2010,France,Nouvelle-Aquitaine,Fruits,358.03,11.28,2.259,6,67.18,4.71,99.87,77.41,Tanpa Adaptasi,16.88
+5110,2010,France,Nouvelle-Aquitaine,Fruits,2562.88,17.7,2.331,2,43.2,11.2,23.4,66.71,Rotasi Tanaman,21.64
+5460,2010,France,Nouvelle-Aquitaine,Rice,2012.83,10.96,1.61,2,11.31,45.06,71.95,51.65,Manajemen Air,11.18
+7908,2010,France,Nouvelle-Aquitaine,Rice,1231.34,4.89,1.74,10,26.54,21.81,56.98,85.82,Pertanian Organik,-2.37
+4109,2010,France,Nouvelle-Aquitaine,Soybeans,1145.03,1.21,1.37,3,31.69,4.6,72.48,68.05,Rotasi Tanaman,-0.43
+4965,2010,France,Nouvelle-Aquitaine,Sugarcane,444.4,16.51,1.044,9,47.41,20.81,56.89,65.43,Rotasi Tanaman,22.09
+2083,2010,France,Nouvelle-Aquitaine,,331.25,8.7,,9,95.48,24.85,54.54,67.02,Pertanian Organik,-4.88
+6587,2011,France,'Grand Est',Coffee,1900.57,18.27,0.8370000000000001,0,46.12,3.48,95.46,81.0,Tanaman Tahan Kekeringan,6.75
+5753,2011,France,'Grand Est',Cotton,1992.4,16.54,1.575,4,28.28,8.93,86.16,43.25,Pertanian Organik,1.81
+864,2011,France,'Provence-Alpes-Cote d’Azur',Barley,1568.45,23.35,2.475,4,70.4,40.56,9.82,32.68,Manajemen Air,31.25
+6552,2011,France,'Provence-Alpes-Cote d’Azur',Corn,2751.85,25.4,2.682,10,51.65,3.7,67.72,73.58,Manajemen Air,8.36
+4270,2011,France,'Provence-Alpes-Cote d’Azur',Cotton,2933.84,15.68,2.385,6,96.85,22.3,47.17,53.13,Tanpa Adaptasi,-1.8
+5389,2011,France,'Provence-Alpes-Cote d’Azur',Sugarcane,654.12,7.1,1.25,8,62.04,16.62,14.09,81.98,Pertanian Organik,0.4
+749,2011,France,Ile-de-France,Soybeans,398.13,17.14,1.6740000000000002,5,64.55,6.27,23.05,98.91,Rotasi Tanaman,13.61
+3173,2011,France,Ile-de-France,Soybeans,433.37,16.68,1.494,0,15.56,29.53,89.68,88.89,Tanaman Tahan Kekeringan,7.03
+541,2011,France,Ile-de-France,Wheat,929.29,22.03,1.503,3,,15.42,92.27,71.46,Manajemen Air,29.24
+7090,2011,France,Ile-de-France,Wheat,1816.29,29.38,2.664,1,13.09,25.0,83.21,34.88,Rotasi Tanaman,25.62
+1513,2011,France,Nouvelle-Aquitaine,Coffee,2267.29,3.75,2.83,7,45.11,44.16,63.38,60.89,Rotasi Tanaman,29.97
+5497,2011,France,Nouvelle-Aquitaine,Fruits,2275.74,26.4,3.024,5,42.17,20.85,3.59,32.37,Rotasi Tanaman,33.85
+1171,2011,France,Nouvelle-Aquitaine,Soybeans,2933.29,24.04,1.854,3,24.92,8.75,71.86,55.34,Manajemen Air,27.59
+3013,2011,France,Nouvelle-Aquitaine,Sugarcane,1245.56,28.36,3.474,3,96.61,40.77,21.78,75.69,Tanpa Adaptasi,30.31
+100,2012,France,'Grand Est',Cotton,2844.44,18.29,1.035,6,24.39,18.02,10.45,78.05,Tanaman Tahan Kekeringan,23.2
+779,2012,France,'Grand Est',Cotton,237.25,27.48,3.0690000000000004,9,29.59,49.01,10.88,94.64,Pertanian Organik,22.35
+6654,2012,France,'Grand Est',Cotton,1530.76,6.17,1.76,9,18.55,11.68,45.27,95.76,Pertanian Organik,5.63
+2173,2012,France,'Grand Est',Soybeans,284.99,9.03,2.052,1,18.71,42.65,22.71,55.27,Pertanian Organik,25.26
+4848,2012,France,'Grand Est',Soybeans,612.21,10.37,1.35,0,81.29,39.09,85.9,96.11,Rotasi Tanaman,5.27
+4690,2012,France,'Grand Est',Vegetables,590.51,29.71,3.303,9,42.36,15.53,0.75,30.74,Rotasi Tanaman,14.55
+4716,2012,France,'Provence-Alpes-Cote d’Azur',Barley,1608.35,17.88,2.574,6,47.66,21.85,62.14,33.6,Pertanian Organik,16.15
+7051,2012,France,'Provence-Alpes-Cote d’Azur',Corn,1735.66,2.31,1.94,0,76.04,33.53,77.21,39.38,Tanpa Adaptasi,19.36
+1917,2012,France,'Provence-Alpes-Cote d’Azur',Sugarcane,252.84,22.12,2.556,6,67.62,12.91,56.0,45.51,Tanpa Adaptasi,4.49
+4868,2012,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1172.78,20.22,2.169,2,85.04,9.22,25.69,56.93,Tanpa Adaptasi,8.61
+2690,2012,France,'Provence-Alpes-Cote d’Azur',Vegetables,2095.01,13.35,2.98,2,74.95,25.82,98.14,71.8,Rotasi Tanaman,16.44
+516,2012,France,Ile-de-France,Barley,1502.97,7.6,1.26,9,38.7,15.97,23.56,62.56,Tanpa Adaptasi,5.17
+5452,2012,France,Ile-de-France,Corn,2412.61,18.95,1.935,6,36.0,33.58,67.87,70.37,Tanpa Adaptasi,27.0
+3562,2012,France,Ile-de-France,Fruits,828.19,28.48,1.548,5,76.77,24.12,16.38,80.83,Pertanian Organik,-1.27
+4622,2012,France,Ile-de-France,Rice,1989.75,9.55,4.87,9,71.65,17.68,61.79,96.1,Rotasi Tanaman,13.29
+5767,2012,France,Ile-de-France,Rice,404.24,27.4,1.764,8,84.55,30.76,96.3,70.85,Pertanian Organik,31.9
+2581,2012,France,Ile-de-France,Sugarcane,2523.44,5.64,3.56,4,47.05,35.96,29.66,85.32,Tanpa Adaptasi,33.42
+2176,2012,France,Ile-de-France,Wheat,1823.75,20.63,2.79,5,32.57,1.07,77.15,37.51,Rotasi Tanaman,22.65
+3001,2012,France,Ile-de-France,Wheat,2224.01,19.04,2.367,4,71.47,22.5,35.22,96.92,Manajemen Air,-0.95
+3209,2012,France,Nouvelle-Aquitaine,Soybeans,204.82,12.05,1.854,5,19.58,34.85,43.28,41.93,Tanpa Adaptasi,34.0
+421,2012,France,Nouvelle-Aquitaine,Sugarcane,2558.77,10.54,1.6,1,44.32,25.46,87.08,55.42,Tanpa Adaptasi,12.77
+6009,2012,France,Nouvelle-Aquitaine,Vegetables,1367.93,14.02,1.25,4,14.93,9.36,6.16,96.13,Pertanian Organik,8.67
+2865,2012,France,Nouvelle-Aquitaine,Wheat,2927.43,10.91,3.46,0,61.39,8.91,75.72,38.01,Rotasi Tanaman,26.82
+593,2013,France,'Grand Est',Coffee,1392.25,5.32,0.6,7,74.53,28.5,69.7,58.12,Tanaman Tahan Kekeringan,6.25
+4871,2013,France,'Grand Est',Coffee,2426.67,23.89,1.899,4,36.18,43.58,11.73,60.64,Pertanian Organik,20.92
+3407,2013,France,'Grand Est',Cotton,2150.95,23.41,3.177,0,40.51,43.34,84.86,32.03,Tanpa Adaptasi,16.91
+6171,2013,France,'Provence-Alpes-Cote d’Azur',Barley,,4.77,1.46,10,56.45,27.57,7.21,58.54,Manajemen Air,24.84
+6098,2013,France,'Provence-Alpes-Cote d’Azur',Corn,1369.98,2.61,0.75,9,,6.21,95.97,47.33,Tanpa Adaptasi,-0.14
+2547,2013,France,'Provence-Alpes-Cote d’Azur',Fruits,929.03,27.8,3.3120000000000003,3,96.37,23.56,30.21,41.56,Manajemen Air,25.84
+2833,2013,France,'Provence-Alpes-Cote d’Azur',Fruits,523.25,8.06,1.84,0,71.45,16.81,18.77,37.3,Tanaman Tahan Kekeringan,24.38
+3298,2013,France,'Provence-Alpes-Cote d’Azur',Fruits,1724.74,21.18,1.098,0,72.49,48.17,80.65,73.52,Tanpa Adaptasi,24.19
+5115,2013,France,'Provence-Alpes-Cote d’Azur',Fruits,2246.77,18.96,2.3040000000000003,1,82.38,8.62,76.75,58.64,Rotasi Tanaman,13.63
+6490,2013,France,'Provence-Alpes-Cote d’Azur',Fruits,2577.58,19.44,3.159,3,35.55,22.71,4.17,39.69,Rotasi Tanaman,22.22
+1190,2013,France,'Provence-Alpes-Cote d’Azur',Sugarcane,2772.38,10.98,0.88,4,46.31,25.12,81.17,62.94,Tanaman Tahan Kekeringan,29.31
+1747,2013,France,'Provence-Alpes-Cote d’Azur',Vegetables,1035.63,9.35,2.51,3,55.47,25.63,27.93,76.6,Rotasi Tanaman,13.87
+2072,2013,France,'Provence-Alpes-Cote d’Azur',Vegetables,2202.12,28.83,0.999,9,45.84,1.13,1.63,83.1,Rotasi Tanaman,30.12
+7960,2013,France,'Provence-Alpes-Cote d’Azur',Vegetables,2256.27,9.88,3.09,4,95.46,22.55,45.24,41.14,Manajemen Air,17.29
+1528,2013,France,'Provence-Alpes-Cote d’Azur',Wheat,873.78,21.55,4.473,4,42.41,30.78,30.51,71.21,Pertanian Organik,15.36
+7276,2013,France,Ile-de-France,Corn,425.83,18.08,0.81,7,97.94,14.0,99.13,94.92,Tanaman Tahan Kekeringan,7.28
+3960,2013,France,Ile-de-France,Soybeans,1606.76,5.14,2.14,2,67.01,36.29,41.42,62.36,Tanpa Adaptasi,33.03
+4024,2013,France,Ile-de-France,Soybeans,739.03,23.74,3.087,2,77.22,42.25,24.17,81.42,Pertanian Organik,25.99
+3485,2013,France,Ile-de-France,Sugarcane,2672.76,13.67,3.81,3,11.87,41.72,16.82,51.12,Rotasi Tanaman,32.27
+1580,2013,France,Ile-de-France,Wheat,2544.9,7.84,3.19,7,54.75,47.83,31.27,69.86,Manajemen Air,15.87
+4831,2013,France,Nouvelle-Aquitaine,Cotton,2117.7,8.54,2.87,7,77.04,32.49,20.97,40.34,Manajemen Air,25.54
+5868,2013,France,Nouvelle-Aquitaine,Fruits,2661.79,2.59,2.14,5,97.04,11.51,42.77,36.96,Pertanian Organik,13.41
+1165,2013,France,Nouvelle-Aquitaine,Rice,2967.73,23.0,2.3400000000000003,6,39.1,28.66,16.87,41.03,Manajemen Air,27.73
+4272,2013,France,Nouvelle-Aquitaine,Vegetables,710.18,22.78,4.482,5,16.67,35.73,48.87,39.94,Pertanian Organik,13.08
+2061,2014,France,'Grand Est',Barley,819.6,27.39,0.963,1,95.81,11.96,99.5,36.24,Pertanian Organik,32.3
+7601,2014,France,'Grand Est',Corn,2787.61,8.94,1.06,6,,22.62,55.5,59.1,Tanaman Tahan Kekeringan,2.21
+1444,2014,France,'Grand Est',Fruits,2592.12,29.33,2.781,0,73.19,33.47,69.33,37.51,Tanaman Tahan Kekeringan,24.64
+4593,2014,France,'Grand Est',Vegetables,2646.26,27.93,1.449,10,83.13,1.32,82.01,53.8,Rotasi Tanaman,28.68
+7288,2014,France,'Provence-Alpes-Cote d’Azur',Coffee,2695.06,4.4,2.53,1,35.73,14.71,66.72,45.65,Rotasi Tanaman,14.32
+5379,2014,France,'Provence-Alpes-Cote d’Azur',Cotton,2800.47,25.03,3.5370000000000004,5,,15.67,98.18,34.44,Rotasi Tanaman,27.19
+3629,2014,France,'Provence-Alpes-Cote d’Azur',Rice,2098.3,25.25,1.4400000000000002,2,53.48,0.8,49.25,60.89,Pertanian Organik,28.39
+2722,2014,France,'Provence-Alpes-Cote d’Azur',Soybeans,,4.32,1.6,4,88.43,34.12,72.31,39.57,Tanaman Tahan Kekeringan,18.19
+3571,2014,France,'Provence-Alpes-Cote d’Azur',Vegetables,1132.82,20.27,1.53,3,12.89,16.66,37.23,55.23,Tanpa Adaptasi,19.59
+5277,2014,France,Ile-de-France,Cotton,2758.77,11.95,3.74,5,29.41,7.04,10.64,30.3,Tanaman Tahan Kekeringan,22.74
+2539,2014,France,Ile-de-France,Fruits,1152.98,18.25,0.981,5,47.63,9.29,37.65,85.86,Rotasi Tanaman,9.89
+5731,2014,France,Ile-de-France,Fruits,2572.95,19.43,1.305,8,51.7,37.79,25.26,42.41,Manajemen Air,28.96
+1126,2014,France,Ile-de-France,Soybeans,2884.92,20.54,1.6740000000000002,4,41.87,34.46,93.15,57.6,Tanpa Adaptasi,-0.94
+6803,2014,France,Ile-de-France,Soybeans,1596.16,23.96,2.358,9,98.2,35.52,90.68,53.35,Tanpa Adaptasi,-2.15
+6500,2014,France,Ile-de-France,Vegetables,1130.23,5.37,1.31,10,90.48,41.88,69.3,38.97,Rotasi Tanaman,5.25
+7262,2014,France,Ile-de-France,Wheat,2050.09,2.98,1.92,8,36.94,6.8,86.47,87.27,Pertanian Organik,26.32
+7580,2014,France,Ile-de-France,Wheat,1327.19,0.84,2.48,7,42.22,12.89,49.28,64.76,Pertanian Organik,-1.93
+474,2014,France,Nouvelle-Aquitaine,Coffee,2726.12,1.95,1.92,2,,19.94,93.07,32.15,Tanpa Adaptasi,8.4
+5694,2014,France,Nouvelle-Aquitaine,Coffee,1784.02,20.65,1.818,9,20.25,28.28,47.36,50.95,Tanaman Tahan Kekeringan,7.32
+5788,2014,France,Nouvelle-Aquitaine,Corn,2683.44,6.78,1.45,8,87.7,30.33,60.35,84.1,Rotasi Tanaman,30.25
+7934,2014,France,Nouvelle-Aquitaine,Cotton,717.61,20.59,2.0160000000000005,0,33.71,28.48,53.08,41.25,Pertanian Organik,-2.2
+1556,2014,France,Nouvelle-Aquitaine,Wheat,1759.39,17.14,1.746,9,36.75,12.15,91.83,59.22,Manajemen Air,24.85
+5403,2015,France,'Grand Est',Barley,1826.49,6.41,1.23,1,75.82,36.5,73.82,83.49,Manajemen Air,31.86
+2383,2015,France,'Grand Est',Fruits,2408.07,18.56,2.493,5,93.5,43.34,74.91,77.15,Tanaman Tahan Kekeringan,-0.94
+7922,2015,France,'Grand Est',Fruits,2801.74,0.52,1.84,4,88.8,20.4,56.33,88.36,Rotasi Tanaman,34.91
+349,2015,France,'Grand Est',Rice,,7.99,2.4,7,48.44,42.67,33.97,50.98,Tanpa Adaptasi,24.0
+4973,2015,France,'Grand Est',Rice,2961.52,4.01,3.69,3,97.47,18.27,25.72,52.54,Manajemen Air,12.06
+6504,2015,France,'Grand Est',Soybeans,2332.71,9.66,3.24,9,36.22,15.32,74.98,88.28,Tanpa Adaptasi,19.57
+4105,2015,France,'Grand Est',Sugarcane,2080.98,25.63,1.638,1,17.84,33.98,81.0,58.35,Tanaman Tahan Kekeringan,23.97
+6742,2015,France,'Grand Est',Wheat,707.63,14.46,0.68,1,10.17,3.02,69.77,39.96,Manajemen Air,7.13
+3193,2015,France,'Provence-Alpes-Cote d’Azur',Barley,2459.58,5.41,3.4,3,47.13,21.28,61.1,87.28,Pertanian Organik,12.01
+3229,2015,France,'Provence-Alpes-Cote d’Azur',Barley,2205.28,1.79,1.88,5,41.07,31.97,43.19,74.97,Manajemen Air,11.79
+4380,2015,France,'Provence-Alpes-Cote d’Azur',Barley,2868.32,11.34,2.19,3,21.37,42.23,95.65,32.45,Tanaman Tahan Kekeringan,33.06
+5145,2015,France,'Provence-Alpes-Cote d’Azur',Barley,481.64,10.0,2.07,0,80.8,9.55,92.81,70.81,Tanpa Adaptasi,18.84
+4192,2015,France,'Provence-Alpes-Cote d’Azur',Corn,919.97,17.01,1.746,4,88.8,19.87,93.56,69.54,Rotasi Tanaman,11.93
+2342,2015,France,'Provence-Alpes-Cote d’Azur',Rice,2232.19,20.04,1.404,1,94.78,30.68,8.13,70.58,Rotasi Tanaman,10.89
+1766,2015,France,'Provence-Alpes-Cote d’Azur',Sugarcane,818.44,16.53,0.684,6,60.71,26.53,99.38,77.97,Rotasi Tanaman,4.15
+3186,2015,France,'Provence-Alpes-Cote d’Azur',Vegetables,252.51,18.49,2.088,1,11.23,30.91,71.33,58.78,Pertanian Organik,15.36
+4722,2015,France,'Provence-Alpes-Cote d’Azur',Wheat,960.78,28.84,1.854,0,84.18,24.89,39.1,100.0,Pertanian Organik,21.65
+5837,2015,France,'Provence-Alpes-Cote d’Azur',Wheat,442.63,5.95,1.548,6,39.2,27.36,95.67,36.06,Manajemen Air,24.4
+5455,2015,France,Nouvelle-Aquitaine,Barley,2613.18,16.48,0.873,6,79.67,49.95,19.68,69.05,Rotasi Tanaman,31.78
+2653,2015,France,Nouvelle-Aquitaine,Cotton,780.09,10.09,2.19,7,34.62,47.72,28.42,38.21,Rotasi Tanaman,18.52
+4049,2015,France,Nouvelle-Aquitaine,Rice,2109.82,3.29,1.56,4,20.05,11.38,43.14,39.95,Tanaman Tahan Kekeringan,-0.35
+2051,2015,France,Nouvelle-Aquitaine,Soybeans,1419.73,8.89,3.49,10,12.44,35.75,48.63,40.71,Tanaman Tahan Kekeringan,21.88
+1008,2015,France,Nouvelle-Aquitaine,Wheat,2608.69,10.31,3.41,7,71.85,31.8,43.54,95.56,Pertanian Organik,34.07
+1994,2016,France,'Grand Est',Coffee,2793.65,28.49,1.4400000000000002,10,75.97,4.84,8.5,69.65,Pertanian Organik,16.82
+2904,2016,France,'Grand Est',Coffee,675.43,1.06,1.04,10,82.24,6.61,87.59,66.52,Rotasi Tanaman,33.19
+4405,2016,France,'Grand Est',Cotton,574.07,22.93,2.457,5,90.99,48.67,40.47,93.04,Tanaman Tahan Kekeringan,24.8
+5139,2016,France,'Grand Est',Cotton,2579.72,24.09,0.909,7,51.93,14.87,51.29,55.46,Rotasi Tanaman,4.93
+468,2016,France,'Grand Est',Fruits,1628.75,6.57,3.51,8,18.08,6.02,99.07,71.72,Rotasi Tanaman,31.43
+1572,2016,France,'Grand Est',Rice,260.11,27.25,2.043,8,41.75,31.46,81.27,92.96,Pertanian Organik,32.43
+4245,2016,France,'Grand Est',Soybeans,2516.31,9.48,3.85,4,17.76,4.65,53.63,77.1,Tanaman Tahan Kekeringan,20.51
+3104,2016,France,'Grand Est',Sugarcane,1909.01,13.71,0.9,2,45.15,20.46,75.12,97.04,Tanpa Adaptasi,4.93
+5390,2016,France,'Grand Est',Sugarcane,1937.24,13.88,0.97,9,76.87,18.15,13.78,51.97,Pertanian Organik,2.91
+4077,2016,France,'Grand Est',Vegetables,2876.36,20.3,1.7009999999999998,10,68.37,2.28,21.78,39.25,Pertanian Organik,11.37
+4639,2016,France,'Grand Est',Vegetables,1198.62,10.33,1.57,9,60.61,42.58,5.26,72.92,Manajemen Air,11.85
+5260,2016,France,'Provence-Alpes-Cote d’Azur',Barley,702.07,10.46,2.52,10,33.91,3.19,86.84,86.19,Tanpa Adaptasi,6.72
+6535,2016,France,'Provence-Alpes-Cote d’Azur',Barley,721.4,10.31,2.45,9,96.32,26.06,30.61,51.93,Pertanian Organik,19.18
+4706,2016,France,'Provence-Alpes-Cote d’Azur',Rice,2855.83,19.77,3.303,7,95.3,17.96,15.64,41.98,Pertanian Organik,30.85
+6754,2016,France,'Provence-Alpes-Cote d’Azur',Rice,846.28,3.5,1.21,3,94.42,8.97,72.62,48.93,Pertanian Organik,23.49
+1507,2016,France,'Provence-Alpes-Cote d’Azur',Vegetables,2890.61,19.96,1.638,4,63.45,15.77,25.29,44.27,Tanaman Tahan Kekeringan,32.18
+2474,2016,France,'Provence-Alpes-Cote d’Azur',Wheat,784.11,28.1,3.834,7,65.79,33.48,6.49,91.7,Tanpa Adaptasi,17.35
+8,2016,France,'Provence-Alpes-Cote d’Azur',,792.07,10.31,3.42,1,51.51,4.6,75.99,94.94,Pertanian Organik,30.23
+15,2016,France,Ile-de-France,Barley,836.04,24.72,0.774,0,56.2,11.43,20.18,68.1,Manajemen Air,4.38
+4924,2016,France,Ile-de-France,Barley,1051.55,28.8,1.287,10,55.88,38.8,68.95,69.19,Tanpa Adaptasi,-0.15
+4397,2016,France,Ile-de-France,Fruits,2496.4,29.12,2.673,10,27.58,12.55,28.43,65.34,Tanpa Adaptasi,-4.78
+5503,2016,France,Ile-de-France,Soybeans,1286.47,28.1,2.331,6,49.6,16.91,92.18,70.01,Tanpa Adaptasi,33.69
+669,2016,France,Nouvelle-Aquitaine,Barley,2105.23,6.59,1.98,7,16.44,46.36,14.48,82.88,Rotasi Tanaman,8.95
+1416,2016,France,Nouvelle-Aquitaine,Barley,688.17,20.1,3.087,8,78.2,24.29,95.33,61.57,Tanaman Tahan Kekeringan,33.12
+2020,2016,France,Nouvelle-Aquitaine,Coffee,2711.04,26.96,0.963,0,52.59,0.96,1.29,97.86,Rotasi Tanaman,27.15
+3652,2016,France,Nouvelle-Aquitaine,Coffee,455.79,5.55,0.9,10,36.83,41.74,28.2,70.85,Pertanian Organik,0.17
+3041,2016,France,Nouvelle-Aquitaine,Rice,1469.04,5.61,1.63,4,34.34,47.95,99.98,55.92,Pertanian Organik,19.19
+7345,2016,France,Nouvelle-Aquitaine,Rice,1770.33,3.79,2.87,3,34.9,23.98,65.6,73.02,Manajemen Air,13.99
+7545,2017,France,'Grand Est',Coffee,1005.94,6.71,3.98,4,61.61,16.45,12.07,68.38,Tanaman Tahan Kekeringan,25.38
+6142,2017,France,'Grand Est',Corn,2380.02,19.17,0.657,10,35.51,4.08,91.69,59.0,Pertanian Organik,-3.31
+4213,2017,France,'Grand Est',Soybeans,1687.72,10.52,1.68,10,67.91,7.89,41.03,74.12,Tanpa Adaptasi,-0.77
+558,2017,France,'Grand Est',Vegetables,2318.39,4.08,3.72,0,53.7,20.63,58.71,38.75,Tanpa Adaptasi,19.34
+6738,2017,France,'Grand Est',Wheat,1871.76,0.59,3.82,4,45.6,16.86,23.6,78.49,Tanpa Adaptasi,14.08
+2951,2017,France,'Provence-Alpes-Cote d’Azur',Barley,1039.85,22.66,2.322,1,68.9,41.4,87.91,72.6,Tanpa Adaptasi,12.84
+5473,2017,France,'Provence-Alpes-Cote d’Azur',Barley,553.51,11.96,,2,21.23,2.26,65.09,79.36,Rotasi Tanaman,13.77
+6474,2017,France,'Provence-Alpes-Cote d’Azur',Barley,1714.49,0.62,1.1,1,32.45,3.12,17.33,58.47,Rotasi Tanaman,34.43
+2709,2017,France,'Provence-Alpes-Cote d’Azur',Coffee,1517.44,2.99,2.93,6,86.8,27.66,7.18,74.99,Manajemen Air,3.65
+5691,2017,France,'Provence-Alpes-Cote d’Azur',Cotton,564.34,22.47,3.024,7,39.25,6.93,53.67,34.85,Manajemen Air,12.46
+7507,2017,France,'Provence-Alpes-Cote d’Azur',Fruits,1600.22,26.03,2.25,5,66.31,10.26,65.65,84.05,Pertanian Organik,30.38
+4155,2017,France,'Provence-Alpes-Cote d’Azur',Rice,340.08,2.46,1.4580000000000002,7,91.02,43.96,98.24,92.37,Tanaman Tahan Kekeringan,23.92
+7260,2017,France,'Provence-Alpes-Cote d’Azur',,2835.53,29.76,0.666,6,17.15,12.75,45.16,35.29,Manajemen Air,-0.98
+2340,2017,France,Ile-de-France,Barley,2354.69,2.13,3.28,6,34.46,6.72,59.47,72.14,Manajemen Air,15.18
+5632,2017,France,Ile-de-France,Soybeans,2244.18,9.96,0.88,5,14.23,43.23,95.73,91.97,Pertanian Organik,5.31
+1118,2017,France,Ile-de-France,Sugarcane,1515.56,12.06,1.04,8,54.53,44.02,68.87,95.63,Pertanian Organik,3.07
+2720,2017,France,Ile-de-France,Wheat,1535.65,20.34,3.159,7,26.52,16.79,92.72,97.21,Tanpa Adaptasi,31.62
+4130,2017,France,Nouvelle-Aquitaine,Barley,2672.59,23.0,2.331,2,66.96,23.23,72.86,63.97,Tanpa Adaptasi,7.26
+5465,2017,France,Nouvelle-Aquitaine,Fruits,1551.35,13.93,1.69,0,10.53,13.65,52.48,35.22,Rotasi Tanaman,0.87
+1495,2017,France,Nouvelle-Aquitaine,Wheat,2186.13,19.23,1.485,8,71.62,4.6,38.16,74.24,Manajemen Air,-1.12
+5768,2018,France,'Grand Est',Barley,1757.63,4.33,1.52,1,74.26,22.6,14.86,34.15,Tanaman Tahan Kekeringan,7.7
+2250,2018,France,'Grand Est',Corn,2276.79,8.69,1.48,5,25.66,22.2,19.22,80.85,Rotasi Tanaman,24.7
+81,2018,France,'Grand Est',Cotton,2278.72,5.48,3.53,3,10.19,29.91,9.41,48.81,Tanaman Tahan Kekeringan,30.27
+1704,2018,France,'Grand Est',Cotton,2737.4,3.83,1.26,6,74.59,6.86,65.91,59.67,Tanpa Adaptasi,4.56
+2908,2018,France,'Grand Est',Rice,1393.01,12.83,1.74,4,74.82,3.52,37.2,96.07,Pertanian Organik,22.26
+4931,2018,France,'Grand Est',Rice,1012.26,12.19,0.57,4,88.68,26.17,16.25,74.24,Manajemen Air,1.69
+4953,2018,France,'Provence-Alpes-Cote d’Azur',Cotton,2797.63,11.68,1.25,4,75.13,11.97,90.46,99.24,Tanaman Tahan Kekeringan,7.69
+7870,2018,France,'Provence-Alpes-Cote d’Azur',Fruits,847.05,23.59,2.907,2,80.23,11.9,85.68,68.55,Tanaman Tahan Kekeringan,28.99
+1430,2018,France,'Provence-Alpes-Cote d’Azur',Rice,365.94,26.9,0.549,4,12.82,23.92,1.32,63.45,Tanpa Adaptasi,1.99
+7314,2018,France,'Provence-Alpes-Cote d’Azur',Rice,1300.31,26.21,1.683,2,47.47,37.93,83.92,66.67,Tanaman Tahan Kekeringan,21.36
+2178,2018,France,'Provence-Alpes-Cote d’Azur',Soybeans,364.47,11.81,1.089,3,33.08,12.62,87.75,72.11,Pertanian Organik,5.46
+3307,2018,France,'Provence-Alpes-Cote d’Azur',Soybeans,711.42,23.0,0.792,7,26.64,31.92,68.43,93.87,Tanaman Tahan Kekeringan,-0.17
+4040,2018,France,'Provence-Alpes-Cote d’Azur',Vegetables,2446.24,25.42,0.927,1,45.5,20.64,6.42,63.55,Tanaman Tahan Kekeringan,27.53
+3911,2018,France,Ile-de-France,Wheat,396.69,12.84,1.719,3,90.62,46.64,46.46,65.69,Pertanian Organik,-3.95
+4898,2018,France,Nouvelle-Aquitaine,Corn,2140.47,18.42,0.846,6,,46.99,79.35,75.5,Rotasi Tanaman,3.21
+6225,2018,France,Nouvelle-Aquitaine,Fruits,2473.3,18.74,3.024,2,11.14,17.24,58.56,96.97,Rotasi Tanaman,15.72
+1128,2018,France,Nouvelle-Aquitaine,Rice,2893.88,4.95,1.73,6,55.51,1.29,73.49,88.44,Manajemen Air,5.01
+4057,2018,France,Nouvelle-Aquitaine,Vegetables,748.85,29.59,3.321,10,23.61,7.34,32.3,41.13,Tanaman Tahan Kekeringan,29.79
+3941,2018,France,Nouvelle-Aquitaine,Wheat,971.58,26.04,1.368,6,35.05,5.29,1.59,39.18,Rotasi Tanaman,-0.67
+1414,2019,France,'Grand Est',Barley,2794.72,24.43,1.908,5,15.62,19.46,0.93,30.8,Tanaman Tahan Kekeringan,-3.74
+1840,2019,France,'Grand Est',Cotton,1990.05,20.66,0.7200000000000001,6,,16.55,38.75,66.52,Tanpa Adaptasi,9.91
+6004,2019,France,'Grand Est',Cotton,899.15,12.87,4.0,6,18.07,22.12,84.4,97.87,Manajemen Air,17.22
+2281,2019,France,'Grand Est',Fruits,480.6,27.28,1.935,0,80.26,39.5,4.98,62.98,Rotasi Tanaman,32.06
+4209,2019,France,'Grand Est',Fruits,1213.08,2.07,0.57,8,31.29,27.48,81.72,47.12,Rotasi Tanaman,5.36
+6345,2019,France,'Grand Est',Soybeans,1264.55,5.23,1.7,0,24.63,22.88,69.73,85.16,Tanpa Adaptasi,7.56
+7375,2019,France,'Grand Est',Soybeans,415.33,8.04,1.494,0,17.06,30.98,38.21,33.35,Tanaman Tahan Kekeringan,26.91
+4951,2019,France,'Grand Est',Vegetables,1832.19,8.38,2.51,1,87.89,11.03,32.76,46.81,Pertanian Organik,4.13
+5323,2019,France,'Grand Est',Vegetables,986.43,16.08,1.116,10,18.42,41.18,64.99,60.26,Rotasi Tanaman,9.38
+5231,2019,France,'Provence-Alpes-Cote d’Azur',Barley,699.35,9.26,4.75,4,16.97,17.36,90.61,61.6,Tanpa Adaptasi,16.73
+2626,2019,France,'Provence-Alpes-Cote d’Azur',Fruits,2034.8,15.44,3.303,3,41.75,43.59,53.66,30.85,Manajemen Air,19.3
+1955,2019,France,'Provence-Alpes-Cote d’Azur',Rice,2909.28,27.05,0.972,4,49.18,26.61,19.78,35.18,Manajemen Air,-4.56
+5427,2019,France,'Provence-Alpes-Cote d’Azur',Soybeans,302.31,25.37,0.963,8,61.83,30.05,12.88,59.58,Pertanian Organik,25.76
+6022,2019,France,Ile-de-France,Corn,2456.59,2.62,2.9,8,83.38,16.77,26.16,95.83,Tanpa Adaptasi,7.22
+2975,2019,France,Nouvelle-Aquitaine,Barley,2946.39,8.96,0.72,1,39.74,5.64,65.17,89.34,Manajemen Air,1.47
+7485,2019,France,Nouvelle-Aquitaine,Cotton,462.09,5.91,0.909,7,44.38,22.13,82.9,85.75,Manajemen Air,6.71
+3604,2020,France,'Grand Est',Corn,697.71,29.48,2.331,3,24.07,34.69,50.41,98.14,Tanaman Tahan Kekeringan,13.76
+125,2020,France,'Grand Est',Cotton,791.95,22.25,3.393,8,12.56,41.96,11.7,66.65,Pertanian Organik,25.98
+3276,2020,France,'Grand Est',Soybeans,219.3,21.03,2.07,4,98.05,33.52,70.34,56.51,Tanpa Adaptasi,9.22
+4095,2020,France,'Grand Est',Soybeans,2998.61,23.21,2.6910000000000003,9,62.58,34.57,63.95,67.53,Tanaman Tahan Kekeringan,25.57
+2330,2020,France,'Grand Est',Vegetables,,16.65,2.4480000000000004,0,99.1,1.61,51.28,90.81,Pertanian Organik,26.47
+4596,2020,France,'Grand Est',Vegetables,2024.0,18.91,2.349,0,97.96,15.45,65.2,38.07,Tanaman Tahan Kekeringan,0.03
+2146,2020,France,'Provence-Alpes-Cote d’Azur',Barley,2327.14,7.21,1.42,8,18.05,1.97,6.31,50.73,Rotasi Tanaman,-0.82
+3028,2020,France,'Provence-Alpes-Cote d’Azur',Barley,2698.63,21.51,1.908,3,69.01,37.91,63.43,87.44,Rotasi Tanaman,6.25
+1378,2020,France,'Provence-Alpes-Cote d’Azur',Coffee,840.63,4.5,1.67,1,70.45,15.65,95.75,68.21,Pertanian Organik,28.27
+1727,2020,France,'Provence-Alpes-Cote d’Azur',Corn,407.89,2.37,1.944,8,62.53,8.77,47.32,46.89,Tanaman Tahan Kekeringan,27.2
+4801,2020,France,'Provence-Alpes-Cote d’Azur',Corn,1180.73,17.07,3.456,8,94.85,7.14,5.98,53.19,Tanaman Tahan Kekeringan,11.81
+1515,2020,France,'Provence-Alpes-Cote d’Azur',Sugarcane,2478.48,8.91,,2,94.04,33.72,90.86,64.43,Tanaman Tahan Kekeringan,18.78
+7689,2020,France,'Provence-Alpes-Cote d’Azur',Wheat,1611.56,9.08,1.73,7,78.76,46.32,82.98,54.28,Tanpa Adaptasi,-0.09
+7847,2020,France,'Provence-Alpes-Cote d’Azur',Wheat,2343.32,12.98,1.81,8,55.82,34.01,61.78,57.03,Tanpa Adaptasi,3.68
+1215,2020,France,Ile-de-France,Corn,422.92,23.39,2.529,1,92.09,45.21,66.38,92.56,Rotasi Tanaman,9.81
+5150,2020,France,Ile-de-France,Corn,2734.85,13.06,3.65,6,53.26,11.07,42.97,91.6,Rotasi Tanaman,26.06
+629,2020,France,Ile-de-France,Soybeans,2369.44,26.38,1.917,8,98.92,17.02,49.35,75.51,Tanaman Tahan Kekeringan,-4.75
+1178,2020,France,Ile-de-France,Soybeans,2078.55,23.09,1.4220000000000002,4,64.2,28.29,8.04,68.64,Tanpa Adaptasi,22.41
+1025,2020,France,Ile-de-France,Vegetables,357.0,10.98,2.574,8,60.29,44.76,45.22,40.35,Rotasi Tanaman,34.12
+2836,2020,France,Ile-de-France,Vegetables,1955.63,1.27,1.37,6,54.64,0.39,2.64,30.92,Tanpa Adaptasi,24.93
+6032,2020,France,Ile-de-France,Vegetables,378.08,17.46,0.918,2,86.31,7.36,6.6,66.21,Tanaman Tahan Kekeringan,9.92
+7961,2020,France,Nouvelle-Aquitaine,Coffee,2236.04,6.5,2.42,8,39.32,27.38,4.97,96.72,Pertanian Organik,21.58
+5612,2020,France,Nouvelle-Aquitaine,Cotton,1481.4,24.58,3.051,4,42.15,42.24,12.92,70.1,Manajemen Air,18.95
+2822,2020,France,Nouvelle-Aquitaine,Fruits,2361.93,11.95,2.71,4,39.01,49.15,52.57,56.03,Manajemen Air,2.58
+3087,2020,France,Nouvelle-Aquitaine,Rice,215.02,16.91,1.386,0,43.25,24.24,70.48,55.98,Manajemen Air,1.62
+2497,2020,France,Nouvelle-Aquitaine,Soybeans,1788.53,18.73,1.161,2,47.93,21.16,94.77,99.26,Pertanian Organik,30.9
+7131,2021,France,'Grand Est',Sugarcane,1851.95,8.46,1.95,6,33.77,19.75,58.3,83.73,Manajemen Air,-1.58
+3640,2021,France,'Grand Est',Vegetables,646.66,5.77,3.28,2,95.19,20.21,55.69,85.4,Pertanian Organik,13.23
+4487,2021,France,'Grand Est',Wheat,2167.3,15.16,1.863,7,94.47,17.46,41.92,85.3,Tanpa Adaptasi,32.44
+4501,2021,France,'Grand Est',Wheat,417.59,28.25,2.673,8,61.07,45.36,91.94,63.56,Rotasi Tanaman,15.38
+4302,2021,France,'Provence-Alpes-Cote d’Azur',Barley,1225.86,5.87,1.96,8,99.34,34.42,11.0,46.26,Rotasi Tanaman,11.15
+674,2021,France,'Provence-Alpes-Cote d’Azur',Coffee,2771.88,6.67,3.53,3,70.09,37.33,23.71,31.03,Manajemen Air,16.97
+6761,2021,France,'Provence-Alpes-Cote d’Azur',Corn,1479.81,28.93,3.951,2,66.27,23.99,14.23,94.55,Tanaman Tahan Kekeringan,18.93
+7917,2021,France,'Provence-Alpes-Cote d’Azur',Cotton,2226.48,25.34,1.1700000000000002,8,71.22,24.25,19.33,65.62,Rotasi Tanaman,22.39
+7469,2021,France,'Provence-Alpes-Cote d’Azur',Rice,2330.86,28.19,2.8800000000000003,8,81.91,37.52,0.46,57.4,Tanaman Tahan Kekeringan,11.25
+4432,2021,France,Ile-de-France,Coffee,1682.44,26.85,3.474,1,27.05,31.07,2.41,38.51,Tanpa Adaptasi,26.55
+5223,2021,France,Ile-de-France,Corn,1113.71,20.52,2.4120000000000004,1,31.02,45.83,37.19,80.14,Manajemen Air,25.07
+5641,2021,France,Ile-de-France,Corn,1875.86,15.04,3.24,3,22.77,25.52,49.24,47.07,Pertanian Organik,26.97
+2973,2021,France,Ile-de-France,Fruits,796.96,21.41,2.682,10,94.77,44.28,33.03,65.8,Rotasi Tanaman,-2.49
+448,2021,France,Ile-de-France,Rice,846.22,2.93,1.24,5,21.15,26.41,72.19,56.75,Pertanian Organik,34.47
+6923,2021,France,Ile-de-France,Sugarcane,1127.37,4.25,3.39,2,55.6,23.44,83.05,64.86,Tanaman Tahan Kekeringan,15.55
+1254,2021,France,Ile-de-France,Vegetables,2006.11,22.82,4.239,9,97.3,28.25,46.89,59.83,Manajemen Air,19.66
+3350,2021,France,Ile-de-France,Vegetables,860.59,21.11,1.098,9,79.71,19.58,26.75,32.87,Pertanian Organik,9.78
+7954,2021,France,Ile-de-France,Vegetables,2745.21,25.1,2.484,6,51.73,22.14,55.02,68.16,Pertanian Organik,6.51
+286,2021,France,Nouvelle-Aquitaine,Corn,1237.88,26.98,2.484,3,90.85,9.56,80.92,48.83,Rotasi Tanaman,24.94
+7818,2021,France,Nouvelle-Aquitaine,Fruits,1354.6,4.1,1.23,4,68.27,18.93,68.4,69.51,Pertanian Organik,2.44
+6622,2021,France,Nouvelle-Aquitaine,Rice,1005.87,28.63,1.836,10,84.29,8.04,65.59,58.29,Manajemen Air,-1.68
+4370,2021,France,Nouvelle-Aquitaine,Sugarcane,2290.05,2.69,3.26,9,67.78,48.17,41.41,33.96,Manajemen Air,31.83
+6258,2021,France,Nouvelle-Aquitaine,Sugarcane,952.21,27.98,3.222,2,23.24,11.2,83.74,98.97,Manajemen Air,33.53
+6721,2021,France,Nouvelle-Aquitaine,Sugarcane,905.9,4.73,1.98,5,33.5,38.1,37.98,62.76,Tanaman Tahan Kekeringan,22.56
+981,2021,France,Nouvelle-Aquitaine,Vegetables,786.27,19.1,1.161,9,12.19,1.59,95.51,59.11,Tanaman Tahan Kekeringan,23.43
+2493,2021,France,Nouvelle-Aquitaine,Wheat,906.31,11.94,1.84,0,31.11,4.08,70.05,84.32,Manajemen Air,3.21
+1506,2022,France,'Grand Est',Cotton,357.28,23.51,1.215,4,34.65,42.61,31.53,74.57,Manajemen Air,32.86
+3343,2022,France,'Grand Est',Rice,1016.82,18.48,0.756,8,33.41,12.49,69.32,86.92,Manajemen Air,23.56
+7523,2022,France,'Grand Est',Soybeans,1869.63,17.42,2.772,7,66.21,17.69,99.73,32.73,Rotasi Tanaman,12.3
+7736,2022,France,'Grand Est',Sugarcane,2857.91,26.95,1.089,8,86.97,12.89,55.45,42.46,Manajemen Air,2.71
+6873,2022,France,'Grand Est',Vegetables,1861.2,29.01,2.124,4,94.68,38.32,69.93,63.9,Rotasi Tanaman,31.89
+3644,2022,France,'Grand Est',,911.79,7.13,1.08,8,45.05,15.83,5.33,39.26,Tanpa Adaptasi,4.64
+6808,2022,France,'Provence-Alpes-Cote d’Azur',Barley,819.69,15.03,4.23,3,16.25,37.51,21.57,94.68,Tanpa Adaptasi,11.87
+4254,2022,France,'Provence-Alpes-Cote d’Azur',Coffee,1823.16,0.72,2.02,6,84.78,18.04,31.22,71.32,Manajemen Air,-4.87
+1375,2022,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1245.64,15.3,2.619,1,56.31,32.97,25.11,39.39,Tanaman Tahan Kekeringan,-3.23
+6214,2022,France,'Provence-Alpes-Cote d’Azur',Wheat,874.53,5.74,2.54,8,19.53,35.6,97.81,36.61,Pertanian Organik,1.5
+1116,2022,France,Ile-de-France,Barley,1059.93,29.58,1.494,5,87.34,23.46,92.68,67.22,Rotasi Tanaman,30.03
+6864,2022,France,Ile-de-France,Barley,,12.38,3.74,2,63.19,34.43,67.47,34.0,Pertanian Organik,29.19
+7331,2022,France,Ile-de-France,Coffee,2388.76,11.69,1.09,1,60.58,2.92,74.59,80.35,Manajemen Air,0.68
+3976,2022,France,Ile-de-France,Corn,2088.72,2.77,3.98,1,26.81,10.12,85.42,61.75,Rotasi Tanaman,15.08
+5257,2022,France,Ile-de-France,Cotton,2499.36,1.66,2.43,8,32.25,37.76,97.04,33.36,Tanaman Tahan Kekeringan,33.35
+997,2022,France,Ile-de-France,Fruits,2758.7,11.34,2.45,7,68.7,20.35,3.83,87.1,Rotasi Tanaman,22.73
+3500,2022,France,Ile-de-France,Fruits,,15.53,2.295,5,64.25,7.76,66.68,77.17,Pertanian Organik,1.7
+3889,2022,France,Ile-de-France,Rice,790.51,0.67,2.73,0,38.78,32.07,16.66,60.66,Rotasi Tanaman,33.63
+2738,2022,France,Ile-de-France,Sugarcane,2951.42,7.76,2.78,3,18.44,5.82,25.66,71.03,Manajemen Air,5.23
+524,2022,France,Nouvelle-Aquitaine,Cotton,2559.32,22.68,2.934,4,44.93,48.66,2.1,73.79,Tanaman Tahan Kekeringan,27.05
+737,2022,France,Nouvelle-Aquitaine,Cotton,685.93,17.64,3.0330000000000004,9,27.56,41.96,10.95,43.41,Tanpa Adaptasi,30.48
+4112,2022,France,Nouvelle-Aquitaine,Cotton,2275.38,10.62,1.26,0,14.7,18.24,27.29,97.62,Manajemen Air,2.42
+7403,2022,France,Nouvelle-Aquitaine,Fruits,2641.96,26.36,2.772,10,93.93,13.41,72.36,93.81,Tanpa Adaptasi,13.51
+3460,2022,France,Nouvelle-Aquitaine,Rice,1060.42,26.5,1.737,7,93.5,14.49,21.49,62.98,Tanpa Adaptasi,10.1
+5444,2022,France,Nouvelle-Aquitaine,Rice,1138.52,17.5,0.855,5,48.05,36.2,49.25,87.27,Tanpa Adaptasi,6.05
+649,2022,France,Nouvelle-Aquitaine,Soybeans,2282.42,26.66,2.1870000000000003,8,74.44,49.22,28.94,92.17,Rotasi Tanaman,28.0
+685,2022,France,Nouvelle-Aquitaine,Soybeans,652.9,2.4,1.94,7,92.23,31.88,33.45,85.03,Tanaman Tahan Kekeringan,23.82
+6938,2022,France,Nouvelle-Aquitaine,Wheat,714.34,17.63,3.114,10,23.35,0.99,26.96,87.1,Tanaman Tahan Kekeringan,14.72
+2471,2023,France,'Grand Est',Coffee,1931.74,28.49,1.8,7,84.46,4.82,36.43,84.15,Manajemen Air,25.97
+4518,2023,France,'Grand Est',Coffee,2268.98,27.68,3.3480000000000003,8,,49.7,10.75,49.44,Tanaman Tahan Kekeringan,13.54
+612,2023,France,'Grand Est',Corn,1894.8,15.75,0.981,0,22.74,4.79,93.24,86.05,Tanpa Adaptasi,28.81
+2470,2023,France,'Grand Est',Fruits,1131.19,20.25,3.015,2,20.5,16.52,39.12,64.6,Rotasi Tanaman,18.04
+2650,2023,France,'Grand Est',Fruits,2401.17,6.92,1.49,8,84.0,2.16,9.06,72.43,Pertanian Organik,33.92
+7655,2023,France,'Grand Est',Soybeans,2951.06,26.59,2.619,6,18.17,6.08,71.02,56.19,Manajemen Air,6.6
+4223,2023,France,'Grand Est',Wheat,2818.2,23.49,2.295,3,52.23,35.57,80.53,90.72,Rotasi Tanaman,32.72
+6087,2023,France,'Grand Est',Wheat,471.46,17.27,1.53,6,58.32,49.81,58.68,43.22,Rotasi Tanaman,33.95
+5409,2023,France,'Grand Est',,2371.89,27.98,1.359,1,75.91,17.05,66.22,43.32,Tanaman Tahan Kekeringan,4.65
+1557,2023,France,'Provence-Alpes-Cote d’Azur',Coffee,2792.27,22.39,3.249,4,33.19,24.1,49.57,42.28,Rotasi Tanaman,32.99
+4629,2023,France,'Provence-Alpes-Cote d’Azur',Coffee,1429.31,11.06,3.94,4,77.91,9.35,97.42,94.42,Tanaman Tahan Kekeringan,20.32
+5155,2023,France,'Provence-Alpes-Cote d’Azur',Cotton,2068.21,11.22,2.21,10,29.8,28.53,15.59,65.69,Manajemen Air,2.73
+4537,2023,France,'Provence-Alpes-Cote d’Azur',Fruits,719.39,18.49,2.106,1,77.51,11.61,51.97,74.48,Pertanian Organik,-2.17
+2111,2023,France,'Provence-Alpes-Cote d’Azur',Sugarcane,2846.99,10.31,1.34,2,79.04,14.79,34.13,41.8,Pertanian Organik,28.7
+3888,2023,France,'Provence-Alpes-Cote d’Azur',Sugarcane,1968.38,15.96,0.99,10,10.52,22.68,99.18,76.24,Manajemen Air,0.18
+3231,2023,France,'Provence-Alpes-Cote d’Azur',Vegetables,1745.63,13.08,2.3,2,94.66,1.48,7.63,95.75,Manajemen Air,24.31
+6997,2023,France,'Provence-Alpes-Cote d’Azur',Vegetables,277.6,10.7,3.114,10,,38.85,73.18,67.47,Manajemen Air,32.73
+3936,2023,France,Ile-de-France,Sugarcane,1802.96,29.25,1.503,0,62.11,14.97,95.38,71.31,Pertanian Organik,21.72
+6280,2023,France,Nouvelle-Aquitaine,Coffee,1412.21,26.26,2.646,2,60.01,27.95,37.89,87.06,Tanpa Adaptasi,20.25
+6306,2023,France,Nouvelle-Aquitaine,Cotton,,15.85,1.638,7,78.57,28.35,63.44,94.28,Pertanian Organik,30.92
+7365,2023,France,Nouvelle-Aquitaine,Cotton,2595.7,1.89,3.85,10,29.03,45.84,1.35,31.08,Tanpa Adaptasi,24.76
+1241,2023,France,Nouvelle-Aquitaine,Sugarcane,1425.42,9.09,4.5,9,90.0,47.74,25.51,88.53,Rotasi Tanaman,14.86
+6001,2023,France,Nouvelle-Aquitaine,Sugarcane,857.37,8.58,2.77,2,31.01,15.78,24.79,34.72,Manajemen Air,14.1
+7792,2023,France,Nouvelle-Aquitaine,,2451.7,25.38,2.493,5,78.9,8.9,49.88,45.59,Manajemen Air,12.66
+3294,2024,France,'Grand Est',Coffee,1464.84,14.19,3.48,2,31.59,5.17,63.0,88.54,Tanaman Tahan Kekeringan,15.33
+5414,2024,France,'Grand Est',Coffee,223.62,1.22,2.601,1,80.82,17.88,68.03,81.84,Tanpa Adaptasi,15.58
+4601,2024,France,'Grand Est',Fruits,1285.38,26.33,2.16,0,26.07,36.9,78.58,89.56,Manajemen Air,-1.62
+4422,2024,France,'Grand Est',Soybeans,1356.95,18.78,2.457,4,40.8,22.69,75.78,83.36,Tanpa Adaptasi,23.92
+3214,2024,France,'Grand Est',Wheat,2765.27,6.52,1.54,4,38.71,38.09,56.08,76.6,Rotasi Tanaman,23.09
+7412,2024,France,'Provence-Alpes-Cote d’Azur',Fruits,2133.52,29.03,3.1410000000000005,0,40.69,40.39,28.21,70.52,Tanpa Adaptasi,24.17
+2505,2024,France,'Provence-Alpes-Cote d’Azur',Rice,1826.14,3.77,2.39,2,16.98,17.35,27.41,52.2,Tanaman Tahan Kekeringan,8.44
+6826,2024,France,'Provence-Alpes-Cote d’Azur',Rice,2894.15,8.07,,7,59.9,26.51,74.44,38.94,Tanaman Tahan Kekeringan,16.78
+7139,2024,France,'Provence-Alpes-Cote d’Azur',Rice,1301.77,26.07,2.682,6,49.57,0.93,41.44,71.4,Tanpa Adaptasi,8.3
+579,2024,France,Ile-de-France,Barley,1351.64,6.53,0.84,5,72.7,45.9,7.15,58.95,Tanaman Tahan Kekeringan,33.29
+2542,2024,France,Ile-de-France,Coffee,499.69,15.77,3.753,7,56.08,24.72,25.74,71.58,Tanpa Adaptasi,16.3
+4478,2024,France,Ile-de-France,Coffee,2225.76,19.12,2.142,8,37.26,31.45,28.92,33.64,Pertanian Organik,10.67
+7248,2024,France,Ile-de-France,Cotton,716.14,21.73,1.431,5,64.36,47.82,65.03,57.45,Pertanian Organik,6.64
+436,2024,France,Ile-de-France,Fruits,,28.18,1.548,7,47.28,24.4,47.88,65.25,Rotasi Tanaman,18.2
+166,2024,France,Ile-de-France,Rice,587.95,19.38,0.801,8,27.8,6.4,80.49,64.81,Tanaman Tahan Kekeringan,27.48
+1941,2024,France,Ile-de-France,Sugarcane,2107.57,12.44,1.09,3,81.68,19.04,49.99,90.34,Manajemen Air,4.4
+4170,2024,France,Ile-de-France,Vegetables,1174.15,18.63,2.601,5,41.8,16.73,70.33,54.01,Tanpa Adaptasi,15.09
+2460,2024,France,Ile-de-France,Wheat,701.24,4.19,0.67,8,70.77,38.46,38.08,60.71,Tanpa Adaptasi,8.12
+4778,2024,France,Nouvelle-Aquitaine,Corn,931.72,29.91,4.23,6,97.42,43.85,57.22,39.53,Tanpa Adaptasi,10.17
+6469,2024,France,Nouvelle-Aquitaine,Fruits,2617.47,29.06,2.196,3,19.55,37.49,46.27,41.55,Tanpa Adaptasi,28.48
+2854,2024,France,Nouvelle-Aquitaine,Rice,2568.15,27.93,2.772,3,80.62,2.51,74.63,38.33,Tanpa Adaptasi,19.65
+1099,2024,France,Nouvelle-Aquitaine,Wheat,2349.97,14.06,0.91,8,51.11,15.76,31.52,74.79,Rotasi Tanaman,2.11

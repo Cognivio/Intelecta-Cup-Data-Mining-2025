@@ -1,0 +1,819 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+2793,1990,India,'Tamil Nadu',Cotton,1692.05,2.23,2.76,2,96.7,45.74,66.53,74.8,Rotasi Tanaman,2.25
+465,1990,India,'Tamil Nadu',Sugarcane,2521.02,7.51,2.71,4,97.47,10.49,17.08,63.06,Tanaman Tahan Kekeringan,9.34
+7790,1990,India,'Tamil Nadu',Sugarcane,2018.84,7.65,2.32,7,39.39,44.08,5.27,95.71,Rotasi Tanaman,-2.29
+3185,1990,India,'Tamil Nadu',Wheat,1089.78,3.23,1.16,7,61.47,32.23,47.83,65.68,Manajemen Air,-4.1
+266,1990,India,'West Bengal',Corn,316.05,15.71,0.477,9,26.04,4.37,50.81,89.27,Tanaman Tahan Kekeringan,5.99
+7162,1990,India,'West Bengal',Cotton,1928.01,17.4,2.4480000000000004,0,51.18,22.82,62.05,76.31,Rotasi Tanaman,15.74
+288,1990,India,'West Bengal',Sugarcane,481.25,10.72,2.502,4,59.07,38.95,88.34,82.96,Manajemen Air,-2.03
+3533,1990,India,'West Bengal',Wheat,648.6,14.95,0.81,10,41.24,16.37,68.82,33.62,Rotasi Tanaman,34.38
+5292,1990,India,'West Bengal',Wheat,1630.15,22.54,1.152,1,35.0,1.37,2.62,42.89,Pertanian Organik,26.72
+137,1990,India,Maharashtra,Cotton,1431.33,15.11,1.359,7,51.81,43.65,2.97,53.76,Pertanian Organik,8.34
+87,1990,India,Maharashtra,Fruits,1756.22,23.26,2.889,7,41.63,22.73,71.64,49.61,Manajemen Air,22.9
+4842,1990,India,Maharashtra,Wheat,1448.12,0.79,2.09,5,40.86,19.41,77.64,76.05,Tanaman Tahan Kekeringan,16.36
+5305,1990,India,Maharashtra,Wheat,963.43,11.81,1.63,10,26.32,22.06,14.27,47.05,Tanpa Adaptasi,16.29
+1735,1990,India,Punjab,Fruits,1349.95,27.77,2.574,10,50.86,39.44,1.46,97.34,Tanpa Adaptasi,4.03
+3653,1990,India,Punjab,Sugarcane,1972.87,14.66,2.25,3,82.7,9.81,83.32,50.88,Tanpa Adaptasi,0.79
+336,1990,India,Punjab,Vegetables,,16.8,0.9,1,63.89,33.77,94.56,51.92,Rotasi Tanaman,25.11
+3523,1990,India,Punjab,Vegetables,2903.4,15.42,3.33,1,52.22,33.24,47.88,40.36,Pertanian Organik,19.37
+5004,1990,India,Punjab,Vegetables,983.96,21.45,2.394,2,75.39,42.01,34.17,89.83,Pertanian Organik,14.53
+732,1991,India,'Tamil Nadu',Corn,1962.73,1.37,1.43,1,40.04,13.87,48.67,51.29,Tanaman Tahan Kekeringan,30.21
+2763,1991,India,'Tamil Nadu',Corn,1300.8,15.63,1.773,7,73.62,4.25,78.64,97.25,Tanpa Adaptasi,-4.33
+6254,1991,India,'Tamil Nadu',Corn,1684.5,6.74,1.43,9,77.44,13.84,39.15,86.99,Pertanian Organik,-0.07
+2577,1991,India,'Tamil Nadu',Cotton,564.04,24.68,2.313,9,49.83,2.72,51.49,47.72,Tanpa Adaptasi,-4.7
+739,1991,India,'Tamil Nadu',Rice,2446.45,20.86,1.125,4,19.32,41.25,0.65,88.14,Tanpa Adaptasi,-0.43
+3015,1991,India,'Tamil Nadu',Soybeans,1667.68,16.55,0.918,6,79.51,0.8,32.16,70.68,Tanaman Tahan Kekeringan,-4.51
+3126,1991,India,'Tamil Nadu',Sugarcane,2333.03,11.49,2.63,5,77.06,22.16,5.18,83.87,Tanpa Adaptasi,17.8
+6445,1991,India,'Tamil Nadu',Sugarcane,581.95,28.28,1.134,5,38.25,30.95,38.33,79.09,Tanpa Adaptasi,33.54
+4843,1991,India,'Tamil Nadu',Vegetables,1385.82,22.19,2.205,5,45.74,44.06,19.55,54.15,Tanpa Adaptasi,23.64
+4764,1991,India,'West Bengal',Barley,561.64,21.7,1.782,5,82.51,39.28,73.39,79.2,Tanpa Adaptasi,0.6
+4060,1991,India,'West Bengal',Corn,629.15,27.51,2.457,10,43.74,10.77,23.99,53.57,Pertanian Organik,-3.72
+6034,1991,India,'West Bengal',Corn,311.6,13.7,2.97,5,27.79,6.68,10.54,48.81,Tanpa Adaptasi,18.53
+3918,1991,India,'West Bengal',Rice,,26.67,1.845,3,13.13,5.76,64.97,92.64,Tanaman Tahan Kekeringan,-1.4
+3897,1991,India,'West Bengal',Sugarcane,1281.89,8.58,4.45,10,72.76,26.22,41.33,47.28,Tanaman Tahan Kekeringan,15.92
+48,1991,India,'West Bengal',Vegetables,2625.5,20.89,3.456,8,80.86,0.94,4.36,91.95,Tanpa Adaptasi,10.38
+250,1991,India,'West Bengal',Vegetables,1841.24,23.33,2.367,9,49.16,34.3,73.16,44.22,Manajemen Air,3.98
+1142,1991,India,Maharashtra,Barley,237.07,28.39,2.529,2,35.12,42.69,86.16,53.01,Tanpa Adaptasi,7.27
+2766,1991,India,Maharashtra,Barley,1707.41,22.61,4.05,2,34.9,40.58,67.97,30.4,Pertanian Organik,14.06
+1355,1991,India,Maharashtra,Coffee,753.0,9.82,2.0,0,21.7,8.62,94.65,36.0,Tanpa Adaptasi,10.28
+2215,1991,India,Maharashtra,Coffee,2060.12,15.07,1.503,2,87.1,6.97,38.14,87.96,Tanaman Tahan Kekeringan,2.91
+7154,1991,India,Maharashtra,Corn,1916.32,11.59,3.51,10,79.99,28.29,97.08,42.7,Manajemen Air,10.81
+2795,1991,India,Maharashtra,Fruits,2041.6,2.7,2.94,8,67.72,4.95,39.26,69.86,Rotasi Tanaman,-2.82
+4792,1991,India,Maharashtra,Wheat,333.73,23.89,1.872,0,81.17,43.3,72.31,91.02,Tanpa Adaptasi,10.87
+1800,1991,India,Punjab,Barley,1323.08,8.71,2.87,4,67.21,35.11,96.33,46.21,Manajemen Air,20.13
+7848,1991,India,Punjab,Barley,,15.26,0.909,5,23.06,7.93,44.44,90.68,Rotasi Tanaman,-2.83
+5149,1991,India,Punjab,Soybeans,1515.32,17.09,1.062,9,88.52,37.46,68.79,58.73,Manajemen Air,-3.53
+7705,1991,India,Punjab,Soybeans,522.7,28.8,0.531,10,70.42,38.56,98.3,54.64,Manajemen Air,8.42
+327,1991,India,Punjab,Sugarcane,1554.5,3.04,3.75,5,57.83,3.13,74.68,57.19,Pertanian Organik,31.13
+281,1992,India,'Tamil Nadu',Barley,1613.03,8.39,1.47,7,39.88,8.24,89.27,91.17,Tanaman Tahan Kekeringan,34.69
+716,1992,India,'Tamil Nadu',Coffee,1335.44,11.23,2.61,5,46.79,18.68,10.13,89.22,Rotasi Tanaman,10.23
+6266,1992,India,'Tamil Nadu',Coffee,2618.94,27.54,3.402,9,26.8,33.51,26.81,48.73,Tanaman Tahan Kekeringan,22.73
+2183,1992,India,'Tamil Nadu',Corn,291.26,15.81,1.341,7,47.6,31.99,34.2,36.73,Tanaman Tahan Kekeringan,7.64
+3382,1992,India,'Tamil Nadu',Cotton,503.05,23.24,2.574,4,29.69,6.61,54.41,84.86,Tanaman Tahan Kekeringan,30.82
+4587,1992,India,'Tamil Nadu',Cotton,1083.84,21.12,2.673,9,81.21,23.53,13.0,42.85,Tanpa Adaptasi,-0.23
+1905,1992,India,'Tamil Nadu',Fruits,2711.12,10.15,3.36,3,18.18,15.14,52.95,67.11,Tanaman Tahan Kekeringan,18.35
+5673,1992,India,'Tamil Nadu',Soybeans,600.5,18.23,0.945,4,38.98,13.06,69.47,84.4,Manajemen Air,7.47
+4263,1992,India,'Tamil Nadu',Vegetables,1216.44,14.59,3.7,7,,44.25,98.45,49.87,Rotasi Tanaman,31.34
+3122,1992,India,'West Bengal',Cotton,,0.67,2.08,7,19.75,13.12,17.21,77.24,Pertanian Organik,8.94
+1928,1992,India,'West Bengal',Soybeans,1371.86,15.72,1.8,5,93.31,7.39,50.44,76.93,Tanpa Adaptasi,13.39
+5658,1992,India,'West Bengal',Vegetables,2511.18,26.41,4.4190000000000005,3,94.43,22.51,87.1,91.62,Tanaman Tahan Kekeringan,17.0
+7608,1992,India,'West Bengal',Vegetables,1638.2,11.77,4.38,2,63.58,33.33,13.56,37.27,Tanaman Tahan Kekeringan,15.97
+7732,1992,India,Maharashtra,Coffee,666.28,7.7,3.57,7,70.26,13.26,85.57,87.14,Manajemen Air,26.48
+3493,1992,India,Maharashtra,Corn,1770.27,4.62,0.81,9,87.29,5.63,41.84,31.48,Tanpa Adaptasi,33.62
+64,1992,India,Maharashtra,Fruits,2061.4,11.85,3.8,4,95.95,37.0,7.74,85.49,Pertanian Organik,20.31
+2392,1992,India,Maharashtra,Rice,302.04,8.73,3.321,3,67.26,8.54,96.05,43.9,Manajemen Air,13.67
+4402,1992,India,Maharashtra,Sugarcane,2119.01,19.29,0.945,8,57.89,45.34,88.88,78.26,Manajemen Air,-1.65
+1779,1992,India,Maharashtra,Vegetables,1647.6,21.42,0.549,6,50.08,48.45,62.96,92.81,Pertanian Organik,7.74
+4200,1992,India,Maharashtra,Wheat,2277.86,25.22,1.692,4,25.6,45.44,53.56,45.06,Tanpa Adaptasi,0.55
+5879,1992,India,Maharashtra,Wheat,371.5,6.98,1.143,0,78.28,21.59,86.8,49.27,Pertanian Organik,-3.85
+6798,1992,India,Maharashtra,Wheat,2033.66,28.47,1.287,0,53.24,24.41,40.44,45.84,Manajemen Air,3.48
+5121,1992,India,Punjab,Barley,2597.89,27.46,2.3400000000000003,4,78.74,38.51,97.25,30.23,Tanaman Tahan Kekeringan,17.91
+2293,1992,India,Punjab,Corn,1943.98,9.13,3.22,2,99.28,23.8,74.34,54.04,Rotasi Tanaman,30.26
+3257,1992,India,Punjab,Corn,662.66,12.33,2.35,3,78.91,15.89,10.74,96.54,Pertanian Organik,22.84
+7708,1992,India,Punjab,Corn,1899.37,18.23,1.872,8,94.77,23.65,46.93,75.9,Manajemen Air,27.33
+1913,1992,India,Punjab,Cotton,2277.07,18.06,1.818,3,77.61,13.12,78.69,31.88,Rotasi Tanaman,17.32
+3527,1992,India,Punjab,Cotton,2362.82,28.11,0.7290000000000001,3,70.47,12.62,32.0,32.05,Rotasi Tanaman,1.9
+715,1992,India,Punjab,Soybeans,2871.0,11.81,2.5,3,28.53,10.49,28.0,67.46,Pertanian Organik,15.23
+205,1992,India,Punjab,Vegetables,1462.31,10.85,2.47,1,69.72,44.79,7.79,84.99,Tanaman Tahan Kekeringan,14.72
+4304,1993,India,'Tamil Nadu',Coffee,328.66,1.63,1.602,5,29.71,1.15,14.62,47.55,Tanpa Adaptasi,4.35
+5939,1993,India,'Tamil Nadu',Corn,2961.61,7.72,1.67,10,92.22,17.32,54.35,72.54,Manajemen Air,33.42
+3352,1993,India,'Tamil Nadu',Fruits,1713.63,19.37,1.818,5,83.29,31.92,40.59,31.56,Rotasi Tanaman,32.57
+4925,1993,India,'Tamil Nadu',Rice,917.33,14.45,4.31,3,85.07,14.57,52.51,62.15,Rotasi Tanaman,14.08
+1784,1993,India,'Tamil Nadu',Sugarcane,1505.0,23.9,0.8280000000000001,5,21.44,42.36,86.54,66.9,Manajemen Air,-1.3
+3622,1993,India,'Tamil Nadu',Sugarcane,1511.86,5.37,4.19,8,10.61,42.1,77.86,70.39,Rotasi Tanaman,16.35
+3747,1993,India,'Tamil Nadu',Vegetables,2624.86,17.49,2.9160000000000004,7,14.95,28.41,44.27,68.24,Tanpa Adaptasi,13.5
+7020,1993,India,'Tamil Nadu',Vegetables,1893.75,10.3,2.43,0,49.14,5.54,12.88,55.63,Rotasi Tanaman,29.47
+20,1993,India,'West Bengal',Cotton,704.58,0.7,3.71,9,42.9,14.93,93.03,74.17,Rotasi Tanaman,31.75
+5116,1993,India,'West Bengal',Cotton,2101.37,12.25,1.13,5,98.69,26.35,1.02,49.42,Tanaman Tahan Kekeringan,4.37
+128,1993,India,'West Bengal',Fruits,2656.93,19.82,,8,20.51,22.84,94.42,43.07,Tanpa Adaptasi,0.8
+6359,1993,India,'West Bengal',Sugarcane,1476.48,27.48,2.6910000000000003,7,74.2,16.67,18.13,46.28,Tanpa Adaptasi,5.07
+6690,1993,India,'West Bengal',Sugarcane,1053.67,17.43,2.124,3,30.52,2.0,3.01,72.59,Tanpa Adaptasi,8.31
+1278,1993,India,Maharashtra,Vegetables,1487.64,12.86,1.53,7,47.93,12.64,67.32,72.69,Tanaman Tahan Kekeringan,2.36
+2509,1993,India,Maharashtra,Wheat,1887.02,11.23,3.13,7,83.46,31.79,59.05,81.58,Tanpa Adaptasi,25.3
+2524,1993,India,Punjab,Vegetables,1932.56,25.98,2.268,3,46.27,16.05,92.56,55.2,Tanpa Adaptasi,-0.9
+3176,1994,India,'Tamil Nadu',,986.53,7.91,3.83,3,36.39,4.83,60.58,94.9,Tanaman Tahan Kekeringan,28.3
+3942,1994,India,'West Bengal',Coffee,662.48,26.76,2.988,8,38.64,5.53,97.68,34.49,Tanpa Adaptasi,27.85
+630,1994,India,'West Bengal',Rice,2722.96,17.96,1.737,8,93.89,44.66,95.58,65.29,Tanaman Tahan Kekeringan,2.48
+3922,1994,India,'West Bengal',Rice,,28.03,2.52,1,46.52,11.1,27.6,85.41,Tanpa Adaptasi,29.69
+4991,1994,India,'West Bengal',Rice,2785.24,17.95,2.205,5,98.95,42.41,15.45,33.74,Tanaman Tahan Kekeringan,6.96
+5633,1994,India,'West Bengal',Sugarcane,1415.42,16.72,1.809,9,68.96,47.98,36.89,83.62,Manajemen Air,-1.96
+3019,1994,India,'West Bengal',Wheat,1281.54,11.75,3.46,9,79.41,13.57,2.4,90.57,Tanaman Tahan Kekeringan,17.12
+3520,1994,India,Maharashtra,Corn,2248.58,8.89,2.99,3,39.85,36.21,8.95,71.65,Manajemen Air,34.28
+4317,1994,India,Maharashtra,Fruits,344.26,29.45,,10,73.72,34.25,77.88,77.05,Manajemen Air,1.36
+542,1994,India,Maharashtra,Sugarcane,272.95,4.72,0.7290000000000001,7,89.09,9.75,7.04,38.13,Rotasi Tanaman,29.88
+3832,1994,India,Maharashtra,Sugarcane,1485.54,6.62,2.16,2,61.54,28.97,93.43,53.42,Tanpa Adaptasi,6.12
+3722,1994,India,Punjab,Cotton,1752.64,26.41,2.934,0,65.66,5.61,62.03,40.48,Pertanian Organik,15.38
+7214,1994,India,Punjab,Soybeans,2451.12,0.99,2.85,2,33.84,42.81,59.22,60.65,Rotasi Tanaman,33.55
+1082,1994,India,Punjab,Sugarcane,2781.64,27.94,0.936,2,81.33,29.77,24.7,66.81,Rotasi Tanaman,6.23
+6877,1995,India,'Tamil Nadu',Coffee,744.01,1.91,1.84,9,14.72,42.27,76.53,33.15,Pertanian Organik,11.17
+4754,1995,India,'Tamil Nadu',Rice,1564.4,28.18,1.4580000000000002,0,41.16,22.85,82.62,45.38,Rotasi Tanaman,22.36
+451,1995,India,'West Bengal',Corn,536.25,25.74,2.502,7,11.93,23.14,29.26,38.27,Tanpa Adaptasi,7.57
+2037,1995,India,'West Bengal',Cotton,1428.32,24.65,2.385,6,98.06,26.21,97.73,59.59,Manajemen Air,16.39
+2050,1995,India,'West Bengal',Cotton,426.95,6.35,2.232,1,25.72,21.66,40.28,62.58,Tanpa Adaptasi,27.09
+3311,1995,India,'West Bengal',Cotton,491.81,13.78,2.619,3,29.53,42.26,30.11,46.64,Pertanian Organik,25.69
+325,1995,India,'West Bengal',Wheat,498.82,3.46,2.25,2,34.96,47.18,48.95,60.61,Tanpa Adaptasi,-2.16
+2568,1995,India,'West Bengal',,2067.0,10.96,1.57,7,46.22,44.1,93.88,95.18,Tanaman Tahan Kekeringan,24.68
+6965,1995,India,Maharashtra,Coffee,1141.19,3.21,1.38,9,,29.42,18.5,68.0,Rotasi Tanaman,-0.32
+6558,1995,India,Maharashtra,Cotton,2788.93,16.98,0.666,9,55.32,49.46,8.36,98.18,Rotasi Tanaman,-0.4
+720,1995,India,Maharashtra,Sugarcane,786.06,2.41,2.27,8,76.47,11.6,16.92,73.71,Tanaman Tahan Kekeringan,11.83
+6636,1995,India,Maharashtra,Vegetables,1522.13,24.66,0.774,2,73.73,20.32,29.33,59.36,Tanaman Tahan Kekeringan,3.46
+3440,1995,India,Maharashtra,Wheat,2031.79,29.86,2.952,1,55.88,19.72,30.35,92.22,Tanpa Adaptasi,32.99
+247,1995,India,Punjab,Barley,2754.27,17.76,1.557,3,21.53,0.39,23.31,54.76,Pertanian Organik,30.42
+5028,1995,India,Punjab,Barley,2063.59,23.42,1.98,1,88.23,18.19,48.84,92.61,Tanpa Adaptasi,23.93
+3389,1995,India,Punjab,Fruits,1866.51,18.8,3.078,2,21.19,49.07,54.41,70.67,Tanaman Tahan Kekeringan,30.8
+31,1995,India,Punjab,Soybeans,1283.71,24.56,1.2240000000000002,8,82.82,10.0,29.4,46.0,Pertanian Organik,20.86
+6108,1995,India,Punjab,Soybeans,555.33,5.31,1.33,6,82.27,36.64,23.96,41.55,Pertanian Organik,30.38
+6902,1995,India,Punjab,Soybeans,2987.11,9.81,2.51,6,76.71,39.87,17.91,52.72,Rotasi Tanaman,-4.75
+4993,1995,India,Punjab,Sugarcane,710.71,23.69,3.96,0,60.14,37.27,70.15,49.87,Tanaman Tahan Kekeringan,18.19
+431,1995,India,Punjab,Vegetables,698.01,13.16,1.6,0,94.31,34.51,86.74,98.45,Tanaman Tahan Kekeringan,21.13
+2039,1995,India,Punjab,Vegetables,2723.03,4.38,1.89,0,35.1,40.73,38.86,64.8,Rotasi Tanaman,-1.94
+4282,1995,India,Punjab,Vegetables,1940.83,6.11,4.1,6,74.79,33.24,74.95,96.05,Tanaman Tahan Kekeringan,13.98
+5191,1995,India,Punjab,Vegetables,2146.93,4.63,4.95,8,74.77,16.92,91.05,43.62,Tanaman Tahan Kekeringan,18.11
+6815,1996,India,'Tamil Nadu',Rice,977.92,23.19,1.854,10,58.62,33.0,4.55,31.16,Tanaman Tahan Kekeringan,8.67
+4178,1996,India,'Tamil Nadu',Soybeans,1493.07,21.21,0.5670000000000001,5,11.34,12.21,9.11,48.61,Tanpa Adaptasi,-4.48
+328,1996,India,'Tamil Nadu',Wheat,1483.99,20.02,2.034,2,46.42,33.91,37.74,68.26,Manajemen Air,14.14
+2198,1996,India,'Tamil Nadu',Wheat,1896.87,4.49,4.77,9,89.2,24.85,43.11,69.6,Tanpa Adaptasi,19.32
+3807,1996,India,'West Bengal',Barley,2219.75,4.84,3.56,0,35.81,3.52,46.27,54.21,Rotasi Tanaman,15.63
+6366,1996,India,'West Bengal',Corn,814.97,9.31,1.8,0,62.89,1.43,2.08,65.45,Pertanian Organik,6.08
+5011,1996,India,'West Bengal',Cotton,1203.67,27.49,1.521,8,92.6,10.13,37.76,47.69,Tanpa Adaptasi,4.59
+6602,1996,India,'West Bengal',Rice,2934.88,6.82,2.64,9,61.91,24.73,53.28,45.1,Rotasi Tanaman,28.19
+4571,1996,India,'West Bengal',Soybeans,1071.29,7.71,2.77,9,81.89,11.8,39.64,39.77,Pertanian Organik,6.76
+6248,1996,India,'West Bengal',Soybeans,1697.09,26.64,0.8370000000000001,1,23.48,13.11,2.2,40.79,Rotasi Tanaman,28.34
+618,1996,India,'West Bengal',Sugarcane,1239.78,0.68,0.7,7,20.97,31.43,40.25,62.34,Manajemen Air,0.33
+5421,1996,India,'West Bengal',Sugarcane,2672.09,23.82,2.115,1,73.45,28.52,80.67,34.22,Tanaman Tahan Kekeringan,0.88
+4841,1996,India,Maharashtra,Coffee,2779.86,2.39,0.67,2,99.87,30.28,84.8,63.03,Manajemen Air,4.33
+5833,1996,India,Maharashtra,Coffee,1456.47,15.17,1.656,10,57.46,40.74,18.84,59.0,Manajemen Air,28.78
+7302,1996,India,Maharashtra,Cotton,2843.4,28.01,2.574,5,27.46,3.57,96.03,84.84,Pertanian Organik,23.95
+6930,1996,India,Maharashtra,Fruits,212.45,22.7,1.179,10,78.69,10.03,11.35,48.2,Rotasi Tanaman,32.39
+868,1996,India,Maharashtra,Soybeans,1934.64,0.65,2.74,2,61.75,49.39,67.39,83.97,Manajemen Air,34.72
+5445,1996,India,Maharashtra,Sugarcane,1177.27,14.45,1.15,4,30.37,28.55,24.63,89.69,Tanaman Tahan Kekeringan,-3.26
+5331,1996,India,Punjab,Barley,2791.25,25.9,2.934,10,78.78,33.65,45.58,61.64,Pertanian Organik,30.32
+1731,1996,India,Punjab,Coffee,770.23,6.13,3.2,10,48.84,44.5,68.84,54.57,Tanaman Tahan Kekeringan,15.25
+1819,1996,India,Punjab,Cotton,2106.88,9.77,3.72,10,14.77,9.08,74.93,50.81,Manajemen Air,22.43
+1354,1996,India,Punjab,Rice,2793.19,2.39,2.59,8,59.9,8.43,24.24,86.51,Manajemen Air,-3.62
+5811,1996,India,Punjab,Wheat,1660.3,7.36,2.61,0,29.66,14.36,93.3,84.26,Rotasi Tanaman,25.09
+7187,1996,India,Punjab,Wheat,2385.17,12.17,2.79,0,59.1,21.0,49.47,93.67,Tanpa Adaptasi,2.63
+165,1997,India,'Tamil Nadu',Cotton,1352.67,2.07,1.04,1,84.05,3.77,77.11,86.75,Pertanian Organik,33.68
+7979,1997,India,'Tamil Nadu',Sugarcane,1064.65,6.08,2.1,5,73.85,34.33,26.51,80.27,Tanaman Tahan Kekeringan,-3.98
+386,1997,India,'Tamil Nadu',Vegetables,683.74,10.47,2.34,9,55.93,18.21,21.22,66.37,Tanpa Adaptasi,31.14
+492,1997,India,'Tamil Nadu',Vegetables,228.63,14.13,1.818,0,89.59,15.27,41.38,59.71,Pertanian Organik,17.27
+5577,1997,India,'West Bengal',Barley,1499.45,21.4,2.853,4,94.94,20.97,55.11,86.83,Manajemen Air,25.25
+4795,1997,India,'West Bengal',Coffee,1417.87,15.15,2.034,1,67.85,20.2,10.19,54.91,Pertanian Organik,9.8
+472,1997,India,'West Bengal',Rice,2731.72,23.5,1.485,6,22.85,0.2,33.03,77.25,Pertanian Organik,22.27
+2211,1997,India,'West Bengal',Rice,2539.83,2.42,1.88,9,71.96,47.03,14.43,91.98,Rotasi Tanaman,23.86
+5899,1997,India,'West Bengal',Rice,2368.23,6.74,2.13,2,98.77,45.56,64.49,91.89,Tanpa Adaptasi,32.79
+1157,1997,India,'West Bengal',Sugarcane,2992.45,5.83,1.61,2,34.23,32.88,73.61,76.57,Manajemen Air,10.21
+4797,1997,India,'West Bengal',Vegetables,1307.38,7.22,2.76,1,58.19,11.92,53.59,97.95,Tanpa Adaptasi,1.5
+6707,1997,India,'West Bengal',Vegetables,655.53,21.66,1.134,5,37.55,29.92,41.11,79.9,Rotasi Tanaman,8.63
+6677,1997,India,'West Bengal',Wheat,400.65,4.82,2.3400000000000003,4,96.44,20.22,89.03,43.2,Tanpa Adaptasi,-2.45
+865,1997,India,Maharashtra,Cotton,1016.89,28.22,0.6930000000000001,10,80.7,31.91,7.26,67.28,Tanpa Adaptasi,-0.89
+7521,1997,India,Maharashtra,Fruits,1852.47,27.6,2.277,3,72.59,26.01,4.16,84.62,Rotasi Tanaman,5.91
+599,1997,India,Maharashtra,Wheat,,29.73,1.197,6,98.87,32.51,7.08,94.66,Rotasi Tanaman,25.12
+2382,1997,India,Punjab,Corn,2548.41,13.68,1.99,0,44.59,25.9,54.7,75.45,Tanpa Adaptasi,12.89
+742,1997,India,Punjab,Fruits,2062.57,27.27,2.727,9,66.11,36.81,57.34,51.19,Rotasi Tanaman,10.77
+5766,1997,India,Punjab,Soybeans,1966.89,1.89,1.92,6,10.57,49.42,25.72,31.88,Pertanian Organik,19.89
+5603,1997,India,Punjab,Vegetables,555.91,19.0,2.106,1,25.0,49.22,41.18,68.44,Tanaman Tahan Kekeringan,27.26
+3535,1998,India,'Tamil Nadu',Cotton,1162.21,23.38,1.143,9,58.44,38.59,64.3,71.82,Rotasi Tanaman,26.31
+5018,1998,India,'Tamil Nadu',Cotton,2118.05,3.33,2.82,3,13.16,3.07,35.22,44.14,Tanpa Adaptasi,23.28
+7911,1998,India,'Tamil Nadu',Cotton,2335.32,12.81,2.66,0,15.29,37.6,26.33,70.41,Pertanian Organik,13.34
+7037,1998,India,'Tamil Nadu',Rice,1282.29,25.18,2.052,4,97.19,4.02,93.85,58.95,Rotasi Tanaman,19.01
+5472,1998,India,'West Bengal',Coffee,2990.84,26.89,2.817,9,28.2,47.11,71.79,32.57,Pertanian Organik,26.07
+4238,1998,India,'West Bengal',Fruits,2510.93,10.83,2.76,2,71.24,42.17,42.05,64.3,Tanpa Adaptasi,25.67
+1671,1998,India,'West Bengal',Rice,890.36,29.59,4.014,2,69.64,5.49,33.09,46.86,Manajemen Air,10.2
+2067,1998,India,'West Bengal',Rice,2251.4,29.07,2.457,7,62.37,38.1,92.63,85.66,Tanpa Adaptasi,26.32
+4576,1998,India,'West Bengal',Soybeans,2932.19,27.33,2.754,9,65.32,49.85,64.42,55.41,Manajemen Air,31.21
+1974,1998,India,'West Bengal',Sugarcane,2822.58,2.11,0.97,2,17.14,37.97,19.23,34.49,Tanaman Tahan Kekeringan,31.15
+4023,1998,India,Maharashtra,Barley,1160.73,8.24,2.08,1,65.27,3.06,5.47,61.85,Pertanian Organik,2.25
+654,1998,India,Maharashtra,Soybeans,1840.5,29.06,2.457,7,17.87,15.77,34.56,56.78,Pertanian Organik,16.44
+424,1998,India,Maharashtra,Sugarcane,1650.09,17.44,0.8280000000000001,9,15.6,29.87,0.46,88.71,Rotasi Tanaman,-3.47
+676,1998,India,Maharashtra,Wheat,2666.98,23.06,1.62,7,27.45,21.39,22.11,85.97,Pertanian Organik,-4.68
+2195,1998,India,Punjab,Barley,2799.83,23.12,1.098,0,64.3,42.75,17.93,77.55,Tanaman Tahan Kekeringan,28.23
+1702,1998,India,Punjab,Soybeans,751.66,23.59,2.259,7,34.52,23.02,42.85,97.03,Tanaman Tahan Kekeringan,-4.29
+6534,1998,India,Punjab,Soybeans,2264.76,9.45,3.93,1,72.78,49.17,25.78,98.81,Rotasi Tanaman,29.11
+6557,1998,India,Punjab,Soybeans,1507.9,1.55,4.79,0,97.69,8.28,56.73,89.16,Pertanian Organik,12.14
+1839,1998,India,Punjab,Sugarcane,1248.01,6.12,4.96,6,67.09,30.13,64.61,83.45,Pertanian Organik,19.92
+4149,1998,India,Punjab,Sugarcane,2044.58,14.66,1.2,7,94.45,21.44,23.06,88.37,Pertanian Organik,7.95
+7083,1998,India,Punjab,Sugarcane,689.7,8.01,3.22,10,40.5,29.23,5.94,97.76,Tanpa Adaptasi,16.81
+3471,1998,India,Punjab,Vegetables,1399.78,2.42,1.94,8,10.11,9.22,67.27,50.58,Manajemen Air,21.91
+3549,1998,India,Punjab,Wheat,2114.84,30.0,3.663,9,53.27,15.03,75.86,68.01,Manajemen Air,16.57
+4195,1998,India,Punjab,Wheat,660.44,3.61,4.4,10,55.02,37.57,84.85,61.01,Tanaman Tahan Kekeringan,18.85
+7278,1999,India,'Tamil Nadu',Coffee,1438.59,24.72,2.799,0,86.77,47.43,49.57,47.34,Pertanian Organik,30.47
+2407,1999,India,'Tamil Nadu',Fruits,2631.52,9.51,0.93,3,75.8,47.41,31.76,88.09,Tanpa Adaptasi,6.79
+6684,1999,India,'Tamil Nadu',Fruits,2469.16,18.25,,8,10.07,17.53,91.8,92.4,Pertanian Organik,24.88
+475,1999,India,'Tamil Nadu',Rice,361.09,23.99,1.53,2,17.35,40.44,20.29,73.16,Rotasi Tanaman,-2.75
+232,1999,India,'West Bengal',Barley,524.65,28.07,1.881,9,45.61,17.36,31.43,43.36,Rotasi Tanaman,27.04
+1133,1999,India,'West Bengal',Coffee,547.38,25.91,3.006,5,44.12,27.72,4.45,79.82,Tanpa Adaptasi,12.49
+3098,1999,India,'West Bengal',Cotton,1027.21,4.27,3.08,6,90.36,19.43,27.58,66.7,Pertanian Organik,27.88
+3709,1999,India,'West Bengal',Fruits,,28.74,2.052,2,53.57,6.56,1.97,98.55,Tanpa Adaptasi,32.66
+485,1999,India,'West Bengal',Rice,749.95,2.09,1.82,7,45.39,0.29,8.97,90.79,Pertanian Organik,31.94
+1906,1999,India,'West Bengal',Rice,1507.57,19.21,0.8370000000000001,1,78.47,15.17,83.65,30.48,Pertanian Organik,8.65
+4018,1999,India,'West Bengal',Rice,,20.04,2.3760000000000003,3,60.14,18.76,26.09,56.67,Tanpa Adaptasi,-3.9
+4069,1999,India,'West Bengal',Vegetables,1990.1,19.26,2.214,1,96.3,18.68,93.99,37.9,Tanaman Tahan Kekeringan,-4.21
+730,1999,India,'West Bengal',Wheat,262.17,1.65,3.1410000000000005,9,77.52,2.31,75.97,40.9,Tanaman Tahan Kekeringan,30.28
+3410,1999,India,'West Bengal',Wheat,1359.42,4.58,3.62,5,64.44,13.12,83.1,40.95,Tanpa Adaptasi,16.57
+55,1999,India,Maharashtra,Barley,1782.71,28.13,1.89,3,65.82,17.28,98.62,71.67,Manajemen Air,8.64
+5954,1999,India,Maharashtra,Fruits,1161.47,20.91,2.754,2,47.2,47.28,54.68,96.58,Tanpa Adaptasi,27.01
+2131,1999,India,Maharashtra,Soybeans,2975.38,23.65,0.531,1,29.96,14.2,10.46,52.69,Pertanian Organik,-2.18
+7853,1999,India,Maharashtra,Soybeans,462.3,0.78,3.636,1,97.14,2.32,31.31,54.59,Pertanian Organik,12.87
+5077,1999,India,Maharashtra,Vegetables,1717.65,19.76,1.944,0,95.67,20.59,63.4,86.62,Tanpa Adaptasi,6.78
+2142,1999,India,Punjab,Barley,2114.27,4.47,2.84,4,85.91,48.25,31.54,77.9,Tanpa Adaptasi,21.03
+7675,1999,India,Punjab,Barley,975.09,17.21,2.295,4,79.34,20.86,0.32,86.15,Pertanian Organik,7.95
+99,1999,India,Punjab,Coffee,737.41,23.46,4.248,1,59.98,27.44,51.8,89.66,Tanpa Adaptasi,16.69
+2760,1999,India,Punjab,Coffee,1122.79,4.8,3.02,4,26.84,13.14,30.45,54.6,Rotasi Tanaman,20.01
+2801,1999,India,Punjab,Coffee,248.53,8.51,0.981,3,23.88,42.09,73.12,56.08,Tanaman Tahan Kekeringan,-0.79
+5457,1999,India,Punjab,Cotton,948.68,15.17,2.1870000000000003,6,10.96,1.62,66.54,80.75,Manajemen Air,9.77
+54,1999,India,Punjab,Soybeans,2145.62,26.85,2.619,0,77.69,34.25,26.53,89.0,Tanpa Adaptasi,10.42
+3969,1999,India,Punjab,Sugarcane,2037.31,12.43,4.0,9,64.05,16.43,46.97,90.72,Tanaman Tahan Kekeringan,14.05
+2970,2000,India,'Tamil Nadu',Coffee,1964.44,18.9,0.6030000000000001,0,88.81,26.08,53.28,47.52,Pertanian Organik,1.55
+1667,2000,India,'Tamil Nadu',Fruits,653.52,18.21,0.9,7,25.56,17.6,98.43,30.81,Tanpa Adaptasi,9.46
+6300,2000,India,'Tamil Nadu',Sugarcane,1970.08,23.22,2.151,8,82.19,2.39,80.8,38.58,Manajemen Air,32.92
+5785,2000,India,'Tamil Nadu',Vegetables,1198.24,2.92,1.88,8,48.11,12.94,93.59,87.06,Pertanian Organik,34.89
+2696,2000,India,'West Bengal',Corn,269.76,26.32,0.783,2,52.18,48.33,32.91,60.93,Pertanian Organik,31.64
+7815,2000,India,'West Bengal',Cotton,887.07,5.92,2.48,8,95.88,2.08,54.04,47.21,Pertanian Organik,18.01
+2,2000,India,'West Bengal',Fruits,1252.34,27.37,2.115,3,34.21,2.75,83.94,77.15,Pertanian Organik,12.97
+1312,2000,India,'West Bengal',Fruits,316.52,25.63,3.3480000000000003,3,81.08,21.57,30.37,98.8,Tanpa Adaptasi,22.16
+1967,2000,India,'West Bengal',Soybeans,742.94,14.82,3.94,10,92.85,43.05,17.8,39.66,Tanpa Adaptasi,33.0
+5183,2000,India,'West Bengal',Sugarcane,2616.73,16.33,3.1410000000000005,8,99.94,43.95,76.36,58.25,Manajemen Air,32.28
+5301,2000,India,Maharashtra,Barley,2036.8,28.23,0.783,4,28.39,43.21,52.13,42.72,Rotasi Tanaman,21.6
+3267,2000,India,Maharashtra,Coffee,2610.53,5.19,2.81,1,85.12,23.75,9.08,37.85,Manajemen Air,12.54
+4726,2000,India,Maharashtra,Fruits,1921.42,15.08,1.827,7,41.92,32.54,65.8,96.07,Rotasi Tanaman,-4.12
+4497,2000,India,Maharashtra,Soybeans,1241.47,16.54,1.332,2,51.21,9.06,94.4,66.11,Manajemen Air,32.98
+5769,2000,India,Maharashtra,Soybeans,2831.7,12.44,2.12,5,83.45,15.83,14.65,65.58,Pertanian Organik,34.66
+3501,2000,India,Punjab,Barley,2642.21,22.59,1.1700000000000002,2,17.1,39.76,46.24,92.19,Tanaman Tahan Kekeringan,-3.32
+4030,2000,India,Punjab,Barley,2044.92,15.87,1.035,10,35.96,37.04,8.32,90.28,Manajemen Air,3.56
+6947,2000,India,Punjab,Corn,1343.46,4.89,0.89,0,70.54,22.36,92.03,90.36,Tanpa Adaptasi,-1.31
+5424,2000,India,Punjab,Soybeans,1129.09,16.2,0.8370000000000001,4,30.9,0.93,93.8,60.87,Pertanian Organik,31.2
+4666,2000,India,Punjab,Sugarcane,1958.95,7.77,2.57,10,68.85,18.28,61.19,50.63,Rotasi Tanaman,20.1
+6289,2000,India,Punjab,Sugarcane,2139.94,29.87,1.62,5,23.99,13.19,59.96,32.95,Manajemen Air,7.05
+4054,2001,India,'Tamil Nadu',Barley,882.55,4.87,2.46,5,89.82,7.98,16.82,49.53,Manajemen Air,6.16
+7508,2001,India,'Tamil Nadu',Barley,2057.43,18.1,2.16,2,88.91,11.37,34.93,57.66,Rotasi Tanaman,17.63
+527,2001,India,'Tamil Nadu',Fruits,578.54,5.34,3.78,6,86.06,42.96,74.06,49.87,Rotasi Tanaman,32.87
+1327,2001,India,'Tamil Nadu',Fruits,1544.92,6.05,2.71,9,32.43,0.62,83.86,39.45,Manajemen Air,14.05
+5981,2001,India,'Tamil Nadu',Rice,2932.62,3.07,3.0,10,65.39,11.79,19.66,55.62,Rotasi Tanaman,-0.73
+2905,2001,India,'Tamil Nadu',Soybeans,2329.19,27.6,1.683,3,75.92,18.76,82.43,40.11,Tanaman Tahan Kekeringan,-0.96
+3690,2001,India,'Tamil Nadu',Sugarcane,1412.53,29.04,2.151,10,44.38,37.74,47.46,45.05,Tanaman Tahan Kekeringan,0.93
+3492,2001,India,'Tamil Nadu',Vegetables,2349.19,18.95,1.431,6,36.02,30.07,73.95,68.44,Tanpa Adaptasi,3.41
+6960,2001,India,'Tamil Nadu',Wheat,2689.42,16.56,3.4290000000000003,5,26.46,36.52,32.63,71.41,Tanpa Adaptasi,25.27
+1068,2001,India,'West Bengal',Barley,2219.82,22.52,3.204,3,78.62,6.0,42.13,65.45,Tanpa Adaptasi,32.73
+4438,2001,India,'West Bengal',Barley,1177.96,20.45,1.728,3,52.82,1.28,45.74,79.52,Rotasi Tanaman,21.96
+831,2001,India,'West Bengal',Corn,447.06,15.22,1.737,8,14.54,10.08,14.78,83.25,Manajemen Air,1.55
+3953,2001,India,'West Bengal',Cotton,383.62,19.02,1.1880000000000002,10,92.84,33.14,4.8,70.81,Rotasi Tanaman,23.34
+5337,2001,India,'West Bengal',Rice,1531.41,11.87,1.46,10,14.69,44.09,77.82,78.35,Rotasi Tanaman,0.43
+7649,2001,India,'West Bengal',Soybeans,1073.67,15.56,3.33,9,86.02,9.79,97.56,87.77,Pertanian Organik,32.89
+4884,2001,India,'West Bengal',Vegetables,2456.31,26.16,1.8,7,26.82,14.07,4.31,54.33,Manajemen Air,27.11
+4256,2001,India,Maharashtra,Barley,712.14,8.89,1.41,3,23.91,12.49,35.98,72.26,Manajemen Air,31.95
+6982,2001,India,Maharashtra,Corn,740.07,23.74,1.485,6,89.81,5.51,84.65,88.11,Pertanian Organik,5.12
+5526,2001,India,Maharashtra,Cotton,920.44,25.23,2.3760000000000003,7,96.43,15.84,67.06,41.07,Manajemen Air,12.86
+1249,2001,India,Maharashtra,Sugarcane,2606.49,15.65,1.494,1,22.53,0.63,85.03,60.26,Pertanian Organik,30.71
+6468,2001,India,Maharashtra,,516.98,23.75,1.548,3,31.59,8.12,47.65,67.63,Rotasi Tanaman,31.0
+4135,2001,India,Punjab,Barley,2848.98,19.94,4.095,3,74.94,14.06,87.96,73.48,Tanaman Tahan Kekeringan,12.1
+2047,2001,India,Punjab,Coffee,2249.64,20.13,3.177,10,40.67,30.36,91.9,90.58,Tanpa Adaptasi,10.73
+7163,2001,India,Punjab,Coffee,312.66,14.16,1.935,6,97.74,17.37,15.23,74.86,Pertanian Organik,2.54
+4905,2001,India,Punjab,Corn,1146.21,13.57,1.53,9,64.36,22.4,36.66,59.11,Pertanian Organik,5.58
+952,2001,India,Punjab,Rice,1930.92,24.18,1.377,6,25.52,14.17,17.07,87.37,Rotasi Tanaman,18.62
+2609,2001,India,Punjab,Sugarcane,2863.51,1.03,2.94,6,88.56,22.99,45.48,48.63,Tanpa Adaptasi,24.57
+3136,2001,India,Punjab,Sugarcane,633.86,19.42,2.475,0,,30.06,46.6,48.65,Tanpa Adaptasi,25.74
+5447,2001,India,Punjab,Vegetables,2843.45,20.03,2.007,1,10.95,17.66,55.24,64.56,Tanaman Tahan Kekeringan,19.45
+3199,2002,India,'Tamil Nadu',Barley,934.54,7.84,4.94,0,83.99,41.3,3.97,63.5,Rotasi Tanaman,15.5
+7757,2002,India,'Tamil Nadu',Coffee,2268.62,18.36,2.07,10,,0.09,87.22,83.75,Manajemen Air,-2.8
+7951,2002,India,'Tamil Nadu',Corn,371.87,29.64,2.565,2,64.04,17.24,6.41,77.46,Pertanian Organik,5.94
+1306,2002,India,'Tamil Nadu',Rice,558.46,6.36,2.2,4,37.52,45.79,25.24,87.55,Tanpa Adaptasi,-0.74
+4677,2002,India,'Tamil Nadu',Sugarcane,2565.01,19.79,3.096,9,77.32,17.76,23.81,61.45,Pertanian Organik,22.9
+6941,2002,India,'Tamil Nadu',Sugarcane,2087.3,4.4,1.27,2,14.85,20.13,58.12,40.68,Pertanian Organik,1.83
+2447,2002,India,'Tamil Nadu',Vegetables,2644.02,11.67,3.65,4,69.96,37.31,41.35,96.14,Tanaman Tahan Kekeringan,20.42
+2129,2002,India,'West Bengal',Coffee,1006.93,18.11,1.7009999999999998,2,72.06,24.7,63.6,91.82,Tanpa Adaptasi,22.81
+1849,2002,India,'West Bengal',Cotton,563.38,11.94,2.38,5,80.85,29.7,0.03,30.97,Manajemen Air,18.71
+7417,2002,India,'West Bengal',Rice,267.14,13.99,0.981,8,18.05,4.04,3.43,76.29,Tanaman Tahan Kekeringan,-0.66
+671,2002,India,'West Bengal',Sugarcane,1620.57,22.65,2.358,7,53.84,20.26,84.67,78.03,Rotasi Tanaman,32.67
+2615,2002,India,'West Bengal',Vegetables,2220.08,8.55,1.5,3,48.2,8.35,63.16,71.73,Pertanian Organik,34.55
+3633,2002,India,'West Bengal',Vegetables,2159.07,17.63,0.765,9,95.73,27.86,47.65,92.34,Rotasi Tanaman,-4.87
+3348,2002,India,'West Bengal',Wheat,1218.99,9.92,2.91,0,70.67,38.53,37.27,82.58,Rotasi Tanaman,28.57
+2055,2002,India,'West Bengal',,1984.54,14.79,2.24,10,,10.34,53.32,40.03,Tanaman Tahan Kekeringan,-1.87
+856,2002,India,Maharashtra,Coffee,1654.67,24.42,3.375,4,73.49,16.14,25.71,81.04,Tanaman Tahan Kekeringan,14.46
+655,2002,India,Maharashtra,Fruits,2489.59,26.61,3.384,4,32.59,4.61,98.32,70.52,Manajemen Air,26.22
+6127,2002,India,Punjab,Coffee,1925.28,8.08,1.51,8,67.07,19.06,42.32,40.05,Tanpa Adaptasi,12.31
+1559,2002,India,Punjab,Rice,721.62,24.53,1.611,10,33.89,29.92,13.88,65.18,Tanaman Tahan Kekeringan,8.05
+1811,2002,India,Punjab,Sugarcane,931.16,1.72,1.05,2,36.09,19.16,71.71,50.14,Manajemen Air,9.7
+6218,2002,India,Punjab,Sugarcane,2969.83,21.34,0.99,3,21.23,3.39,87.49,72.01,Rotasi Tanaman,26.76
+3305,2002,India,Punjab,Wheat,1915.14,28.29,0.747,5,44.2,45.71,27.97,75.12,Tanaman Tahan Kekeringan,-4.81
+3866,2003,India,'Tamil Nadu',Coffee,2306.46,16.43,2.781,10,80.05,29.03,30.31,74.37,Rotasi Tanaman,21.62
+7663,2003,India,'Tamil Nadu',Coffee,2162.47,2.63,2.53,4,25.77,12.03,21.9,69.06,Manajemen Air,21.4
+3194,2003,India,'Tamil Nadu',Corn,1335.61,21.82,2.286,8,54.8,1.57,48.79,45.0,Tanpa Adaptasi,19.87
+6335,2003,India,'Tamil Nadu',Corn,2796.31,4.66,1.15,7,98.77,36.23,87.17,76.35,Tanpa Adaptasi,7.07
+1566,2003,India,'Tamil Nadu',Rice,2085.17,29.79,1.071,10,31.35,37.48,68.18,91.81,Rotasi Tanaman,22.4
+7810,2003,India,'Tamil Nadu',Sugarcane,1495.7,18.11,2.772,0,13.98,34.82,22.66,32.28,Rotasi Tanaman,34.59
+1405,2003,India,'Tamil Nadu',Wheat,1561.46,16.13,2.502,6,25.3,39.81,33.09,75.21,Tanaman Tahan Kekeringan,2.87
+4464,2003,India,'Tamil Nadu',Wheat,1436.95,17.8,4.068,5,15.46,46.39,77.64,36.63,Manajemen Air,15.96
+6569,2003,India,'Tamil Nadu',Wheat,2226.29,22.66,3.042,3,33.03,4.25,32.88,99.23,Tanpa Adaptasi,22.66
+806,2003,India,'West Bengal',Corn,2944.95,6.76,2.09,7,11.15,36.74,68.76,63.56,Pertanian Organik,5.19
+4656,2003,India,'West Bengal',Corn,2906.87,12.97,0.79,4,28.07,16.33,89.63,56.11,Tanaman Tahan Kekeringan,9.66
+7255,2003,India,'West Bengal',Rice,1242.23,28.35,0.801,2,73.2,17.99,37.13,60.41,Tanpa Adaptasi,28.42
+1030,2003,India,'West Bengal',Vegetables,1743.3,15.95,2.277,9,51.15,35.24,11.43,46.88,Pertanian Organik,8.54
+3414,2003,India,'West Bengal',Vegetables,1500.03,25.69,1.359,1,31.15,46.13,21.7,47.02,Manajemen Air,-3.92
+1270,2003,India,Maharashtra,Coffee,645.46,19.16,3.546,2,15.07,3.9,77.82,73.72,Rotasi Tanaman,16.07
+293,2003,India,Maharashtra,Fruits,2241.16,14.08,4.21,6,76.15,20.28,55.97,99.8,Tanaman Tahan Kekeringan,13.61
+1498,2003,India,Maharashtra,Rice,921.28,8.52,2.49,6,27.25,17.16,19.03,99.51,Pertanian Organik,18.57
+6476,2003,India,Maharashtra,Soybeans,1272.74,17.26,0.6120000000000001,4,17.5,25.83,19.1,67.06,Manajemen Air,5.75
+1526,2003,India,Maharashtra,Wheat,1441.1,22.89,1.602,6,54.33,46.51,41.82,78.16,Pertanian Organik,29.58
+6519,2003,India,Punjab,Corn,1727.28,29.92,2.853,3,15.88,20.09,17.68,39.54,Manajemen Air,26.8
+3207,2003,India,Punjab,Fruits,839.18,27.83,,0,76.81,27.91,54.53,43.95,Manajemen Air,12.44
+6075,2003,India,Punjab,Fruits,2069.58,25.26,1.107,2,90.15,3.26,25.63,63.9,Pertanian Organik,1.2
+1339,2003,India,Punjab,Wheat,2311.04,12.21,1.5,1,61.84,29.78,65.44,83.76,Rotasi Tanaman,28.25
+4064,2003,India,Punjab,Wheat,2867.72,0.79,,10,33.73,43.28,50.77,59.26,Tanaman Tahan Kekeringan,23.84
+7704,2003,India,Punjab,,514.8,13.48,2.78,5,50.62,14.82,12.75,69.92,Manajemen Air,-3.09
+3699,2004,India,'Tamil Nadu',Barley,2215.74,17.1,4.482,2,93.62,3.82,5.3,73.16,Pertanian Organik,15.72
+1403,2004,India,'Tamil Nadu',Corn,2733.81,9.61,1.46,7,66.48,12.84,19.18,62.23,Pertanian Organik,2.95
+5836,2004,India,'Tamil Nadu',Corn,2698.16,19.38,1.926,0,59.9,8.85,99.3,32.54,Tanaman Tahan Kekeringan,26.77
+3111,2004,India,'Tamil Nadu',Cotton,2053.48,8.02,1.11,9,32.68,44.46,25.92,94.38,Tanpa Adaptasi,2.81
+5590,2004,India,'Tamil Nadu',Rice,558.69,4.27,4.56,2,33.13,25.08,86.15,57.34,Rotasi Tanaman,17.69
+2365,2004,India,'Tamil Nadu',Soybeans,2081.54,18.75,3.42,2,48.36,12.81,39.6,81.87,Tanpa Adaptasi,30.1
+6207,2004,India,'Tamil Nadu',Soybeans,1601.79,17.75,,4,44.73,10.57,76.43,65.59,Tanpa Adaptasi,8.09
+7202,2004,India,'Tamil Nadu',Soybeans,2104.05,9.94,2.4,4,98.04,43.71,30.58,53.56,Tanpa Adaptasi,14.86
+5230,2004,India,'Tamil Nadu',,1196.52,23.34,2.232,5,87.23,27.67,12.17,74.81,Tanpa Adaptasi,30.05
+2463,2004,India,'West Bengal',Barley,1008.19,23.3,1.512,9,61.14,9.89,18.84,37.82,Tanpa Adaptasi,4.72
+4527,2004,India,'West Bengal',Barley,832.53,4.09,2.22,4,50.13,21.23,85.65,96.41,Rotasi Tanaman,2.76
+4741,2004,India,'West Bengal',Barley,2540.63,20.2,0.765,10,63.61,39.71,51.17,30.66,Rotasi Tanaman,26.84
+3428,2004,India,'West Bengal',Coffee,2152.37,24.33,1.386,8,77.8,22.07,77.23,75.37,Tanaman Tahan Kekeringan,18.8
+5909,2004,India,'West Bengal',Cotton,2612.98,13.04,2.9,7,89.4,17.22,52.99,36.56,Manajemen Air,9.68
+2456,2004,India,'West Bengal',Rice,1738.18,0.74,2.21,2,86.93,3.99,9.77,57.01,Tanaman Tahan Kekeringan,33.3
+4247,2004,India,'West Bengal',Sugarcane,2745.97,10.43,1.98,5,40.63,1.52,40.27,76.29,Manajemen Air,-2.11
+631,2004,India,'West Bengal',,2624.98,13.84,1.52,6,16.63,33.73,61.9,41.17,Tanpa Adaptasi,4.48
+429,2004,India,Maharashtra,Corn,2991.49,16.13,3.564,10,31.85,23.57,2.13,46.54,Manajemen Air,12.86
+3729,2004,India,Maharashtra,Corn,1162.73,23.86,1.998,5,95.8,18.93,50.44,54.24,Rotasi Tanaman,14.23
+4529,2004,India,Maharashtra,Fruits,1254.29,5.3,1.32,2,80.21,2.06,65.65,47.54,Rotasi Tanaman,-0.9
+6878,2004,India,Maharashtra,Fruits,1303.9,15.77,4.428,8,80.48,8.68,60.95,71.07,Tanaman Tahan Kekeringan,14.86
+3892,2004,India,Maharashtra,Rice,1281.09,24.7,1.107,0,57.57,23.22,15.12,51.76,Tanaman Tahan Kekeringan,9.04
+5810,2004,India,Punjab,Barley,1698.53,26.18,3.393,1,41.33,20.01,75.75,83.6,Tanpa Adaptasi,27.62
+6514,2004,India,Punjab,Barley,564.22,7.47,1.24,0,74.05,47.81,41.47,45.64,Rotasi Tanaman,-3.3
+2885,2004,India,Punjab,Coffee,1803.35,1.06,1.7,1,79.18,28.53,83.2,85.28,Tanpa Adaptasi,9.46
+7404,2004,India,Punjab,Coffee,803.5,28.67,1.827,7,65.61,29.38,40.36,33.62,Pertanian Organik,9.23
+219,2004,India,Punjab,Corn,1553.18,9.02,2.21,5,52.39,26.92,9.58,60.37,Pertanian Organik,-1.92
+1999,2004,India,Punjab,Corn,1561.55,11.89,1.66,4,75.89,6.42,11.53,55.01,Pertanian Organik,-2.91
+5040,2004,India,Punjab,Corn,1159.38,4.97,1.39,3,98.67,2.79,59.95,64.92,Tanpa Adaptasi,-3.45
+5917,2004,India,Punjab,Corn,965.05,10.03,2.49,6,44.58,24.44,93.14,62.97,Pertanian Organik,0.8
+7894,2004,India,Punjab,Corn,1114.17,10.42,2.96,2,75.57,33.73,53.98,39.99,Tanpa Adaptasi,20.25
+2462,2004,India,Punjab,Fruits,2557.8,3.75,0.79,3,98.91,36.22,7.93,43.66,Tanpa Adaptasi,6.61
+7013,2004,India,Punjab,Fruits,1001.28,21.53,0.522,2,78.28,14.75,65.84,88.87,Tanpa Adaptasi,-1.46
+5666,2004,India,Punjab,Sugarcane,,25.73,2.682,7,96.47,7.08,16.16,73.07,Rotasi Tanaman,28.43
+7943,2004,India,Punjab,Wheat,2063.49,27.68,2.421,4,39.3,48.64,61.05,89.42,Pertanian Organik,12.67
+4435,2005,India,'Tamil Nadu',Cotton,1159.84,16.05,1.917,1,22.52,29.94,73.19,54.98,Tanpa Adaptasi,8.25
+2733,2005,India,'Tamil Nadu',Rice,285.81,13.77,2.592,8,22.99,37.37,97.71,47.9,Rotasi Tanaman,-2.77
+7263,2005,India,'Tamil Nadu',Soybeans,1136.49,22.89,2.421,10,83.46,0.92,80.21,53.7,Tanpa Adaptasi,-3.55
+1267,2005,India,'Tamil Nadu',Sugarcane,1940.04,7.24,3.15,1,30.51,49.73,74.43,34.14,Rotasi Tanaman,19.1
+5290,2005,India,'Tamil Nadu',Vegetables,1257.46,6.82,3.2,6,29.88,9.41,25.72,88.86,Rotasi Tanaman,24.99
+6122,2005,India,'Tamil Nadu',Vegetables,1142.4,11.93,3.08,3,78.47,4.99,51.16,45.04,Tanaman Tahan Kekeringan,22.22
+1462,2005,India,'Tamil Nadu',,1270.11,10.32,2.3,6,29.3,33.19,88.97,42.01,Pertanian Organik,21.61
+4290,2005,India,'West Bengal',Cotton,1859.71,23.63,0.972,1,69.86,31.2,65.33,41.27,Manajemen Air,26.59
+7607,2005,India,'West Bengal',Cotton,2532.57,15.5,1.755,2,77.33,23.05,55.09,83.91,Manajemen Air,12.43
+5567,2005,India,'West Bengal',Rice,1130.54,21.62,1.584,0,90.18,39.19,42.77,70.88,Tanpa Adaptasi,24.89
+1063,2005,India,Maharashtra,Barley,1897.44,24.28,2.682,0,62.77,4.85,27.86,66.46,Tanaman Tahan Kekeringan,-2.78
+3339,2005,India,Maharashtra,Barley,2244.61,18.1,2.4120000000000004,9,51.33,12.22,82.55,91.23,Manajemen Air,-0.68
+7927,2005,India,Maharashtra,Cotton,395.99,17.54,2.565,4,28.8,49.95,16.53,65.25,Tanaman Tahan Kekeringan,16.46
+4491,2005,India,Maharashtra,Rice,1208.04,27.97,1.71,3,24.64,42.13,77.81,49.11,Manajemen Air,33.5
+5593,2005,India,Maharashtra,Rice,1274.61,22.65,2.664,1,93.23,14.61,70.37,80.21,Tanaman Tahan Kekeringan,-3.86
+4967,2005,India,Maharashtra,Soybeans,2342.85,13.32,1.85,6,90.26,29.36,89.59,53.1,Manajemen Air,-1.02
+103,2005,India,Maharashtra,Sugarcane,1752.08,13.27,1.0,7,38.72,31.01,68.66,81.81,Tanaman Tahan Kekeringan,25.45
+7237,2005,India,Maharashtra,Vegetables,,1.25,3.71,3,76.99,14.38,36.55,59.6,Tanaman Tahan Kekeringan,11.82
+899,2005,India,Maharashtra,Wheat,759.4,8.39,3.32,3,64.31,4.08,51.64,81.13,Rotasi Tanaman,22.47
+6853,2005,India,Punjab,Corn,2861.44,23.27,1.413,8,75.16,23.52,2.16,60.56,Manajemen Air,25.39
+5355,2005,India,Punjab,Cotton,594.1,28.32,2.4120000000000004,1,30.6,31.88,5.67,80.17,Pertanian Organik,3.98
+2896,2005,India,Punjab,Fruits,425.42,8.9,0.891,1,73.72,48.05,71.04,70.04,Manajemen Air,3.96
+7246,2005,India,Punjab,Sugarcane,1969.38,17.78,4.005,4,45.24,37.43,2.67,90.44,Rotasi Tanaman,14.77
+7913,2005,India,Punjab,Vegetables,309.88,5.77,0.963,3,68.86,41.63,55.45,89.57,Rotasi Tanaman,-1.43
+1320,2006,India,'Tamil Nadu',Coffee,2314.99,3.33,2.23,8,48.41,25.05,6.07,91.23,Tanpa Adaptasi,25.38
+7502,2006,India,'Tamil Nadu',Corn,2587.97,29.02,3.6,4,88.21,10.52,14.86,92.31,Manajemen Air,13.31
+3546,2006,India,'Tamil Nadu',Soybeans,2889.34,17.14,3.078,4,85.63,49.48,32.42,90.95,Rotasi Tanaman,11.03
+5677,2006,India,'Tamil Nadu',Soybeans,2357.77,12.71,3.77,4,12.49,9.24,26.06,62.13,Tanpa Adaptasi,11.97
+6818,2006,India,'Tamil Nadu',Soybeans,468.96,18.07,2.853,7,24.66,43.75,48.51,36.3,Rotasi Tanaman,10.36
+6951,2006,India,'Tamil Nadu',,,5.81,1.27,0,75.22,28.98,70.44,37.14,Rotasi Tanaman,33.25
+6777,2006,India,'West Bengal',Barley,2708.24,12.61,3.99,7,22.36,22.89,0.66,67.55,Tanaman Tahan Kekeringan,30.72
+880,2006,India,'West Bengal',Cotton,1621.95,9.11,3.7,3,79.07,5.5,9.5,32.23,Manajemen Air,26.12
+7551,2006,India,'West Bengal',Cotton,2434.56,5.98,2.56,7,61.23,35.29,10.03,57.6,Rotasi Tanaman,12.22
+6562,2006,India,'West Bengal',Fruits,1428.16,28.8,3.339,5,48.74,22.47,54.75,37.13,Rotasi Tanaman,26.96
+4785,2006,India,'West Bengal',Rice,1343.47,11.84,3.52,2,39.17,39.95,84.82,43.36,Tanpa Adaptasi,33.96
+2169,2006,India,'West Bengal',Soybeans,2479.32,20.77,1.395,9,39.23,33.87,64.9,53.95,Manajemen Air,11.63
+2207,2006,India,'West Bengal',Sugarcane,517.64,0.99,3.66,3,40.71,42.69,85.93,95.3,Pertanian Organik,13.16
+5692,2006,India,'West Bengal',Vegetables,2621.81,8.02,0.88,2,83.44,3.22,27.25,88.54,Manajemen Air,-2.44
+1532,2006,India,'West Bengal',Wheat,2321.81,9.75,0.97,4,46.28,48.06,18.82,62.91,Manajemen Air,6.93
+1070,2006,India,'West Bengal',,2772.52,25.53,0.621,1,43.42,44.35,80.51,68.1,Rotasi Tanaman,4.15
+2929,2006,India,Maharashtra,Barley,1210.16,2.4,2.62,1,86.19,40.93,43.37,32.39,Tanpa Adaptasi,5.56
+1828,2006,India,Maharashtra,Coffee,1852.81,29.39,4.401,7,57.92,24.28,85.89,62.57,Rotasi Tanaman,19.82
+45,2006,India,Maharashtra,Corn,,28.07,1.35,6,53.62,41.2,6.83,94.82,Tanpa Adaptasi,-2.54
+5859,2006,India,Maharashtra,Corn,2793.41,28.26,3.654,9,18.27,1.32,95.4,50.08,Manajemen Air,18.96
+4811,2006,India,Maharashtra,Soybeans,709.34,7.6,0.61,5,28.77,9.83,43.84,85.29,Manajemen Air,0.87
+5631,2006,India,Maharashtra,Vegetables,614.42,7.86,2.87,4,22.3,28.1,7.99,74.44,Pertanian Organik,29.94
+4007,2006,India,Punjab,Barley,758.21,13.25,2.82,1,87.31,35.74,60.05,92.16,Tanaman Tahan Kekeringan,29.54
+6541,2006,India,Punjab,Fruits,1789.33,24.27,2.1870000000000003,8,18.82,32.58,92.04,73.49,Rotasi Tanaman,12.9
+5620,2006,India,Punjab,Rice,2514.62,2.73,1.24,1,45.54,38.95,1.1,52.99,Tanpa Adaptasi,27.43
+158,2006,India,Punjab,Sugarcane,2936.51,0.71,1.55,4,29.09,41.69,75.08,62.85,Tanaman Tahan Kekeringan,30.04
+7962,2006,India,Punjab,Vegetables,963.87,18.28,2.556,4,83.66,49.21,21.74,38.71,Pertanian Organik,34.97
+6561,2007,India,'Tamil Nadu',Coffee,2415.63,7.79,2.28,9,93.68,17.59,78.0,93.68,Rotasi Tanaman,3.88
+5022,2007,India,'Tamil Nadu',Cotton,1595.73,20.05,1.593,0,33.34,48.33,75.45,45.54,Manajemen Air,21.27
+6441,2007,India,'Tamil Nadu',Vegetables,1389.79,8.11,2.97,0,36.58,17.53,45.01,73.03,Manajemen Air,15.91
+7501,2007,India,'Tamil Nadu',Vegetables,1780.37,5.03,,2,52.49,17.98,15.77,73.0,Manajemen Air,26.58
+937,2007,India,'Tamil Nadu',,2848.05,22.91,2.124,10,16.79,32.52,88.31,81.65,Tanpa Adaptasi,30.79
+2444,2007,India,'West Bengal',Barley,542.46,12.8,,1,21.42,19.3,83.54,51.7,Manajemen Air,32.25
+1189,2007,India,'West Bengal',Coffee,2167.09,6.05,1.39,4,62.15,48.94,76.71,49.45,Rotasi Tanaman,30.3
+7282,2007,India,'West Bengal',Vegetables,784.04,5.55,2.6,6,89.47,28.15,86.71,33.12,Manajemen Air,27.45
+6028,2007,India,Maharashtra,Cotton,2648.05,2.6,2.72,9,33.51,20.55,43.49,31.61,Rotasi Tanaman,19.88
+1599,2007,India,Maharashtra,Rice,2253.64,21.42,0.792,7,65.1,2.29,32.61,37.72,Rotasi Tanaman,7.71
+5914,2007,India,Maharashtra,Rice,2718.9,16.33,2.43,5,85.85,23.1,43.66,93.51,Tanaman Tahan Kekeringan,31.84
+7861,2007,India,Maharashtra,Rice,1143.43,1.92,1.64,8,14.18,49.16,95.65,65.29,Tanaman Tahan Kekeringan,24.87
+5908,2007,India,Maharashtra,Sugarcane,585.9,25.51,1.089,0,62.19,37.14,85.07,37.57,Rotasi Tanaman,4.09
+6662,2007,India,Maharashtra,Sugarcane,362.03,24.77,,5,74.86,27.1,91.31,62.42,Tanaman Tahan Kekeringan,13.56
+4094,2007,India,Maharashtra,Vegetables,2336.29,23.85,2.2230000000000003,3,91.98,37.21,47.2,85.77,Pertanian Organik,14.81
+5271,2007,India,Maharashtra,Vegetables,975.44,0.53,1.65,9,35.38,20.48,48.64,61.44,Tanaman Tahan Kekeringan,1.85
+5207,2007,India,Maharashtra,Wheat,2445.64,1.55,3.73,10,64.46,9.51,6.67,68.1,Tanaman Tahan Kekeringan,13.56
+4156,2007,India,Punjab,Cotton,2459.28,4.55,2.19,1,16.33,22.31,73.42,97.38,Pertanian Organik,-0.64
+5551,2007,India,Punjab,Cotton,2911.41,2.49,3.92,5,12.54,31.15,70.58,44.6,Tanpa Adaptasi,14.93
+7126,2007,India,Punjab,Sugarcane,1386.34,11.98,3.66,1,,47.69,31.49,49.28,Tanpa Adaptasi,11.75
+4625,2007,India,Punjab,Wheat,2175.35,25.65,3.339,7,78.06,33.02,53.58,58.35,Tanpa Adaptasi,12.19
+2001,2008,India,'Tamil Nadu',Barley,1911.74,29.87,3.969,10,71.09,0.78,19.68,63.65,Rotasi Tanaman,15.51
+7844,2008,India,'Tamil Nadu',Corn,1295.02,10.02,2.84,0,35.72,31.23,78.57,87.61,Rotasi Tanaman,14.26
+2461,2008,India,'Tamil Nadu',Rice,1293.21,9.83,1.04,3,69.54,5.35,73.78,30.81,Pertanian Organik,8.41
+4543,2008,India,'Tamil Nadu',Soybeans,859.5,5.34,3.8,2,,12.67,99.18,62.28,Rotasi Tanaman,23.69
+4698,2008,India,'Tamil Nadu',Sugarcane,1613.86,15.78,4.356,9,11.16,32.57,65.05,57.66,Tanpa Adaptasi,11.07
+1410,2008,India,'Tamil Nadu',Vegetables,1684.4,27.44,3.735,4,28.66,22.71,50.15,70.0,Manajemen Air,16.92
+7438,2008,India,'Tamil Nadu',Wheat,1321.79,9.12,3.79,2,89.43,46.7,75.2,59.47,Rotasi Tanaman,28.39
+7467,2008,India,'Tamil Nadu',Wheat,1328.36,18.32,2.772,6,61.6,12.58,8.92,56.95,Rotasi Tanaman,19.71
+1765,2008,India,'West Bengal',Coffee,1472.48,5.75,2.23,0,64.15,20.7,38.22,95.42,Tanpa Adaptasi,24.31
+3342,2008,India,'West Bengal',Corn,2464.04,9.01,0.53,4,14.6,30.18,80.57,61.59,Tanaman Tahan Kekeringan,-0.53
+6633,2008,India,'West Bengal',Fruits,2746.63,14.51,3.73,8,76.14,28.03,50.2,99.18,Rotasi Tanaman,25.69
+6686,2008,India,'West Bengal',Rice,979.87,29.23,3.177,1,89.46,42.24,84.62,87.95,Pertanian Organik,17.32
+5656,2008,India,'West Bengal',Soybeans,266.84,9.02,1.737,2,61.07,41.98,92.62,69.05,Tanpa Adaptasi,-1.7
+3303,2008,India,'West Bengal',Wheat,2662.95,15.25,2.835,1,41.44,13.99,91.46,75.57,Rotasi Tanaman,24.77
+752,2008,India,Maharashtra,Coffee,258.97,24.19,2.592,8,49.59,2.26,88.19,57.93,Tanpa Adaptasi,32.59
+5727,2008,India,Maharashtra,Coffee,2006.38,6.43,2.37,2,73.97,19.42,54.78,34.01,Manajemen Air,11.27
+195,2008,India,Maharashtra,Corn,1236.69,17.43,3.843,1,14.03,11.82,31.17,76.24,Tanpa Adaptasi,13.93
+1263,2008,India,Maharashtra,Wheat,1636.31,25.57,1.521,10,79.84,40.64,3.81,66.51,Rotasi Tanaman,16.73
+7315,2008,India,Punjab,Cotton,656.92,10.02,1.28,5,81.7,30.46,11.56,46.53,Pertanian Organik,-2.7
+2297,2008,India,Punjab,Fruits,2930.72,5.36,4.19,3,84.08,42.76,71.62,68.75,Pertanian Organik,13.19
+5279,2008,India,Punjab,Rice,,15.78,3.096,1,17.15,4.75,69.86,85.42,Tanpa Adaptasi,17.01
+1014,2008,India,Punjab,Soybeans,1927.82,27.29,3.06,7,68.1,48.39,4.1,56.07,Rotasi Tanaman,21.5
+4236,2008,India,Punjab,Soybeans,2777.49,13.34,2.81,4,15.34,30.77,63.35,76.66,Manajemen Air,11.04
+608,2009,India,'Tamil Nadu',Barley,1459.91,15.54,2.943,6,97.66,45.8,50.38,35.45,Tanpa Adaptasi,17.22
+1661,2009,India,'Tamil Nadu',Barley,949.14,23.1,3.5370000000000004,0,65.34,6.29,21.64,30.72,Rotasi Tanaman,20.36
+6605,2009,India,'Tamil Nadu',Coffee,1328.15,15.07,2.313,8,47.52,4.35,27.79,81.17,Tanpa Adaptasi,12.81
+4498,2009,India,'Tamil Nadu',Fruits,396.62,16.92,2.601,0,51.04,1.2,2.83,31.35,Pertanian Organik,4.16
+843,2009,India,'Tamil Nadu',Rice,1890.54,26.14,2.025,3,19.75,46.01,18.13,88.95,Pertanian Organik,11.63
+5214,2009,India,'Tamil Nadu',Soybeans,437.55,7.3,2.277,9,43.06,39.21,72.82,76.99,Tanpa Adaptasi,1.89
+5932,2009,India,'West Bengal',Coffee,1456.08,29.74,1.773,3,66.24,21.02,46.81,57.96,Manajemen Air,0.53
+7544,2009,India,'West Bengal',Cotton,1773.68,28.44,3.375,2,75.15,38.67,91.81,36.04,Pertanian Organik,19.21
+635,2009,India,'West Bengal',Sugarcane,2933.25,8.05,2.25,1,71.18,10.65,75.71,54.44,Tanpa Adaptasi,9.4
+1129,2009,India,'West Bengal',Sugarcane,1802.84,10.96,2.65,1,81.99,49.79,19.86,91.22,Rotasi Tanaman,15.7
+7124,2009,India,'West Bengal',Sugarcane,1537.49,3.82,2.11,0,50.19,36.79,11.6,59.46,Rotasi Tanaman,33.14
+2544,2009,India,'West Bengal',Vegetables,486.74,1.33,4.3740000000000006,3,49.01,45.33,11.9,99.89,Rotasi Tanaman,18.01
+6606,2009,India,'West Bengal',Wheat,2471.92,15.29,1.971,8,30.3,19.38,82.51,99.23,Tanpa Adaptasi,19.96
+2710,2009,India,Maharashtra,Coffee,981.48,10.53,2.88,2,72.97,26.51,8.29,80.32,Rotasi Tanaman,-0.69
+3216,2009,India,Maharashtra,Coffee,1473.43,1.3,2.1,6,47.3,25.89,38.57,57.45,Pertanian Organik,16.17
+2592,2009,India,Maharashtra,Soybeans,1507.34,22.19,2.484,10,99.3,7.11,47.59,54.54,Tanaman Tahan Kekeringan,-2.61
+2189,2009,India,Maharashtra,Wheat,495.99,19.9,2.232,2,25.36,9.6,39.13,73.34,Tanaman Tahan Kekeringan,23.67
+4736,2009,India,Punjab,Barley,237.79,15.9,2.484,5,65.37,12.07,94.18,54.49,Manajemen Air,30.2
+1479,2009,India,Punjab,Coffee,2216.76,26.59,1.755,5,12.42,30.62,74.87,80.87,Manajemen Air,7.33
+5353,2009,India,Punjab,Corn,1574.17,9.51,0.54,10,29.51,6.81,44.72,71.09,Rotasi Tanaman,0.5
+5132,2009,India,Punjab,Cotton,2399.86,29.97,2.205,10,28.65,5.72,63.63,97.0,Manajemen Air,21.3
+1485,2009,India,Punjab,Fruits,2608.13,7.0,1.17,9,51.44,42.24,99.65,41.64,Rotasi Tanaman,30.43
+5944,2009,India,Punjab,Fruits,2872.17,10.56,3.14,5,75.9,44.47,33.49,90.84,Manajemen Air,21.04
+5255,2009,India,Punjab,Vegetables,2602.19,5.69,1.54,4,74.96,21.49,24.64,86.3,Manajemen Air,4.62
+5375,2009,India,Punjab,Vegetables,228.24,6.03,2.628,5,94.77,12.78,1.04,78.11,Rotasi Tanaman,31.22
+1675,2009,India,Punjab,Wheat,1484.64,5.68,2.37,6,19.87,20.36,49.42,90.06,Tanpa Adaptasi,12.76
+7138,2009,India,Punjab,Wheat,2312.05,24.52,3.276,7,31.39,44.65,8.99,56.49,Tanaman Tahan Kekeringan,29.22
+3368,2009,India,Punjab,,2158.75,2.68,1.53,3,20.99,48.57,18.71,62.5,Tanaman Tahan Kekeringan,25.94
+3664,2010,India,'Tamil Nadu',Coffee,600.1,8.93,2.6,5,79.29,23.99,71.42,62.91,Manajemen Air,21.71
+7829,2010,India,'Tamil Nadu',Coffee,1955.66,3.34,1.09,3,34.03,42.85,78.72,42.06,Tanpa Adaptasi,7.87
+254,2010,India,'Tamil Nadu',Corn,593.96,8.49,3.73,1,47.38,26.29,34.6,92.81,Tanpa Adaptasi,21.95
+2362,2010,India,'Tamil Nadu',Cotton,421.91,20.75,1.386,8,17.12,29.38,18.74,81.09,Tanaman Tahan Kekeringan,31.79
+5494,2010,India,'Tamil Nadu',Fruits,846.25,24.77,1.485,7,70.54,28.59,81.23,65.24,Pertanian Organik,-2.25
+3780,2010,India,'Tamil Nadu',Sugarcane,2076.7,27.29,,1,10.9,29.96,38.94,52.07,Tanpa Adaptasi,10.75
+1382,2010,India,'Tamil Nadu',Vegetables,1277.36,12.28,1.75,4,17.95,31.98,79.47,39.2,Tanpa Adaptasi,-1.89
+5254,2010,India,'Tamil Nadu',Wheat,210.3,9.99,0.801,9,19.24,25.13,71.99,51.83,Manajemen Air,21.77
+510,2010,India,'West Bengal',Barley,2282.33,6.4,0.56,9,82.22,42.2,98.26,34.62,Rotasi Tanaman,-3.97
+6356,2010,India,'West Bengal',Cotton,1338.84,20.96,1.377,1,77.04,17.85,94.66,39.59,Manajemen Air,5.33
+113,2010,India,'West Bengal',Rice,747.44,24.34,0.99,4,84.13,41.47,27.52,67.47,Tanpa Adaptasi,-2.82
+870,2010,India,'West Bengal',Rice,2525.69,21.94,,4,42.57,3.33,13.04,53.23,Pertanian Organik,12.92
+2990,2010,India,'West Bengal',Rice,1085.87,20.34,1.116,2,26.81,27.92,44.23,76.48,Rotasi Tanaman,20.11
+2530,2010,India,'West Bengal',Vegetables,746.3,22.7,2.637,7,71.41,37.56,23.45,60.61,Manajemen Air,11.96
+7170,2010,India,'West Bengal',Vegetables,1536.2,14.15,2.96,2,84.87,2.87,81.3,51.72,Rotasi Tanaman,32.1
+7222,2010,India,'West Bengal',Vegetables,952.65,4.34,3.37,7,94.3,22.23,84.73,72.65,Tanaman Tahan Kekeringan,32.19
+1962,2010,India,Maharashtra,Fruits,1763.15,15.63,1.4400000000000002,9,93.84,18.57,33.86,57.78,Manajemen Air,9.85
+3168,2010,India,Maharashtra,Fruits,2208.8,7.68,1.14,3,61.02,28.26,71.29,51.11,Rotasi Tanaman,22.59
+256,2010,India,Maharashtra,Soybeans,,24.45,3.5730000000000004,1,94.58,35.24,61.11,42.31,Tanaman Tahan Kekeringan,15.37
+4088,2010,India,Maharashtra,Vegetables,2339.26,9.06,1.36,6,35.56,25.4,72.7,65.45,Tanpa Adaptasi,2.42
+7385,2010,India,Punjab,Barley,521.38,15.16,1.557,1,15.82,30.3,22.06,97.38,Tanpa Adaptasi,-3.72
+2269,2011,India,'Tamil Nadu',Barley,229.67,2.12,2.079,1,20.49,4.04,8.69,41.72,Tanpa Adaptasi,31.06
+3723,2011,India,'Tamil Nadu',Rice,884.31,22.58,2.862,4,14.37,32.36,71.52,69.92,Tanaman Tahan Kekeringan,12.5
+5518,2011,India,'Tamil Nadu',Soybeans,426.81,24.09,2.79,5,12.3,8.01,3.38,57.93,Manajemen Air,29.99
+1547,2011,India,'West Bengal',Barley,1849.44,5.16,1.9,0,91.14,6.81,58.49,47.34,Manajemen Air,10.05
+6639,2011,India,'West Bengal',Barley,2700.34,5.48,1.87,0,23.34,24.72,5.25,51.14,Manajemen Air,15.66
+4400,2011,India,'West Bengal',Fruits,957.61,17.67,1.332,0,43.9,13.83,93.89,95.93,Manajemen Air,7.08
+1084,2011,India,'West Bengal',Vegetables,2804.29,19.04,2.214,4,75.55,48.19,60.33,80.5,Manajemen Air,-1.34
+7298,2011,India,'West Bengal',Vegetables,329.39,13.94,0.801,8,96.82,49.88,68.82,90.22,Manajemen Air,8.41
+7480,2011,India,'West Bengal',Vegetables,1172.27,21.24,1.413,7,20.6,6.79,65.73,44.08,Tanpa Adaptasi,7.65
+6921,2011,India,'West Bengal',Wheat,1345.57,6.83,3.42,4,81.47,36.19,13.35,41.11,Manajemen Air,30.03
+5419,2011,India,Maharashtra,Coffee,1535.93,24.25,1.584,1,37.64,17.93,93.66,37.02,Pertanian Organik,18.29
+406,2011,India,Maharashtra,Cotton,2839.58,22.03,1.242,2,29.73,20.23,10.18,40.42,Pertanian Organik,2.74
+7830,2011,India,Maharashtra,Cotton,2238.25,23.09,0.99,5,66.78,35.63,59.11,73.96,Pertanian Organik,6.36
+2048,2011,India,Maharashtra,Fruits,1633.33,10.77,2.17,9,87.76,27.63,41.95,50.01,Rotasi Tanaman,29.38
+4680,2011,India,Maharashtra,Rice,1108.38,18.35,2.538,10,34.75,27.27,62.75,34.54,Tanaman Tahan Kekeringan,0.37
+4326,2011,India,Maharashtra,Soybeans,970.53,16.12,,0,12.87,46.53,66.19,85.11,Rotasi Tanaman,-0.5
+3767,2011,India,Punjab,Barley,2775.15,11.28,2.55,9,23.44,41.33,58.96,55.17,Tanaman Tahan Kekeringan,8.89
+620,2011,India,Punjab,Coffee,1818.56,29.7,1.962,1,86.7,27.55,39.59,72.45,Tanaman Tahan Kekeringan,3.2
+5371,2011,India,Punjab,Coffee,454.64,21.0,0.45,8,44.88,26.45,49.56,83.97,Tanpa Adaptasi,7.8
+6919,2011,India,Punjab,Rice,2771.8,27.14,1.4400000000000002,7,98.42,23.63,92.91,64.18,Pertanian Organik,1.49
+6304,2012,India,'Tamil Nadu',Barley,665.03,17.92,3.0690000000000004,8,23.67,24.49,5.37,35.71,Rotasi Tanaman,16.7
+91,2012,India,'Tamil Nadu',Coffee,2850.46,2.53,3.71,2,64.96,32.34,44.53,38.37,Pertanian Organik,18.91
+2575,2012,India,'Tamil Nadu',Fruits,329.13,28.49,3.366,7,14.48,30.88,80.34,43.31,Pertanian Organik,30.85
+2621,2012,India,'Tamil Nadu',Fruits,2032.93,4.1,1.25,3,36.04,31.9,72.15,87.12,Rotasi Tanaman,29.02
+3149,2012,India,'Tamil Nadu',Rice,312.63,6.25,0.783,1,71.8,42.0,10.07,36.58,Pertanian Organik,0.78
+7046,2012,India,'Tamil Nadu',Rice,358.36,7.25,,10,11.69,13.75,27.49,33.1,Tanaman Tahan Kekeringan,11.61
+7343,2012,India,'Tamil Nadu',Rice,486.54,24.49,2.25,8,80.37,20.04,51.03,81.55,Manajemen Air,24.11
+3783,2012,India,'Tamil Nadu',Sugarcane,218.65,4.9,1.2060000000000002,3,30.38,37.83,15.93,40.93,Rotasi Tanaman,27.79
+4233,2012,India,'Tamil Nadu',Wheat,2529.17,23.15,4.455,5,29.04,48.78,44.36,91.67,Manajemen Air,13.19
+2152,2012,India,'West Bengal',Barley,1902.23,5.3,2.98,1,93.9,19.87,94.08,44.96,Tanaman Tahan Kekeringan,34.77
+4563,2012,India,'West Bengal',Cotton,1213.32,15.52,1.53,7,84.92,47.88,12.22,55.68,Tanaman Tahan Kekeringan,6.7
+6559,2012,India,'West Bengal',Fruits,770.07,18.02,1.449,8,31.23,45.02,91.56,53.41,Rotasi Tanaman,1.38
+1211,2012,India,'West Bengal',Soybeans,1258.02,27.1,1.539,4,16.98,43.53,18.64,73.15,Pertanian Organik,19.72
+4851,2012,India,'West Bengal',Sugarcane,,3.43,2.86,0,35.41,31.09,22.1,92.72,Pertanian Organik,21.86
+7425,2012,India,'West Bengal',Sugarcane,2749.07,4.86,3.41,6,25.32,48.26,39.87,89.33,Tanpa Adaptasi,17.97
+333,2012,India,'West Bengal',Wheat,658.76,3.33,1.89,6,89.77,28.16,76.25,32.67,Manajemen Air,6.44
+2214,2012,India,'West Bengal',Wheat,755.36,15.11,1.332,4,95.4,40.97,3.14,82.39,Pertanian Organik,4.97
+6865,2012,India,'West Bengal',Wheat,1740.23,13.36,3.65,0,42.4,8.93,60.96,45.96,Tanaman Tahan Kekeringan,25.79
+4407,2012,India,Maharashtra,Barley,1176.45,13.17,3.47,6,69.28,17.96,85.95,89.13,Tanpa Adaptasi,18.53
+1615,2012,India,Maharashtra,Soybeans,1439.94,23.9,2.3040000000000003,3,35.69,13.25,33.21,70.15,Manajemen Air,33.25
+1483,2012,India,Punjab,Coffee,601.38,19.38,4.104,0,56.72,45.91,52.41,34.44,Manajemen Air,13.05
+4756,2012,India,Punjab,Coffee,1940.66,5.09,2.59,3,68.78,27.28,74.16,35.75,Pertanian Organik,-1.96
+221,2012,India,Punjab,Cotton,556.74,23.98,2.61,2,98.87,26.45,14.49,89.18,Tanaman Tahan Kekeringan,12.14
+6243,2012,India,Punjab,Rice,498.12,4.53,1.881,7,43.35,46.33,69.12,74.12,Pertanian Organik,25.69
+6315,2012,India,Punjab,Soybeans,2203.23,27.52,1.746,7,22.55,35.37,80.23,40.93,Manajemen Air,13.69
+6980,2012,India,Punjab,Vegetables,1013.37,13.2,0.64,4,26.11,19.3,98.48,89.99,Tanaman Tahan Kekeringan,-0.7
+7177,2012,India,Punjab,Wheat,1233.1,6.1,2.99,1,,10.09,32.54,42.31,Manajemen Air,32.08
+4709,2013,India,'Tamil Nadu',Barley,1029.91,1.9,1.75,0,21.9,2.4,72.26,41.0,Rotasi Tanaman,14.99
+4484,2013,India,'Tamil Nadu',Cotton,2788.88,4.77,3.82,9,93.59,19.88,81.91,89.29,Pertanian Organik,27.57
+6952,2013,India,'Tamil Nadu',Fruits,1904.94,15.82,0.882,2,99.45,26.52,16.96,50.15,Manajemen Air,9.22
+5690,2013,India,'Tamil Nadu',Rice,1153.27,25.2,2.736,5,59.28,23.48,65.34,92.56,Rotasi Tanaman,17.22
+1939,2013,India,'Tamil Nadu',Soybeans,983.14,16.23,1.143,3,37.64,35.35,1.68,38.95,Manajemen Air,22.32
+2815,2013,India,'Tamil Nadu',Vegetables,517.65,20.84,0.927,1,99.51,19.58,36.18,33.13,Tanaman Tahan Kekeringan,28.55
+3875,2013,India,'Tamil Nadu',Wheat,2301.93,11.71,2.79,3,43.03,47.59,69.62,30.24,Rotasi Tanaman,34.7
+3698,2013,India,'West Bengal',Corn,315.52,14.49,1.503,2,81.21,41.74,88.22,35.74,Tanpa Adaptasi,22.91
+4975,2013,India,'West Bengal',Corn,407.33,18.2,3.321,9,12.74,31.89,15.07,80.34,Pertanian Organik,23.41
+3054,2013,India,'West Bengal',Cotton,1377.84,2.57,0.82,1,68.25,14.68,41.52,42.94,Rotasi Tanaman,-1.62
+6039,2013,India,'West Bengal',Fruits,2126.11,5.14,4.83,9,19.19,14.46,6.03,32.76,Tanpa Adaptasi,12.25
+7316,2013,India,'West Bengal',Vegetables,2986.7,13.17,1.97,3,36.56,21.7,48.27,60.05,Rotasi Tanaman,-3.41
+2280,2013,India,Maharashtra,Fruits,1649.59,17.96,1.305,4,23.02,6.77,85.77,92.34,Tanaman Tahan Kekeringan,2.6
+938,2013,India,Maharashtra,Rice,754.81,17.55,0.846,8,,32.72,70.0,36.54,Tanaman Tahan Kekeringan,5.72
+5986,2013,India,Maharashtra,Rice,2375.26,11.63,4.51,4,43.01,17.19,54.07,73.91,Rotasi Tanaman,18.36
+1446,2013,India,Maharashtra,Wheat,1523.88,13.03,1.96,1,11.84,13.06,26.52,96.36,Manajemen Air,6.21
+4468,2013,India,Maharashtra,Wheat,1207.16,28.2,4.383,7,63.54,24.53,93.74,37.54,Tanpa Adaptasi,14.89
+6202,2013,India,Punjab,Coffee,1257.54,11.39,3.92,8,48.4,38.98,36.2,43.79,Tanaman Tahan Kekeringan,19.92
+1160,2013,India,Punjab,Cotton,1740.11,28.88,3.69,7,59.09,26.68,94.26,48.25,Tanpa Adaptasi,15.01
+3262,2013,India,Punjab,Cotton,1210.23,1.43,2.88,4,45.61,30.89,34.09,69.29,Rotasi Tanaman,9.95
+6869,2013,India,Punjab,Rice,394.04,15.53,,6,57.87,10.05,89.07,87.92,Tanpa Adaptasi,11.94
+7558,2013,India,Punjab,Sugarcane,2896.7,11.71,3.12,0,15.9,42.25,16.57,83.33,Rotasi Tanaman,33.38
+2860,2013,India,Punjab,Wheat,354.71,21.87,1.4580000000000002,0,45.41,43.48,96.99,77.85,Manajemen Air,32.47
+758,2013,India,Punjab,,2690.21,24.61,2.8440000000000003,1,31.09,44.17,51.15,95.52,Rotasi Tanaman,15.58
+4107,2014,India,'Tamil Nadu',Coffee,1849.07,25.47,0.558,1,98.65,42.74,71.53,38.49,Tanaman Tahan Kekeringan,-4.42
+4470,2014,India,'Tamil Nadu',Coffee,2259.49,0.53,2.9,10,13.38,33.15,92.52,49.36,Pertanian Organik,30.13
+7723,2014,India,'Tamil Nadu',Coffee,2917.65,1.5,4.8,8,24.72,47.18,20.96,83.02,Rotasi Tanaman,10.76
+1438,2014,India,'Tamil Nadu',Corn,2356.78,10.34,4.45,6,43.82,36.84,93.03,53.25,Tanaman Tahan Kekeringan,18.45
+464,2014,India,'Tamil Nadu',Fruits,2375.34,27.85,1.8,5,60.6,8.79,44.68,72.04,Tanpa Adaptasi,31.08
+1956,2014,India,'Tamil Nadu',Fruits,2959.07,10.58,2.64,6,63.11,15.42,93.38,78.12,Manajemen Air,22.02
+2408,2014,India,'Tamil Nadu',Fruits,2117.05,3.77,2.85,0,58.09,12.1,14.69,96.24,Rotasi Tanaman,-1.08
+4211,2014,India,'Tamil Nadu',Fruits,2119.19,8.15,1.0,9,93.06,32.44,46.11,64.95,Rotasi Tanaman,2.82
+7292,2014,India,'Tamil Nadu',Soybeans,1182.99,23.65,1.503,0,84.94,22.13,10.87,86.75,Tanpa Adaptasi,10.21
+565,2014,India,'Tamil Nadu',Vegetables,2999.1,2.84,1.05,0,42.42,34.65,57.78,30.75,Manajemen Air,5.69
+3740,2014,India,'Tamil Nadu',Vegetables,2309.76,8.01,1.93,4,34.48,33.09,42.19,40.43,Tanpa Adaptasi,-2.58
+1489,2014,India,'West Bengal',Barley,1950.8,5.79,1.04,1,74.87,7.18,15.88,35.23,Tanpa Adaptasi,8.55
+1757,2014,India,'West Bengal',Coffee,1321.22,7.48,3.17,6,,40.03,32.47,63.84,Manajemen Air,10.39
+3412,2014,India,'West Bengal',Cotton,2312.02,7.4,4.83,8,22.5,31.72,22.93,76.22,Pertanian Organik,13.96
+1663,2014,India,'West Bengal',Fruits,1978.39,22.46,0.7200000000000001,9,27.3,39.72,7.19,55.51,Manajemen Air,25.69
+7677,2014,India,'West Bengal',Fruits,1269.39,4.43,2.82,7,53.79,40.6,92.3,30.57,Pertanian Organik,34.55
+2336,2014,India,'West Bengal',Rice,2359.01,5.3,2.11,2,47.33,42.0,32.14,94.37,Rotasi Tanaman,21.4
+7274,2014,India,Maharashtra,Soybeans,1429.93,21.5,,3,68.27,40.33,2.52,83.78,Manajemen Air,12.84
+7613,2014,India,Maharashtra,Wheat,205.54,19.1,2.9610000000000003,8,54.44,33.66,90.27,61.88,Tanpa Adaptasi,32.53
+3252,2014,India,Punjab,Barley,872.85,10.18,0.71,10,55.49,7.82,85.91,34.21,Rotasi Tanaman,-0.91
+931,2014,India,Punjab,Cotton,2943.43,3.56,2.88,1,63.29,32.88,81.24,35.83,Tanaman Tahan Kekeringan,34.36
+4649,2014,India,Punjab,Fruits,371.65,6.79,1.836,5,14.13,49.67,78.24,40.76,Tanaman Tahan Kekeringan,12.05
+4074,2014,India,Punjab,Soybeans,1099.19,19.22,1.611,3,30.34,48.5,96.78,93.7,Pertanian Organik,7.83
+777,2014,India,Punjab,Wheat,2641.91,18.44,1.656,7,71.71,18.89,7.64,54.37,Pertanian Organik,-3.82
+3648,2014,India,Punjab,Wheat,463.37,12.71,2.313,1,39.96,7.26,0.24,46.48,Rotasi Tanaman,24.45
+4212,2014,India,Punjab,Wheat,1137.39,14.52,2.36,8,39.83,41.88,60.65,54.65,Tanaman Tahan Kekeringan,5.43
+3796,2015,India,'Tamil Nadu',Barley,2323.88,12.94,2.36,4,73.82,39.58,59.83,32.57,Rotasi Tanaman,-0.84
+2060,2015,India,'Tamil Nadu',Cotton,2965.15,26.61,2.4120000000000004,0,50.78,40.47,99.05,85.31,Tanaman Tahan Kekeringan,4.56
+1637,2015,India,'Tamil Nadu',Sugarcane,2553.85,4.56,3.78,2,11.97,10.21,22.86,58.03,Tanaman Tahan Kekeringan,34.87
+7515,2015,India,'Tamil Nadu',Wheat,2334.5,1.45,3.34,0,75.73,8.34,11.41,41.66,Manajemen Air,32.55
+1677,2015,India,'West Bengal',Wheat,2930.44,26.18,3.744,5,48.04,0.43,74.86,85.94,Pertanian Organik,15.47
+3105,2015,India,Maharashtra,Coffee,1226.15,12.77,2.24,0,86.2,41.95,21.02,34.47,Pertanian Organik,33.44
+699,2015,India,Maharashtra,Corn,2743.05,7.7,2.91,9,50.6,18.27,71.8,30.43,Tanpa Adaptasi,23.37
+1651,2015,India,Maharashtra,Vegetables,202.76,18.9,1.089,2,29.45,28.27,87.16,31.1,Pertanian Organik,21.76
+1206,2015,India,Punjab,Cotton,205.46,12.69,0.657,5,97.49,45.83,91.0,36.18,Rotasi Tanaman,8.81
+7537,2015,India,Punjab,Cotton,710.63,12.41,1.64,2,30.73,44.94,16.23,46.35,Rotasi Tanaman,27.63
+5582,2015,India,Punjab,Fruits,386.13,11.73,2.6910000000000003,9,82.09,12.23,9.27,56.61,Tanaman Tahan Kekeringan,33.75
+7220,2015,India,Punjab,Fruits,2557.3,18.97,3.096,8,72.38,10.86,36.95,57.41,Tanpa Adaptasi,12.31
+750,2015,India,Punjab,Sugarcane,1213.41,2.06,2.51,5,90.78,29.26,32.39,64.05,Pertanian Organik,-0.63
+4653,2015,India,Punjab,Vegetables,613.79,12.81,1.56,10,41.62,26.31,5.26,72.08,Tanpa Adaptasi,20.99
+6415,2015,India,Punjab,,1791.52,9.83,0.77,5,66.7,18.98,22.49,66.05,Tanpa Adaptasi,6.21
+7620,2015,India,Punjab,,2151.2,13.28,1.84,0,20.65,23.69,93.45,35.79,Manajemen Air,-3.6
+5454,2016,India,'Tamil Nadu',Coffee,2937.51,1.86,1.84,9,34.83,2.19,79.08,98.01,Pertanian Organik,14.49
+5016,2016,India,'Tamil Nadu',Fruits,2154.55,12.88,2.68,2,49.34,7.4,59.07,87.53,Tanpa Adaptasi,34.26
+1744,2016,India,'Tamil Nadu',Vegetables,2065.62,0.62,1.96,7,23.28,26.9,71.62,55.75,Rotasi Tanaman,29.83
+5884,2016,India,'Tamil Nadu',Vegetables,2977.32,24.46,3.249,6,10.29,41.47,56.53,82.81,Pertanian Organik,30.04
+994,2016,India,'West Bengal',Corn,764.04,7.29,1.28,6,79.64,44.5,35.5,66.45,Rotasi Tanaman,22.79
+5736,2016,India,'West Bengal',Corn,621.43,14.88,2.46,0,71.25,42.96,30.56,36.86,Tanpa Adaptasi,4.89
+7709,2016,India,'West Bengal',Cotton,1673.75,24.72,3.375,2,31.43,4.59,26.64,51.92,Pertanian Organik,19.28
+2611,2016,India,'West Bengal',Soybeans,1822.89,9.58,,1,33.13,29.29,41.79,97.43,Rotasi Tanaman,-0.36
+3228,2016,India,'West Bengal',Soybeans,1240.49,29.18,4.032000000000001,9,29.32,37.8,99.09,46.32,Tanpa Adaptasi,14.0
+4609,2016,India,Maharashtra,Barley,1657.83,6.01,4.77,1,,44.13,61.89,61.39,Tanpa Adaptasi,15.47
+7087,2016,India,Maharashtra,Cotton,,15.29,1.944,7,28.39,1.51,83.17,63.31,Pertanian Organik,-2.28
+7729,2016,India,Maharashtra,Cotton,543.34,22.11,2.556,6,62.19,12.71,92.91,66.86,Pertanian Organik,24.76
+7973,2016,India,Maharashtra,Fruits,302.22,19.39,0.945,6,55.47,8.86,64.56,40.93,Pertanian Organik,6.23
+2602,2016,India,Maharashtra,Rice,2523.74,27.96,1.404,3,61.59,36.16,44.63,46.29,Tanpa Adaptasi,9.94
+1991,2016,India,Maharashtra,Vegetables,280.45,13.03,2.943,4,93.02,40.35,50.43,76.94,Pertanian Organik,30.97
+6089,2016,India,Maharashtra,Vegetables,477.4,27.39,1.62,5,99.0,39.7,26.25,44.53,Tanpa Adaptasi,8.41
+1445,2016,India,Maharashtra,Wheat,1327.06,6.51,2.04,8,78.14,10.6,43.58,45.47,Pertanian Organik,17.25
+4420,2016,India,Punjab,Corn,,12.74,1.07,8,83.82,24.74,81.07,83.02,Pertanian Organik,6.21
+2400,2016,India,Punjab,Rice,1120.67,29.26,1.71,6,47.4,8.74,95.68,81.94,Tanaman Tahan Kekeringan,7.17
+3742,2016,India,Punjab,Soybeans,1734.32,13.5,1.72,0,22.25,43.8,94.94,69.44,Tanaman Tahan Kekeringan,23.09
+5378,2016,India,Punjab,Sugarcane,2159.83,28.97,0.468,0,64.32,42.92,34.82,88.55,Manajemen Air,6.07
+89,2016,India,Punjab,,2629.49,23.47,0.963,7,19.8,29.04,63.04,68.18,Rotasi Tanaman,9.27
+5354,2017,India,'Tamil Nadu',Coffee,2787.83,26.32,2.007,5,62.73,46.3,23.67,39.59,Pertanian Organik,22.82
+1395,2017,India,'Tamil Nadu',Corn,1237.85,14.94,3.41,6,67.58,22.83,61.33,51.81,Tanpa Adaptasi,16.55
+4479,2017,India,'Tamil Nadu',Fruits,2159.7,16.12,1.548,2,90.34,25.79,86.95,52.52,Manajemen Air,6.41
+5343,2017,India,'Tamil Nadu',Sugarcane,2979.46,25.02,4.203,7,84.27,5.39,92.35,52.04,Tanaman Tahan Kekeringan,13.98
+2314,2017,India,'Tamil Nadu',Wheat,2814.06,18.28,1.2240000000000002,10,70.09,12.96,94.37,54.23,Tanpa Adaptasi,6.94
+4277,2017,India,'Tamil Nadu',Wheat,1129.95,7.6,4.89,2,77.84,26.6,55.9,89.26,Manajemen Air,16.79
+3694,2017,India,'West Bengal',Fruits,1747.68,12.06,0.61,4,13.56,38.69,25.11,56.05,Tanpa Adaptasi,1.94
+5703,2017,India,'West Bengal',Soybeans,499.46,8.71,3.78,7,50.27,22.1,95.71,74.17,Pertanian Organik,12.8
+1746,2017,India,Maharashtra,Barley,1345.81,4.76,2.6,7,31.19,43.41,36.42,75.34,Tanpa Adaptasi,1.94
+1576,2017,India,Maharashtra,Coffee,2294.46,24.49,3.3480000000000003,9,30.7,12.36,23.34,35.83,Manajemen Air,28.3
+6286,2017,India,Maharashtra,Coffee,532.64,21.41,1.044,0,62.51,22.49,99.79,61.09,Manajemen Air,31.93
+246,2017,India,Maharashtra,Rice,,6.66,3.4290000000000003,4,18.24,25.12,52.69,48.45,Tanaman Tahan Kekeringan,26.65
+857,2017,India,Maharashtra,Soybeans,1418.55,18.06,3.339,2,87.61,11.03,57.77,56.37,Tanaman Tahan Kekeringan,22.13
+1910,2017,India,Maharashtra,Sugarcane,2952.47,19.04,1.2060000000000002,7,24.3,4.24,31.89,49.98,Pertanian Organik,-2.21
+508,2017,India,Maharashtra,Vegetables,1056.95,27.63,3.024,2,24.1,48.43,25.13,57.28,Manajemen Air,20.76
+7976,2017,India,Maharashtra,Wheat,1805.67,27.78,2.007,4,40.29,14.06,6.89,31.56,Tanaman Tahan Kekeringan,6.89
+3937,2017,India,Punjab,Cotton,1829.43,26.99,2.331,4,,47.27,82.3,53.15,Rotasi Tanaman,4.26
+1150,2017,India,Punjab,Fruits,2618.24,24.18,3.843,9,39.52,25.73,50.23,85.41,Tanpa Adaptasi,13.99
+7376,2017,India,Punjab,Soybeans,2471.27,25.73,2.484,1,27.38,1.39,9.24,83.22,Tanpa Adaptasi,-1.9
+1360,2017,India,Punjab,Wheat,1706.38,29.98,1.062,0,91.63,11.04,50.08,44.08,Pertanian Organik,32.71
+4357,2017,India,Punjab,,673.41,3.98,0.95,9,76.06,33.19,88.57,75.49,Manajemen Air,-4.08
+2914,2018,India,'Tamil Nadu',Barley,856.65,21.85,1.953,8,74.23,25.73,23.32,76.97,Tanaman Tahan Kekeringan,4.77
+7753,2018,India,'Tamil Nadu',Coffee,501.57,23.2,,10,,36.48,31.76,80.45,Manajemen Air,32.69
+6176,2018,India,'Tamil Nadu',Cotton,2143.88,28.84,2.7,9,87.59,21.96,91.24,72.55,Pertanian Organik,0.53
+6423,2018,India,'Tamil Nadu',Cotton,813.51,15.07,1.197,7,30.12,30.81,50.05,44.27,Manajemen Air,-2.95
+3592,2018,India,'Tamil Nadu',Fruits,1180.2,15.61,3.5010000000000003,1,63.82,21.44,46.97,77.25,Manajemen Air,16.04
+7153,2018,India,'West Bengal',Corn,531.85,17.21,0.756,2,15.04,45.06,87.65,70.0,Pertanian Organik,5.72
+5032,2018,India,'West Bengal',Rice,497.31,8.34,,9,13.09,19.54,43.32,52.77,Tanaman Tahan Kekeringan,2.74
+6886,2018,India,'West Bengal',Rice,2535.88,20.92,1.764,9,64.51,20.07,65.38,76.11,Tanpa Adaptasi,26.93
+4670,2018,India,'West Bengal',Vegetables,782.55,17.95,1.485,5,54.61,15.34,91.22,87.39,Pertanian Organik,24.11
+4221,2018,India,'West Bengal',Wheat,2902.16,27.81,2.052,2,30.31,21.9,17.61,35.06,Manajemen Air,3.26
+4466,2018,India,Maharashtra,Corn,2842.93,29.73,1.764,2,69.37,37.1,56.21,74.7,Rotasi Tanaman,3.23
+7498,2018,India,Maharashtra,Corn,2679.77,28.05,2.052,9,64.47,45.44,2.07,33.8,Manajemen Air,32.08
+4079,2018,India,Maharashtra,Wheat,1650.58,9.34,2.04,8,27.73,21.9,7.36,51.96,Rotasi Tanaman,16.3
+1147,2018,India,Punjab,Barley,343.31,2.53,2.9160000000000004,5,55.08,23.02,3.75,93.5,Tanaman Tahan Kekeringan,30.42
+7281,2018,India,Punjab,Barley,2371.19,4.8,2.93,3,42.06,26.77,64.16,33.14,Tanaman Tahan Kekeringan,-4.31
+2717,2018,India,Punjab,Vegetables,2403.86,3.3,2.89,0,65.05,16.26,48.79,93.05,Tanaman Tahan Kekeringan,14.68
+7098,2018,India,Punjab,Wheat,1548.02,20.46,1.539,9,92.28,45.77,21.99,54.19,Tanaman Tahan Kekeringan,5.59
+4143,2019,India,'Tamil Nadu',Corn,2926.57,2.37,0.87,1,80.31,24.85,34.88,92.93,Tanaman Tahan Kekeringan,31.85
+4683,2019,India,'Tamil Nadu',Corn,2741.3,22.13,0.945,6,42.27,16.53,28.72,73.99,Tanpa Adaptasi,3.74
+1944,2019,India,'Tamil Nadu',Fruits,500.06,7.03,2.99,5,23.69,1.86,65.55,44.7,Pertanian Organik,-2.57
+1016,2019,India,'Tamil Nadu',Wheat,2818.89,9.36,3.49,9,10.6,40.88,76.01,85.49,Pertanian Organik,19.24
+5436,2019,India,'West Bengal',Coffee,1133.06,11.44,2.37,6,48.1,0.45,77.01,40.96,Rotasi Tanaman,6.29
+1212,2019,India,'West Bengal',Corn,1888.15,25.56,0.5940000000000001,8,27.77,25.78,13.72,82.04,Pertanian Organik,-2.67
+7920,2019,India,'West Bengal',Cotton,1810.72,14.49,0.58,1,12.37,19.63,70.57,36.28,Rotasi Tanaman,-1.24
+3759,2019,India,'West Bengal',Fruits,1003.01,18.26,2.043,2,24.86,21.48,32.8,55.11,Pertanian Organik,31.25
+186,2019,India,'West Bengal',Soybeans,2497.49,8.29,2.11,9,15.8,5.33,55.46,33.95,Pertanian Organik,29.67
+4446,2019,India,'West Bengal',Soybeans,733.34,19.04,3.384,3,67.27,28.38,71.49,81.59,Tanaman Tahan Kekeringan,15.09
+6121,2019,India,'West Bengal',Soybeans,2497.22,6.98,3.26,6,29.41,46.68,39.14,69.36,Tanaman Tahan Kekeringan,34.38
+5771,2019,India,'West Bengal',Sugarcane,2983.14,23.58,,1,93.36,4.88,60.67,91.45,Manajemen Air,13.24
+7889,2019,India,'West Bengal',Sugarcane,1289.82,4.22,1.73,6,25.43,37.41,10.46,74.91,Pertanian Organik,4.47
+1534,2019,India,'West Bengal',Vegetables,2853.27,15.28,2.196,8,73.85,34.76,2.4,74.36,Pertanian Organik,15.51
+1393,2019,India,Maharashtra,Coffee,276.15,13.67,3.249,1,84.86,11.19,33.23,95.89,Pertanian Organik,25.55
+1736,2019,India,Maharashtra,Coffee,1513.77,11.67,3.37,6,65.72,5.21,98.64,61.07,Rotasi Tanaman,22.97
+5332,2019,India,Maharashtra,Coffee,2624.78,19.49,1.53,0,84.46,29.82,98.43,34.13,Tanpa Adaptasi,-2.58
+2120,2019,India,Maharashtra,Cotton,2548.23,22.27,0.936,4,15.74,23.63,66.95,48.2,Manajemen Air,9.31
+517,2019,India,Maharashtra,Soybeans,2071.12,16.38,2.4480000000000004,10,77.35,13.17,72.48,40.46,Pertanian Organik,20.14
+3072,2019,India,Maharashtra,Soybeans,391.63,20.67,2.133,4,73.34,36.82,12.74,52.15,Pertanian Organik,0.51
+5607,2019,India,Maharashtra,Wheat,1601.16,2.93,1.13,7,16.14,2.7,6.42,38.51,Tanaman Tahan Kekeringan,31.3
+6517,2019,India,Maharashtra,Wheat,1406.47,8.24,3.24,0,18.02,37.95,32.09,85.26,Manajemen Air,17.13
+1578,2019,India,Punjab,Coffee,1244.53,25.33,2.664,7,82.21,22.97,97.97,49.63,Tanaman Tahan Kekeringan,10.4
+5726,2019,India,Punjab,Coffee,1814.37,22.75,3.006,0,74.65,49.99,46.46,95.0,Pertanian Organik,29.1
+6249,2019,India,Punjab,Cotton,2996.7,13.97,2.75,9,41.14,46.13,79.5,52.51,Pertanian Organik,27.86
+3227,2019,India,Punjab,Fruits,984.19,22.08,3.33,9,11.13,19.24,92.59,33.67,Tanpa Adaptasi,18.33
+2004,2019,India,Punjab,Wheat,2760.2,16.42,0.531,1,52.96,36.69,30.7,52.73,Rotasi Tanaman,-0.87
+2618,2019,India,Punjab,Wheat,2593.28,7.27,1.29,0,98.51,42.92,85.84,39.42,Pertanian Organik,-0.91
+5194,2019,India,Punjab,,1318.49,3.29,1.13,1,17.72,19.35,76.86,49.79,Pertanian Organik,5.7
+1053,2020,India,'Tamil Nadu',Corn,631.91,11.96,2.95,4,50.4,48.55,69.32,33.41,Tanaman Tahan Kekeringan,12.64
+2354,2020,India,'Tamil Nadu',Soybeans,1786.57,28.68,3.1410000000000005,8,74.02,6.0,74.43,31.6,Pertanian Organik,25.15
+2292,2020,India,'Tamil Nadu',Sugarcane,1201.23,6.12,1.11,7,88.52,36.49,47.21,71.17,Tanaman Tahan Kekeringan,27.63
+5178,2020,India,'Tamil Nadu',Wheat,2496.96,8.08,2.4,6,41.04,47.94,18.86,88.93,Tanpa Adaptasi,0.71
+7926,2020,India,'West Bengal',Corn,919.07,9.7,2.32,2,10.66,21.54,77.56,56.99,Rotasi Tanaman,23.5
+5027,2020,India,'West Bengal',Cotton,2279.53,19.34,0.639,4,83.71,18.7,42.19,70.04,Pertanian Organik,-3.35
+2556,2020,India,'West Bengal',Rice,1555.09,17.32,3.15,10,47.36,45.14,71.84,63.49,Tanaman Tahan Kekeringan,20.14
+181,2020,India,'West Bengal',Sugarcane,320.16,9.64,4.464,0,65.98,6.83,17.44,62.7,Tanpa Adaptasi,15.76
+1593,2020,India,'West Bengal',Sugarcane,1000.3,4.66,1.67,2,78.12,21.4,1.03,72.02,Pertanian Organik,3.41
+2873,2020,India,'West Bengal',Sugarcane,309.92,20.51,3.042,9,76.58,48.2,73.87,55.53,Tanpa Adaptasi,18.74
+355,2020,India,Maharashtra,Barley,2580.3,17.4,3.258,1,95.55,13.58,9.64,81.18,Rotasi Tanaman,23.65
+1809,2020,India,Punjab,Cotton,1098.09,11.8,3.46,8,65.02,30.37,74.95,84.32,Manajemen Air,23.41
+1448,2020,India,Punjab,Fruits,2637.1,0.81,4.96,7,87.71,30.57,44.76,65.7,Rotasi Tanaman,16.53
+4258,2020,India,Punjab,Fruits,2399.84,13.69,3.15,6,13.53,16.0,86.63,52.9,Tanpa Adaptasi,18.0
+459,2020,India,Punjab,Rice,1409.52,5.6,1.53,5,12.61,1.92,25.54,82.78,Manajemen Air,0.94
+24,2021,India,'Tamil Nadu',Barley,271.7,19.63,2.322,0,38.58,12.55,67.88,82.29,Manajemen Air,-0.81
+2748,2021,India,'Tamil Nadu',Coffee,2571.04,10.84,0.78,0,71.41,36.3,41.12,43.94,Manajemen Air,1.67
+7491,2021,India,'Tamil Nadu',Cotton,1478.53,18.2,1.332,8,92.27,10.09,99.2,65.86,Tanpa Adaptasi,5.36
+1001,2021,India,'Tamil Nadu',Fruits,2904.03,25.67,0.972,7,23.34,3.61,80.47,80.57,Tanaman Tahan Kekeringan,33.62
+7140,2021,India,'Tamil Nadu',Sugarcane,1004.74,6.96,2.82,6,90.81,30.49,91.78,54.14,Rotasi Tanaman,-4.21
+5026,2021,India,'West Bengal',Coffee,1431.54,9.11,3.31,1,67.78,42.42,22.63,36.87,Rotasi Tanaman,26.92
+3366,2021,India,'West Bengal',Fruits,571.29,26.44,1.035,6,71.14,30.21,51.18,99.86,Pertanian Organik,9.78
+7524,2021,India,'West Bengal',Fruits,1431.9,15.5,0.792,10,95.2,21.02,22.88,55.02,Rotasi Tanaman,24.15
+1775,2021,India,'West Bengal',Soybeans,2897.46,13.61,1.51,3,84.67,37.65,39.35,86.53,Tanpa Adaptasi,31.96
+3761,2021,India,'West Bengal',Sugarcane,1708.89,24.42,3.3120000000000003,5,24.94,37.24,95.1,51.06,Rotasi Tanaman,14.17
+7765,2021,India,'West Bengal',Vegetables,938.62,3.52,3.73,9,43.75,22.3,61.64,99.97,Manajemen Air,11.62
+7616,2021,India,Maharashtra,Corn,2608.49,24.95,3.546,9,17.66,49.46,11.38,61.2,Tanpa Adaptasi,14.83
+5119,2021,India,Maharashtra,Cotton,1525.28,11.92,1.57,1,69.21,36.72,39.36,47.53,Manajemen Air,14.74
+3465,2021,India,Maharashtra,Rice,2391.71,29.56,0.747,3,75.26,41.98,40.19,56.54,Tanpa Adaptasi,21.19
+6849,2021,India,Maharashtra,Soybeans,1342.22,7.05,,7,40.09,8.92,27.63,91.03,Tanpa Adaptasi,7.31
+529,2021,India,Maharashtra,Sugarcane,695.52,7.32,3.99,3,47.44,34.72,97.13,42.63,Manajemen Air,21.56
+419,2021,India,Maharashtra,Wheat,1758.74,17.24,1.017,8,79.06,30.18,93.14,35.17,Rotasi Tanaman,8.43
+7144,2021,India,Maharashtra,,2368.61,9.82,1.92,1,63.18,10.2,19.74,64.4,Rotasi Tanaman,18.45
+227,2021,India,Punjab,Barley,556.02,2.03,2.49,7,50.79,9.77,76.74,98.24,Rotasi Tanaman,-3.29
+1373,2021,India,Punjab,Cotton,894.1,16.44,0.936,10,82.81,10.69,37.24,90.18,Tanaman Tahan Kekeringan,-3.75
+1726,2021,India,Punjab,Soybeans,2906.88,10.1,4.13,5,21.22,32.22,18.52,38.43,Tanaman Tahan Kekeringan,17.4
+2098,2021,India,Punjab,Soybeans,1549.26,19.27,1.305,7,78.1,49.88,55.36,75.73,Tanpa Adaptasi,3.4
+6502,2021,India,Punjab,Soybeans,1341.76,19.72,1.692,5,41.11,5.79,46.03,58.02,Tanpa Adaptasi,31.17
+5435,2021,India,Punjab,Sugarcane,296.0,18.38,2.07,8,19.24,40.86,61.03,63.03,Tanaman Tahan Kekeringan,0.73
+650,2021,India,Punjab,Vegetables,1461.64,28.36,3.4290000000000003,5,64.14,6.73,13.26,50.97,Tanaman Tahan Kekeringan,27.84
+1686,2021,India,Punjab,Vegetables,1194.74,13.25,1.12,7,50.78,11.46,15.09,96.15,Tanaman Tahan Kekeringan,-3.63
+945,2022,India,'Tamil Nadu',Cotton,2465.67,2.86,2.59,10,51.17,31.43,91.32,89.48,Rotasi Tanaman,21.95
+6564,2022,India,'Tamil Nadu',Rice,1854.35,16.0,1.665,4,52.91,14.34,8.22,44.69,Tanpa Adaptasi,30.93
+6899,2022,India,'Tamil Nadu',Wheat,2034.73,27.44,3.204,1,25.14,23.04,13.31,36.56,Rotasi Tanaman,29.5
+2567,2022,India,'West Bengal',Barley,1502.83,25.8,0.522,10,23.85,25.06,16.16,92.62,Tanaman Tahan Kekeringan,-0.25
+5306,2022,India,'West Bengal',Soybeans,2329.91,4.27,1.75,4,87.08,23.18,35.87,37.79,Manajemen Air,8.92
+1384,2022,India,'West Bengal',Sugarcane,1245.07,4.9,0.87,10,95.88,18.99,48.28,73.98,Tanaman Tahan Kekeringan,29.19
+6804,2022,India,'West Bengal',Sugarcane,2173.17,29.15,2.1870000000000003,0,85.43,33.33,59.93,37.53,Pertanian Organik,5.75
+3763,2022,India,'West Bengal',,2750.17,22.17,4.077,3,32.99,23.87,99.29,81.93,Tanaman Tahan Kekeringan,17.0
+4708,2022,India,Maharashtra,Coffee,1968.1,21.66,3.861,3,47.18,41.31,98.91,36.25,Manajemen Air,19.75
+5303,2022,India,Maharashtra,Cotton,1832.14,17.07,0.792,5,95.47,23.58,46.79,67.01,Pertanian Organik,0.14
+3982,2022,India,Maharashtra,Soybeans,2136.94,10.81,1.67,10,63.44,21.72,37.96,32.42,Rotasi Tanaman,25.26
+49,2022,India,Punjab,Barley,1687.82,24.08,4.401,4,35.8,9.09,44.95,88.66,Tanpa Adaptasi,13.35
+1595,2022,India,Punjab,Corn,1488.31,18.9,3.123,7,46.18,17.84,54.54,84.44,Manajemen Air,29.8
+2096,2022,India,Punjab,Corn,407.37,26.85,1.98,4,97.35,44.9,38.66,93.27,Manajemen Air,13.67
+5949,2022,India,Punjab,Corn,1656.43,9.59,3.38,0,49.75,1.89,64.81,70.04,Manajemen Air,18.23
+5945,2022,India,Punjab,Cotton,2306.03,13.53,2.55,1,65.05,16.1,38.12,35.07,Tanaman Tahan Kekeringan,30.35
+3331,2022,India,Punjab,Soybeans,2332.34,22.93,1.35,3,78.32,40.57,88.54,98.75,Rotasi Tanaman,7.88
+4626,2022,India,Punjab,Sugarcane,2252.28,12.98,1.67,4,83.59,20.56,49.85,51.74,Pertanian Organik,-0.35
+6841,2022,India,Punjab,Sugarcane,2954.9,6.42,0.54,2,24.25,0.29,24.06,67.58,Rotasi Tanaman,6.59
+6642,2022,India,Punjab,,1983.86,10.6,1.28,2,52.49,33.47,73.51,67.36,Pertanian Organik,28.29
+193,2023,India,'Tamil Nadu',Corn,2174.88,21.05,3.618,1,73.44,31.02,20.04,92.14,Rotasi Tanaman,18.08
+3319,2023,India,'Tamil Nadu',Corn,2372.85,20.04,1.728,7,91.12,36.36,35.66,75.18,Manajemen Air,23.65
+1363,2023,India,'Tamil Nadu',Fruits,2918.75,15.28,2.169,8,92.9,32.72,74.76,51.39,Tanpa Adaptasi,2.34
+1480,2023,India,'Tamil Nadu',Fruits,1333.05,17.85,1.926,5,58.47,34.51,12.54,73.14,Rotasi Tanaman,33.61
+5906,2023,India,'Tamil Nadu',Rice,301.87,7.94,0.7020000000000001,4,72.94,44.2,43.78,77.89,Pertanian Organik,0.17
+4700,2023,India,'Tamil Nadu',Sugarcane,1530.36,11.55,2.75,3,44.76,44.76,20.17,75.08,Tanaman Tahan Kekeringan,1.83
+4990,2023,India,'Tamil Nadu',Sugarcane,1114.81,16.41,3.258,7,67.85,46.27,85.53,43.61,Tanpa Adaptasi,18.11
+6881,2023,India,'Tamil Nadu',Sugarcane,2879.03,6.58,1.43,9,70.56,19.53,33.9,91.04,Tanpa Adaptasi,-0.44
+4647,2023,India,'Tamil Nadu',,2841.82,17.01,2.826,10,97.76,44.95,29.52,98.19,Rotasi Tanaman,25.41
+6097,2023,India,'West Bengal',Corn,1477.82,23.86,2.232,3,57.1,19.05,19.86,31.87,Tanaman Tahan Kekeringan,-3.38
+2369,2023,India,'West Bengal',Fruits,907.74,23.63,1.233,0,76.68,21.3,30.91,55.32,Pertanian Organik,-4.71
+5111,2023,India,'West Bengal',Fruits,2200.55,15.22,0.873,1,11.45,38.54,87.89,54.17,Tanaman Tahan Kekeringan,34.1
+3162,2023,India,'West Bengal',Rice,2495.4,20.95,2.061,1,23.8,28.43,43.92,84.61,Manajemen Air,0.2
+3790,2023,India,'West Bengal',Soybeans,2941.18,3.41,3.5,5,80.8,4.62,62.86,89.86,Pertanian Organik,16.59
+2596,2023,India,'West Bengal',Wheat,940.87,13.48,3.4,8,51.82,16.11,98.78,82.79,Rotasi Tanaman,18.85
+7201,2023,India,'West Bengal',Wheat,1501.52,11.19,1.05,9,95.35,16.37,2.18,87.57,Tanaman Tahan Kekeringan,9.45
+3862,2023,India,Maharashtra,Barley,2307.34,14.1,2.75,5,18.76,26.84,32.7,58.13,Tanaman Tahan Kekeringan,22.66
+6586,2023,India,Maharashtra,Barley,1773.19,9.19,1.27,4,52.43,25.92,10.16,86.92,Manajemen Air,22.84
+1269,2023,India,Maharashtra,Fruits,208.52,22.19,4.41,8,78.27,48.51,37.26,61.69,Tanaman Tahan Kekeringan,10.07
+795,2023,India,Maharashtra,Rice,1515.58,29.58,0.486,5,44.78,10.06,84.73,91.81,Pertanian Organik,3.27
+3908,2023,India,Maharashtra,Soybeans,464.9,14.31,2.8080000000000003,9,46.12,21.11,52.59,65.67,Rotasi Tanaman,13.12
+6493,2023,India,Maharashtra,Vegetables,1593.93,1.96,0.64,7,72.77,33.05,88.49,54.13,Tanpa Adaptasi,-4.45
+1061,2023,India,Punjab,Barley,935.71,20.08,2.655,3,24.55,0.67,72.4,98.17,Tanaman Tahan Kekeringan,29.49
+5063,2023,India,Punjab,Barley,286.49,24.96,1.845,6,55.74,8.41,84.49,61.58,Manajemen Air,5.34
+6955,2023,India,Punjab,Barley,430.2,6.97,4.014,2,77.52,19.13,85.36,75.64,Manajemen Air,16.4
+4762,2023,India,Punjab,Coffee,503.36,25.63,1.161,4,76.59,1.06,68.53,53.85,Manajemen Air,5.77
+7114,2023,India,Punjab,Coffee,586.62,2.76,2.72,4,75.79,36.57,92.27,81.24,Pertanian Organik,23.28
+3828,2023,India,Punjab,Corn,1382.77,12.82,3.47,10,30.83,1.0,25.05,60.11,Rotasi Tanaman,13.95
+5137,2023,India,Punjab,Fruits,707.61,27.77,4.113,3,43.88,19.72,86.41,33.81,Tanpa Adaptasi,18.92
+2736,2023,India,Punjab,Soybeans,1879.14,15.02,0.855,1,43.42,4.18,66.02,91.63,Manajemen Air,31.59
+3394,2023,India,Punjab,Sugarcane,675.38,15.57,2.673,2,97.03,41.02,95.85,58.48,Tanpa Adaptasi,-1.69
+605,2023,India,Punjab,Wheat,1286.6,17.36,1.287,0,38.65,31.41,1.93,68.18,Pertanian Organik,25.24
+2442,2024,India,'Tamil Nadu',Corn,503.92,2.13,2.62,4,76.56,33.41,25.71,59.29,Rotasi Tanaman,3.06
+2879,2024,India,'Tamil Nadu',Corn,444.26,23.37,1.161,4,31.56,17.83,56.15,31.52,Tanpa Adaptasi,2.13
+5448,2024,India,'Tamil Nadu',Corn,1147.87,24.06,1.638,5,64.3,28.72,83.69,44.54,Tanpa Adaptasi,-3.81
+3627,2024,India,'Tamil Nadu',Rice,2909.25,9.59,0.61,1,83.69,28.6,29.99,94.6,Tanaman Tahan Kekeringan,8.68
+4334,2024,India,'Tamil Nadu',Soybeans,1361.43,18.47,0.765,0,67.99,43.64,51.56,81.05,Manajemen Air,-1.05
+4403,2024,India,'West Bengal',Soybeans,1703.43,18.96,1.2240000000000002,2,45.64,28.04,17.99,60.84,Tanpa Adaptasi,8.58
+6011,2024,India,'West Bengal',Vegetables,2513.63,11.45,4.58,7,98.51,15.11,93.91,56.84,Tanaman Tahan Kekeringan,12.88
+6178,2024,India,'West Bengal',Wheat,2795.35,17.4,0.5940000000000001,7,14.21,10.79,61.13,82.58,Manajemen Air,1.05
+3101,2024,India,Maharashtra,Barley,1099.39,18.44,2.142,0,17.98,19.21,11.99,75.2,Rotasi Tanaman,30.16
+3402,2024,India,Maharashtra,Coffee,2974.72,18.12,1.296,0,51.18,15.46,30.49,41.25,Manajemen Air,4.35
+1501,2024,India,Maharashtra,Fruits,2413.08,10.61,3.42,2,66.26,16.65,29.2,90.26,Tanpa Adaptasi,21.57
+7984,2024,India,Maharashtra,Soybeans,1251.0,27.8,3.042,10,,48.7,15.88,57.1,Pertanian Organik,27.26
+7652,2024,India,Maharashtra,Sugarcane,2777.97,1.44,3.75,6,95.66,47.42,96.5,90.47,Tanpa Adaptasi,28.04
+822,2024,India,Maharashtra,Vegetables,,27.44,1.242,1,,45.99,13.61,91.13,Tanpa Adaptasi,27.37
+4781,2024,India,Maharashtra,Wheat,2934.53,2.08,0.96,6,42.95,45.75,37.61,37.2,Rotasi Tanaman,27.43
+5681,2024,India,Punjab,Barley,412.28,5.21,1.035,5,31.56,26.3,20.94,98.13,Tanaman Tahan Kekeringan,30.86
+1830,2024,India,Punjab,Coffee,2980.29,23.67,2.097,9,68.42,32.05,71.28,64.45,Rotasi Tanaman,13.52
+2221,2024,India,Punjab,Coffee,,3.72,4.76,6,,42.62,75.25,37.44,Tanpa Adaptasi,14.89
+670,2024,India,Punjab,Vegetables,1152.78,17.48,2.529,5,14.22,19.53,47.58,36.96,Pertanian Organik,9.54
+2617,2024,India,Punjab,Vegetables,1806.7,1.43,2.69,0,26.61,20.94,11.07,94.81,Tanaman Tahan Kekeringan,23.91
+2572,2024,India,Punjab,Wheat,1773.88,17.03,1.998,1,18.25,35.31,53.02,94.62,Manajemen Air,1.5
+5725,2024,India,Punjab,,1241.33,18.0,0.81,4,14.62,28.22,10.06,77.37,Tanaman Tahan Kekeringan,-1.25

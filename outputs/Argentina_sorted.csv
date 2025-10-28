@@ -1,0 +1,773 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+4819,1990,Argentina,Northeast,Coffee,1238.02,5.97,0.97,8,80.49,26.03,56.52,81.69,Tanpa Adaptasi,1.01
+4612,1990,Argentina,Northeast,Corn,2412.68,21.37,1.719,9,13.86,33.4,97.57,54.26,Manajemen Air,11.81
+4824,1990,Argentina,Northeast,Cotton,1282.89,21.74,0.8370000000000001,4,46.43,42.33,45.91,71.53,Rotasi Tanaman,27.75
+1035,1990,Argentina,Northeast,Fruits,2187.52,14.57,3.74,8,24.94,1.11,92.01,87.66,Rotasi Tanaman,30.46
+2414,1990,Argentina,Northeast,Fruits,893.09,6.89,3.7,8,57.33,43.73,23.63,59.92,Tanaman Tahan Kekeringan,10.46
+170,1990,Argentina,Northeast,Rice,790.69,27.16,1.899,6,59.14,37.87,9.89,67.62,Pertanian Organik,26.7
+5438,1990,Argentina,Northeast,Sugarcane,2874.4,22.56,4.221,0,96.19,24.62,68.72,78.9,Tanaman Tahan Kekeringan,15.02
+7483,1990,Argentina,Northeast,Vegetables,444.01,13.18,2.484,6,66.28,21.31,33.35,98.73,Rotasi Tanaman,6.79
+5251,1990,Argentina,Northeast,,720.38,11.03,2.36,0,93.23,37.02,51.92,61.07,Rotasi Tanaman,10.91
+2036,1990,Argentina,Northwest,Coffee,2387.84,10.37,2.82,4,36.12,21.4,53.24,62.53,Rotasi Tanaman,11.93
+590,1990,Argentina,Northwest,Fruits,659.37,28.86,3.879,8,52.41,27.5,47.41,63.11,Manajemen Air,12.89
+4606,1990,Argentina,Northwest,Rice,1222.81,11.9,3.69,6,96.53,45.3,42.43,80.38,Manajemen Air,17.81
+295,1990,Argentina,Pampas,Barley,472.37,23.35,3.5730000000000004,7,54.86,36.43,25.95,39.93,Manajemen Air,15.77
+2930,1990,Argentina,Pampas,Coffee,1054.6,29.79,2.646,10,16.76,3.61,35.97,61.74,Rotasi Tanaman,27.61
+2694,1990,Argentina,Pampas,Rice,2607.96,3.32,2.47,4,19.57,43.5,3.81,69.54,Pertanian Organik,31.24
+2304,1990,Argentina,Pampas,Soybeans,1020.09,1.04,0.94,8,30.57,40.92,17.3,57.83,Tanaman Tahan Kekeringan,29.81
+4793,1990,Argentina,Pampas,Vegetables,1517.35,18.7,3.483,3,42.85,12.24,53.53,32.89,Rotasi Tanaman,17.56
+7387,1990,Argentina,Pampas,Wheat,1175.6,25.88,4.383,8,57.06,20.34,60.94,65.92,Tanpa Adaptasi,14.98
+3964,1990,Argentina,Patagonia,Barley,1673.6,12.15,0.84,8,62.22,8.35,95.08,31.43,Pertanian Organik,21.65
+2112,1990,Argentina,Patagonia,Cotton,2132.01,25.78,,2,59.64,33.46,27.32,78.72,Tanpa Adaptasi,8.84
+6200,1990,Argentina,Patagonia,Soybeans,2455.56,2.62,,8,10.6,16.11,4.05,84.43,Manajemen Air,3.54
+2298,1991,Argentina,Northeast,Coffee,2520.48,29.26,2.871,9,73.09,0.88,19.87,53.76,Manajemen Air,29.38
+6470,1991,Argentina,Northeast,Coffee,1696.82,24.54,2.592,8,90.46,30.76,12.8,88.13,Tanpa Adaptasi,22.02
+5993,1991,Argentina,Northeast,Corn,2158.03,21.57,2.3400000000000003,7,49.09,17.64,39.94,64.83,Tanpa Adaptasi,33.19
+600,1991,Argentina,Northeast,Cotton,730.62,14.72,1.68,5,73.67,16.79,93.44,47.46,Tanpa Adaptasi,-3.32
+127,1991,Argentina,Northeast,Fruits,1283.79,11.4,0.97,4,66.78,49.55,64.95,76.02,Pertanian Organik,29.95
+362,1991,Argentina,Northeast,Rice,1317.26,9.81,3.6,8,35.49,44.83,17.06,85.55,Tanaman Tahan Kekeringan,24.19
+5295,1991,Argentina,Northeast,Rice,791.39,20.4,1.026,0,80.94,4.19,61.5,41.57,Tanpa Adaptasi,5.24
+7388,1991,Argentina,Northeast,Rice,357.04,9.7,3.132,4,31.5,42.41,70.85,69.14,Pertanian Organik,21.42
+331,1991,Argentina,Northeast,Soybeans,1957.34,9.87,1.58,1,90.04,42.52,26.29,58.41,Tanaman Tahan Kekeringan,18.61
+2242,1991,Argentina,Northeast,Soybeans,2495.66,1.92,2.97,8,14.28,27.91,84.96,71.81,Tanaman Tahan Kekeringan,23.38
+2773,1991,Argentina,Northeast,Sugarcane,925.39,8.63,0.52,7,19.11,21.87,63.3,59.42,Tanaman Tahan Kekeringan,-4.81
+5351,1991,Argentina,Northeast,Vegetables,1806.71,16.06,1.413,6,56.78,16.61,68.62,88.44,Manajemen Air,-0.08
+6120,1991,Argentina,Northeast,Vegetables,2682.4,8.84,0.9,3,63.35,42.95,30.19,52.72,Manajemen Air,-1.19
+5728,1991,Argentina,Northwest,Barley,,21.2,1.2060000000000002,9,73.23,3.75,65.62,74.45,Tanpa Adaptasi,23.06
+5309,1991,Argentina,Northwest,Coffee,1139.3,27.1,3.024,10,48.43,45.59,41.73,40.87,Manajemen Air,32.75
+130,1991,Argentina,Northwest,Corn,1214.06,1.16,1.98,7,30.33,18.01,56.01,70.77,Rotasi Tanaman,5.92
+6657,1991,Argentina,Northwest,Corn,1614.6,5.85,0.93,9,33.8,24.49,14.25,83.11,Tanaman Tahan Kekeringan,-4.55
+6123,1991,Argentina,Pampas,Corn,418.68,11.42,2.196,4,32.97,48.0,12.71,70.29,Tanaman Tahan Kekeringan,23.31
+978,1991,Argentina,Pampas,Fruits,1285.76,9.85,2.22,4,66.06,41.21,94.91,58.39,Rotasi Tanaman,28.2
+3179,1991,Argentina,Pampas,Fruits,1696.35,25.14,2.3400000000000003,9,66.83,39.58,95.7,54.26,Rotasi Tanaman,-3.11
+6446,1991,Argentina,Pampas,Fruits,1672.58,0.74,2.48,1,71.52,38.63,25.95,73.99,Tanpa Adaptasi,21.32
+7369,1991,Argentina,Pampas,Sugarcane,2363.47,24.82,2.601,0,20.13,17.44,53.55,63.72,Tanaman Tahan Kekeringan,10.13
+3487,1991,Argentina,Pampas,Vegetables,1849.11,28.25,0.531,7,34.92,23.8,57.23,78.28,Pertanian Organik,6.41
+1890,1991,Argentina,Patagonia,Coffee,1983.78,0.68,1.94,10,43.51,42.3,45.99,36.49,Pertanian Organik,26.32
+6314,1991,Argentina,Patagonia,Coffee,403.3,23.33,2.52,10,13.59,42.2,74.44,36.35,Pertanian Organik,18.35
+1738,1991,Argentina,Patagonia,Corn,2699.15,0.8,0.7,7,35.46,33.21,41.89,62.24,Rotasi Tanaman,-2.53
+3034,1991,Argentina,Patagonia,Fruits,2749.89,0.84,2.07,3,64.89,25.98,63.37,84.39,Pertanian Organik,-1.7
+2312,1991,Argentina,Patagonia,Soybeans,635.26,7.91,1.38,6,80.51,28.91,33.73,96.2,Tanpa Adaptasi,0.48
+3417,1991,Argentina,Patagonia,Soybeans,2735.23,26.02,3.222,3,27.09,8.62,14.49,70.51,Tanpa Adaptasi,28.87
+2669,1992,Argentina,Northeast,Barley,551.91,1.16,3.58,2,77.48,8.81,59.59,45.51,Tanaman Tahan Kekeringan,22.83
+2928,1992,Argentina,Northeast,Fruits,1832.58,29.93,1.197,5,57.08,46.67,56.55,40.0,Tanaman Tahan Kekeringan,23.6
+7228,1992,Argentina,Northeast,Fruits,1763.22,2.49,3.27,9,23.85,36.95,80.91,60.12,Pertanian Organik,34.05
+3643,1992,Argentina,Northeast,Soybeans,1805.73,7.6,1.3,9,94.23,31.56,96.65,84.3,Pertanian Organik,-2.46
+3091,1992,Argentina,Northwest,Corn,795.9,18.98,2.4120000000000004,10,74.24,46.43,81.02,39.1,Manajemen Air,11.38
+4799,1992,Argentina,Northwest,Corn,2115.44,29.2,1.26,6,37.32,35.06,7.05,98.86,Tanpa Adaptasi,7.61
+3886,1992,Argentina,Northwest,Wheat,2746.89,8.76,0.8,10,71.66,22.2,8.58,55.12,Manajemen Air,31.93
+3854,1992,Argentina,Pampas,Barley,667.28,15.86,,1,40.94,21.14,18.67,98.58,Manajemen Air,22.73
+4603,1992,Argentina,Pampas,Coffee,802.64,13.4,2.43,2,24.27,10.98,30.03,77.53,Tanaman Tahan Kekeringan,6.95
+5770,1992,Argentina,Pampas,Corn,1579.3,2.16,4.61,8,39.33,4.71,15.69,97.48,Rotasi Tanaman,17.63
+743,1992,Argentina,Pampas,Cotton,1618.35,3.2,2.76,4,95.23,31.72,55.96,45.97,Manajemen Air,28.02
+7711,1992,Argentina,Pampas,Soybeans,2674.78,26.14,0.9,6,64.71,19.84,24.54,55.75,Tanpa Adaptasi,25.34
+5669,1992,Argentina,Pampas,,1357.22,19.44,2.394,8,81.02,48.28,27.59,42.97,Rotasi Tanaman,12.19
+1265,1992,Argentina,Patagonia,Coffee,306.42,11.17,2.4120000000000004,7,84.72,34.93,32.12,84.77,Pertanian Organik,13.72
+7720,1992,Argentina,Patagonia,Fruits,1004.58,14.16,1.85,2,36.32,42.87,56.53,77.38,Tanpa Adaptasi,19.3
+2783,1992,Argentina,Patagonia,Soybeans,1110.64,2.8,2.36,8,90.54,29.27,95.14,68.29,Pertanian Organik,28.3
+1859,1992,Argentina,Patagonia,Vegetables,1819.32,15.84,1.467,10,53.22,41.5,99.12,86.0,Rotasi Tanaman,6.35
+2888,1992,Argentina,Patagonia,Wheat,967.1,23.97,3.06,3,85.62,21.03,26.82,61.49,Tanaman Tahan Kekeringan,33.86
+4476,1993,Argentina,Northeast,Coffee,1504.34,20.13,2.268,8,31.26,0.34,85.0,44.64,Pertanian Organik,4.07
+4712,1993,Argentina,Northeast,Cotton,949.18,16.23,2.871,5,85.6,11.59,18.53,32.25,Tanaman Tahan Kekeringan,11.76
+5449,1993,Argentina,Northeast,Cotton,1409.35,16.63,2.196,6,55.11,46.56,54.72,95.59,Tanpa Adaptasi,9.89
+243,1993,Argentina,Northeast,Wheat,2832.1,26.22,1.278,8,67.9,5.73,9.5,80.7,Manajemen Air,23.53
+261,1993,Argentina,Northwest,Barley,1019.87,23.48,1.035,7,19.28,13.51,2.62,40.69,Tanaman Tahan Kekeringan,26.73
+6845,1993,Argentina,Northwest,Rice,872.1,5.4,2.17,6,23.34,33.73,48.82,40.31,Tanaman Tahan Kekeringan,2.54
+2999,1993,Argentina,Pampas,Barley,1242.13,4.47,2.9,7,85.42,47.53,69.41,75.97,Tanaman Tahan Kekeringan,7.65
+1605,1993,Argentina,Pampas,Corn,821.03,4.92,1.24,0,53.59,13.05,62.33,96.05,Tanpa Adaptasi,-4.46
+2754,1993,Argentina,Pampas,Cotton,485.03,15.35,3.24,0,60.67,41.81,85.83,48.11,Manajemen Air,26.73
+7656,1993,Argentina,Pampas,Rice,2596.95,27.03,1.035,0,50.45,9.52,98.52,81.96,Tanaman Tahan Kekeringan,2.95
+2570,1993,Argentina,Pampas,Wheat,1122.69,1.67,1.08,7,47.24,20.96,68.81,68.8,Manajemen Air,-4.83
+2837,1993,Argentina,Patagonia,Barley,997.31,12.85,1.13,4,66.0,10.72,52.94,37.71,Tanpa Adaptasi,33.05
+3916,1993,Argentina,Patagonia,Fruits,2062.0,5.46,4.08,8,17.87,35.31,59.05,95.85,Pertanian Organik,17.16
+5746,1993,Argentina,Patagonia,Sugarcane,553.4,29.95,1.773,1,70.0,28.92,81.65,80.75,Tanpa Adaptasi,13.13
+203,1993,Argentina,Patagonia,Vegetables,2370.48,28.48,4.473,4,37.47,38.05,93.01,94.93,Manajemen Air,11.71
+3260,1994,Argentina,Northeast,Barley,1111.98,27.95,2.214,8,76.43,39.33,37.2,84.29,Tanpa Adaptasi,-3.52
+4728,1994,Argentina,Northeast,Barley,1623.32,15.47,1.035,7,16.02,4.91,29.49,54.1,Tanaman Tahan Kekeringan,0.03
+6261,1994,Argentina,Northeast,Coffee,903.41,4.99,0.9,5,73.58,43.15,26.29,78.24,Pertanian Organik,21.19
+6230,1994,Argentina,Northeast,Fruits,1822.84,18.93,2.43,9,21.82,35.36,8.82,77.32,Pertanian Organik,24.02
+498,1994,Argentina,Northwest,Corn,860.71,20.84,0.5760000000000001,9,88.95,37.4,30.39,55.79,Manajemen Air,-4.94
+1191,1994,Argentina,Northwest,Cotton,1336.03,10.17,2.27,0,78.6,6.12,11.42,51.12,Manajemen Air,2.48
+77,1994,Argentina,Northwest,Sugarcane,2122.84,13.61,1.35,8,79.04,3.39,17.95,75.25,Tanpa Adaptasi,-4.69
+4152,1994,Argentina,Pampas,Rice,483.46,18.78,1.1880000000000002,1,,15.05,56.65,65.59,Tanpa Adaptasi,29.13
+4176,1994,Argentina,Pampas,Rice,2903.1,17.29,2.025,2,48.43,4.27,29.89,42.95,Tanaman Tahan Kekeringan,16.82
+956,1994,Argentina,Pampas,Soybeans,944.78,21.31,2.889,8,38.71,1.79,6.94,56.11,Rotasi Tanaman,16.09
+3719,1994,Argentina,Patagonia,Coffee,597.6,3.0,0.99,5,24.47,4.94,98.59,49.84,Manajemen Air,6.2
+6672,1994,Argentina,Patagonia,Corn,2362.11,28.14,0.5850000000000001,3,55.8,24.57,88.97,79.85,Manajemen Air,5.14
+3966,1994,Argentina,Patagonia,Fruits,1771.67,17.29,1.953,5,72.18,35.1,99.15,76.67,Manajemen Air,0.22
+5431,1994,Argentina,Patagonia,Rice,1342.57,5.73,2.02,10,62.43,5.52,74.12,62.36,Pertanian Organik,-1.07
+7256,1994,Argentina,Patagonia,Soybeans,1986.94,17.32,3.357,1,93.08,6.98,80.81,72.83,Tanaman Tahan Kekeringan,13.04
+5636,1994,Argentina,Patagonia,Vegetables,1804.04,3.13,0.87,1,85.08,47.28,30.36,87.91,Tanaman Tahan Kekeringan,6.24
+4306,1995,Argentina,Northeast,Barley,985.77,29.2,3.1410000000000005,10,84.09,22.02,61.09,49.59,Pertanian Organik,23.27
+7257,1995,Argentina,Northeast,Coffee,923.7,18.84,3.933,3,72.69,6.84,93.92,94.84,Tanaman Tahan Kekeringan,16.52
+7161,1995,Argentina,Northeast,Corn,1632.54,5.54,2.52,6,89.51,48.0,21.03,81.2,Pertanian Organik,6.02
+6378,1995,Argentina,Northwest,Corn,915.89,1.41,3.72,2,89.41,37.29,66.26,35.06,Tanaman Tahan Kekeringan,16.05
+6417,1995,Argentina,Northwest,Corn,2974.22,1.61,2.97,2,14.16,40.81,56.93,44.34,Tanaman Tahan Kekeringan,4.73
+4072,1995,Argentina,Northwest,Cotton,1415.95,18.17,1.044,4,43.41,49.04,88.63,63.94,Tanpa Adaptasi,24.37
+6681,1995,Argentina,Northwest,Cotton,373.13,18.53,1.575,7,46.6,0.9,29.25,95.19,Pertanian Organik,6.54
+3829,1995,Argentina,Northwest,Vegetables,420.23,9.88,4.464,1,43.37,47.16,49.6,93.78,Rotasi Tanaman,15.55
+1059,1995,Argentina,Northwest,Wheat,2111.78,6.5,2.8,3,92.78,22.21,95.18,50.6,Pertanian Organik,29.48
+4972,1995,Argentina,Northwest,Wheat,,5.08,1.3,6,58.94,48.04,63.75,59.19,Rotasi Tanaman,22.57
+278,1995,Argentina,Pampas,Fruits,1970.7,5.06,1.95,3,89.41,29.31,94.87,90.04,Pertanian Organik,3.67
+5761,1995,Argentina,Pampas,Soybeans,1510.62,17.38,1.476,1,69.0,8.79,72.33,36.41,Manajemen Air,-1.64
+1067,1995,Argentina,Pampas,Vegetables,549.34,15.15,2.268,4,78.95,20.96,79.34,49.34,Manajemen Air,16.44
+4413,1995,Argentina,Pampas,Wheat,2672.14,3.91,3.87,6,45.08,30.63,38.38,44.57,Tanaman Tahan Kekeringan,34.72
+6177,1995,Argentina,Patagonia,Barley,1435.54,20.54,1.989,2,74.87,0.35,1.47,31.68,Manajemen Air,23.6
+1064,1995,Argentina,Patagonia,Coffee,1038.19,16.73,1.368,0,95.61,7.52,0.95,73.65,Pertanian Organik,25.2
+3865,1995,Argentina,Patagonia,Coffee,1830.91,18.91,2.583,0,39.41,2.39,66.44,37.69,Rotasi Tanaman,21.52
+7285,1995,Argentina,Patagonia,Coffee,1440.15,25.3,2.205,1,51.22,2.18,53.44,45.22,Tanaman Tahan Kekeringan,-2.09
+4349,1995,Argentina,Patagonia,Corn,2991.45,15.84,,9,46.23,18.75,3.79,30.17,Manajemen Air,16.28
+3817,1995,Argentina,Patagonia,Sugarcane,1340.14,17.93,2.151,6,22.42,45.89,43.47,47.93,Tanpa Adaptasi,15.19
+2375,1995,Argentina,Patagonia,Vegetables,2924.26,6.23,1.32,2,18.28,25.72,42.91,30.33,Tanaman Tahan Kekeringan,22.09
+160,1996,Argentina,Northeast,Coffee,2227.57,25.39,0.783,10,12.74,34.36,30.16,83.84,Tanpa Adaptasi,-3.53
+585,1996,Argentina,Northeast,Corn,1875.11,4.62,1.21,7,53.17,17.38,7.53,50.45,Tanaman Tahan Kekeringan,8.73
+6303,1996,Argentina,Northeast,Corn,2021.69,23.43,1.521,1,74.53,4.14,22.93,73.95,Pertanian Organik,18.45
+6773,1996,Argentina,Northeast,Fruits,386.35,3.38,2.043,9,18.19,11.95,36.52,96.1,Tanaman Tahan Kekeringan,32.1
+3296,1996,Argentina,Northeast,Rice,1615.5,21.52,3.024,2,54.64,44.94,12.05,54.54,Tanpa Adaptasi,29.24
+1435,1996,Argentina,Northeast,Soybeans,1622.84,19.93,1.431,2,63.21,32.21,41.16,83.42,Manajemen Air,15.5
+6020,1996,Argentina,Northeast,Soybeans,1956.08,16.13,3.042,5,50.93,0.4,26.43,31.34,Tanpa Adaptasi,17.58
+1589,1996,Argentina,Northeast,Sugarcane,1472.42,26.82,2.124,1,85.21,48.16,18.51,53.7,Manajemen Air,31.7
+3511,1996,Argentina,Northeast,Sugarcane,1436.15,14.92,3.45,9,58.53,38.9,89.83,37.97,Manajemen Air,31.16
+927,1996,Argentina,Northwest,Barley,2588.69,16.5,3.096,7,70.04,28.04,96.21,69.86,Tanaman Tahan Kekeringan,23.2
+2446,1996,Argentina,Northwest,Coffee,1684.43,8.1,1.82,10,18.43,33.71,55.38,84.57,Pertanian Organik,27.34
+4740,1996,Argentina,Northwest,Coffee,1926.57,21.16,1.296,3,41.97,26.65,52.85,47.8,Tanpa Adaptasi,-4.33
+6651,1996,Argentina,Northwest,Coffee,,28.44,1.584,10,41.15,18.3,85.97,35.89,Tanaman Tahan Kekeringan,21.59
+6182,1996,Argentina,Northwest,Fruits,2299.11,6.22,4.36,4,70.35,26.68,63.29,95.59,Pertanian Organik,13.9
+3496,1996,Argentina,Northwest,Rice,732.98,10.65,1.59,2,55.3,6.34,84.19,92.04,Tanpa Adaptasi,33.67
+2499,1996,Argentina,Northwest,Soybeans,2911.96,1.37,1.27,8,84.09,25.22,35.85,83.6,Pertanian Organik,31.39
+7045,1996,Argentina,Northwest,Sugarcane,1113.77,15.33,0.468,8,49.66,13.79,56.36,91.61,Pertanian Organik,0.66
+4631,1996,Argentina,Northwest,Vegetables,374.45,28.04,0.765,5,32.69,29.69,20.17,54.25,Pertanian Organik,4.09
+2734,1996,Argentina,Northwest,Wheat,2921.95,10.18,4.61,9,18.86,30.67,38.97,69.63,Tanpa Adaptasi,16.1
+6668,1996,Argentina,Northwest,Wheat,,13.53,1.59,0,93.61,45.68,80.82,36.58,Pertanian Organik,13.98
+7587,1996,Argentina,Pampas,Fruits,1846.12,3.92,2.75,7,74.81,40.95,71.24,50.35,Manajemen Air,13.5
+2069,1996,Argentina,Pampas,Rice,1422.24,27.89,1.953,5,26.38,23.39,5.72,62.52,Tanpa Adaptasi,1.55
+5205,1996,Argentina,Pampas,Soybeans,2100.64,28.37,3.699,6,34.18,14.54,98.26,96.8,Rotasi Tanaman,18.24
+1535,1996,Argentina,Pampas,Sugarcane,979.15,20.42,1.395,4,36.81,29.42,9.21,95.06,Tanaman Tahan Kekeringan,29.04
+3624,1996,Argentina,Pampas,Vegetables,1311.23,28.33,1.548,7,45.17,6.7,69.0,86.85,Manajemen Air,26.48
+2115,1996,Argentina,Pampas,,2124.28,2.23,,5,75.14,9.21,39.15,37.92,Manajemen Air,25.12
+7930,1996,Argentina,Patagonia,Barley,2304.93,27.81,2.592,4,99.95,18.56,76.03,34.62,Pertanian Organik,29.45
+3812,1996,Argentina,Patagonia,Coffee,2809.63,25.65,1.4580000000000002,9,17.32,17.75,64.71,71.94,Manajemen Air,10.19
+5034,1996,Argentina,Patagonia,Coffee,402.88,24.81,1.638,8,48.12,18.4,52.29,67.87,Rotasi Tanaman,1.55
+3816,1996,Argentina,Patagonia,Corn,1663.4,17.92,2.619,8,59.03,24.31,5.36,82.7,Pertanian Organik,4.39
+6124,1996,Argentina,Patagonia,Cotton,903.25,26.6,3.402,4,69.08,36.87,99.49,55.25,Tanpa Adaptasi,24.92
+5573,1996,Argentina,Patagonia,Fruits,1339.78,15.26,1.548,7,80.89,39.39,74.85,87.81,Tanaman Tahan Kekeringan,22.44
+759,1996,Argentina,Patagonia,Rice,2347.99,20.09,2.268,2,19.48,47.24,63.59,47.39,Rotasi Tanaman,15.79
+2347,1996,Argentina,Patagonia,Soybeans,2412.56,26.31,1.935,4,74.01,5.8,56.93,64.96,Tanpa Adaptasi,20.51
+2011,1996,Argentina,Patagonia,Wheat,247.86,13.34,2.9160000000000004,8,80.24,25.72,70.54,37.42,Pertanian Organik,18.81
+7210,1996,Argentina,Patagonia,Wheat,1255.65,7.96,4.42,3,54.68,33.56,3.78,77.83,Manajemen Air,10.92
+2081,1997,Argentina,Northeast,Barley,1252.63,11.15,4.11,3,40.08,41.41,21.07,58.19,Pertanian Organik,18.77
+4595,1997,Argentina,Northeast,Coffee,2996.85,2.26,3.34,2,94.09,17.39,9.38,60.21,Pertanian Organik,33.19
+820,1997,Argentina,Northeast,Fruits,1816.41,27.7,1.611,2,20.22,0.56,28.72,79.09,Pertanian Organik,23.46
+2409,1997,Argentina,Northeast,Fruits,2702.66,1.07,1.85,7,29.14,20.73,21.74,36.36,Tanpa Adaptasi,18.25
+4218,1997,Argentina,Northeast,Fruits,1979.92,21.35,4.1850000000000005,4,22.86,3.0,72.14,31.21,Pertanian Organik,13.66
+4938,1997,Argentina,Northeast,Rice,2378.8,18.66,3.006,7,92.0,25.93,10.52,75.19,Rotasi Tanaman,10.68
+4483,1997,Argentina,Northwest,Corn,1214.39,25.07,2.592,9,42.83,32.43,84.17,73.07,Manajemen Air,7.46
+2573,1997,Argentina,Northwest,Fruits,1513.9,9.48,1.76,1,64.06,35.24,43.14,51.42,Tanaman Tahan Kekeringan,25.71
+3278,1997,Argentina,Northwest,Soybeans,1629.43,17.96,2.097,6,77.58,43.86,50.68,34.13,Pertanian Organik,29.82
+6167,1997,Argentina,Northwest,Soybeans,2144.81,24.61,2.484,6,71.63,24.24,71.7,86.09,Pertanian Organik,0.43
+7440,1997,Argentina,Northwest,Soybeans,1063.82,0.75,3.07,0,59.77,19.44,22.5,81.96,Rotasi Tanaman,13.99
+6496,1997,Argentina,Pampas,Corn,251.73,29.14,1.98,2,75.77,25.63,16.78,70.05,Pertanian Organik,29.14
+4856,1997,Argentina,Pampas,Fruits,1235.02,8.46,1.66,4,48.84,39.98,52.51,37.31,Tanpa Adaptasi,34.22
+3602,1997,Argentina,Pampas,Soybeans,1513.89,14.85,1.67,10,76.52,11.35,35.79,64.29,Tanaman Tahan Kekeringan,12.84
+3321,1997,Argentina,Pampas,Sugarcane,2228.95,13.82,0.51,4,95.01,35.94,45.62,58.58,Pertanian Organik,8.1
+2042,1997,Argentina,Pampas,Vegetables,1313.87,20.03,2.421,7,,44.17,51.56,96.04,Tanaman Tahan Kekeringan,7.26
+3515,1997,Argentina,Pampas,Vegetables,2511.03,5.93,1.57,10,57.47,15.06,87.06,74.86,Tanpa Adaptasi,-2.72
+2229,1997,Argentina,Patagonia,Coffee,652.27,13.88,2.31,2,72.5,31.2,15.37,54.45,Tanaman Tahan Kekeringan,-3.47
+368,1997,Argentina,Patagonia,Corn,624.38,6.61,,10,97.07,42.52,91.36,69.6,Manajemen Air,11.45
+718,1997,Argentina,Patagonia,Fruits,1579.19,12.15,2.11,1,20.22,21.76,40.55,68.61,Tanaman Tahan Kekeringan,17.42
+3223,1997,Argentina,Patagonia,Fruits,1640.94,13.8,1.73,1,79.29,12.69,87.37,39.56,Manajemen Air,25.5
+519,1997,Argentina,Patagonia,Sugarcane,599.96,15.62,1.269,3,27.44,2.81,55.91,43.79,Tanpa Adaptasi,20.72
+2223,1997,Argentina,Patagonia,Vegetables,1302.95,23.33,2.988,5,75.15,0.25,2.76,82.94,Manajemen Air,15.73
+2576,1997,Argentina,Patagonia,Wheat,1927.17,26.39,4.284,7,25.2,43.73,33.9,58.45,Tanpa Adaptasi,18.2
+947,1998,Argentina,Northeast,Barley,624.36,16.86,3.231,8,20.92,3.98,84.6,43.96,Manajemen Air,34.25
+7040,1998,Argentina,Northeast,Barley,613.94,15.84,0.675,7,84.35,13.44,15.76,66.36,Tanaman Tahan Kekeringan,1.02
+6130,1998,Argentina,Northeast,Coffee,2041.42,2.35,,8,82.09,24.69,19.68,84.15,Tanpa Adaptasi,10.37
+7832,1998,Argentina,Northeast,Coffee,1207.88,27.42,2.169,9,89.95,24.12,21.19,58.83,Rotasi Tanaman,21.77
+5334,1998,Argentina,Northeast,Fruits,406.12,0.75,2.421,8,34.29,11.74,12.76,59.7,Tanpa Adaptasi,21.22
+4697,1998,Argentina,Northwest,Fruits,341.36,27.13,2.52,6,55.89,33.44,35.34,57.22,Rotasi Tanaman,34.72
+3486,1998,Argentina,Northwest,Vegetables,2070.7,6.89,1.68,9,34.82,25.31,45.83,81.49,Manajemen Air,-4.77
+2311,1998,Argentina,Northwest,Wheat,1368.34,6.68,1.6,0,54.0,21.79,30.88,69.85,Manajemen Air,8.06
+3508,1998,Argentina,Pampas,Corn,2682.48,4.61,2.78,10,12.64,44.07,81.08,57.48,Tanpa Adaptasi,29.47
+935,1998,Argentina,Pampas,Rice,,12.08,3.22,10,73.83,5.82,79.45,89.94,Rotasi Tanaman,19.43
+7308,1998,Argentina,Pampas,Rice,2195.05,3.38,0.74,2,63.52,32.97,25.54,45.06,Tanaman Tahan Kekeringan,-3.01
+1857,1998,Argentina,Pampas,Soybeans,1838.65,17.36,2.232,8,11.62,9.55,80.77,89.48,Rotasi Tanaman,0.15
+3094,1998,Argentina,Pampas,Vegetables,1547.44,25.31,0.45,10,76.84,12.32,90.21,98.3,Pertanian Organik,7.88
+1919,1998,Argentina,Patagonia,Barley,1994.55,8.78,1.46,1,94.88,9.0,62.98,39.54,Tanaman Tahan Kekeringan,8.61
+224,1998,Argentina,Patagonia,Rice,490.65,2.4,1.611,10,10.62,34.42,83.32,45.1,Rotasi Tanaman,27.2
+3846,1998,Argentina,Patagonia,Vegetables,1145.68,14.85,2.1,8,89.76,14.83,58.52,80.88,Rotasi Tanaman,30.43
+2425,1998,Argentina,Patagonia,Wheat,465.05,28.35,2.943,8,21.76,29.3,96.64,66.45,Rotasi Tanaman,22.32
+1121,1999,Argentina,Northeast,Barley,239.5,14.12,2.529,5,30.43,12.32,27.32,62.1,Manajemen Air,22.87
+3518,1999,Argentina,Northeast,Fruits,576.51,7.29,4.53,3,33.33,1.59,99.13,65.14,Pertanian Organik,18.62
+5706,1999,Argentina,Northeast,Fruits,605.53,14.12,1.77,5,88.83,28.99,11.17,87.18,Rotasi Tanaman,23.15
+4229,1999,Argentina,Northeast,Rice,376.78,13.14,1.575,3,20.58,49.31,95.73,84.62,Manajemen Air,18.88
+782,1999,Argentina,Northeast,Vegetables,,29.39,1.845,10,23.2,5.42,25.3,43.95,Tanpa Adaptasi,20.08
+2433,1999,Argentina,Northeast,Vegetables,1212.21,2.26,4.3,5,78.12,3.37,21.52,73.78,Manajemen Air,13.58
+6946,1999,Argentina,Northeast,Vegetables,1981.96,3.83,3.55,10,21.6,15.68,19.08,55.14,Pertanian Organik,16.63
+2755,1999,Argentina,Northwest,Corn,785.91,19.44,1.917,8,31.92,46.34,22.79,66.08,Tanpa Adaptasi,3.12
+1139,1999,Argentina,Northwest,Fruits,1485.32,1.05,1.58,10,87.6,24.34,87.71,63.46,Tanaman Tahan Kekeringan,5.16
+1261,1999,Argentina,Northwest,Fruits,2311.23,22.89,2.196,10,70.08,19.18,47.76,92.41,Rotasi Tanaman,5.12
+2196,1999,Argentina,Northwest,Fruits,2031.04,20.23,3.492,4,65.31,8.42,6.93,82.79,Manajemen Air,23.03
+6613,1999,Argentina,Northwest,Fruits,2618.1,18.74,4.3740000000000006,3,98.86,10.64,28.43,85.51,Tanpa Adaptasi,11.48
+42,1999,Argentina,Northwest,Rice,428.02,24.37,2.61,0,84.99,27.71,90.56,70.45,Tanaman Tahan Kekeringan,26.24
+3586,1999,Argentina,Northwest,Rice,2017.7,22.76,3.924,5,59.96,21.04,22.52,58.68,Tanaman Tahan Kekeringan,12.54
+4150,1999,Argentina,Northwest,Rice,2420.39,17.6,2.9970000000000003,6,66.35,38.5,33.37,51.38,Tanaman Tahan Kekeringan,15.1
+4299,1999,Argentina,Pampas,Corn,1656.41,17.26,1.98,6,84.88,28.14,76.64,73.2,Rotasi Tanaman,23.18
+7333,1999,Argentina,Pampas,Vegetables,2818.73,18.96,0.5850000000000001,0,91.42,1.06,64.1,97.47,Tanpa Adaptasi,7.34
+989,1999,Argentina,Pampas,,1228.06,6.86,2.99,7,85.52,45.39,76.85,57.07,Tanaman Tahan Kekeringan,-4.41
+6532,1999,Argentina,Patagonia,Coffee,1097.98,9.08,4.42,1,28.48,15.14,38.59,44.91,Rotasi Tanaman,13.6
+1959,1999,Argentina,Patagonia,Fruits,899.83,18.05,0.855,1,49.34,13.71,28.09,66.89,Manajemen Air,-4.2
+6858,1999,Argentina,Patagonia,Sugarcane,2812.56,27.2,0.63,5,16.13,39.34,69.31,39.13,Manajemen Air,-3.04
+7633,1999,Argentina,Patagonia,Wheat,229.16,27.68,3.4650000000000003,9,61.28,14.24,28.19,66.97,Pertanian Organik,34.94
+109,1999,Argentina,Patagonia,,871.92,4.24,0.9,4,33.15,13.54,73.38,40.24,Pertanian Organik,8.43
+619,2000,Argentina,Northeast,Coffee,1105.82,17.56,3.591,1,56.27,23.96,15.28,48.62,Pertanian Organik,33.04
+411,2000,Argentina,Northeast,Vegetables,2764.89,0.73,2.38,10,62.57,24.29,77.31,51.26,Tanaman Tahan Kekeringan,8.24
+5440,2000,Argentina,Northwest,Fruits,1055.45,17.13,1.944,2,72.76,48.6,98.31,42.53,Pertanian Organik,16.26
+4465,2000,Argentina,Northwest,Soybeans,474.28,17.0,1.98,2,86.63,11.91,1.76,31.07,Pertanian Organik,16.59
+4341,2000,Argentina,Northwest,Sugarcane,698.96,27.29,3.717,3,52.31,47.46,93.47,80.41,Pertanian Organik,17.93
+2224,2000,Argentina,Pampas,Barley,2796.86,29.93,2.79,3,32.03,43.59,48.93,61.56,Tanpa Adaptasi,24.86
+6457,2000,Argentina,Pampas,Coffee,1555.74,21.21,2.772,9,89.92,4.91,24.51,69.82,Manajemen Air,30.35
+6042,2000,Argentina,Pampas,Corn,1306.76,14.64,1.44,10,28.09,4.01,43.19,52.09,Pertanian Organik,34.41
+809,2000,Argentina,Pampas,Cotton,671.61,16.21,2.565,7,,0.03,87.39,65.22,Pertanian Organik,3.34
+6436,2000,Argentina,Pampas,Rice,317.92,13.7,2.259,0,18.34,10.25,60.39,99.53,Manajemen Air,3.77
+659,2000,Argentina,Pampas,Sugarcane,1695.44,4.83,1.4,7,66.92,33.25,98.0,67.83,Pertanian Organik,2.11
+3890,2000,Argentina,Pampas,Sugarcane,2888.28,10.33,2.28,3,11.01,40.7,54.71,62.07,Rotasi Tanaman,-4.37
+3059,2000,Argentina,Pampas,Vegetables,1748.9,23.36,1.476,3,17.43,35.08,79.62,51.57,Tanpa Adaptasi,-3.28
+6041,2000,Argentina,Patagonia,Coffee,357.76,26.01,1.161,10,78.53,11.94,26.0,41.46,Manajemen Air,31.92
+4111,2000,Argentina,Patagonia,Cotton,1041.69,17.16,1.908,2,13.97,49.66,18.29,82.11,Pertanian Organik,16.2
+1612,2000,Argentina,Patagonia,Soybeans,1743.24,9.79,3.03,4,53.84,29.09,85.28,39.69,Pertanian Organik,11.18
+4820,2000,Argentina,Patagonia,Soybeans,2386.39,10.92,3.76,9,,27.23,21.06,42.83,Tanpa Adaptasi,17.33
+7788,2000,Argentina,Patagonia,Vegetables,2222.58,19.37,2.511,7,34.2,42.4,44.74,75.46,Tanaman Tahan Kekeringan,6.06
+1135,2000,Argentina,Patagonia,Wheat,1317.07,7.71,3.32,3,58.75,7.44,79.75,34.18,Tanaman Tahan Kekeringan,24.13
+7678,2001,Argentina,Northeast,Barley,755.65,10.31,1.63,0,69.04,1.58,6.87,68.33,Pertanian Organik,4.34
+6459,2001,Argentina,Northeast,Cotton,2814.65,22.71,1.611,1,32.59,28.38,29.62,56.53,Pertanian Organik,20.68
+1652,2001,Argentina,Northeast,Fruits,2388.71,22.34,2.097,1,64.41,27.49,42.23,30.23,Rotasi Tanaman,12.92
+5640,2001,Argentina,Northeast,Rice,1773.55,7.72,2.96,6,54.17,47.56,49.34,84.21,Tanaman Tahan Kekeringan,-3.61
+5956,2001,Argentina,Northeast,Vegetables,2105.54,21.7,1.998,4,55.7,10.15,26.86,65.05,Tanpa Adaptasi,26.11
+3850,2001,Argentina,Northeast,Wheat,256.8,15.77,2.745,4,72.01,27.87,32.97,73.26,Rotasi Tanaman,11.87
+4566,2001,Argentina,Northeast,Wheat,1045.81,19.7,3.546,10,93.16,49.51,28.18,47.04,Tanaman Tahan Kekeringan,29.07
+1875,2001,Argentina,Northwest,Rice,1965.3,26.16,,8,93.7,46.32,66.81,62.02,Rotasi Tanaman,4.24
+3711,2001,Argentina,Northwest,Soybeans,820.81,15.91,1.962,9,42.08,32.49,32.86,46.49,Rotasi Tanaman,22.31
+6003,2001,Argentina,Northwest,Sugarcane,756.35,26.35,2.3400000000000003,6,39.79,32.68,88.55,80.58,Rotasi Tanaman,-4.45
+6050,2001,Argentina,Northwest,Sugarcane,2710.76,14.8,1.2,6,24.91,30.9,56.14,61.56,Tanpa Adaptasi,20.0
+1713,2001,Argentina,Northwest,Vegetables,694.22,19.04,1.4220000000000002,4,15.55,41.86,58.82,51.08,Manajemen Air,9.93
+5118,2001,Argentina,Northwest,Vegetables,2178.66,18.18,2.097,8,64.62,5.14,11.01,47.05,Manajemen Air,4.16
+2704,2001,Argentina,Northwest,Wheat,2566.86,23.9,3.591,7,40.14,2.69,34.98,58.18,Tanpa Adaptasi,29.96
+7554,2001,Argentina,Pampas,Corn,642.85,15.32,1.017,0,78.18,45.8,74.69,52.68,Pertanian Organik,3.27
+1933,2001,Argentina,Pampas,Fruits,2989.7,23.63,1.4580000000000002,9,92.56,12.81,92.51,58.78,Tanpa Adaptasi,20.27
+1493,2001,Argentina,Pampas,Wheat,1061.39,7.73,3.67,3,84.45,27.24,38.97,30.29,Tanaman Tahan Kekeringan,15.06
+4081,2001,Argentina,Patagonia,Corn,2727.41,4.21,1.15,6,80.3,44.39,33.67,31.44,Tanaman Tahan Kekeringan,24.44
+6220,2001,Argentina,Patagonia,Cotton,1528.54,3.1,2.79,4,20.52,12.26,14.81,95.2,Tanpa Adaptasi,15.9
+2465,2001,Argentina,Patagonia,Soybeans,1179.54,4.07,1.85,2,88.31,16.48,54.28,92.19,Rotasi Tanaman,19.64
+1690,2001,Argentina,Patagonia,Sugarcane,415.55,16.87,2.124,0,76.86,37.23,90.25,43.93,Tanpa Adaptasi,3.47
+5278,2001,Argentina,Patagonia,Sugarcane,1446.3,10.99,3.43,0,93.85,25.38,66.4,53.07,Tanpa Adaptasi,19.5
+7258,2001,Argentina,Patagonia,Vegetables,467.32,17.94,1.548,2,95.21,47.5,94.23,39.97,Rotasi Tanaman,13.88
+4500,2002,Argentina,Northeast,Vegetables,643.69,7.97,3.19,0,53.17,48.39,11.56,51.0,Manajemen Air,24.63
+298,2002,Argentina,Northeast,,1351.77,18.77,1.863,9,86.32,23.16,10.57,31.08,Tanpa Adaptasi,18.39
+6915,2002,Argentina,Northwest,Cotton,1376.94,10.72,3.13,7,37.16,46.45,39.88,60.31,Pertanian Organik,15.31
+7791,2002,Argentina,Northwest,Soybeans,493.73,6.45,1.611,6,40.02,25.72,99.7,39.36,Manajemen Air,27.82
+2149,2002,Argentina,Northwest,Sugarcane,2315.61,22.92,3.519,9,59.73,48.29,60.07,40.83,Tanpa Adaptasi,28.0
+7473,2002,Argentina,Northwest,Sugarcane,1963.68,11.48,2.11,7,67.43,46.26,11.44,79.06,Tanpa Adaptasi,-2.37
+1706,2002,Argentina,Northwest,Vegetables,475.24,7.86,1.287,6,65.6,10.92,20.17,84.36,Rotasi Tanaman,32.45
+33,2002,Argentina,Northwest,Wheat,266.75,16.87,2.3400000000000003,6,29.27,2.41,93.1,35.49,Tanaman Tahan Kekeringan,8.14
+7628,2002,Argentina,Pampas,Barley,2900.98,20.54,1.431,10,45.84,29.64,73.68,41.84,Tanaman Tahan Kekeringan,32.73
+3538,2002,Argentina,Pampas,Coffee,496.46,5.74,3.4290000000000003,2,22.0,17.09,88.86,81.97,Tanaman Tahan Kekeringan,12.14
+4171,2002,Argentina,Pampas,Coffee,2838.72,23.81,1.467,6,85.95,17.96,78.67,45.69,Tanpa Adaptasi,14.27
+4197,2002,Argentina,Pampas,Coffee,2665.68,3.31,3.0,0,96.57,23.14,63.04,51.72,Manajemen Air,15.2
+6181,2002,Argentina,Pampas,Rice,881.87,3.86,1.84,2,18.23,48.72,57.07,49.23,Pertanian Organik,28.74
+2306,2002,Argentina,Pampas,Wheat,,26.76,1.629,6,76.5,28.19,19.75,63.01,Tanaman Tahan Kekeringan,34.61
+7838,2002,Argentina,Pampas,,1125.19,10.64,3.86,10,66.88,46.53,40.14,48.61,Rotasi Tanaman,27.44
+3494,2002,Argentina,Patagonia,Fruits,1301.99,19.18,,2,12.28,10.66,37.47,62.63,Tanaman Tahan Kekeringan,-0.45
+4585,2002,Argentina,Patagonia,Rice,1383.66,8.15,3.15,8,22.81,7.74,94.41,48.97,Tanaman Tahan Kekeringan,29.33
+6736,2002,Argentina,Patagonia,Soybeans,2039.77,13.82,1.16,7,46.05,27.64,18.62,85.7,Tanpa Adaptasi,34.85
+5901,2002,Argentina,Patagonia,Vegetables,1626.83,29.86,4.383,7,24.72,21.49,90.12,35.34,Rotasi Tanaman,11.93
+1037,2002,Argentina,Patagonia,Wheat,1159.87,17.71,2.259,9,78.26,3.51,55.77,38.34,Manajemen Air,6.04
+1119,2003,Argentina,Northeast,Barley,1230.78,24.22,2.745,4,72.15,45.11,75.77,38.21,Pertanian Organik,14.37
+944,2003,Argentina,Northeast,Corn,1506.82,7.56,2.3,7,95.0,44.73,67.92,96.97,Pertanian Organik,-4.09
+4621,2003,Argentina,Northeast,Cotton,2570.73,28.89,1.242,6,53.14,19.24,54.33,81.98,Rotasi Tanaman,28.71
+2965,2003,Argentina,Northeast,Fruits,1501.43,7.13,2.62,4,51.35,21.34,54.76,98.97,Manajemen Air,23.27
+4102,2003,Argentina,Northeast,Soybeans,2353.76,1.2,2.17,3,46.46,19.28,14.27,79.07,Pertanian Organik,5.67
+240,2003,Argentina,Northeast,Sugarcane,749.42,13.02,1.15,2,15.22,35.55,43.26,63.4,Manajemen Air,2.24
+1098,2003,Argentina,Northeast,Wheat,969.18,11.68,2.93,0,99.98,20.18,47.73,80.84,Manajemen Air,26.6
+5298,2003,Argentina,Northeast,,1238.2,12.53,3.83,0,87.58,5.34,27.66,82.72,Pertanian Organik,22.32
+2506,2003,Argentina,Northwest,Corn,1774.92,0.54,3.52,5,57.32,3.46,95.17,94.09,Tanpa Adaptasi,27.03
+6555,2003,Argentina,Northwest,Vegetables,975.84,26.45,0.513,1,82.78,48.6,62.83,56.5,Tanpa Adaptasi,1.08
+6430,2003,Argentina,Northwest,Wheat,2060.79,28.6,4.311,6,96.58,46.52,60.31,56.29,Tanpa Adaptasi,19.1
+116,2003,Argentina,Pampas,Barley,581.46,14.06,3.9,2,46.96,48.02,94.28,89.79,Tanpa Adaptasi,15.3
+2776,2003,Argentina,Pampas,Barley,1165.2,7.1,1.15,7,59.86,17.25,90.95,64.53,Manajemen Air,-3.3
+2852,2003,Argentina,Pampas,Barley,1417.28,11.74,3.18,1,44.1,7.14,82.47,62.41,Tanaman Tahan Kekeringan,16.23
+2916,2003,Argentina,Pampas,Barley,1997.67,5.01,1.05,1,11.02,23.14,67.07,33.15,Manajemen Air,-1.18
+609,2003,Argentina,Pampas,Rice,2298.23,5.19,1.64,7,72.25,26.54,52.6,89.85,Tanpa Adaptasi,27.39
+5265,2003,Argentina,Pampas,Soybeans,2445.14,20.06,3.5730000000000004,2,74.5,34.9,93.82,64.33,Tanpa Adaptasi,12.79
+7451,2003,Argentina,Pampas,Soybeans,334.73,8.17,2.394,5,77.46,20.03,28.7,74.61,Pertanian Organik,-1.77
+6905,2003,Argentina,Pampas,Sugarcane,959.28,18.32,2.871,10,21.87,38.4,0.94,64.92,Rotasi Tanaman,10.33
+5239,2003,Argentina,Pampas,Vegetables,1114.58,9.36,3.32,1,44.43,17.52,35.58,71.4,Tanaman Tahan Kekeringan,19.64
+6287,2003,Argentina,Patagonia,Cotton,1011.19,24.53,,9,28.36,42.08,58.32,84.31,Manajemen Air,27.28
+38,2003,Argentina,Patagonia,Soybeans,2219.52,27.52,1.782,0,15.74,27.45,40.26,96.37,Rotasi Tanaman,30.63
+2737,2003,Argentina,Patagonia,Sugarcane,282.31,23.77,3.744,9,15.39,16.37,7.47,47.62,Tanaman Tahan Kekeringan,16.13
+1606,2004,Argentina,Northeast,Barley,2019.75,15.06,3.285,0,51.76,35.75,99.89,94.71,Manajemen Air,24.77
+840,2004,Argentina,Northeast,Cotton,1050.25,28.6,2.079,7,39.17,19.23,69.1,71.92,Rotasi Tanaman,11.94
+2205,2004,Argentina,Northeast,Vegetables,2047.79,12.78,2.93,9,70.32,7.29,91.27,82.32,Rotasi Tanaman,8.31
+3838,2004,Argentina,Northeast,,373.98,29.26,2.9970000000000003,2,61.01,48.6,61.74,35.25,Tanaman Tahan Kekeringan,31.11
+6082,2004,Argentina,Northwest,Fruits,2662.8,25.27,2.4480000000000004,3,97.64,46.5,10.65,62.85,Pertanian Organik,9.41
+7064,2004,Argentina,Northwest,Rice,358.29,29.08,2.3400000000000003,5,86.49,15.04,79.77,56.8,Manajemen Air,27.12
+1194,2004,Argentina,Northwest,Soybeans,415.52,28.84,2.3400000000000003,4,49.39,2.76,5.49,44.95,Rotasi Tanaman,-2.41
+6037,2004,Argentina,Northwest,Sugarcane,1995.92,26.44,1.809,9,93.3,32.8,44.73,63.11,Rotasi Tanaman,5.49
+7635,2004,Argentina,Northwest,Vegetables,2267.09,1.04,2.15,6,44.09,49.89,69.89,43.12,Tanaman Tahan Kekeringan,3.45
+2775,2004,Argentina,Pampas,Coffee,2562.14,17.05,1.251,7,85.16,15.21,46.1,31.12,Tanaman Tahan Kekeringan,9.22
+7174,2004,Argentina,Pampas,Corn,297.86,23.27,1.917,5,15.57,47.62,44.08,52.08,Manajemen Air,15.56
+4477,2004,Argentina,Pampas,Cotton,2513.34,6.48,1.47,8,50.42,36.32,77.29,60.43,Rotasi Tanaman,31.37
+3009,2004,Argentina,Pampas,Fruits,260.08,22.48,3.681,10,86.01,5.91,44.04,89.12,Manajemen Air,15.85
+4659,2004,Argentina,Pampas,Rice,756.52,17.36,,6,61.62,8.09,50.61,41.52,Rotasi Tanaman,3.72
+995,2004,Argentina,Pampas,Wheat,,20.52,1.377,4,80.57,44.32,39.56,89.5,Tanaman Tahan Kekeringan,2.2
+1927,2004,Argentina,Patagonia,Coffee,2510.62,28.98,0.8280000000000001,0,12.51,39.09,50.39,55.48,Pertanian Organik,-0.33
+387,2004,Argentina,Patagonia,Corn,2710.38,17.03,0.945,3,80.42,45.53,19.6,96.13,Rotasi Tanaman,20.98
+5842,2004,Argentina,Patagonia,Corn,2195.49,17.19,1.2240000000000002,8,22.9,1.08,30.39,56.6,Tanaman Tahan Kekeringan,7.64
+4073,2004,Argentina,Patagonia,Fruits,2019.86,13.78,1.28,3,18.41,26.86,84.12,78.76,Rotasi Tanaman,21.03
+5062,2004,Argentina,Patagonia,Fruits,756.26,25.26,1.017,0,34.3,34.94,64.84,76.43,Rotasi Tanaman,26.69
+2995,2004,Argentina,Patagonia,Vegetables,1802.41,4.25,1.25,0,16.62,28.1,42.12,92.72,Pertanian Organik,24.08
+6431,2004,Argentina,Patagonia,Wheat,811.72,4.12,2.91,3,42.34,40.76,81.19,72.55,Tanpa Adaptasi,7.2
+5069,2005,Argentina,Northeast,Barley,2445.9,12.47,1.68,1,98.17,34.6,60.85,69.6,Tanpa Adaptasi,17.62
+4876,2005,Argentina,Northeast,Coffee,334.47,12.27,1.557,8,47.97,4.5,78.77,73.04,Pertanian Organik,5.37
+3233,2005,Argentina,Northeast,Cotton,2047.8,20.8,2.97,3,14.2,46.8,84.21,69.76,Rotasi Tanaman,28.99
+7900,2005,Argentina,Northeast,Sugarcane,1375.0,12.26,4.65,8,11.57,42.16,88.44,90.01,Tanpa Adaptasi,17.89
+4654,2005,Argentina,Northeast,Vegetables,1642.48,21.68,2.682,9,60.72,5.97,15.72,31.16,Manajemen Air,9.72
+6895,2005,Argentina,Northwest,Corn,594.37,6.57,4.67,6,52.07,0.69,84.08,83.07,Tanaman Tahan Kekeringan,17.63
+1755,2005,Argentina,Northwest,Rice,742.26,26.77,2.097,0,25.71,20.3,78.85,98.14,Rotasi Tanaman,26.43
+4632,2005,Argentina,Northwest,Vegetables,508.02,9.41,2.52,6,31.0,45.93,45.35,78.43,Tanaman Tahan Kekeringan,2.65
+3110,2005,Argentina,Northwest,Wheat,1828.73,28.23,1.548,0,49.4,17.26,58.91,85.18,Manajemen Air,34.28
+7280,2005,Argentina,Northwest,Wheat,595.87,18.93,1.719,9,21.48,9.13,90.01,83.19,Rotasi Tanaman,0.43
+358,2005,Argentina,Pampas,Fruits,2916.26,26.23,1.548,5,36.17,1.09,31.46,53.8,Tanaman Tahan Kekeringan,-2.66
+7776,2005,Argentina,Pampas,Soybeans,2609.02,24.97,2.592,7,84.69,27.13,7.87,34.22,Tanpa Adaptasi,11.85
+4124,2005,Argentina,Pampas,Wheat,687.28,28.67,0.513,2,79.56,28.98,7.94,57.06,Tanpa Adaptasi,9.91
+1786,2005,Argentina,Pampas,,1241.69,12.47,4.39,7,44.87,0.41,34.5,67.96,Manajemen Air,19.63
+3905,2005,Argentina,Patagonia,Coffee,2466.43,27.85,2.493,9,,28.9,36.91,45.2,Tanpa Adaptasi,24.17
+1872,2005,Argentina,Patagonia,Cotton,1614.88,23.74,1.881,9,13.41,22.9,69.05,70.87,Tanpa Adaptasi,33.33
+5270,2005,Argentina,Patagonia,Cotton,2483.06,20.94,1.773,3,71.01,3.16,9.48,99.21,Manajemen Air,-0.7
+525,2005,Argentina,Patagonia,Soybeans,1349.22,15.6,1.575,6,22.69,8.82,25.13,41.98,Tanpa Adaptasi,8.38
+3991,2005,Argentina,Patagonia,Vegetables,2910.6,16.13,2.952,7,92.46,6.43,24.48,79.01,Tanaman Tahan Kekeringan,10.22
+1564,2005,Argentina,Patagonia,,2872.77,18.88,2.646,10,37.05,46.59,82.3,58.61,Tanaman Tahan Kekeringan,13.63
+4915,2006,Argentina,Northeast,Corn,2712.27,17.02,1.467,4,88.28,34.57,58.44,98.65,Tanaman Tahan Kekeringan,14.94
+3196,2006,Argentina,Northeast,Rice,2216.87,23.07,3.474,5,89.51,16.68,5.03,37.88,Manajemen Air,13.69
+110,2006,Argentina,Northeast,Soybeans,2178.89,3.03,2.03,1,11.36,27.42,39.79,90.35,Manajemen Air,17.51
+6823,2006,Argentina,Northeast,Soybeans,2100.28,26.0,1.386,1,60.6,21.17,96.49,58.04,Pertanian Organik,1.54
+6228,2006,Argentina,Northwest,Coffee,890.52,16.65,3.474,3,18.87,15.58,75.54,52.7,Rotasi Tanaman,10.13
+6632,2006,Argentina,Northwest,Corn,1924.02,1.03,2.88,10,17.06,42.03,37.85,85.55,Tanpa Adaptasi,14.83
+3381,2006,Argentina,Northwest,Fruits,1189.8,22.59,1.116,4,33.99,37.3,30.78,39.09,Pertanian Organik,28.24
+5363,2006,Argentina,Northwest,Sugarcane,1777.73,2.0,1.33,3,57.86,23.89,2.5,59.57,Manajemen Air,28.74
+770,2006,Argentina,Pampas,Barley,1087.89,27.42,3.015,2,90.12,9.33,48.57,51.91,Manajemen Air,10.38
+5574,2006,Argentina,Pampas,Fruits,1267.51,23.4,,9,54.22,35.58,68.04,31.64,Tanpa Adaptasi,5.44
+7300,2006,Argentina,Pampas,Sugarcane,455.96,20.1,2.205,1,52.83,35.85,14.04,95.36,Manajemen Air,5.39
+381,2006,Argentina,Patagonia,Barley,1637.7,16.65,0.927,4,20.93,19.71,36.55,52.07,Tanpa Adaptasi,-4.42
+2997,2006,Argentina,Patagonia,Barley,2657.62,3.76,3.1,9,37.94,15.39,45.16,88.06,Tanpa Adaptasi,24.29
+145,2006,Argentina,Patagonia,Corn,1099.55,17.48,1.575,0,52.61,18.89,63.33,38.28,Tanpa Adaptasi,23.88
+677,2006,Argentina,Patagonia,Cotton,697.33,6.91,2.68,0,49.73,43.04,76.13,30.18,Rotasi Tanaman,33.55
+3920,2006,Argentina,Patagonia,Fruits,907.06,5.55,4.32,4,62.44,1.89,78.25,69.73,Pertanian Organik,15.06
+1998,2006,Argentina,Patagonia,Vegetables,2759.74,7.39,2.78,8,10.07,26.27,69.51,92.32,Tanpa Adaptasi,27.36
+1123,2006,Argentina,Patagonia,Wheat,1382.09,15.85,2.736,1,96.26,45.06,26.59,88.56,Rotasi Tanaman,20.57
+3585,2006,Argentina,Patagonia,Wheat,803.58,13.17,3.64,8,29.12,11.16,54.49,69.66,Pertanian Organik,17.82
+6484,2007,Argentina,Northeast,Barley,2454.19,9.54,3.94,4,91.13,22.87,51.73,61.98,Tanaman Tahan Kekeringan,23.19
+4894,2007,Argentina,Northeast,Fruits,1290.67,3.26,2.5,3,49.75,23.7,50.41,88.56,Manajemen Air,29.19
+1954,2007,Argentina,Northeast,Sugarcane,1491.29,4.55,3.42,10,47.14,23.91,51.57,82.6,Tanpa Adaptasi,16.8
+2291,2007,Argentina,Northeast,Vegetables,955.6,11.57,,2,88.8,34.05,0.95,68.76,Pertanian Organik,12.35
+7253,2007,Argentina,Northwest,Cotton,1550.98,26.75,1.791,3,81.34,38.52,6.83,85.82,Manajemen Air,25.12
+7869,2007,Argentina,Northwest,Fruits,2143.85,23.79,2.502,8,89.05,48.49,63.39,98.91,Pertanian Organik,20.13
+4295,2007,Argentina,Northwest,Rice,2389.79,18.03,4.203,7,13.52,20.13,52.28,95.55,Pertanian Organik,12.71
+6460,2007,Argentina,Northwest,Rice,401.15,20.19,2.295,7,74.43,13.37,44.54,66.85,Pertanian Organik,26.03
+1057,2007,Argentina,Northwest,Soybeans,920.9,29.23,1.872,7,80.06,26.01,91.53,48.41,Rotasi Tanaman,-3.29
+1475,2007,Argentina,Northwest,Soybeans,1462.56,28.99,1.638,9,60.31,24.23,46.63,39.68,Tanpa Adaptasi,9.44
+3943,2007,Argentina,Northwest,Vegetables,2628.53,23.11,,8,54.83,26.87,2.42,34.63,Manajemen Air,33.17
+7017,2007,Argentina,Pampas,Barley,1923.15,15.1,3.681,6,76.49,2.63,51.75,39.31,Tanpa Adaptasi,15.73
+697,2007,Argentina,Pampas,Corn,2998.88,15.48,1.314,3,99.3,39.39,11.95,38.04,Manajemen Air,7.44
+2489,2007,Argentina,Pampas,Cotton,572.39,6.97,2.33,2,97.22,3.64,59.89,96.11,Tanaman Tahan Kekeringan,31.97
+915,2007,Argentina,Pampas,Soybeans,1655.07,6.49,1.05,0,23.76,43.67,11.81,82.26,Tanpa Adaptasi,30.04
+2162,2007,Argentina,Pampas,Vegetables,1178.85,25.98,3.591,5,20.14,33.17,66.23,81.31,Pertanian Organik,31.87
+3308,2007,Argentina,Pampas,,1892.35,16.9,1.152,0,89.03,49.3,43.78,97.61,Tanaman Tahan Kekeringan,3.37
+420,2007,Argentina,Patagonia,Corn,2631.72,21.1,2.592,0,92.84,11.81,66.95,33.66,Tanaman Tahan Kekeringan,20.78
+3860,2007,Argentina,Patagonia,Cotton,539.8,28.38,1.2060000000000002,2,60.0,6.52,46.99,86.51,Pertanian Organik,33.78
+5720,2007,Argentina,Patagonia,Soybeans,1706.16,24.58,4.095,8,54.66,28.4,28.83,79.38,Manajemen Air,12.74
+4123,2007,Argentina,Patagonia,Vegetables,2296.47,28.38,2.07,8,43.06,49.54,76.16,32.39,Manajemen Air,30.87
+5282,2007,Argentina,Patagonia,,2359.34,5.96,1.97,9,91.91,3.04,86.78,67.94,Pertanian Organik,-2.89
+3392,2008,Argentina,Northeast,Corn,2120.7,12.04,1.84,4,87.57,48.78,91.79,34.02,Pertanian Organik,-4.56
+7868,2008,Argentina,Northeast,Rice,2584.58,2.89,2.21,10,77.63,47.24,19.44,74.7,Tanpa Adaptasi,5.4
+3329,2008,Argentina,Northeast,Vegetables,2324.48,24.54,0.774,7,82.42,8.41,59.64,52.0,Rotasi Tanaman,8.83
+1161,2008,Argentina,Northwest,Coffee,448.19,3.58,1.215,0,71.24,22.33,26.14,87.09,Tanaman Tahan Kekeringan,24.01
+1066,2008,Argentina,Northwest,Corn,1205.04,20.68,3.6,5,65.4,2.36,96.0,34.22,Rotasi Tanaman,14.65
+6837,2008,Argentina,Northwest,Corn,2385.24,28.94,0.9,3,93.7,11.37,16.79,30.22,Manajemen Air,4.22
+2193,2008,Argentina,Northwest,Cotton,894.98,29.62,2.529,1,25.03,23.88,43.28,60.85,Tanaman Tahan Kekeringan,19.18
+5895,2008,Argentina,Northwest,Soybeans,2013.08,22.3,2.6910000000000003,1,21.76,7.32,73.31,46.39,Manajemen Air,28.57
+6051,2008,Argentina,Northwest,Sugarcane,864.05,5.9,3.68,2,66.61,39.72,13.96,70.82,Pertanian Organik,23.81
+537,2008,Argentina,Northwest,Vegetables,1743.9,23.59,1.017,2,37.98,36.85,16.03,79.16,Rotasi Tanaman,-1.06
+2335,2008,Argentina,Northwest,Vegetables,2731.04,21.16,,5,89.51,44.36,58.53,35.43,Rotasi Tanaman,-2.88
+4822,2008,Argentina,Northwest,Wheat,1909.91,5.79,1.11,10,94.1,44.69,14.54,85.88,Tanpa Adaptasi,3.83
+10,2008,Argentina,Pampas,Barley,1653.72,29.45,2.817,8,49.9,38.76,87.34,37.86,Tanpa Adaptasi,25.79
+3620,2008,Argentina,Pampas,Barley,2558.46,25.83,3.591,2,25.33,27.78,23.14,72.44,Manajemen Air,13.05
+848,2008,Argentina,Pampas,Fruits,764.39,13.19,2.73,10,60.99,18.55,59.6,58.91,Manajemen Air,25.34
+6250,2008,Argentina,Pampas,Fruits,2836.24,11.66,0.67,7,27.74,31.73,18.91,53.0,Tanaman Tahan Kekeringan,2.24
+3327,2008,Argentina,Pampas,Rice,,23.32,1.323,2,31.8,32.67,81.05,61.01,Manajemen Air,28.67
+2378,2008,Argentina,Pampas,Sugarcane,1374.53,14.95,2.3,4,24.86,30.97,54.85,97.49,Tanpa Adaptasi,11.84
+2545,2008,Argentina,Pampas,Vegetables,1126.92,10.14,1.52,10,28.42,30.65,7.56,31.46,Rotasi Tanaman,18.62
+5330,2008,Argentina,Patagonia,Barley,2217.42,23.16,1.656,4,79.59,2.37,0.74,46.46,Pertanian Organik,-2.63
+6757,2008,Argentina,Patagonia,Barley,827.93,10.09,1.34,10,43.83,48.66,96.09,54.74,Tanpa Adaptasi,9.09
+6175,2008,Argentina,Patagonia,Cotton,2291.41,18.18,2.1870000000000003,6,26.46,28.75,46.17,81.29,Pertanian Organik,30.45
+4710,2008,Argentina,Patagonia,Rice,1062.71,26.36,1.314,6,71.07,21.54,27.31,91.49,Pertanian Organik,20.31
+7710,2008,Argentina,Patagonia,Rice,1531.88,14.84,0.6,4,97.35,31.03,28.06,40.2,Rotasi Tanaman,-1.59
+7834,2008,Argentina,Patagonia,Rice,1654.26,18.76,2.475,7,76.13,41.34,71.6,89.07,Rotasi Tanaman,2.74
+5824,2008,Argentina,Patagonia,Sugarcane,1624.03,16.23,1.485,6,70.65,24.51,7.69,73.73,Rotasi Tanaman,25.0
+1496,2009,Argentina,Northeast,Barley,2250.37,12.99,0.89,10,74.03,20.52,85.49,90.62,Manajemen Air,3.88
+4804,2009,Argentina,Northeast,Barley,249.92,9.55,0.81,6,28.44,29.23,34.74,99.42,Pertanian Organik,31.32
+6066,2009,Argentina,Northeast,Corn,713.31,28.96,1.764,9,81.18,32.27,2.71,85.31,Manajemen Air,25.89
+4692,2009,Argentina,Northeast,Rice,2223.42,12.75,1.86,0,74.86,21.6,13.11,75.99,Pertanian Organik,13.36
+404,2009,Argentina,Northeast,Vegetables,370.08,17.23,2.7,5,13.09,16.3,55.24,65.36,Tanaman Tahan Kekeringan,15.62
+3061,2009,Argentina,Northeast,Wheat,,25.91,0.5940000000000001,4,15.73,22.74,67.18,70.38,Tanpa Adaptasi,-2.38
+7368,2009,Argentina,Northeast,Wheat,1440.91,7.86,2.41,0,27.28,29.93,15.11,76.32,Manajemen Air,31.96
+1316,2009,Argentina,Northwest,Corn,807.84,17.27,1.926,4,80.36,41.46,43.03,80.43,Rotasi Tanaman,6.35
+3443,2009,Argentina,Northwest,Corn,2769.2,11.55,3.64,0,75.77,15.9,41.08,40.36,Tanpa Adaptasi,11.84
+5920,2009,Argentina,Northwest,Cotton,308.52,1.98,3.015,5,81.7,33.08,3.07,50.7,Manajemen Air,13.96
+904,2009,Argentina,Northwest,Fruits,1832.74,13.76,3.28,10,16.38,29.02,36.77,90.47,Tanpa Adaptasi,16.94
+2562,2009,Argentina,Northwest,Fruits,311.18,14.11,3.258,5,83.38,47.15,77.64,59.64,Tanaman Tahan Kekeringan,21.35
+7629,2009,Argentina,Northwest,Fruits,1204.82,26.52,2.745,4,18.01,14.9,5.86,79.83,Pertanian Organik,11.83
+6748,2009,Argentina,Northwest,Sugarcane,1456.64,9.21,1.93,4,20.3,37.87,19.66,53.82,Tanpa Adaptasi,3.71
+7777,2009,Argentina,Northwest,Sugarcane,289.28,7.92,2.313,5,26.84,29.52,92.36,33.83,Manajemen Air,33.64
+1228,2009,Argentina,Pampas,Cotton,2919.18,27.82,1.746,10,28.7,36.28,26.76,68.01,Manajemen Air,26.52
+4705,2009,Argentina,Pampas,Cotton,2599.92,19.33,3.546,9,85.53,43.44,1.7,55.75,Pertanian Organik,15.94
+5817,2009,Argentina,Pampas,Wheat,1509.81,7.2,2.09,2,15.22,17.59,27.86,94.02,Manajemen Air,22.6
+6795,2009,Argentina,Patagonia,Barley,1728.43,26.42,1.386,7,76.25,3.55,76.43,50.06,Tanaman Tahan Kekeringan,24.55
+6653,2009,Argentina,Patagonia,Coffee,2417.96,2.21,0.9,1,84.01,8.46,81.6,73.89,Manajemen Air,24.13
+3245,2009,Argentina,Patagonia,Cotton,1942.88,16.49,0.738,7,50.86,23.72,96.68,98.64,Tanpa Adaptasi,1.63
+1431,2009,Argentina,Patagonia,Fruits,2546.96,27.5,2.286,8,52.91,35.69,10.59,75.37,Tanaman Tahan Kekeringan,1.95
+6169,2009,Argentina,Patagonia,Soybeans,1243.45,19.22,2.385,1,56.04,48.87,70.6,84.75,Manajemen Air,4.75
+533,2009,Argentina,Patagonia,Vegetables,1292.03,2.46,4.14,9,23.88,10.48,51.58,69.13,Manajemen Air,13.24
+6241,2010,Argentina,Northeast,Barley,1902.36,24.3,3.834,3,78.78,39.84,4.34,46.08,Tanaman Tahan Kekeringan,17.78
+5873,2010,Argentina,Northeast,Coffee,1518.82,18.98,3.294,1,25.41,40.98,85.26,93.73,Rotasi Tanaman,10.54
+2743,2010,Argentina,Northeast,Corn,1701.93,15.63,1.548,10,57.31,8.21,27.94,44.33,Manajemen Air,17.04
+3181,2010,Argentina,Northeast,Corn,415.24,6.08,2.556,10,33.11,42.05,95.01,92.96,Manajemen Air,9.35
+5023,2010,Argentina,Northeast,Fruits,919.72,21.84,3.393,6,94.33,33.69,68.87,30.43,Tanaman Tahan Kekeringan,17.76
+2925,2010,Argentina,Northeast,Soybeans,470.98,17.13,,10,96.03,27.06,73.59,81.82,Manajemen Air,15.39
+6491,2010,Argentina,Northeast,Sugarcane,1475.72,9.6,2.52,1,26.25,15.03,41.31,35.26,Tanpa Adaptasi,8.21
+5308,2010,Argentina,Northeast,Vegetables,2648.4,22.17,3.186,1,59.95,24.22,0.6,99.64,Pertanian Organik,10.84
+1102,2010,Argentina,Northwest,Coffee,2667.57,8.93,4.4,3,33.03,37.06,21.21,50.3,Tanpa Adaptasi,15.97
+7002,2010,Argentina,Northwest,Corn,868.55,8.12,2.76,5,61.41,30.42,3.22,37.89,Manajemen Air,14.13
+21,2010,Argentina,Northwest,Cotton,2390.35,28.42,1.8,7,33.84,19.28,70.25,46.82,Tanaman Tahan Kekeringan,-3.99
+7269,2010,Argentina,Northwest,Cotton,2829.04,15.71,2.295,6,38.05,36.07,52.25,63.27,Pertanian Organik,9.29
+241,2010,Argentina,Northwest,Fruits,938.02,7.55,1.66,5,14.23,26.83,87.83,79.27,Tanpa Adaptasi,10.65
+7021,2010,Argentina,Northwest,Rice,1497.29,5.21,,9,81.06,19.39,74.9,61.47,Tanpa Adaptasi,18.88
+2418,2010,Argentina,Northwest,Vegetables,1319.7,18.0,1.449,2,26.43,42.41,82.63,98.01,Rotasi Tanaman,18.51
+6582,2010,Argentina,Pampas,Barley,1490.67,13.7,2.22,1,75.46,30.88,90.56,37.82,Manajemen Air,10.45
+2652,2010,Argentina,Pampas,Coffee,1554.98,7.08,2.88,0,47.53,32.83,31.99,89.09,Pertanian Organik,21.8
+51,2010,Argentina,Pampas,Rice,2413.2,8.16,3.19,6,82.61,41.93,45.94,43.5,Tanaman Tahan Kekeringan,27.18
+5950,2010,Argentina,Patagonia,Barley,2579.91,6.33,3.07,7,13.57,23.91,32.73,56.81,Rotasi Tanaman,28.39
+4396,2010,Argentina,Patagonia,Cotton,2144.75,11.07,1.06,9,88.33,28.75,62.03,72.13,Manajemen Air,3.26
+3669,2010,Argentina,Patagonia,Soybeans,2570.13,23.17,2.556,5,80.65,28.8,73.42,88.46,Tanaman Tahan Kekeringan,1.97
+1352,2010,Argentina,Patagonia,Sugarcane,1617.88,25.22,2.403,7,36.98,30.45,44.8,81.75,Manajemen Air,18.6
+3467,2010,Argentina,Patagonia,Wheat,1809.02,15.35,2.61,8,95.22,38.45,38.13,58.45,Tanaman Tahan Kekeringan,-3.65
+4689,2011,Argentina,Northeast,Cotton,1367.1,8.03,3.02,10,40.55,23.82,41.39,97.38,Manajemen Air,33.09
+6920,2011,Argentina,Northeast,Fruits,1565.6,23.49,2.3400000000000003,9,35.34,46.89,65.01,64.26,Tanpa Adaptasi,18.03
+461,2011,Argentina,Northeast,Soybeans,264.5,27.26,2.574,4,61.85,28.34,70.37,56.93,Tanaman Tahan Kekeringan,17.24
+5185,2011,Argentina,Northwest,Barley,1054.71,19.71,2.736,0,79.4,23.84,22.95,44.66,Rotasi Tanaman,30.38
+2058,2011,Argentina,Northwest,Fruits,1513.95,11.88,4.11,6,20.04,1.28,45.29,94.95,Tanaman Tahan Kekeringan,14.1
+6695,2011,Argentina,Northwest,Rice,2260.34,9.59,1.76,4,26.68,2.3,73.25,94.73,Manajemen Air,0.89
+6789,2011,Argentina,Northwest,Vegetables,2346.08,28.47,1.836,5,78.16,20.96,2.41,65.84,Rotasi Tanaman,27.72
+5933,2011,Argentina,Northwest,Wheat,1298.0,28.94,2.403,7,85.88,23.42,37.81,82.46,Tanpa Adaptasi,18.52
+5661,2011,Argentina,Pampas,Corn,619.89,12.78,2.07,5,60.59,3.01,82.93,96.84,Pertanian Organik,29.63
+4005,2011,Argentina,Pampas,Cotton,977.8,4.47,3.65,4,84.61,14.55,58.37,58.54,Tanpa Adaptasi,11.35
+602,2011,Argentina,Pampas,Rice,1365.46,1.01,0.91,8,67.99,19.07,19.21,47.62,Tanaman Tahan Kekeringan,3.94
+1022,2011,Argentina,Pampas,Rice,2365.05,20.42,1.044,10,26.13,40.02,42.51,52.49,Rotasi Tanaman,-2.09
+6819,2011,Argentina,Pampas,Rice,2516.88,16.89,1.332,9,32.7,33.0,22.43,35.28,Rotasi Tanaman,20.32
+6550,2011,Argentina,Patagonia,Barley,385.25,15.2,1.989,7,88.69,28.13,91.85,41.22,Manajemen Air,18.4
+547,2011,Argentina,Patagonia,Coffee,359.22,10.32,3.798,8,53.35,16.63,96.32,40.91,Pertanian Organik,12.03
+793,2011,Argentina,Patagonia,Fruits,2686.06,16.89,1.026,4,97.34,32.55,20.1,68.39,Tanpa Adaptasi,0.59
+3045,2011,Argentina,Patagonia,Rice,2686.43,13.65,0.93,7,29.68,44.78,38.4,74.68,Tanaman Tahan Kekeringan,-1.84
+4522,2011,Argentina,Patagonia,Soybeans,863.22,11.59,1.37,0,88.69,47.1,79.48,90.83,Rotasi Tanaman,33.9
+477,2011,Argentina,Patagonia,Wheat,2018.8,24.91,4.356,5,72.52,15.97,0.68,44.62,Manajemen Air,17.14
+5922,2012,Argentina,Northeast,Corn,2070.04,16.17,2.16,8,43.4,11.74,28.76,90.22,Rotasi Tanaman,26.19
+7074,2012,Argentina,Northeast,Rice,2595.38,13.09,2.13,10,13.53,23.83,38.47,36.26,Rotasi Tanaman,6.43
+7770,2012,Argentina,Northeast,Soybeans,1818.94,16.76,4.365,8,87.59,21.88,0.69,91.82,Rotasi Tanaman,12.03
+1199,2012,Argentina,Northeast,Sugarcane,2974.26,7.78,2.17,2,40.43,20.36,31.33,39.81,Tanaman Tahan Kekeringan,32.41
+6057,2012,Argentina,Northeast,Sugarcane,2761.96,2.23,2.78,7,37.89,9.74,72.35,44.13,Rotasi Tanaman,29.2
+7761,2012,Argentina,Northeast,Vegetables,1391.15,15.3,1.4580000000000002,5,73.64,0.93,46.24,77.43,Tanaman Tahan Kekeringan,26.71
+7223,2012,Argentina,Northeast,Wheat,2544.36,7.16,3.07,7,77.55,37.17,59.15,58.87,Manajemen Air,24.06
+4116,2012,Argentina,Northeast,,2449.88,27.72,3.42,7,93.4,26.16,59.39,53.62,Manajemen Air,20.62
+3036,2012,Argentina,Northwest,Corn,298.69,18.79,1.53,1,20.49,25.26,82.87,56.95,Pertanian Organik,-2.32
+5446,2012,Argentina,Northwest,Soybeans,883.16,28.03,4.014,8,58.97,49.31,23.7,81.48,Manajemen Air,16.11
+226,2012,Argentina,Northwest,Sugarcane,2146.62,22.88,1.098,1,15.17,31.39,31.1,48.73,Rotasi Tanaman,31.77
+775,2012,Argentina,Northwest,Sugarcane,2450.08,3.32,0.96,8,19.53,4.19,18.9,43.32,Tanaman Tahan Kekeringan,29.57
+5926,2012,Argentina,Northwest,Sugarcane,1787.08,11.54,1.13,0,52.56,11.21,41.53,57.28,Tanpa Adaptasi,-2.84
+6294,2012,Argentina,Northwest,Sugarcane,2956.5,4.54,0.59,1,30.02,30.31,97.2,49.8,Rotasi Tanaman,2.56
+4688,2012,Argentina,Northwest,Vegetables,2114.98,25.04,2.106,0,97.27,48.7,24.03,40.78,Rotasi Tanaman,25.35
+6398,2012,Argentina,Pampas,Barley,2928.02,2.97,4.06,4,41.23,12.91,74.46,92.52,Tanpa Adaptasi,17.16
+5106,2012,Argentina,Pampas,Cotton,2475.16,27.31,3.717,5,83.34,15.67,28.56,98.12,Tanaman Tahan Kekeringan,15.16
+6529,2012,Argentina,Pampas,Cotton,2827.54,24.97,1.944,10,40.23,47.69,5.05,56.72,Manajemen Air,31.3
+2190,2012,Argentina,Patagonia,Soybeans,2453.34,0.52,2.32,8,94.18,49.47,47.99,59.56,Rotasi Tanaman,7.18
+3093,2012,Argentina,Patagonia,Soybeans,2051.86,18.02,2.61,3,,10.56,72.36,43.34,Tanaman Tahan Kekeringan,8.96
+3320,2012,Argentina,Patagonia,Sugarcane,2433.88,2.54,1.69,2,86.15,40.06,19.14,33.79,Rotasi Tanaman,6.5
+2632,2012,Argentina,Patagonia,Wheat,2119.52,18.06,2.439,4,51.23,29.2,11.5,36.47,Tanpa Adaptasi,9.47
+2150,2013,Argentina,Northeast,Barley,2751.96,17.01,3.744,7,70.03,49.58,45.4,37.2,Rotasi Tanaman,19.25
+6189,2013,Argentina,Northeast,Barley,2982.36,9.82,2.02,2,,21.54,83.28,89.54,Rotasi Tanaman,31.07
+3008,2013,Argentina,Northeast,Coffee,631.26,24.92,3.006,10,11.15,7.14,71.35,61.08,Manajemen Air,34.33
+3081,2013,Argentina,Northeast,Coffee,883.32,25.09,3.267,6,30.34,43.39,97.05,85.81,Rotasi Tanaman,15.86
+6247,2013,Argentina,Northeast,Corn,1928.63,18.54,2.529,5,59.76,21.83,70.58,86.89,Rotasi Tanaman,25.79
+2244,2013,Argentina,Northeast,Soybeans,,28.56,3.267,3,38.2,16.91,42.22,40.84,Tanpa Adaptasi,14.36
+6616,2013,Argentina,Northeast,Soybeans,891.55,9.06,0.95,8,33.31,5.72,81.49,82.66,Manajemen Air,33.63
+1413,2013,Argentina,Northeast,Wheat,2831.46,26.55,0.801,0,72.56,46.22,2.32,91.74,Pertanian Organik,31.95
+2806,2013,Argentina,Northeast,Wheat,1265.64,19.24,1.017,5,93.02,1.03,19.1,64.84,Manajemen Air,32.54
+4902,2013,Argentina,Northeast,Wheat,2005.22,10.85,2.91,9,69.11,25.24,84.85,73.2,Rotasi Tanaman,7.93
+7327,2013,Argentina,Northeast,Wheat,1892.03,16.47,4.023,4,94.63,45.01,10.51,82.13,Pertanian Organik,14.59
+1408,2013,Argentina,Northwest,Corn,285.91,24.92,1.944,9,55.41,26.43,23.67,49.67,Pertanian Organik,4.11
+2393,2013,Argentina,Northwest,Cotton,859.32,5.99,2.24,9,69.28,8.87,16.38,78.02,Tanpa Adaptasi,5.5
+5605,2013,Argentina,Northwest,Fruits,2561.32,25.72,1.332,5,66.2,12.84,12.58,67.93,Manajemen Air,7.9
+6113,2013,Argentina,Northwest,Fruits,1062.02,16.47,3.51,6,10.92,8.62,95.35,43.08,Tanpa Adaptasi,23.82
+1961,2013,Argentina,Pampas,Barley,1600.23,24.19,1.449,5,43.59,7.76,41.96,54.01,Rotasi Tanaman,10.51
+7474,2013,Argentina,Pampas,Barley,949.42,20.85,3.222,9,74.01,14.66,78.16,34.63,Rotasi Tanaman,16.01
+1600,2013,Argentina,Pampas,Cotton,993.99,28.43,1.521,7,73.17,36.38,29.44,71.79,Pertanian Organik,23.46
+6274,2013,Argentina,Pampas,Cotton,1984.23,12.6,0.87,7,76.35,12.66,11.16,97.66,Tanaman Tahan Kekeringan,-3.08
+5802,2013,Argentina,Pampas,Soybeans,2963.19,16.22,1.764,5,23.86,21.26,69.58,75.49,Tanaman Tahan Kekeringan,29.05
+5544,2013,Argentina,Patagonia,Coffee,668.92,22.11,1.755,10,72.89,17.8,60.85,53.43,Tanaman Tahan Kekeringan,9.11
+3666,2013,Argentina,Patagonia,Fruits,752.12,6.65,2.95,6,32.81,9.52,57.14,38.64,Rotasi Tanaman,19.07
+2086,2013,Argentina,Patagonia,Wheat,2036.06,5.53,2.87,6,17.44,30.55,97.03,91.88,Tanaman Tahan Kekeringan,28.93
+5238,2013,Argentina,Patagonia,Wheat,2120.38,6.21,3.02,10,68.01,30.82,66.37,37.21,Rotasi Tanaman,15.45
+3400,2014,Argentina,Northeast,Coffee,2362.28,23.28,1.494,0,31.5,34.48,72.06,31.07,Pertanian Organik,9.84
+7658,2014,Argentina,Northeast,Coffee,1029.39,26.42,2.313,7,58.34,40.46,21.07,89.27,Tanpa Adaptasi,31.4
+310,2014,Argentina,Northeast,Corn,2695.18,11.1,2.84,1,88.01,26.11,32.43,31.0,Tanpa Adaptasi,19.07
+7052,2014,Argentina,Northeast,Corn,2816.57,22.88,1.035,7,54.64,31.62,58.32,53.06,Pertanian Organik,34.88
+2670,2014,Argentina,Northeast,Rice,916.57,11.24,0.88,6,19.78,14.61,3.43,64.78,Manajemen Air,28.01
+7579,2014,Argentina,Northeast,Rice,2068.94,29.23,2.682,3,87.93,36.85,97.06,38.07,Manajemen Air,-2.4
+2077,2014,Argentina,Northeast,Sugarcane,2375.95,26.04,3.24,1,57.24,47.5,96.08,95.93,Tanaman Tahan Kekeringan,19.46
+7768,2014,Argentina,Northwest,Barley,2822.94,4.55,3.36,10,83.5,15.06,98.66,87.5,Tanaman Tahan Kekeringan,13.04
+374,2014,Argentina,Northwest,Corn,2197.58,15.48,2.547,3,56.16,20.26,54.96,47.75,Rotasi Tanaman,16.05
+4227,2014,Argentina,Northwest,Soybeans,2477.55,15.16,1.278,3,38.6,17.16,34.83,54.74,Manajemen Air,20.04
+965,2014,Argentina,Northwest,Sugarcane,1683.17,27.3,1.386,2,55.96,7.81,60.36,49.52,Pertanian Organik,21.39
+1159,2014,Argentina,Pampas,Barley,1978.72,0.81,3.71,6,34.94,17.36,3.27,87.51,Manajemen Air,10.3
+3575,2014,Argentina,Pampas,Coffee,1392.25,20.66,2.727,0,63.19,42.08,74.26,55.2,Tanpa Adaptasi,15.03
+613,2014,Argentina,Pampas,Cotton,1047.95,10.08,1.3,7,68.9,30.15,29.04,91.8,Rotasi Tanaman,-3.03
+7509,2014,Argentina,Pampas,Fruits,1475.75,28.58,1.377,7,53.77,35.95,10.41,56.7,Tanpa Adaptasi,22.03
+664,2014,Argentina,Pampas,Sugarcane,283.83,2.14,2.817,3,29.1,43.99,25.23,49.1,Pertanian Organik,12.88
+4208,2014,Argentina,Pampas,Sugarcane,2406.45,23.5,1.1700000000000002,8,37.54,49.78,13.91,81.81,Pertanian Organik,27.6
+4467,2014,Argentina,Pampas,Sugarcane,1242.76,19.92,1.503,2,56.6,49.14,28.93,40.92,Tanaman Tahan Kekeringan,11.42
+3044,2014,Argentina,Patagonia,Coffee,2803.01,14.84,1.78,9,64.45,11.01,42.98,56.5,Rotasi Tanaman,31.09
+5606,2014,Argentina,Patagonia,Fruits,2100.83,21.26,1.854,2,48.86,39.19,28.7,50.28,Tanpa Adaptasi,3.87
+3613,2014,Argentina,Patagonia,Rice,2682.32,29.24,1.413,4,70.32,4.23,98.1,69.34,Pertanian Organik,-1.13
+69,2014,Argentina,Patagonia,Sugarcane,667.03,13.79,2.63,5,89.25,41.74,64.15,64.01,Pertanian Organik,6.52
+2076,2014,Argentina,Patagonia,Vegetables,1705.84,18.91,1.854,9,47.92,28.62,93.16,42.69,Pertanian Organik,-3.15
+2307,2014,Argentina,Patagonia,Vegetables,1377.47,17.43,2.817,3,10.01,36.22,14.25,62.07,Rotasi Tanaman,31.03
+6242,2014,Argentina,Patagonia,Vegetables,955.88,11.25,1.01,2,32.45,24.07,3.43,46.66,Tanaman Tahan Kekeringan,22.19
+4807,2015,Argentina,Northeast,Coffee,355.02,21.46,1.143,9,47.69,1.36,69.17,52.24,Rotasi Tanaman,-1.47
+154,2015,Argentina,Northeast,Sugarcane,659.44,13.83,2.74,0,33.14,0.3,11.24,38.59,Manajemen Air,15.1
+3594,2015,Argentina,Northeast,Wheat,813.91,3.55,2.84,4,43.95,35.93,92.37,90.72,Tanaman Tahan Kekeringan,26.6
+5637,2015,Argentina,Northeast,,2653.22,6.04,4.69,2,89.89,27.5,6.71,73.2,Manajemen Air,19.7
+6413,2015,Argentina,Northwest,Coffee,2162.9,12.34,3.9,5,74.16,12.37,52.84,68.53,Manajemen Air,27.28
+5747,2015,Argentina,Northwest,Fruits,2336.04,12.6,0.93,7,56.68,1.87,5.66,42.02,Tanaman Tahan Kekeringan,6.47
+215,2015,Argentina,Northwest,Rice,1528.8,26.72,1.593,9,78.85,42.14,21.7,57.28,Manajemen Air,33.58
+3232,2015,Argentina,Northwest,Rice,677.75,28.86,1.116,3,19.65,19.65,41.21,43.49,Manajemen Air,24.89
+6900,2015,Argentina,Northwest,Rice,981.83,8.23,2.13,7,88.82,45.51,10.06,41.02,Rotasi Tanaman,10.25
+7010,2015,Argentina,Northwest,Rice,900.63,18.26,0.855,2,18.34,35.77,77.36,58.2,Pertanian Organik,4.45
+5021,2015,Argentina,Northwest,Vegetables,2525.43,6.45,3.22,5,39.23,30.72,4.95,39.47,Pertanian Organik,22.63
+7196,2015,Argentina,Northwest,Vegetables,250.12,0.92,0.63,10,20.88,12.48,2.19,48.82,Tanaman Tahan Kekeringan,-4.84
+958,2015,Argentina,Pampas,Coffee,1868.95,11.82,3.11,4,43.33,41.05,23.03,72.05,Pertanian Organik,32.93
+1377,2015,Argentina,Pampas,Cotton,436.16,11.88,2.439,2,14.26,40.36,74.84,55.64,Tanpa Adaptasi,25.18
+2933,2015,Argentina,Pampas,Soybeans,477.09,9.05,1.548,5,55.43,33.93,45.92,50.92,Pertanian Organik,7.21
+6925,2015,Argentina,Patagonia,Coffee,833.87,24.76,3.456,0,86.95,14.3,69.66,72.79,Manajemen Air,32.34
+6331,2015,Argentina,Patagonia,Cotton,2790.51,20.18,2.007,2,95.91,1.87,57.0,32.6,Tanaman Tahan Kekeringan,9.94
+2550,2015,Argentina,Patagonia,Rice,884.94,25.68,3.807,9,15.16,3.17,68.44,79.59,Manajemen Air,12.62
+5813,2015,Argentina,Patagonia,Rice,468.49,22.67,1.404,6,25.43,12.6,53.03,85.23,Manajemen Air,17.53
+3610,2015,Argentina,Patagonia,Soybeans,923.08,8.21,1.68,7,95.47,33.95,79.21,99.98,Tanaman Tahan Kekeringan,5.92
+370,2015,Argentina,Patagonia,Sugarcane,1078.97,13.55,1.36,6,40.39,1.09,31.78,85.83,Tanaman Tahan Kekeringan,34.77
+4978,2015,Argentina,Patagonia,Sugarcane,2620.81,11.81,3.57,3,86.76,9.39,51.6,66.79,Tanpa Adaptasi,27.08
+4368,2016,Argentina,Northeast,Corn,437.65,19.72,0.909,10,35.12,35.55,86.56,75.37,Manajemen Air,32.34
+4053,2016,Argentina,Northeast,Fruits,1616.62,22.4,0.981,6,99.33,11.98,48.05,35.18,Manajemen Air,3.31
+7095,2016,Argentina,Northeast,Soybeans,1071.21,13.61,0.91,2,24.12,41.59,89.08,79.49,Tanaman Tahan Kekeringan,-1.13
+7407,2016,Argentina,Northeast,Soybeans,1365.7,2.36,1.9,1,31.36,16.93,41.68,54.49,Tanpa Adaptasi,2.06
+2395,2016,Argentina,Northeast,Vegetables,895.34,17.22,3.591,9,69.15,11.35,83.25,80.17,Tanaman Tahan Kekeringan,34.61
+1097,2016,Argentina,Northeast,Wheat,981.42,8.07,3.66,5,36.92,21.01,56.38,76.42,Rotasi Tanaman,22.89
+4012,2016,Argentina,Northeast,Wheat,1317.68,22.48,3.303,1,54.49,11.04,64.41,41.04,Rotasi Tanaman,33.49
+5531,2016,Argentina,Northwest,Coffee,571.36,28.17,1.269,8,63.71,39.88,65.56,30.48,Manajemen Air,20.28
+3601,2016,Argentina,Northwest,Rice,2270.17,2.2,3.03,6,28.94,18.0,61.64,79.14,Rotasi Tanaman,11.25
+5458,2016,Argentina,Northwest,Rice,2231.53,8.8,3.87,8,70.14,38.64,21.93,36.87,Pertanian Organik,15.24
+6473,2016,Argentina,Northwest,Soybeans,2209.89,9.47,4.24,10,35.42,29.77,21.99,98.82,Tanpa Adaptasi,18.65
+2258,2016,Argentina,Northwest,Sugarcane,1828.99,9.9,4.05,3,31.7,16.59,13.99,56.35,Tanpa Adaptasi,17.7
+2302,2016,Argentina,Northwest,Vegetables,2779.99,18.14,1.62,2,48.45,46.44,60.92,53.34,Tanpa Adaptasi,14.03
+698,2016,Argentina,Pampas,Corn,1708.64,14.25,2.55,7,42.66,40.57,32.65,77.13,Manajemen Air,9.82
+1891,2016,Argentina,Pampas,Cotton,1138.52,10.17,2.06,0,,48.8,90.6,51.88,Tanpa Adaptasi,-3.82
+4516,2016,Argentina,Pampas,Cotton,2566.14,9.3,4.91,3,92.93,7.76,97.11,64.19,Rotasi Tanaman,12.73
+4753,2016,Argentina,Pampas,Wheat,1410.61,13.45,1.58,4,54.11,12.07,87.25,70.66,Tanpa Adaptasi,-0.59
+2838,2016,Argentina,Patagonia,Barley,2180.57,13.81,2.95,8,35.62,9.61,82.39,96.26,Tanaman Tahan Kekeringan,0.45
+2157,2016,Argentina,Patagonia,Sugarcane,691.72,11.84,1.28,2,94.4,45.52,91.18,77.32,Manajemen Air,-0.47
+2387,2017,Argentina,Northeast,Barley,439.0,11.06,0.459,4,70.2,38.67,54.98,83.69,Tanaman Tahan Kekeringan,1.94
+804,2017,Argentina,Northeast,Coffee,1642.51,8.92,2.13,2,29.84,35.36,14.44,33.31,Rotasi Tanaman,10.1
+3121,2017,Argentina,Northeast,Coffee,2177.52,12.07,1.32,9,14.68,19.33,95.18,66.59,Pertanian Organik,-0.53
+6515,2017,Argentina,Northeast,Fruits,935.77,14.05,,0,64.05,14.24,31.41,63.54,Pertanian Organik,5.07
+1914,2017,Argentina,Northeast,Rice,1558.75,11.82,2.71,2,14.33,29.3,59.97,46.79,Manajemen Air,21.3
+3827,2017,Argentina,Northeast,Vegetables,2748.84,10.22,2.33,6,19.09,11.72,80.15,76.25,Tanaman Tahan Kekeringan,4.94
+6732,2017,Argentina,Northeast,,2598.42,13.47,3.06,9,74.3,38.51,10.98,74.19,Tanpa Adaptasi,24.06
+3215,2017,Argentina,Northwest,Barley,2274.62,5.55,1.18,10,95.64,37.41,29.95,67.68,Tanpa Adaptasi,23.3
+3926,2017,Argentina,Northwest,Coffee,2500.0,6.92,3.24,7,59.23,38.55,94.62,70.39,Rotasi Tanaman,13.5
+4591,2017,Argentina,Northwest,Coffee,1837.58,2.38,3.2,0,18.77,14.16,53.83,96.03,Manajemen Air,19.7
+2913,2017,Argentina,Northwest,Cotton,1166.29,25.34,,3,45.83,36.17,17.09,39.31,Tanaman Tahan Kekeringan,21.3
+7669,2017,Argentina,Northwest,Cotton,1169.79,2.91,2.48,5,54.03,32.16,43.16,48.72,Pertanian Organik,6.47
+7748,2017,Argentina,Northwest,Rice,876.63,6.2,3.15,2,31.24,48.29,75.78,91.58,Pertanian Organik,27.8
+7389,2017,Argentina,Northwest,Soybeans,464.35,18.15,2.772,1,48.59,38.34,43.88,79.38,Tanpa Adaptasi,14.01
+469,2017,Argentina,Northwest,Sugarcane,2642.21,9.25,1.23,3,61.34,8.32,44.11,67.9,Tanaman Tahan Kekeringan,27.95
+3375,2017,Argentina,Northwest,Vegetables,442.93,19.74,3.204,0,62.97,1.56,19.45,57.28,Manajemen Air,20.21
+2249,2017,Argentina,Northwest,Wheat,2064.14,23.73,1.836,2,56.09,32.9,71.71,70.88,Tanaman Tahan Kekeringan,20.1
+4461,2017,Argentina,Pampas,Coffee,646.14,17.21,1.845,3,13.11,13.35,77.8,79.08,Tanaman Tahan Kekeringan,33.48
+3805,2017,Argentina,Pampas,Corn,1777.43,13.96,2.83,0,64.47,17.25,89.0,89.14,Pertanian Organik,3.78
+5992,2017,Argentina,Pampas,Cotton,641.85,11.34,1.98,0,97.09,47.25,94.64,75.32,Tanaman Tahan Kekeringan,5.12
+2022,2017,Argentina,Pampas,Rice,2865.48,3.96,,8,55.28,16.44,79.98,37.75,Tanpa Adaptasi,7.54
+6401,2017,Argentina,Pampas,Rice,468.79,27.41,0.8190000000000001,4,24.11,6.13,38.36,80.48,Manajemen Air,-4.91
+1418,2017,Argentina,Pampas,Vegetables,687.02,23.86,0.855,8,43.05,1.08,83.16,38.76,Pertanian Organik,32.21
+1358,2017,Argentina,Patagonia,Rice,2827.56,24.01,2.295,3,,22.95,32.8,35.92,Tanpa Adaptasi,20.06
+3344,2017,Argentina,Patagonia,Vegetables,496.49,20.49,2.601,5,71.87,47.21,89.96,69.58,Rotasi Tanaman,6.85
+5051,2017,Argentina,Patagonia,Wheat,1400.46,14.22,3.34,10,52.78,14.96,52.9,49.66,Pertanian Organik,16.51
+914,2018,Argentina,Northeast,Corn,1108.81,22.36,1.746,4,22.32,48.18,37.61,90.14,Tanaman Tahan Kekeringan,1.39
+4453,2018,Argentina,Northeast,Corn,810.81,15.98,2.2230000000000003,7,31.32,30.98,7.23,63.85,Pertanian Organik,12.01
+4530,2018,Argentina,Northeast,Corn,2808.98,15.71,1.179,8,87.78,28.92,84.76,80.06,Manajemen Air,8.9
+6291,2018,Argentina,Northeast,Corn,1072.51,12.42,3.62,3,51.42,2.12,40.82,62.07,Pertanian Organik,20.79
+1103,2018,Argentina,Northwest,Barley,1301.98,6.41,4.63,4,97.26,22.26,74.69,66.68,Manajemen Air,19.78
+877,2018,Argentina,Northwest,Corn,1929.35,5.65,1.2,1,29.77,35.96,73.31,69.58,Tanpa Adaptasi,3.16
+2950,2018,Argentina,Northwest,Cotton,1437.66,7.54,1.64,9,91.17,33.72,32.79,82.85,Tanaman Tahan Kekeringan,24.06
+6661,2018,Argentina,Northwest,Cotton,836.57,29.4,1.818,2,88.4,32.42,4.13,62.36,Manajemen Air,22.21
+7873,2018,Argentina,Pampas,Coffee,2678.57,20.59,1.4400000000000002,6,69.41,30.7,48.28,52.7,Pertanian Organik,-2.46
+1504,2018,Argentina,Pampas,Cotton,535.8,7.47,1.71,3,43.2,10.37,16.95,49.7,Tanpa Adaptasi,8.32
+1813,2018,Argentina,Pampas,Sugarcane,2781.85,5.94,1.85,0,60.84,44.85,83.96,89.89,Rotasi Tanaman,6.65
+781,2018,Argentina,Patagonia,Coffee,392.37,6.91,3.357,1,15.18,36.62,68.2,67.1,Tanpa Adaptasi,33.02
+3079,2018,Argentina,Patagonia,Corn,1340.63,26.17,3.231,8,29.32,3.16,30.81,58.7,Manajemen Air,19.31
+6434,2018,Argentina,Patagonia,Fruits,584.72,17.19,2.988,2,81.61,39.55,57.04,91.93,Tanaman Tahan Kekeringan,14.31
+1281,2018,Argentina,Patagonia,Soybeans,2543.15,3.9,2.71,6,,1.34,2.58,92.54,Tanpa Adaptasi,3.57
+3085,2018,Argentina,Patagonia,Sugarcane,1737.31,12.93,1.42,10,89.86,39.49,14.51,97.35,Tanaman Tahan Kekeringan,4.58
+1847,2019,Argentina,Northeast,Barley,2272.25,11.89,2.1,6,85.95,19.05,72.72,98.97,Tanaman Tahan Kekeringan,20.22
+2217,2019,Argentina,Northeast,Barley,325.28,25.53,1.215,10,59.59,12.28,41.22,97.92,Manajemen Air,0.25
+2360,2019,Argentina,Northeast,Barley,2908.69,2.26,0.71,5,11.52,39.68,60.36,67.7,Tanaman Tahan Kekeringan,6.88
+2959,2019,Argentina,Northeast,Coffee,968.37,12.12,1.72,3,11.84,8.35,64.4,30.2,Tanpa Adaptasi,9.57
+1982,2019,Argentina,Northeast,Corn,1416.46,15.94,3.528,0,79.6,3.94,61.67,99.77,Tanaman Tahan Kekeringan,12.29
+1397,2019,Argentina,Northeast,Rice,226.44,9.9,2.241,5,16.91,20.91,73.55,84.99,Rotasi Tanaman,-3.69
+2349,2019,Argentina,Northeast,Rice,473.25,18.01,1.872,1,47.16,9.79,44.88,65.95,Tanaman Tahan Kekeringan,1.96
+4106,2019,Argentina,Northeast,Sugarcane,1876.74,8.8,0.63,0,13.59,23.09,89.61,94.64,Pertanian Organik,-3.7
+4093,2019,Argentina,Northeast,,246.96,9.83,0.981,8,88.85,2.14,39.43,92.5,Manajemen Air,32.64
+3203,2019,Argentina,Northwest,Corn,2865.11,23.5,0.513,8,,20.08,76.26,39.95,Tanpa Adaptasi,-1.06
+3246,2019,Argentina,Northwest,Corn,2922.34,2.87,2.42,5,22.2,27.91,25.42,83.14,Pertanian Organik,17.63
+6019,2019,Argentina,Northwest,Corn,942.31,22.95,1.737,2,71.08,16.86,37.85,90.28,Rotasi Tanaman,14.09
+853,2019,Argentina,Northwest,Fruits,508.5,12.23,1.16,2,11.06,35.99,87.06,34.93,Pertanian Organik,21.61
+26,2019,Argentina,Northwest,Vegetables,897.58,19.42,2.106,10,47.05,40.04,46.63,90.49,Manajemen Air,10.3
+7420,2019,Argentina,Pampas,Barley,988.85,0.7,0.77,6,47.08,18.88,49.48,87.66,Pertanian Organik,8.4
+3781,2019,Argentina,Pampas,Coffee,1014.72,22.39,3.078,8,20.23,7.3,43.46,88.33,Tanaman Tahan Kekeringan,15.59
+7883,2019,Argentina,Pampas,Cotton,2732.26,11.25,3.2,6,12.98,42.41,66.12,34.77,Pertanian Organik,18.14
+1391,2019,Argentina,Pampas,Soybeans,2635.26,18.98,3.159,6,24.91,25.35,27.18,81.07,Pertanian Organik,25.1
+194,2019,Argentina,Pampas,Sugarcane,1257.26,2.25,4.16,1,24.43,22.61,65.74,53.07,Rotasi Tanaman,16.17
+603,2019,Argentina,Pampas,Sugarcane,1496.21,20.7,1.467,9,75.6,44.15,95.57,79.88,Pertanian Organik,13.98
+7119,2019,Argentina,Pampas,Sugarcane,1928.41,18.36,1.53,1,66.76,19.53,65.79,74.68,Pertanian Organik,30.32
+3154,2019,Argentina,Pampas,Vegetables,1006.86,6.78,4.86,8,17.23,28.54,14.97,66.71,Manajemen Air,10.71
+6002,2019,Argentina,Patagonia,Corn,1221.86,27.75,0.7200000000000001,7,80.3,2.72,0.78,91.59,Manajemen Air,27.02
+1374,2019,Argentina,Patagonia,Soybeans,1917.27,10.51,3.57,2,50.94,10.42,40.26,51.78,Pertanian Organik,16.14
+6256,2019,Argentina,Patagonia,Sugarcane,2532.91,15.15,3.06,2,80.12,19.83,44.5,36.29,Pertanian Organik,14.01
+4863,2019,Argentina,Patagonia,Wheat,1096.02,0.67,2.68,7,14.33,29.36,45.39,81.76,Tanaman Tahan Kekeringan,1.17
+6232,2019,Argentina,Patagonia,Wheat,963.43,18.48,1.773,2,70.37,41.15,58.35,69.87,Tanaman Tahan Kekeringan,31.03
+6780,2019,Argentina,Patagonia,Wheat,1812.52,14.68,1.84,6,46.93,45.63,4.81,59.7,Manajemen Air,12.41
+2594,2020,Argentina,Northeast,Barley,1467.12,8.07,1.5,8,51.62,20.38,29.9,47.03,Rotasi Tanaman,11.79
+1833,2020,Argentina,Northeast,Coffee,2099.0,23.14,2.583,6,15.63,33.59,45.09,96.37,Manajemen Air,24.62
+144,2020,Argentina,Northeast,Corn,2424.6,2.46,1.15,3,46.55,38.37,84.44,34.8,Pertanian Organik,20.0
+2309,2020,Argentina,Northeast,Fruits,1710.94,6.36,1.76,2,,32.46,73.23,99.37,Tanpa Adaptasi,34.92
+3042,2020,Argentina,Northeast,Vegetables,1937.37,26.27,2.061,10,97.87,18.96,57.83,69.96,Rotasi Tanaman,30.49
+5861,2020,Argentina,Northeast,Vegetables,709.96,13.33,2.4,0,13.63,7.91,68.0,67.59,Tanaman Tahan Kekeringan,28.94
+6774,2020,Argentina,Northwest,Barley,2314.65,22.97,1.764,10,39.63,11.86,43.54,33.77,Pertanian Organik,21.02
+6896,2020,Argentina,Northwest,Cotton,902.73,14.51,2.35,0,85.44,22.98,95.27,36.46,Pertanian Organik,27.36
+3682,2020,Argentina,Northwest,Soybeans,2019.21,7.41,4.05,6,38.46,0.13,98.41,34.84,Rotasi Tanaman,12.6
+5959,2020,Argentina,Northwest,Soybeans,2019.12,24.33,4.077,6,10.51,44.62,32.95,74.1,Manajemen Air,18.27
+6153,2020,Argentina,Northwest,Vegetables,1229.92,6.85,3.45,9,78.02,5.67,86.12,91.19,Pertanian Organik,29.36
+5202,2020,Argentina,Pampas,Barley,1404.85,13.3,2.08,7,86.39,25.22,19.52,80.24,Tanaman Tahan Kekeringan,17.47
+688,2020,Argentina,Pampas,Corn,687.25,27.67,1.485,0,64.99,14.12,10.11,87.52,Tanaman Tahan Kekeringan,1.31
+7171,2020,Argentina,Pampas,Cotton,861.49,10.53,1.39,4,25.38,20.49,52.03,43.14,Rotasi Tanaman,9.45
+7479,2020,Argentina,Pampas,Sugarcane,386.79,18.81,1.557,1,87.62,40.75,50.42,89.88,Pertanian Organik,-1.97
+2753,2020,Argentina,Pampas,Wheat,626.58,2.4,1.79,8,42.16,42.26,68.02,40.7,Tanpa Adaptasi,5.81
+5513,2020,Argentina,Patagonia,Barley,443.75,27.93,3.114,7,42.63,37.01,75.79,95.99,Tanaman Tahan Kekeringan,22.49
+7338,2020,Argentina,Patagonia,Cotton,790.87,12.73,2.94,7,97.91,29.98,28.32,33.73,Tanpa Adaptasi,2.26
+1259,2020,Argentina,Patagonia,Rice,620.1,18.45,2.619,6,88.56,27.29,60.41,74.62,Tanaman Tahan Kekeringan,15.35
+1825,2020,Argentina,Patagonia,Soybeans,2244.55,21.29,0.783,7,23.15,48.0,63.89,65.8,Pertanian Organik,5.49
+2938,2020,Argentina,Patagonia,Soybeans,2088.86,1.79,1.36,8,50.01,24.32,61.07,71.88,Tanpa Adaptasi,-4.7
+6370,2020,Argentina,Patagonia,Sugarcane,558.25,11.03,3.53,1,91.94,9.62,29.52,43.94,Tanaman Tahan Kekeringan,20.15
+7213,2020,Argentina,Patagonia,Vegetables,1423.13,11.34,4.4,3,96.22,37.39,39.68,97.88,Tanaman Tahan Kekeringan,17.66
+5527,2021,Argentina,Northeast,Corn,1473.9,12.95,0.77,0,35.21,6.15,27.91,72.46,Tanaman Tahan Kekeringan,-2.73
+2241,2021,Argentina,Northeast,Fruits,2805.17,6.1,,10,49.47,44.79,19.71,92.41,Pertanian Organik,-3.43
+5639,2021,Argentina,Northeast,Sugarcane,2488.66,24.12,1.746,9,,12.28,33.44,75.35,Rotasi Tanaman,7.32
+1984,2021,Argentina,Northwest,Barley,1049.71,19.52,2.466,2,83.19,13.51,42.46,61.47,Rotasi Tanaman,19.42
+171,2021,Argentina,Northwest,Coffee,741.13,19.88,1.944,1,27.18,3.67,83.69,39.35,Tanpa Adaptasi,-0.67
+2529,2021,Argentina,Northwest,Corn,492.23,12.9,4.464,2,11.29,35.04,36.13,54.53,Manajemen Air,18.49
+2980,2021,Argentina,Northwest,Soybeans,2148.94,9.0,1.81,9,61.13,34.59,86.84,35.9,Tanpa Adaptasi,9.94
+896,2021,Argentina,Northwest,Sugarcane,2326.85,2.84,2.5,5,92.72,10.68,59.84,61.96,Pertanian Organik,7.44
+5074,2021,Argentina,Northwest,Vegetables,2656.66,18.53,1.737,1,78.52,10.63,29.62,62.25,Manajemen Air,32.87
+3524,2021,Argentina,Pampas,Barley,1950.72,6.36,2.92,6,93.21,32.15,91.5,52.67,Pertanian Organik,1.29
+2813,2021,Argentina,Pampas,Coffee,2879.41,2.35,0.84,2,84.43,1.25,93.18,34.92,Tanpa Adaptasi,-0.11
+7488,2021,Argentina,Pampas,Corn,2946.46,24.09,1.539,2,68.25,39.09,46.49,47.03,Tanpa Adaptasi,-4.81
+1122,2021,Argentina,Pampas,Cotton,2539.63,8.44,1.92,7,90.83,18.67,95.2,55.01,Rotasi Tanaman,18.65
+1931,2021,Argentina,Pampas,Cotton,2380.26,16.47,2.943,6,70.92,20.84,55.47,71.61,Rotasi Tanaman,34.05
+2107,2021,Argentina,Pampas,Rice,975.52,8.09,2.98,0,94.94,17.44,13.98,88.55,Manajemen Air,25.64
+740,2021,Argentina,Pampas,Sugarcane,1221.42,16.06,1.665,2,64.26,13.87,5.92,32.8,Tanpa Adaptasi,7.95
+3545,2021,Argentina,Pampas,Sugarcane,1599.36,9.44,3.31,10,87.51,29.59,80.46,58.62,Rotasi Tanaman,20.07
+3560,2021,Argentina,Pampas,Sugarcane,1561.73,19.51,2.709,1,36.15,11.52,77.24,94.51,Rotasi Tanaman,25.76
+1804,2021,Argentina,Pampas,Wheat,2265.64,24.23,3.3120000000000003,4,87.06,15.53,88.92,50.06,Tanpa Adaptasi,24.83
+7452,2021,Argentina,Pampas,Wheat,2854.52,19.27,1.755,1,70.23,8.0,29.27,73.74,Pertanian Organik,18.27
+6719,2021,Argentina,Patagonia,Barley,1955.9,29.6,3.411,9,15.9,2.46,92.73,55.23,Tanaman Tahan Kekeringan,16.02
+7123,2021,Argentina,Patagonia,Soybeans,2016.82,29.67,2.772,9,63.34,33.83,4.1,79.05,Tanaman Tahan Kekeringan,26.35
+3851,2021,Argentina,Patagonia,Sugarcane,1299.9,10.83,1.98,6,89.38,31.73,17.76,59.24,Manajemen Air,20.24
+132,2021,Argentina,Patagonia,Vegetables,1517.72,11.09,2.09,2,11.12,25.42,16.07,98.8,Rotasi Tanaman,23.35
+1168,2022,Argentina,Northeast,Coffee,205.7,18.78,1.413,3,15.24,26.5,90.32,51.21,Manajemen Air,1.63
+1310,2022,Argentina,Northeast,Corn,1145.54,4.29,3.06,6,18.96,14.57,64.35,97.08,Pertanian Organik,16.4
+2863,2022,Argentina,Northeast,Sugarcane,1906.29,28.84,2.439,10,54.94,39.57,86.5,85.48,Tanaman Tahan Kekeringan,18.59
+7028,2022,Argentina,Northeast,Vegetables,1691.65,5.15,2.37,4,99.8,11.11,93.09,51.8,Pertanian Organik,28.4
+7175,2022,Argentina,Northeast,Vegetables,1423.59,12.47,3.56,1,11.07,35.41,53.79,84.86,Tanpa Adaptasi,10.38
+6861,2022,Argentina,Northeast,Wheat,2391.74,18.38,1.413,9,91.82,10.04,30.96,64.41,Manajemen Air,7.71
+4598,2022,Argentina,Northeast,,2895.37,24.62,3.258,3,55.81,39.25,24.11,40.3,Pertanian Organik,18.96
+2757,2022,Argentina,Northwest,Corn,271.02,28.39,1.656,10,90.4,4.49,47.42,40.9,Rotasi Tanaman,26.7
+7360,2022,Argentina,Northwest,Corn,1333.8,27.03,,2,83.32,6.62,96.19,74.1,Tanpa Adaptasi,20.95
+5087,2022,Argentina,Northwest,Cotton,2373.7,8.71,2.13,9,83.51,33.96,39.43,63.49,Tanpa Adaptasi,-3.57
+7743,2022,Argentina,Northwest,Fruits,398.24,28.46,2.061,0,83.47,26.11,66.57,85.0,Tanpa Adaptasi,8.07
+3563,2022,Argentina,Northwest,Sugarcane,1317.13,13.58,4.05,8,63.91,37.19,7.19,57.28,Manajemen Air,10.01
+754,2022,Argentina,Pampas,Coffee,1808.79,8.32,2.24,7,,20.88,54.68,94.05,Manajemen Air,28.72
+7007,2022,Argentina,Pampas,Cotton,2034.88,1.04,3.07,5,72.2,27.2,34.69,63.07,Tanpa Adaptasi,27.24
+244,2022,Argentina,Pampas,Soybeans,2388.37,3.79,2.1,1,95.33,20.67,20.77,58.31,Rotasi Tanaman,27.07
+6333,2022,Argentina,Pampas,Soybeans,2243.25,8.05,1.82,3,89.15,25.58,71.93,88.26,Tanaman Tahan Kekeringan,13.35
+3478,2022,Argentina,Patagonia,Barley,1066.17,4.93,2.49,6,81.65,16.6,2.21,33.34,Tanaman Tahan Kekeringan,1.14
+3891,2022,Argentina,Patagonia,Coffee,317.93,12.97,0.7290000000000001,0,17.05,43.41,5.63,97.43,Pertanian Organik,6.26
+555,2022,Argentina,Patagonia,Corn,1896.84,22.77,0.801,10,66.46,22.86,77.26,56.11,Pertanian Organik,2.33
+3067,2022,Argentina,Patagonia,Corn,1495.9,17.89,1.512,3,91.71,1.08,21.5,65.54,Manajemen Air,12.64
+4090,2022,Argentina,Patagonia,Corn,1060.73,6.73,0.83,1,33.94,40.39,72.09,46.18,Tanaman Tahan Kekeringan,5.57
+4076,2022,Argentina,Patagonia,Vegetables,,4.7,3.27,8,72.15,2.78,64.98,44.64,Pertanian Organik,22.42
+6199,2022,Argentina,Patagonia,Vegetables,2423.12,10.62,2.61,8,30.23,31.55,65.29,93.92,Manajemen Air,-3.22
+2006,2022,Argentina,Patagonia,Wheat,1117.25,4.85,0.94,3,43.92,42.22,77.3,63.57,Rotasi Tanaman,29.06
+2188,2023,Argentina,Northeast,Barley,2834.04,18.85,3.132,3,76.47,38.48,88.8,42.79,Rotasi Tanaman,26.31
+7069,2023,Argentina,Northeast,Barley,2780.41,21.64,2.385,9,97.73,37.6,38.09,30.04,Rotasi Tanaman,3.47
+4541,2023,Argentina,Northeast,Rice,242.56,17.85,1.1700000000000002,7,46.51,25.3,36.08,32.02,Tanaman Tahan Kekeringan,-3.01
+3477,2023,Argentina,Northeast,Soybeans,1958.97,27.74,0.7290000000000001,3,64.0,24.91,37.72,49.63,Rotasi Tanaman,31.88
+955,2023,Argentina,Northeast,Sugarcane,225.03,0.87,1.683,5,89.82,39.63,65.67,87.99,Tanaman Tahan Kekeringan,3.75
+6400,2023,Argentina,Northeast,Wheat,2024.06,17.24,3.3120000000000003,7,97.89,43.0,42.34,38.59,Tanaman Tahan Kekeringan,10.55
+209,2023,Argentina,Northeast,,856.58,14.48,2.36,4,10.66,25.52,73.13,55.58,Tanpa Adaptasi,29.32
+4859,2023,Argentina,Northwest,Barley,2075.91,20.66,1.845,3,54.58,38.59,66.83,74.21,Rotasi Tanaman,21.33
+7097,2023,Argentina,Northwest,Cotton,1259.71,13.52,1.55,2,42.02,35.65,36.16,84.45,Tanpa Adaptasi,3.32
+4835,2023,Argentina,Northwest,Rice,689.35,25.42,1.818,5,66.49,48.0,92.98,44.27,Tanaman Tahan Kekeringan,7.44
+5679,2023,Argentina,Northwest,Soybeans,2519.77,23.52,1.161,3,86.56,24.95,16.01,46.22,Rotasi Tanaman,30.45
+1233,2023,Argentina,Pampas,Barley,2819.98,20.8,1.134,4,,31.69,3.06,32.6,Tanpa Adaptasi,-4.9
+7035,2023,Argentina,Pampas,Rice,2256.83,19.69,,2,95.72,40.19,50.0,36.7,Manajemen Air,13.19
+984,2023,Argentina,Pampas,Wheat,1816.44,25.83,1.386,3,16.72,25.46,62.33,61.91,Pertanian Organik,11.9
+6926,2023,Argentina,Patagonia,Coffee,1082.15,20.97,2.385,9,79.25,22.88,94.94,39.97,Rotasi Tanaman,6.69
+7283,2023,Argentina,Patagonia,Rice,2464.2,15.71,2.511,8,70.09,30.17,17.7,37.9,Tanaman Tahan Kekeringan,26.37
+7534,2023,Argentina,Patagonia,Rice,2647.04,21.1,2.313,10,,12.94,61.08,80.94,Tanpa Adaptasi,-2.14
+957,2023,Argentina,Patagonia,Soybeans,621.34,14.79,1.68,8,24.02,36.74,44.75,85.81,Rotasi Tanaman,-1.92
+4944,2023,Argentina,Patagonia,Sugarcane,2098.56,9.61,2.42,9,22.13,23.49,60.7,45.43,Rotasi Tanaman,29.35
+2212,2024,Argentina,Northeast,Coffee,2271.43,2.08,2.0,3,47.52,28.32,48.86,64.15,Tanaman Tahan Kekeringan,19.7
+1653,2024,Argentina,Northeast,Corn,2329.0,7.46,0.99,6,29.89,33.6,0.24,86.85,Tanpa Adaptasi,23.42
+7863,2024,Argentina,Northeast,Corn,226.12,5.68,1.89,0,,7.66,33.15,97.05,Pertanian Organik,0.79
+4346,2024,Argentina,Northeast,Fruits,2318.53,25.71,1.179,2,97.24,5.04,10.35,95.84,Pertanian Organik,5.5
+7654,2024,Argentina,Northeast,Sugarcane,1984.37,18.03,3.0690000000000004,10,38.44,17.65,84.44,98.18,Tanaman Tahan Kekeringan,26.76
+5098,2024,Argentina,Northwest,Barley,1562.65,3.86,1.99,6,94.89,14.86,88.81,34.94,Manajemen Air,14.04
+5346,2024,Argentina,Northwest,Corn,1117.67,7.13,1.54,4,90.52,19.43,61.12,47.31,Rotasi Tanaman,29.39
+2191,2024,Argentina,Northwest,Cotton,2987.46,16.78,2.97,0,34.24,46.91,15.65,48.59,Tanpa Adaptasi,27.27
+198,2024,Argentina,Northwest,Fruits,599.6,2.78,3.69,6,30.74,16.46,60.38,41.75,Rotasi Tanaman,12.29
+4544,2024,Argentina,Northwest,Vegetables,1746.17,5.34,0.72,8,26.11,25.04,13.5,58.57,Manajemen Air,9.15
+3927,2024,Argentina,Northwest,Wheat,902.07,28.24,2.196,7,22.92,0.83,61.47,52.2,Rotasi Tanaman,-1.73
+6590,2024,Argentina,Northwest,,2722.58,26.86,1.035,9,92.35,3.54,86.56,87.64,Tanpa Adaptasi,29.89
+1455,2024,Argentina,Pampas,Cotton,2918.72,19.38,3.375,7,24.62,11.84,97.62,71.74,Tanaman Tahan Kekeringan,11.5
+6612,2024,Argentina,Pampas,Fruits,1399.66,12.34,3.3,6,84.51,3.97,2.82,98.82,Tanaman Tahan Kekeringan,30.36
+6522,2024,Argentina,Pampas,Rice,380.34,25.57,3.1050000000000004,7,58.06,3.13,99.66,47.52,Tanpa Adaptasi,17.48
+1050,2024,Argentina,Patagonia,Coffee,772.85,12.4,1.75,3,55.78,11.34,75.99,72.81,Tanaman Tahan Kekeringan,4.46
+2741,2024,Argentina,Patagonia,Cotton,1922.12,3.06,0.86,9,90.53,43.55,7.18,70.42,Manajemen Air,20.24
+1080,2024,Argentina,Patagonia,Rice,2997.84,21.06,2.007,4,56.38,15.86,59.99,41.36,Pertanian Organik,31.89
+4673,2024,Argentina,Patagonia,Rice,1375.44,26.71,0.486,7,88.96,5.72,54.86,31.47,Tanpa Adaptasi,-1.03
+7129,2024,Argentina,Patagonia,Soybeans,2811.44,16.82,1.638,8,25.57,31.56,51.79,36.16,Tanaman Tahan Kekeringan,29.39

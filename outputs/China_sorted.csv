@@ -1,0 +1,824 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+3353,1990,China,Central,Cotton,1342.81,0.7,1.13,9,95.31,26.62,7.37,50.57,Tanpa Adaptasi,22.59
+6371,1990,China,Central,Cotton,2254.64,26.91,2.484,1,14.6,40.46,81.65,91.29,Pertanian Organik,30.7
+7353,1990,China,Central,Cotton,2563.86,2.13,2.49,3,80.9,8.44,88.94,54.89,Tanaman Tahan Kekeringan,1.36
+2386,1990,China,Central,Sugarcane,,18.52,0.54,6,61.98,31.41,26.19,34.24,Tanpa Adaptasi,-1.2
+2675,1990,China,Central,Vegetables,1542.22,16.89,2.007,8,59.17,22.54,37.66,92.56,Tanaman Tahan Kekeringan,15.93
+6501,1990,China,Central,Vegetables,1340.65,11.6,2.89,0,43.25,18.65,26.53,99.92,Rotasi Tanaman,16.11
+7272,1990,China,Central,Vegetables,2318.47,19.93,3.744,3,92.44,0.44,32.33,84.48,Tanaman Tahan Kekeringan,19.12
+6528,1990,China,East,Soybeans,2614.86,25.24,2.034,10,92.69,44.21,4.35,79.57,Pertanian Organik,28.8
+7641,1990,China,East,Soybeans,2925.12,14.17,1.88,7,84.85,32.72,3.76,33.81,Pertanian Organik,4.23
+3201,1990,China,East,Sugarcane,1731.04,29.93,1.1880000000000002,1,90.42,48.4,25.12,61.85,Pertanian Organik,5.13
+2289,1990,China,East,Wheat,269.76,29.93,2.007,5,70.8,49.57,22.82,67.66,Rotasi Tanaman,15.42
+7321,1990,China,North,Barley,2380.12,14.65,4.57,10,65.26,27.45,50.91,38.42,Tanaman Tahan Kekeringan,13.3
+1659,1990,China,North,Corn,2752.84,3.37,2.2,0,80.54,15.36,76.44,56.81,Rotasi Tanaman,5.68
+3814,1990,China,North,Cotton,1708.48,8.36,2.28,8,60.6,46.64,3.13,64.76,Tanaman Tahan Kekeringan,4.66
+7493,1990,China,North,Rice,2789.27,19.98,1.944,7,26.58,3.03,47.72,89.95,Tanaman Tahan Kekeringan,3.6
+2566,1990,China,North,Wheat,213.5,27.31,1.35,9,81.11,28.79,37.12,97.27,Manajemen Air,9.28
+5999,1990,China,North,Wheat,1544.36,23.91,1.098,4,46.96,29.73,46.67,37.8,Pertanian Organik,4.21
+5359,1990,China,South,Barley,2409.41,10.37,2.76,3,98.3,2.06,59.88,36.75,Manajemen Air,30.28
+7396,1990,China,South,Coffee,726.56,10.86,3.73,3,77.07,43.01,0.74,61.3,Tanaman Tahan Kekeringan,26.88
+7436,1990,China,South,Cotton,963.38,10.33,1.48,8,70.19,22.78,86.05,48.85,Pertanian Organik,25.85
+1977,1990,China,South,Fruits,2087.65,13.17,2.04,8,39.51,2.78,7.57,42.66,Tanpa Adaptasi,19.25
+5014,1990,China,South,Fruits,1809.86,12.2,3.1,9,50.28,10.05,31.06,89.02,Tanaman Tahan Kekeringan,30.56
+6597,1990,China,South,Sugarcane,2920.36,4.82,0.93,9,71.79,32.6,23.86,86.36,Tanpa Adaptasi,34.21
+3641,1990,China,South,Wheat,2495.19,1.2,0.93,2,14.71,9.9,10.24,93.52,Tanpa Adaptasi,4.21
+1976,1991,China,Central,Cotton,1760.44,8.28,2.34,8,68.79,47.07,84.25,46.8,Tanpa Adaptasi,22.12
+713,1991,China,Central,Wheat,2321.0,29.47,1.548,1,35.28,16.36,28.87,60.32,Manajemen Air,30.86
+6339,1991,China,Central,Wheat,1660.92,11.68,2.7,0,28.86,18.01,88.17,32.45,Tanaman Tahan Kekeringan,2.58
+2532,1991,China,East,Coffee,1668.53,3.32,4.15,6,10.89,32.33,83.87,97.04,Rotasi Tanaman,19.17
+5312,1991,China,East,Cotton,1777.57,22.85,2.043,0,94.76,6.44,87.78,89.7,Pertanian Organik,18.01
+2437,1991,China,East,Fruits,,22.4,2.358,4,45.42,17.63,88.66,63.44,Pertanian Organik,6.59
+4939,1991,China,East,Vegetables,2457.44,2.58,0.5,5,23.95,28.46,85.16,50.14,Manajemen Air,9.0
+7568,1991,China,North,Barley,658.62,16.11,2.628,7,20.61,28.27,77.17,51.21,Manajemen Air,6.93
+6221,1991,China,North,Cotton,1342.26,29.29,2.9250000000000003,1,,41.77,24.47,40.84,Pertanian Organik,20.7
+7005,1991,China,North,Cotton,242.85,28.17,0.936,9,38.44,47.26,48.42,55.28,Tanpa Adaptasi,22.85
+4181,1991,China,North,Soybeans,2021.97,2.08,2.16,7,17.05,27.27,29.49,94.95,Pertanian Organik,9.68
+3456,1991,China,North,Sugarcane,2810.36,12.68,1.72,7,22.01,33.32,1.69,49.17,Tanaman Tahan Kekeringan,6.48
+7461,1991,China,North,Sugarcane,815.67,22.9,1.611,1,50.89,13.55,21.91,92.0,Rotasi Tanaman,-4.74
+2141,1991,China,North,Vegetables,1456.66,16.4,1.791,4,86.49,30.54,53.49,59.54,Tanaman Tahan Kekeringan,33.32
+4908,1991,China,North,Wheat,308.94,28.13,2.682,0,47.05,42.52,50.81,56.49,Tanaman Tahan Kekeringan,13.71
+7565,1991,China,South,Cotton,1541.33,6.41,4.5,10,90.01,26.02,38.02,52.96,Pertanian Organik,11.7
+4788,1991,China,South,Fruits,2423.71,0.75,3.32,3,95.51,26.16,95.73,57.1,Manajemen Air,26.72
+5876,1991,China,South,Rice,1046.87,29.21,3.15,0,63.89,45.29,94.62,72.53,Pertanian Organik,28.82
+6868,1991,China,South,Soybeans,2659.63,22.53,1.242,0,32.22,36.46,6.99,56.14,Pertanian Organik,29.98
+4957,1991,China,South,Vegetables,683.68,5.19,2.83,4,14.41,12.53,89.89,50.83,Rotasi Tanaman,2.77
+6890,1991,China,South,Vegetables,1509.39,7.2,2.56,0,78.62,10.99,44.64,43.56,Rotasi Tanaman,1.28
+6860,1991,China,South,Wheat,2306.24,25.24,2.268,4,70.19,22.21,24.18,35.28,Pertanian Organik,14.89
+549,1992,China,Central,Barley,1902.94,13.96,,2,35.61,34.24,71.79,99.99,Manajemen Air,25.53
+4668,1992,China,Central,Coffee,2579.35,29.4,1.4220000000000002,9,36.93,32.17,81.86,44.5,Rotasi Tanaman,33.03
+5122,1992,China,Central,Cotton,2394.18,8.18,1.15,4,53.51,12.99,11.87,92.16,Tanaman Tahan Kekeringan,9.36
+4104,1992,China,Central,Fruits,2760.56,11.56,2.7,6,40.9,6.38,94.77,80.53,Rotasi Tanaman,33.3
+2089,1992,China,Central,Soybeans,2165.18,2.83,3.82,0,96.99,12.45,88.76,30.9,Manajemen Air,15.38
+5618,1992,China,Central,Sugarcane,2360.92,24.68,2.52,4,97.24,13.05,90.8,65.2,Pertanian Organik,15.26
+4133,1992,China,Central,Wheat,1223.54,3.83,2.41,0,57.0,42.06,97.21,35.24,Tanpa Adaptasi,5.77
+569,1992,China,East,Cotton,1486.37,24.56,1.953,1,99.67,12.17,92.67,64.68,Manajemen Air,31.35
+866,1992,China,East,Cotton,2413.13,18.27,,3,58.59,12.18,29.86,40.45,Pertanian Organik,4.19
+5124,1992,China,North,Barley,2216.56,19.73,1.611,5,89.98,11.07,50.63,74.71,Manajemen Air,16.08
+6080,1992,China,North,Coffee,573.65,27.23,2.79,2,83.07,47.82,45.92,50.52,Pertanian Organik,28.52
+5283,1992,China,North,Rice,396.22,2.96,2.3760000000000003,1,61.73,16.24,58.11,32.21,Manajemen Air,29.87
+2305,1992,China,North,Soybeans,2165.26,15.48,3.591,9,47.53,21.38,4.24,41.88,Pertanian Organik,24.82
+5276,1992,China,North,Sugarcane,416.45,1.35,1.404,10,96.22,43.96,48.55,96.09,Tanaman Tahan Kekeringan,7.06
+2624,1992,China,North,Wheat,662.97,10.35,1.62,8,27.57,21.61,0.74,99.8,Rotasi Tanaman,27.56
+7584,1992,China,North,Wheat,2135.79,25.38,1.107,9,14.55,5.9,35.2,83.01,Manajemen Air,7.84
+4454,1992,China,South,Cotton,526.5,3.87,3.1,2,73.07,36.2,36.02,33.24,Rotasi Tanaman,22.49
+7445,1992,China,South,Fruits,830.26,12.45,2.7,0,73.47,28.48,94.2,36.91,Rotasi Tanaman,33.92
+1762,1992,China,South,Rice,1866.82,12.29,2.93,7,60.19,1.63,94.69,59.79,Rotasi Tanaman,22.76
+426,1992,China,South,Soybeans,803.51,6.86,0.95,1,55.2,12.15,92.38,69.13,Tanpa Adaptasi,4.09
+5258,1992,China,South,Wheat,439.75,3.01,1.368,1,86.7,43.45,17.84,30.64,Rotasi Tanaman,27.53
+4763,1993,China,Central,Corn,2138.1,21.5,3.591,3,86.87,37.02,91.8,87.63,Pertanian Organik,11.03
+6211,1993,China,Central,Fruits,2657.0,24.67,1.386,2,15.13,4.29,87.74,52.54,Pertanian Organik,2.37
+7857,1993,China,Central,Soybeans,2480.17,17.87,1.107,2,80.81,0.45,45.3,41.36,Manajemen Air,31.83
+7914,1993,China,East,Barley,2705.73,28.87,3.582,9,96.48,33.68,15.15,55.69,Manajemen Air,24.9
+895,1993,China,East,Coffee,2431.3,15.09,1.215,1,94.59,23.69,51.76,86.72,Rotasi Tanaman,0.75
+2668,1993,China,East,Coffee,234.5,10.37,1.944,0,55.86,48.67,10.94,62.67,Pertanian Organik,25.82
+4672,1993,China,East,Coffee,1941.39,23.17,2.583,7,24.57,22.63,46.12,93.08,Pertanian Organik,22.4
+5348,1993,China,East,Cotton,2199.04,4.64,3.26,10,73.05,16.21,31.55,38.25,Manajemen Air,28.62
+5537,1993,China,East,Cotton,2990.12,25.55,4.41,0,16.81,49.35,61.74,33.37,Rotasi Tanaman,15.4
+6507,1993,China,East,Cotton,2970.03,28.01,2.592,0,76.49,11.27,14.74,72.12,Manajemen Air,14.95
+7767,1993,China,East,Rice,2279.96,1.56,4.99,7,74.28,20.75,36.01,87.08,Rotasi Tanaman,11.9
+4001,1993,China,East,Vegetables,2131.0,2.06,3.48,6,27.13,39.16,47.58,97.71,Manajemen Air,16.78
+1101,1993,China,East,Wheat,494.4,13.07,2.313,9,78.99,33.6,20.79,34.47,Pertanian Organik,10.92
+4997,1993,China,North,Barley,334.81,27.57,3.591,10,87.67,44.57,56.43,89.51,Manajemen Air,28.53
+393,1993,China,North,Coffee,581.49,18.65,1.836,6,72.5,37.02,60.21,56.29,Tanpa Adaptasi,12.46
+5109,1993,China,North,Coffee,770.1,13.63,2.15,0,,8.39,94.79,51.95,Pertanian Organik,17.89
+621,1993,China,North,Soybeans,2236.82,6.09,2.78,9,32.47,12.86,86.81,77.96,Tanpa Adaptasi,7.76
+4202,1993,China,North,Soybeans,985.17,12.4,3.57,9,69.52,16.51,54.71,82.95,Pertanian Organik,13.46
+6976,1993,China,North,Soybeans,1302.76,20.5,1.971,9,73.49,30.61,49.05,60.19,Rotasi Tanaman,1.47
+6959,1993,China,South,Corn,1333.29,24.6,3.249,6,38.74,26.44,7.48,87.82,Tanpa Adaptasi,27.12
+2700,1993,China,South,Soybeans,1151.82,8.42,3.31,1,57.42,28.97,51.86,75.65,Pertanian Organik,34.1
+5910,1993,China,South,Sugarcane,1741.49,19.58,4.14,7,76.24,8.47,29.08,51.16,Manajemen Air,10.24
+721,1993,China,South,Vegetables,210.62,1.49,2.475,6,27.9,31.69,40.37,34.56,Pertanian Organik,14.21
+5783,1993,China,South,Vegetables,1235.06,8.55,3.88,1,17.54,21.42,34.22,59.85,Rotasi Tanaman,34.24
+844,1993,China,South,Wheat,1989.27,27.63,2.106,10,28.74,35.42,21.71,55.87,Rotasi Tanaman,28.93
+4878,1994,China,Central,Barley,1224.77,13.4,2.72,1,57.63,48.35,52.72,84.73,Tanpa Adaptasi,26.89
+2826,1994,China,Central,Wheat,2971.18,3.48,3.75,4,66.65,28.6,52.82,45.01,Pertanian Organik,13.84
+583,1994,China,East,Cotton,1757.8,8.77,3.39,8,59.28,5.61,78.19,63.19,Tanpa Adaptasi,20.73
+1131,1994,China,East,Cotton,578.41,20.18,3.5370000000000004,6,93.48,39.76,43.13,81.27,Tanpa Adaptasi,21.56
+6758,1994,China,East,Cotton,371.54,22.85,2.241,5,89.77,13.4,84.9,92.23,Pertanian Organik,32.83
+7458,1994,China,East,Cotton,1314.65,3.13,2.06,6,52.17,43.54,36.43,43.03,Pertanian Organik,19.72
+1629,1994,China,East,Soybeans,466.37,22.0,0.891,0,23.15,45.09,0.41,94.51,Manajemen Air,3.77
+622,1994,China,East,Sugarcane,360.35,14.96,1.998,1,21.27,22.32,97.41,49.47,Manajemen Air,-4.98
+4110,1994,China,East,Sugarcane,2110.11,14.52,3.1,7,36.3,9.4,71.04,87.86,Tanaman Tahan Kekeringan,29.32
+6530,1994,China,East,Sugarcane,752.06,5.61,,6,35.64,44.42,44.22,75.9,Rotasi Tanaman,7.93
+6183,1994,China,East,,1469.36,3.74,4.07,0,21.07,45.93,69.74,40.29,Tanaman Tahan Kekeringan,16.15
+6745,1994,China,North,Corn,2168.59,2.25,1.35,4,52.36,20.82,25.64,56.44,Pertanian Organik,2.12
+2574,1994,China,North,Fruits,2528.01,8.05,1.06,1,59.77,40.47,3.34,30.31,Pertanian Organik,-1.13
+712,1994,China,North,Soybeans,1511.31,5.31,0.99,10,81.39,6.62,35.73,77.68,Pertanian Organik,-0.16
+4231,1994,China,North,Sugarcane,2895.34,29.33,0.8280000000000001,9,43.11,28.47,87.84,40.7,Manajemen Air,28.24
+6485,1994,China,North,Sugarcane,2554.7,4.43,3.08,3,32.4,9.63,14.34,34.97,Manajemen Air,32.99
+4630,1994,China,North,Vegetables,672.56,26.85,2.295,10,39.62,1.5,92.01,40.81,Tanaman Tahan Kekeringan,28.44
+2175,1994,China,North,Wheat,463.25,10.62,1.557,7,71.63,28.73,84.75,50.25,Manajemen Air,20.28
+690,1994,China,North,,513.01,12.93,0.78,10,71.76,43.41,19.96,87.33,Manajemen Air,-2.71
+2967,1994,China,South,Barley,1477.91,10.42,3.57,1,16.31,42.36,58.13,54.28,Pertanian Organik,27.26
+4956,1994,China,South,Barley,2307.32,8.4,0.67,0,96.94,45.46,3.8,36.16,Rotasi Tanaman,0.38
+6953,1994,China,South,Corn,1562.0,17.62,1.26,5,68.32,3.11,22.49,54.32,Rotasi Tanaman,29.75
+480,1994,China,South,Cotton,643.69,28.11,2.6910000000000003,9,91.74,9.93,93.49,56.79,Rotasi Tanaman,29.22
+7819,1994,China,South,Fruits,2590.48,19.48,1.548,0,68.62,48.25,21.72,49.31,Manajemen Air,-2.43
+4458,1994,China,South,Soybeans,2786.47,7.11,3.0,6,54.91,40.9,39.78,83.32,Manajemen Air,-2.28
+3255,1994,China,South,Wheat,264.71,28.59,0.864,4,38.34,44.6,7.08,92.85,Pertanian Organik,27.18
+2303,1995,China,Central,Barley,1734.05,10.39,1.8,6,67.56,49.02,78.6,63.89,Rotasi Tanaman,32.97
+3464,1995,China,Central,Corn,2099.22,17.26,1.062,3,27.96,32.94,19.07,39.53,Tanaman Tahan Kekeringan,24.18
+2027,1995,China,Central,Fruits,2675.83,5.67,0.84,5,60.62,10.93,11.6,44.68,Tanpa Adaptasi,6.25
+2945,1995,China,Central,Rice,2273.93,28.71,1.899,8,52.2,2.52,30.06,40.08,Rotasi Tanaman,14.01
+7,1995,China,Central,Vegetables,2281.25,24.21,2.907,1,27.44,23.94,13.96,50.97,Tanaman Tahan Kekeringan,16.97
+2987,1995,China,Central,Vegetables,676.03,5.18,3.21,10,85.29,23.99,34.26,46.27,Pertanian Organik,12.98
+920,1995,China,Central,Wheat,602.49,24.38,1.683,9,53.43,39.18,1.48,94.43,Rotasi Tanaman,17.2
+152,1995,China,East,Corn,2615.78,3.45,2.33,0,57.24,9.76,15.66,84.34,Manajemen Air,-1.72
+4361,1995,China,East,Corn,2280.97,9.2,1.13,0,11.84,44.93,94.13,98.29,Tanaman Tahan Kekeringan,21.13
+4474,1995,China,East,Corn,1436.02,20.02,1.953,10,36.89,17.97,56.95,75.58,Rotasi Tanaman,15.94
+2445,1995,China,East,Rice,751.2,23.31,2.286,3,15.21,49.82,94.18,38.86,Tanpa Adaptasi,2.64
+102,1995,China,East,Soybeans,2916.61,20.34,1.863,4,78.07,46.34,92.0,33.03,Rotasi Tanaman,-2.6
+4447,1995,China,East,Vegetables,1602.83,17.2,0.522,3,27.78,37.04,48.39,53.83,Rotasi Tanaman,0.13
+7252,1995,China,East,Vegetables,877.9,26.83,1.494,0,48.44,1.72,34.29,47.13,Tanaman Tahan Kekeringan,25.54
+6700,1995,China,North,Sugarcane,1558.83,24.28,2.592,7,30.85,27.38,2.66,39.66,Rotasi Tanaman,24.72
+5233,1995,China,North,Wheat,2237.78,25.71,3.483,9,36.94,16.33,71.32,40.0,Pertanian Organik,30.13
+5020,1995,China,South,Coffee,372.18,13.59,1.2240000000000002,9,11.59,18.46,89.13,65.47,Manajemen Air,-0.03
+1052,1995,China,South,Corn,674.12,29.89,2.205,5,91.99,7.76,60.14,49.44,Rotasi Tanaman,27.61
+3132,1995,China,South,Fruits,1727.46,9.05,0.82,6,69.47,8.14,13.15,66.06,Tanaman Tahan Kekeringan,27.77
+2687,1995,China,South,Wheat,2154.71,11.72,,2,82.0,48.93,2.35,50.08,Manajemen Air,20.09
+124,1996,China,Central,Coffee,886.71,25.23,3.411,3,92.12,9.35,78.48,69.74,Rotasi Tanaman,11.08
+4338,1996,China,Central,Fruits,1933.91,20.09,1.593,6,61.05,10.97,32.99,65.03,Manajemen Air,20.43
+6494,1996,China,Central,Sugarcane,2653.64,3.56,3.99,4,,42.95,16.87,54.13,Tanaman Tahan Kekeringan,16.82
+6673,1996,China,Central,Sugarcane,1161.71,16.51,2.934,2,36.49,23.96,12.57,91.06,Tanpa Adaptasi,26.68
+2691,1996,China,East,Cotton,1021.86,22.25,1.692,7,40.15,11.39,25.93,76.1,Pertanian Organik,23.67
+544,1996,China,East,Soybeans,1470.44,16.76,0.9,7,41.35,25.94,94.45,93.67,Tanpa Adaptasi,31.74
+1892,1996,China,East,Sugarcane,1015.71,23.49,1.161,0,99.43,21.86,33.7,73.06,Manajemen Air,1.38
+2859,1996,China,East,Sugarcane,2686.87,21.21,2.538,5,99.12,36.39,5.82,96.34,Manajemen Air,16.46
+1344,1996,China,East,Vegetables,1283.34,25.78,2.8800000000000003,5,71.44,18.86,51.9,85.91,Manajemen Air,25.54
+1421,1996,China,East,Vegetables,740.87,1.9,2.26,3,63.68,0.61,30.07,96.31,Tanaman Tahan Kekeringan,-2.77
+5624,1996,China,East,Vegetables,343.23,28.69,0.747,5,38.5,39.33,59.21,67.97,Tanaman Tahan Kekeringan,-3.06
+1918,1996,China,North,Cotton,852.28,8.66,1.35,1,76.83,1.31,6.4,35.04,Manajemen Air,24.61
+3167,1996,China,North,Cotton,1894.06,13.65,1.59,8,69.56,14.15,6.06,90.69,Rotasi Tanaman,11.57
+3062,1996,China,North,Fruits,1105.9,9.98,0.71,3,28.94,28.12,75.42,78.15,Tanaman Tahan Kekeringan,-2.93
+4298,1996,China,North,Soybeans,2320.13,19.37,1.242,2,15.72,8.46,55.85,99.61,Tanpa Adaptasi,6.09
+7807,1996,China,North,Soybeans,761.98,2.73,3.7,10,33.18,10.21,43.82,58.28,Pertanian Organik,34.89
+5592,1996,China,North,Vegetables,1608.85,19.98,2.169,7,96.14,7.07,6.3,73.16,Manajemen Air,15.88
+7703,1996,China,North,Vegetables,,18.78,2.493,7,32.42,40.59,15.92,94.64,Tanpa Adaptasi,5.74
+7553,1996,China,South,Rice,2253.74,9.09,3.28,7,67.24,46.87,95.07,80.63,Tanpa Adaptasi,29.71
+153,1996,China,South,Soybeans,2485.73,25.72,2.637,3,32.73,43.0,98.31,56.34,Manajemen Air,14.64
+4879,1996,China,South,Soybeans,672.0,20.18,1.521,2,56.27,28.02,83.85,99.75,Pertanian Organik,13.91
+7382,1997,China,Central,Corn,2407.82,29.12,2.178,1,99.45,26.28,51.98,82.99,Pertanian Organik,10.38
+4222,1997,China,Central,Fruits,954.47,4.06,1.66,0,83.22,42.86,44.87,61.84,Rotasi Tanaman,11.07
+34,1997,China,Central,Rice,1162.16,1.83,1.88,8,,15.08,52.22,82.1,Tanaman Tahan Kekeringan,33.74
+6393,1997,China,Central,Rice,1155.36,26.83,0.846,6,21.02,49.0,48.9,57.77,Tanaman Tahan Kekeringan,22.16
+5468,1997,China,Central,Soybeans,2898.76,12.81,0.71,1,24.79,44.69,23.72,49.13,Tanpa Adaptasi,-3.67
+3707,1997,China,Central,Sugarcane,2224.68,16.92,1.035,0,85.42,5.86,5.78,47.13,Manajemen Air,1.33
+177,1997,China,East,Coffee,1563.55,22.11,4.32,9,72.62,18.02,95.99,53.67,Tanaman Tahan Kekeringan,15.41
+1333,1997,China,East,Coffee,1864.22,4.3,3.22,6,40.02,20.35,82.38,55.51,Tanaman Tahan Kekeringan,17.38
+4873,1997,China,East,Corn,2188.61,18.95,1.89,3,72.19,45.94,71.04,30.8,Tanpa Adaptasi,1.96
+2784,1997,China,East,Cotton,1098.2,11.55,2.79,2,92.98,8.28,73.8,88.27,Manajemen Air,32.76
+3728,1997,China,East,Fruits,556.27,23.27,2.934,5,75.06,26.84,68.91,80.59,Rotasi Tanaman,16.86
+3902,1997,China,East,Sugarcane,,1.22,2.835,10,20.74,10.96,89.96,75.47,Pertanian Organik,30.01
+6290,1997,China,East,Wheat,1328.71,25.61,3.15,7,77.9,33.56,1.16,58.54,Tanaman Tahan Kekeringan,17.98
+2324,1997,China,North,Barley,,23.1,2.9970000000000003,7,89.29,25.0,36.36,38.17,Manajemen Air,14.96
+1078,1997,China,North,Corn,479.7,13.31,2.8800000000000003,5,63.4,36.49,75.3,90.38,Manajemen Air,12.53
+1871,1997,China,North,Corn,390.9,29.55,2.3040000000000003,7,98.16,44.63,18.11,63.6,Manajemen Air,17.06
+6892,1997,China,North,Cotton,951.23,24.43,3.051,0,66.98,5.85,33.44,78.6,Tanpa Adaptasi,21.46
+5443,1997,China,North,,1390.13,2.94,3.81,2,63.3,31.77,0.84,77.93,Tanaman Tahan Kekeringan,31.73
+4147,1997,China,South,Coffee,1141.02,21.87,3.339,5,87.89,36.96,5.23,65.99,Rotasi Tanaman,27.37
+1226,1997,China,South,Fruits,2108.88,11.07,2.31,9,12.46,10.82,53.82,94.41,Tanaman Tahan Kekeringan,18.56
+7696,1997,China,South,Rice,1665.02,16.12,4.122,7,50.15,3.52,55.23,65.15,Pertanian Organik,11.1
+1203,1997,China,South,Soybeans,2010.0,8.56,2.33,10,61.0,46.29,55.89,49.87,Tanaman Tahan Kekeringan,32.09
+398,1997,China,South,Wheat,2449.38,6.73,1.28,2,90.8,2.56,96.01,66.22,Rotasi Tanaman,-1.44
+6838,1997,China,South,,1951.28,16.42,,6,71.18,5.11,58.42,50.45,Pertanian Organik,29.23
+3589,1998,China,Central,Barley,1503.54,8.01,2.34,0,40.81,20.64,84.49,55.32,Tanpa Adaptasi,19.77
+257,1998,China,Central,Fruits,218.85,1.14,2.394,6,55.73,22.34,79.13,88.94,Tanpa Adaptasi,20.92
+5852,1998,China,Central,Rice,650.45,8.54,1.71,7,43.4,43.7,41.37,80.57,Manajemen Air,26.59
+5226,1998,China,Central,Sugarcane,1104.77,25.22,1.035,7,23.13,30.95,55.39,66.73,Manajemen Air,29.25
+7671,1998,China,Central,Sugarcane,2777.91,6.73,2.09,4,10.56,26.99,75.18,39.47,Tanpa Adaptasi,14.61
+1897,1998,China,Central,Vegetables,1491.01,29.21,1.665,7,75.68,37.37,41.89,71.89,Manajemen Air,16.59
+6285,1998,China,Central,Wheat,1381.01,5.63,3.28,3,40.04,5.89,48.81,82.75,Tanaman Tahan Kekeringan,34.24
+1453,1998,China,East,Coffee,450.95,16.62,0.522,5,10.35,16.17,47.76,38.22,Manajemen Air,7.75
+7063,1998,China,East,Cotton,1962.69,25.87,2.727,10,50.95,14.15,43.33,45.89,Tanpa Adaptasi,10.99
+7394,1998,China,East,Soybeans,522.5,7.72,1.4,2,15.41,43.6,48.68,38.01,Rotasi Tanaman,5.84
+939,1998,China,East,,2234.1,19.4,0.738,7,74.83,29.83,43.17,30.39,Pertanian Organik,33.72
+4917,1998,China,North,Barley,1977.66,3.87,1.73,4,48.58,11.18,37.07,72.3,Manajemen Air,21.06
+1585,1998,China,North,Coffee,580.21,28.64,1.989,3,53.95,3.36,40.72,79.61,Tanpa Adaptasi,21.19
+1749,1998,China,North,Soybeans,1426.15,10.79,1.71,0,70.69,26.29,21.43,80.49,Tanaman Tahan Kekeringan,3.42
+6801,1998,China,North,Sugarcane,2239.28,3.2,3.27,9,67.81,20.26,91.32,77.3,Manajemen Air,29.67
+4636,1998,China,South,Coffee,563.6,5.66,3.31,3,52.03,47.27,77.72,91.4,Manajemen Air,31.23
+1158,1998,China,South,Rice,2123.73,13.09,1.58,3,,29.06,29.83,58.04,Rotasi Tanaman,18.8
+7323,1998,China,South,Sugarcane,1495.37,17.73,0.5670000000000001,0,59.06,1.8,16.31,91.61,Tanpa Adaptasi,0.56
+3541,1998,China,South,Vegetables,2111.08,20.67,0.7290000000000001,6,42.1,20.24,7.22,59.54,Tanpa Adaptasi,31.72
+399,1999,China,Central,Barley,701.12,18.59,1.782,3,69.56,13.57,44.44,36.0,Tanpa Adaptasi,16.93
+1299,1999,China,Central,Barley,2693.61,5.46,3.04,2,26.21,4.33,0.1,94.51,Rotasi Tanaman,16.39
+5846,1999,China,Central,Coffee,1931.5,22.26,2.817,5,15.24,37.72,68.09,71.8,Tanpa Adaptasi,26.32
+1718,1999,China,Central,Corn,949.11,3.57,1.64,7,87.0,25.11,39.04,60.01,Tanaman Tahan Kekeringan,1.26
+7672,1999,China,Central,Cotton,590.48,5.87,1.15,2,78.76,36.15,76.93,66.05,Tanaman Tahan Kekeringan,32.54
+1584,1999,China,Central,Vegetables,1644.26,25.75,2.835,8,42.47,41.14,60.26,39.24,Tanaman Tahan Kekeringan,19.13
+1767,1999,China,Central,Vegetables,2464.1,12.75,2.59,6,19.0,6.87,65.59,83.01,Manajemen Air,31.59
+7273,1999,China,Central,Wheat,2872.79,20.51,2.385,0,35.52,20.33,92.92,59.57,Manajemen Air,16.71
+1201,1999,China,Central,,2314.65,16.88,0.801,4,75.61,25.05,18.81,49.07,Tanaman Tahan Kekeringan,34.89
+7942,1999,China,Central,,569.16,3.92,2.77,6,68.24,39.96,70.89,32.11,Pertanian Organik,7.5
+6908,1999,China,East,Barley,2885.42,2.83,1.65,10,67.14,49.96,32.7,91.85,Manajemen Air,9.01
+971,1999,China,East,Rice,346.6,1.8,3.267,6,82.51,38.1,96.11,82.48,Rotasi Tanaman,27.95
+5585,1999,China,North,Rice,1100.71,28.48,2.862,9,25.3,32.45,37.3,42.81,Pertanian Organik,31.69
+6776,1999,China,North,Vegetables,1942.0,29.97,2.619,8,58.52,31.17,40.15,30.66,Rotasi Tanaman,33.38
+6882,1999,China,North,Vegetables,1818.79,16.76,0.5940000000000001,0,56.72,20.66,93.95,89.44,Tanpa Adaptasi,7.7
+3095,1999,China,North,Wheat,2864.83,26.88,1.845,5,46.65,8.32,35.58,47.53,Tanpa Adaptasi,6.87
+1829,1999,China,South,Barley,931.6,18.77,1.836,5,46.55,46.45,43.83,68.49,Rotasi Tanaman,6.93
+2192,1999,China,South,Corn,2591.32,21.22,0.774,10,44.73,16.54,26.4,75.34,Tanaman Tahan Kekeringan,-3.43
+4433,1999,China,South,Rice,883.29,7.9,4.36,0,21.15,7.23,86.96,86.15,Rotasi Tanaman,13.68
+1510,1999,China,South,Soybeans,1307.02,18.52,1.539,4,67.29,46.55,71.11,56.0,Tanaman Tahan Kekeringan,7.01
+463,1999,China,South,Vegetables,751.6,21.25,0.54,2,36.9,15.6,35.02,70.14,Pertanian Organik,5.46
+553,1999,China,South,Wheat,614.42,27.76,1.161,2,54.51,4.24,5.51,81.26,Manajemen Air,29.96
+7940,2000,China,Central,Coffee,2952.9,14.38,2.72,0,19.75,27.02,31.72,57.88,Pertanian Organik,10.57
+5648,2000,China,Central,Cotton,2001.42,25.81,3.078,1,32.93,41.0,33.18,71.44,Pertanian Organik,16.94
+2630,2000,China,Central,Fruits,347.2,7.46,1.485,9,75.45,0.75,55.89,84.71,Manajemen Air,7.32
+4232,2000,China,Central,Rice,906.5,29.83,3.384,10,59.81,38.66,2.81,57.99,Tanpa Adaptasi,27.43
+5525,2000,China,Central,Soybeans,1783.35,25.57,2.331,8,28.63,36.43,65.19,83.29,Tanpa Adaptasi,-4.71
+1232,2000,China,Central,Sugarcane,706.98,18.08,1.548,7,15.64,5.55,50.04,73.31,Manajemen Air,20.55
+4014,2000,China,East,Barley,2721.39,3.6,0.95,3,47.71,7.25,56.48,51.01,Tanaman Tahan Kekeringan,21.38
+6381,2000,China,East,Barley,1538.32,0.73,0.6,0,96.86,37.43,65.58,83.98,Manajemen Air,7.77
+5987,2000,China,East,Soybeans,2344.77,21.37,1.269,10,39.16,38.24,39.15,65.39,Pertanian Organik,20.45
+3064,2000,China,East,Sugarcane,2167.31,2.89,2.17,5,92.31,7.48,95.99,66.48,Manajemen Air,0.06
+3466,2000,China,East,Sugarcane,2571.63,25.87,1.962,3,97.04,30.28,9.02,73.54,Tanaman Tahan Kekeringan,9.72
+4137,2000,China,East,Vegetables,2263.6,2.6,2.5,8,56.86,46.34,40.47,33.04,Tanpa Adaptasi,18.16
+4358,2000,China,East,Vegetables,972.39,13.75,2.65,0,90.59,40.9,3.31,91.87,Tanpa Adaptasi,-4.47
+4852,2000,China,East,Vegetables,2028.72,7.61,2.59,8,32.64,14.79,50.31,53.15,Pertanian Organik,6.46
+7384,2000,China,North,Rice,801.78,14.83,2.98,1,45.89,3.15,53.98,98.68,Rotasi Tanaman,29.79
+2480,2000,China,North,Soybeans,2333.82,14.96,4.66,2,12.45,10.76,41.85,46.73,Tanpa Adaptasi,14.97
+7928,2000,China,North,Soybeans,,17.29,1.962,8,23.93,33.24,57.33,46.65,Pertanian Organik,25.02
+6617,2000,China,North,,2029.57,27.95,4.077,2,98.01,11.9,12.75,38.34,Pertanian Organik,15.68
+2857,2000,China,South,Corn,,22.36,1.4220000000000002,3,11.13,29.5,80.02,65.54,Rotasi Tanaman,30.3
+4399,2000,China,South,Corn,2058.41,26.27,1.818,2,77.72,41.14,16.1,49.64,Tanaman Tahan Kekeringan,6.4
+2732,2000,China,South,Cotton,1763.71,28.67,2.826,10,40.99,43.13,23.1,84.93,Pertanian Organik,21.01
+4955,2000,China,South,Cotton,1982.55,24.13,2.133,1,33.36,6.41,36.31,94.19,Tanaman Tahan Kekeringan,33.38
+500,2000,China,South,Fruits,1176.57,8.25,0.95,4,85.52,12.81,26.33,98.86,Tanpa Adaptasi,-3.75
+74,2000,China,South,Soybeans,1265.75,29.41,1.467,10,44.68,41.61,40.15,50.1,Manajemen Air,30.11
+6170,2000,China,South,Sugarcane,366.1,10.02,2.826,3,92.56,38.06,15.84,36.88,Pertanian Organik,34.01
+6461,2000,China,South,Sugarcane,946.98,28.49,2.259,8,26.12,36.35,92.62,58.43,Pertanian Organik,34.01
+184,2000,China,South,Vegetables,1904.21,18.57,2.439,7,78.08,24.24,52.23,55.5,Rotasi Tanaman,14.52
+1040,2000,China,South,Vegetables,1657.88,27.45,2.682,6,94.83,39.06,1.62,74.72,Pertanian Organik,12.58
+5514,2000,China,South,Wheat,1843.22,25.57,1.368,4,78.9,39.05,22.9,70.53,Pertanian Organik,10.19
+6880,2001,China,Central,Barley,1854.25,20.24,3.483,5,32.05,3.11,2.54,67.66,Pertanian Organik,17.38
+900,2001,China,Central,Rice,789.75,19.65,1.341,9,60.44,44.0,86.71,80.59,Tanpa Adaptasi,-3.13
+7997,2001,China,Central,Rice,2085.65,14.52,2.59,5,98.85,44.85,28.78,33.65,Manajemen Air,31.23
+5964,2001,China,Central,Soybeans,2892.54,14.11,4.28,1,39.87,35.94,64.56,92.93,Pertanian Organik,13.39
+3898,2001,China,Central,Vegetables,798.13,20.82,2.484,5,21.56,8.77,34.79,73.82,Manajemen Air,2.72
+5541,2001,China,Central,Vegetables,1114.73,16.5,1.125,8,85.83,45.11,31.06,75.97,Pertanian Organik,1.59
+3539,2001,China,East,Coffee,2595.46,3.57,3.04,4,62.11,40.41,39.78,33.83,Tanaman Tahan Kekeringan,12.36
+5863,2001,China,East,Coffee,2845.27,8.38,1.56,0,53.02,10.92,26.56,36.97,Pertanian Organik,29.26
+6145,2001,China,East,Coffee,2688.6,5.21,1.71,6,67.25,23.16,38.51,82.75,Rotasi Tanaman,27.49
+6525,2001,China,East,Coffee,2392.29,22.49,2.718,10,69.44,18.77,18.39,72.13,Tanaman Tahan Kekeringan,21.88
+233,2001,China,East,Corn,,28.63,3.1410000000000005,8,65.66,38.79,11.06,86.38,Tanaman Tahan Kekeringan,32.57
+5764,2001,China,East,Soybeans,2433.86,21.68,1.7009999999999998,4,65.14,26.92,9.58,51.36,Tanaman Tahan Kekeringan,26.75
+710,2001,China,East,Sugarcane,2448.7,27.09,4.4910000000000005,10,33.43,42.51,2.98,63.95,Tanaman Tahan Kekeringan,16.22
+3187,2001,China,East,Wheat,2740.85,24.64,,5,48.75,4.23,12.25,73.61,Tanaman Tahan Kekeringan,17.81
+5412,2001,China,North,Barley,459.34,14.95,1.656,8,43.83,5.58,43.73,38.37,Pertanian Organik,5.26
+7410,2001,China,North,Cotton,2976.13,23.97,0.5940000000000001,3,97.47,39.46,46.92,54.51,Tanpa Adaptasi,6.29
+6797,2001,China,North,Fruits,394.33,8.23,3.582,1,21.99,45.23,2.08,79.17,Tanaman Tahan Kekeringan,30.2
+7001,2001,China,North,Fruits,2332.34,6.78,3.9,0,33.96,46.72,11.49,85.68,Pertanian Organik,33.82
+987,2001,China,South,Barley,2675.28,0.63,1.02,5,30.45,8.43,34.37,33.31,Rotasi Tanaman,34.49
+4664,2001,China,South,Barley,1160.72,8.06,3.57,0,62.79,42.46,82.88,79.77,Tanpa Adaptasi,19.94
+4899,2001,China,South,Barley,613.44,22.91,1.53,7,94.43,23.54,4.34,76.07,Tanaman Tahan Kekeringan,4.16
+3490,2001,China,South,Cotton,2820.11,0.71,1.26,9,92.88,34.96,86.69,51.73,Rotasi Tanaman,27.98
+2202,2001,China,South,Fruits,2353.24,26.8,1.026,3,75.65,6.78,19.59,83.09,Pertanian Organik,5.07
+5512,2001,China,South,Rice,1780.31,11.5,3.26,0,70.04,24.95,31.54,78.21,Rotasi Tanaman,29.34
+6589,2001,China,South,Rice,2244.13,11.1,3.9,0,25.87,49.52,16.83,48.58,Tanpa Adaptasi,31.31
+3547,2001,China,South,Sugarcane,1183.75,7.87,3.3,5,49.13,18.08,99.85,95.75,Tanaman Tahan Kekeringan,25.53
+2478,2002,China,Central,Fruits,486.36,5.66,3.519,3,92.46,30.0,18.64,75.72,Tanaman Tahan Kekeringan,14.79
+4392,2002,China,Central,Fruits,2647.39,6.95,3.48,10,46.77,19.78,21.11,55.64,Pertanian Organik,28.98
+7462,2002,China,Central,Rice,1385.49,14.51,2.72,1,53.91,29.5,7.99,99.4,Manajemen Air,-2.6
+3676,2002,China,Central,Sugarcane,633.76,19.64,1.251,6,51.66,7.6,28.09,63.3,Tanpa Adaptasi,3.82
+4906,2002,China,Central,Sugarcane,1962.7,13.37,0.84,9,50.02,15.9,48.01,82.39,Pertanian Organik,31.36
+7054,2002,China,Central,Sugarcane,1361.08,12.63,3.62,5,85.32,23.15,11.1,55.48,Tanaman Tahan Kekeringan,24.3
+2483,2002,China,East,Cotton,1272.05,12.57,1.63,8,40.52,20.19,34.96,78.17,Rotasi Tanaman,-2.29
+350,2002,China,East,Fruits,1298.22,5.5,1.11,5,96.97,18.94,15.38,69.17,Tanaman Tahan Kekeringan,31.79
+2053,2002,China,East,Fruits,2017.71,9.84,2.27,6,44.92,7.05,8.05,66.27,Rotasi Tanaman,12.58
+5855,2002,China,East,Fruits,1291.26,27.12,4.293,1,,41.71,37.74,60.75,Tanpa Adaptasi,17.28
+6581,2002,China,East,Rice,2213.48,21.8,3.1410000000000005,5,59.5,14.17,54.56,60.61,Pertanian Organik,11.63
+2637,2002,China,East,Soybeans,1495.78,11.98,1.38,0,99.68,10.14,36.09,91.01,Tanaman Tahan Kekeringan,-4.95
+5199,2002,China,East,Soybeans,883.42,27.91,0.5760000000000001,3,75.51,16.47,47.89,75.07,Manajemen Air,-1.69
+2286,2002,China,East,Vegetables,1358.67,3.03,3.42,0,67.58,28.06,21.01,57.11,Tanpa Adaptasi,23.82
+3474,2002,China,East,Vegetables,2873.96,0.8,0.9,5,29.44,7.69,15.55,43.98,Tanpa Adaptasi,8.67
+5052,2002,China,North,Barley,1724.99,7.8,1.07,2,93.73,7.09,60.61,64.56,Tanaman Tahan Kekeringan,-0.63
+2041,2002,China,North,Corn,1855.86,2.76,1.52,3,98.07,27.5,23.16,84.34,Rotasi Tanaman,-0.91
+4512,2002,China,North,Rice,2476.06,13.44,,9,,37.91,62.54,88.78,Pertanian Organik,-1.66
+3894,2002,China,North,Wheat,271.18,20.37,1.854,5,79.38,12.11,91.98,63.84,Manajemen Air,3.98
+4471,2002,China,North,,1996.97,16.67,2.628,9,29.87,39.78,61.44,91.2,Manajemen Air,17.84
+7950,2002,China,South,Coffee,1520.12,25.23,0.7020000000000001,6,65.5,38.36,77.25,65.02,Rotasi Tanaman,3.41
+5757,2002,China,South,Rice,423.47,6.42,3.726,6,26.95,1.39,85.88,63.55,Pertanian Organik,10.97
+7867,2002,China,South,Rice,,3.99,1.719,0,35.32,14.34,74.23,99.43,Pertanian Organik,13.51
+4739,2002,China,South,Soybeans,723.38,5.34,2.82,6,76.26,8.24,17.87,99.77,Tanaman Tahan Kekeringan,12.53
+1222,2002,China,South,Sugarcane,1215.0,24.45,3.087,0,45.46,43.86,93.83,87.28,Tanaman Tahan Kekeringan,28.55
+2935,2002,China,South,Sugarcane,416.44,3.34,1.368,8,14.79,29.76,27.08,77.42,Tanaman Tahan Kekeringan,7.86
+5570,2002,China,South,Sugarcane,947.14,20.78,2.241,2,96.9,41.57,56.67,54.44,Rotasi Tanaman,8.88
+625,2002,China,South,Vegetables,2793.52,3.8,,3,42.98,1.58,65.62,35.7,Tanpa Adaptasi,25.48
+6979,2003,China,Central,Coffee,,13.47,4.82,8,19.15,39.78,1.89,49.92,Manajemen Air,11.75
+1644,2003,China,Central,Corn,2051.71,12.01,4.19,7,83.85,26.67,47.35,79.25,Tanaman Tahan Kekeringan,13.37
+5158,2003,China,Central,Fruits,1228.22,19.06,1.692,0,99.76,27.94,5.36,60.58,Tanaman Tahan Kekeringan,1.91
+5204,2003,China,Central,Rice,1887.8,6.74,1.73,8,17.01,3.89,38.18,32.71,Manajemen Air,-2.01
+88,2003,China,Central,Sugarcane,1708.5,1.82,1.96,0,43.63,38.09,43.63,50.99,Tanaman Tahan Kekeringan,24.38
+225,2003,China,Central,Vegetables,2814.22,3.6,0.95,5,65.64,11.96,40.05,98.87,Rotasi Tanaman,23.58
+4922,2003,China,Central,Vegetables,2942.95,9.09,2.97,1,37.92,33.54,89.41,46.38,Tanpa Adaptasi,31.22
+2645,2003,China,Central,Wheat,2120.98,28.53,2.3760000000000003,6,84.47,15.36,17.1,46.9,Tanpa Adaptasi,27.47
+4943,2003,China,Central,Wheat,345.64,21.14,1.962,9,36.47,26.92,75.03,79.44,Manajemen Air,-4.03
+6035,2003,China,Central,,2847.74,5.7,3.89,10,98.43,23.46,23.6,56.4,Tanpa Adaptasi,12.38
+556,2003,China,East,Coffee,2774.71,14.24,1.58,4,41.79,39.67,63.55,63.76,Rotasi Tanaman,20.91
+292,2003,China,East,Corn,780.24,7.97,1.31,4,64.72,19.22,35.37,77.52,Pertanian Organik,4.26
+4288,2003,China,East,Cotton,1296.99,25.21,3.078,3,56.1,34.24,68.83,95.32,Manajemen Air,30.32
+1594,2003,China,North,Corn,2383.13,23.71,2.9610000000000003,3,54.16,47.83,82.38,59.41,Manajemen Air,27.17
+2512,2003,China,North,Corn,881.06,18.47,1.044,9,83.77,26.47,84.82,35.05,Rotasi Tanaman,9.51
+173,2003,China,North,Cotton,581.43,16.76,3.546,6,95.58,2.43,80.88,49.78,Tanpa Adaptasi,19.29
+5875,2003,China,North,Fruits,,8.1,3.79,5,75.1,13.12,6.43,40.27,Rotasi Tanaman,30.48
+7676,2003,China,North,Fruits,1766.97,20.24,4.131,4,96.65,1.83,98.36,73.97,Tanpa Adaptasi,16.16
+4940,2003,China,North,Soybeans,1283.26,9.36,3.01,9,60.52,0.08,76.58,98.76,Pertanian Organik,30.01
+4230,2003,China,North,Sugarcane,2980.43,6.28,2.29,10,53.0,39.97,13.72,39.68,Tanpa Adaptasi,4.7
+706,2003,China,North,Wheat,1239.26,2.42,4.28,7,68.07,37.15,38.46,59.39,Tanaman Tahan Kekeringan,14.32
+5594,2003,China,North,Wheat,2951.0,2.67,2.85,10,74.34,12.46,54.0,46.71,Rotasi Tanaman,-3.46
+6156,2003,China,South,Corn,953.94,8.35,,5,72.67,44.26,25.95,60.32,Rotasi Tanaman,21.83
+3950,2003,China,South,Cotton,625.87,14.09,3.49,10,57.11,16.79,13.83,98.53,Manajemen Air,20.81
+4936,2003,China,South,Cotton,1622.13,10.66,3.34,10,61.08,35.44,61.2,70.47,Tanaman Tahan Kekeringan,24.56
+6968,2003,China,South,Vegetables,2843.9,22.26,1.332,10,94.52,25.79,52.8,36.36,Tanaman Tahan Kekeringan,26.82
+4998,2003,China,South,Wheat,1790.7,22.1,1.683,0,16.88,0.45,75.5,56.02,Rotasi Tanaman,5.89
+6272,2004,China,Central,Barley,1841.64,15.66,3.0690000000000004,0,32.94,45.3,45.85,32.91,Pertanian Organik,10.64
+2956,2004,China,Central,Coffee,1304.66,18.57,1.242,7,62.55,15.96,32.06,69.09,Manajemen Air,27.16
+4657,2004,China,Central,Cotton,1281.46,14.86,2.72,7,62.34,19.36,16.5,67.88,Tanpa Adaptasi,22.64
+1670,2004,China,Central,Rice,2571.78,1.56,4.53,8,83.76,6.4,54.79,44.81,Tanpa Adaptasi,16.17
+7609,2004,China,Central,Sugarcane,386.29,10.3,1.08,7,82.53,10.92,18.28,57.18,Pertanian Organik,7.17
+5819,2004,China,Central,Wheat,1887.47,16.35,2.529,8,29.21,47.62,83.18,68.71,Rotasi Tanaman,16.78
+1442,2004,China,East,Coffee,1393.44,2.91,,4,41.63,43.6,37.66,87.7,Rotasi Tanaman,17.5
+6911,2004,China,East,Coffee,2326.01,5.58,2.49,0,69.44,7.03,46.6,63.79,Rotasi Tanaman,-0.53
+1409,2004,China,East,Corn,2481.09,23.08,2.682,1,65.85,5.95,69.62,79.14,Pertanian Organik,29.56
+6387,2004,China,East,Corn,648.02,3.15,1.88,5,52.52,7.92,56.46,88.44,Tanaman Tahan Kekeringan,22.95
+3857,2004,China,East,Cotton,1618.76,9.81,2.85,4,37.53,18.63,83.55,94.96,Tanpa Adaptasi,15.53
+6187,2004,China,East,Rice,2892.43,18.33,1.593,7,34.21,13.13,81.9,77.07,Tanaman Tahan Kekeringan,-0.5
+4058,2004,China,East,Soybeans,1673.43,19.77,2.025,4,72.09,25.2,26.02,57.6,Rotasi Tanaman,-4.99
+7401,2004,China,North,Cotton,434.11,3.74,1.2240000000000002,0,36.49,7.92,37.02,72.33,Pertanian Organik,9.66
+3078,2004,China,North,Rice,2201.56,2.93,3.38,8,63.94,47.86,11.76,71.31,Manajemen Air,11.53
+2105,2004,China,North,Vegetables,2790.5,27.19,3.042,2,94.02,0.76,10.9,90.66,Rotasi Tanaman,14.38
+3667,2004,China,South,Corn,768.93,1.09,3.29,4,42.27,16.27,70.91,42.7,Rotasi Tanaman,15.27
+805,2004,China,South,Soybeans,444.03,2.49,2.889,5,75.14,2.66,93.11,64.24,Pertanian Organik,22.49
+3137,2004,China,South,Soybeans,2112.16,23.25,3.825,9,87.91,17.46,81.09,40.72,Tanaman Tahan Kekeringan,18.1
+1274,2005,China,Central,Cotton,366.84,3.52,0.7200000000000001,2,79.45,25.71,81.09,60.4,Tanpa Adaptasi,9.59
+2021,2005,China,Central,Cotton,1864.97,18.29,3.33,3,36.36,34.05,79.79,63.11,Pertanian Organik,26.15
+3242,2005,China,Central,Sugarcane,2908.45,29.26,2.241,1,74.76,37.46,47.36,86.16,Tanpa Adaptasi,9.43
+7786,2005,China,Central,Vegetables,619.48,10.24,4.54,1,33.35,38.46,94.06,43.66,Tanaman Tahan Kekeringan,11.79
+5947,2005,China,East,Coffee,1569.57,22.09,0.864,0,10.01,11.98,42.73,45.54,Manajemen Air,-2.55
+6872,2005,China,East,Coffee,2232.77,4.15,2.16,5,96.97,32.89,96.69,71.17,Tanpa Adaptasi,27.48
+531,2005,China,East,Corn,2238.27,6.44,0.61,1,98.24,30.22,57.09,30.6,Tanaman Tahan Kekeringan,5.4
+5575,2005,China,East,Vegetables,,27.22,2.466,2,25.75,46.15,42.08,93.0,Manajemen Air,17.0
+2300,2005,China,East,Wheat,2953.76,20.68,1.071,1,11.01,30.22,94.84,50.07,Tanpa Adaptasi,5.4
+3663,2005,China,East,Wheat,1678.34,1.15,1.53,7,70.85,46.08,58.57,97.35,Tanaman Tahan Kekeringan,12.08
+7938,2005,China,North,Soybeans,428.02,21.5,1.044,6,26.05,4.59,49.19,50.25,Manajemen Air,-0.14
+2870,2005,China,South,Coffee,684.08,27.78,,4,31.04,36.7,14.2,80.83,Tanaman Tahan Kekeringan,20.41
+7103,2005,China,South,Corn,1051.31,9.59,0.99,5,97.18,7.13,97.28,96.31,Rotasi Tanaman,-3.75
+657,2005,China,South,Soybeans,1072.26,4.72,1.2,6,20.56,33.98,58.45,80.05,Pertanian Organik,3.98
+1492,2005,China,South,Wheat,1485.6,4.05,3.9,5,77.55,16.68,5.61,32.37,Tanpa Adaptasi,27.2
+4619,2005,China,South,Wheat,664.09,0.86,1.26,2,59.6,30.56,5.85,49.08,Pertanian Organik,26.05
+6197,2005,China,South,,1800.76,1.42,4.4,0,46.91,11.71,75.91,98.25,Manajemen Air,14.82
+2128,2006,China,Central,Barley,2958.6,11.0,3.1,1,36.94,5.32,13.93,62.95,Rotasi Tanaman,11.76
+4888,2006,China,Central,Barley,,11.45,3.07,8,83.65,19.78,71.39,64.1,Tanaman Tahan Kekeringan,14.73
+481,2006,China,Central,Coffee,1408.11,7.82,2.36,2,24.07,48.93,33.21,83.43,Manajemen Air,17.64
+3142,2006,China,Central,Coffee,231.75,13.35,1.368,8,66.39,31.73,47.15,60.95,Rotasi Tanaman,23.18
+2988,2006,China,Central,Wheat,639.1,17.05,1.116,2,18.63,31.55,84.83,90.32,Pertanian Organik,32.72
+5928,2006,China,Central,Wheat,2292.07,9.04,1.87,9,38.46,46.38,27.88,68.19,Tanpa Adaptasi,0.88
+180,2006,China,East,Coffee,2063.44,4.75,3.18,6,49.97,36.97,9.61,66.96,Manajemen Air,19.34
+7738,2006,China,East,Coffee,1391.19,9.33,2.1,3,47.27,34.96,16.11,54.54,Tanaman Tahan Kekeringan,29.88
+4641,2006,China,East,Fruits,2196.56,19.81,1.6740000000000002,0,25.04,6.64,4.78,54.53,Rotasi Tanaman,28.82
+6583,2006,China,East,Rice,2469.56,6.82,0.92,0,33.56,16.44,9.78,51.13,Manajemen Air,3.2
+6253,2006,China,North,Coffee,894.81,18.9,0.945,3,86.39,39.41,85.96,92.9,Tanaman Tahan Kekeringan,23.01
+7541,2006,China,North,Coffee,1351.36,17.75,2.349,4,18.37,10.66,43.85,58.68,Tanpa Adaptasi,28.36
+3086,2006,China,North,Corn,1010.47,9.76,1.92,10,22.24,35.61,92.92,38.65,Tanpa Adaptasi,4.8
+4583,2006,China,North,Corn,1553.51,9.91,1.63,0,11.76,36.11,84.07,39.87,Tanaman Tahan Kekeringan,1.92
+6567,2006,China,North,Rice,1158.14,26.71,1.71,0,63.61,4.47,86.25,55.4,Tanaman Tahan Kekeringan,33.78
+2962,2006,China,North,Wheat,1736.68,26.85,3.06,6,68.64,32.22,52.52,57.66,Rotasi Tanaman,22.37
+4430,2006,China,South,Barley,631.37,0.51,1.81,10,12.39,33.75,44.84,70.14,Pertanian Organik,28.3
+1781,2006,China,South,Corn,2084.99,29.77,1.26,6,88.09,33.2,55.34,48.15,Rotasi Tanaman,26.36
+4602,2006,China,South,Cotton,1031.86,3.67,2.63,3,97.61,5.72,9.15,34.64,Manajemen Air,8.85
+6324,2006,China,South,Rice,2776.12,9.31,2.91,5,67.67,11.39,13.23,84.15,Tanpa Adaptasi,6.06
+884,2007,China,Central,Barley,1319.53,20.89,2.16,8,51.44,48.8,98.44,73.81,Tanaman Tahan Kekeringan,-1.19
+6096,2007,China,Central,Barley,2543.75,12.21,0.9,0,77.23,33.85,9.07,85.86,Rotasi Tanaman,-2.73
+270,2007,China,Central,Corn,865.33,1.21,0.51,9,27.77,18.85,63.63,99.88,Tanpa Adaptasi,-4.29
+5425,2007,China,Central,Corn,2316.18,23.53,1.791,10,86.97,33.79,90.42,51.21,Pertanian Organik,10.44
+1968,2007,China,Central,Fruits,1562.61,0.61,3.25,10,71.87,7.96,2.25,57.16,Pertanian Organik,14.0
+237,2007,China,Central,Vegetables,1741.47,19.03,2.268,10,69.8,2.97,82.49,94.84,Manajemen Air,26.92
+2487,2007,China,Central,Wheat,2010.89,14.53,,1,80.64,23.08,27.05,85.13,Manajemen Air,29.03
+1292,2007,China,East,Barley,2352.95,29.28,2.079,0,22.29,39.57,67.19,52.4,Tanpa Adaptasi,30.14
+3333,2007,China,East,Barley,1481.27,25.76,3.177,4,75.1,48.22,64.76,77.52,Manajemen Air,14.89
+7661,2007,China,East,Barley,710.51,0.56,2.97,3,34.06,2.74,42.88,51.25,Manajemen Air,10.95
+5481,2007,China,East,Coffee,1076.38,3.51,1.4,3,71.87,29.78,69.58,33.09,Pertanian Organik,23.75
+1303,2007,China,East,Rice,1562.26,19.77,1.143,5,74.15,16.3,0.84,33.59,Tanpa Adaptasi,5.55
+7143,2007,China,East,Wheat,2167.95,6.97,2.69,1,55.81,36.75,88.23,34.37,Rotasi Tanaman,10.41
+7381,2007,China,North,Corn,2457.5,1.06,2.6,4,96.32,9.24,84.74,32.16,Tanaman Tahan Kekeringan,7.24
+4648,2007,China,North,Cotton,2538.61,24.91,1.476,4,37.76,8.93,76.67,47.12,Rotasi Tanaman,28.74
+6851,2007,China,North,Sugarcane,1646.89,11.21,2.04,10,25.3,32.98,68.66,91.42,Pertanian Organik,24.47
+7864,2007,China,North,Sugarcane,916.15,1.03,2.36,3,10.23,39.87,90.83,60.63,Pertanian Organik,25.42
+2266,2007,China,North,Vegetables,2123.84,16.16,1.1700000000000002,10,92.55,3.77,74.77,64.74,Tanaman Tahan Kekeringan,32.21
+1832,2007,China,North,Wheat,564.89,18.6,1.071,10,74.43,21.55,60.94,74.16,Rotasi Tanaman,7.09
+5519,2007,China,South,Barley,1598.68,25.55,2.0160000000000005,2,21.45,16.34,22.38,46.76,Rotasi Tanaman,14.4
+2355,2007,China,South,Coffee,804.7,26.23,3.591,4,26.4,34.05,15.11,36.57,Tanpa Adaptasi,14.54
+3152,2007,China,South,Fruits,389.55,4.16,3.6,0,81.7,8.63,75.61,77.97,Rotasi Tanaman,33.64
+3623,2007,China,South,Soybeans,2631.9,9.74,1.26,9,53.16,9.5,38.19,38.08,Pertanian Organik,33.76
+2541,2007,China,South,Sugarcane,2235.34,29.46,2.781,1,24.04,6.46,2.37,96.96,Pertanian Organik,20.45
+4145,2007,China,South,Vegetables,2207.0,9.92,3.33,2,28.26,27.15,35.16,54.01,Pertanian Organik,28.12
+2903,2008,China,Central,Coffee,2032.25,25.31,1.107,3,17.63,4.82,74.05,50.84,Manajemen Air,30.29
+7803,2008,China,Central,Corn,1684.41,26.16,4.032000000000001,9,91.89,40.56,21.43,99.08,Rotasi Tanaman,13.87
+1324,2008,China,Central,Cotton,1158.45,22.06,2.592,4,65.17,22.11,49.13,46.05,Pertanian Organik,9.28
+1289,2008,China,Central,Soybeans,433.0,7.07,2.745,4,61.25,27.09,63.05,55.19,Tanpa Adaptasi,17.8
+4013,2008,China,Central,Sugarcane,261.62,17.45,1.7009999999999998,4,84.57,35.67,16.05,45.52,Tanpa Adaptasi,18.1
+3010,2008,China,Central,Wheat,2678.58,7.61,2.55,3,42.29,29.09,19.68,51.03,Tanpa Adaptasi,25.83
+999,2008,China,Central,,2113.81,1.12,3.11,3,23.08,42.97,54.25,52.65,Rotasi Tanaman,14.92
+5317,2008,China,East,Coffee,642.15,4.29,3.71,1,97.8,13.65,8.97,99.98,Tanpa Adaptasi,32.88
+1533,2008,China,East,Corn,2209.48,13.88,4.51,4,83.01,18.13,82.42,83.14,Tanpa Adaptasi,11.38
+4055,2008,China,East,Corn,2461.57,13.7,2.1,5,44.72,5.06,37.98,81.9,Rotasi Tanaman,-0.7
+7763,2008,China,East,Cotton,2920.73,25.45,3.438,5,67.12,25.38,74.81,46.13,Tanpa Adaptasi,22.1
+383,2008,China,East,Fruits,1010.15,19.22,1.926,6,53.07,1.36,97.86,71.98,Pertanian Organik,2.09
+3372,2008,China,East,Rice,2394.63,22.18,1.341,10,,22.57,96.96,31.97,Tanpa Adaptasi,7.68
+7195,2008,China,East,Rice,312.34,29.55,1.287,8,61.9,25.85,97.41,76.44,Tanpa Adaptasi,8.9
+303,2008,China,East,Soybeans,1884.42,20.92,2.646,5,97.06,47.8,27.37,95.78,Pertanian Organik,22.8
+6705,2008,China,East,Sugarcane,619.88,0.56,0.88,6,15.94,8.7,67.42,89.53,Manajemen Air,5.35
+2318,2008,China,North,Barley,2632.84,20.83,2.547,2,85.47,34.95,52.15,38.89,Rotasi Tanaman,22.2
+4059,2008,China,North,Barley,2808.52,2.05,1.45,3,41.29,40.87,91.81,51.05,Pertanian Organik,3.94
+3386,2008,China,North,Coffee,1213.74,3.8,2.24,3,58.91,41.6,19.77,66.2,Tanaman Tahan Kekeringan,23.24
+6887,2008,China,North,Coffee,1647.37,3.58,1.11,6,48.63,1.58,91.33,89.0,Manajemen Air,2.46
+6731,2008,China,North,Rice,1540.82,6.4,3.77,10,37.36,21.92,15.98,70.26,Rotasi Tanaman,10.57
+1038,2008,China,North,Soybeans,730.3,19.99,3.519,8,84.23,46.9,93.2,79.67,Tanaman Tahan Kekeringan,12.51
+3558,2008,China,North,Soybeans,1582.88,21.8,0.855,2,82.11,1.23,75.52,95.75,Rotasi Tanaman,9.42
+4589,2008,China,North,Soybeans,1392.28,11.38,1.14,8,31.73,27.4,44.63,77.36,Pertanian Organik,30.14
+6195,2008,China,North,Sugarcane,2724.49,13.09,2.49,3,24.57,14.12,41.43,51.74,Manajemen Air,6.6
+6325,2008,China,North,,2783.46,19.75,3.834,2,51.22,18.47,57.29,45.79,Rotasi Tanaman,12.98
+2971,2008,China,South,Corn,2866.35,25.13,1.2240000000000002,9,62.94,15.0,70.04,80.06,Rotasi Tanaman,-2.65
+4775,2008,China,South,Cotton,2701.16,29.82,2.3760000000000003,7,89.43,37.75,10.61,56.02,Pertanian Organik,25.26
+2603,2008,China,South,Wheat,2504.87,4.89,0.75,4,80.69,15.75,55.57,34.17,Manajemen Air,-1.6
+4887,2008,China,South,Wheat,2490.64,2.03,4.95,4,97.22,21.29,99.68,83.04,Tanpa Adaptasi,15.23
+4225,2008,China,South,,629.82,16.24,0.657,5,17.33,45.96,42.57,80.2,Pertanian Organik,3.06
+845,2009,China,Central,Barley,2983.54,20.78,2.628,2,16.56,43.58,75.82,73.56,Tanpa Adaptasi,5.86
+2891,2009,China,Central,Barley,716.36,5.07,3.05,8,90.33,2.37,95.11,70.89,Pertanian Organik,22.37
+7664,2009,China,Central,Coffee,911.47,29.37,3.564,6,55.4,44.94,16.32,70.57,Manajemen Air,10.4
+641,2009,China,Central,Vegetables,2730.05,21.42,3.186,10,27.37,29.97,64.33,97.92,Tanaman Tahan Kekeringan,28.64
+2674,2009,China,Central,Vegetables,677.37,5.6,3.68,6,37.76,44.12,64.2,31.86,Manajemen Air,23.89
+7254,2009,China,Central,Wheat,1368.4,2.82,3.17,7,31.59,42.36,43.24,99.49,Rotasi Tanaman,29.77
+1245,2009,China,East,Rice,636.48,15.22,0.8190000000000001,2,87.06,26.28,27.15,72.84,Tanpa Adaptasi,21.37
+802,2009,China,East,Vegetables,,11.29,4.16,5,45.48,10.88,74.91,98.39,Pertanian Organik,15.14
+5629,2009,China,East,Wheat,211.02,24.29,0.927,8,47.67,34.38,48.95,71.27,Rotasi Tanaman,9.73
+5858,2009,China,East,,2569.23,4.54,1.58,8,10.51,21.13,95.7,32.45,Tanpa Adaptasi,31.01
+1484,2009,China,North,Coffee,772.42,12.16,2.86,1,16.94,20.41,8.74,40.92,Pertanian Organik,-0.17
+976,2009,China,North,Corn,591.61,16.61,1.431,9,24.15,3.62,96.86,94.69,Rotasi Tanaman,22.57
+2015,2009,China,North,Corn,2676.65,15.12,1.602,7,50.18,1.68,97.21,53.69,Manajemen Air,10.03
+5651,2009,China,North,Fruits,2097.64,2.27,1.16,9,25.5,7.92,18.1,69.18,Tanpa Adaptasi,29.52
+4226,2009,China,North,Soybeans,817.31,25.78,1.962,3,39.52,35.53,48.61,72.15,Rotasi Tanaman,0.94
+3823,2009,China,North,Wheat,2110.73,16.75,1.431,3,88.6,24.03,90.2,65.89,Pertanian Organik,23.22
+7183,2009,China,North,,2359.93,11.91,3.07,2,39.05,34.46,87.19,43.68,Rotasi Tanaman,12.97
+7062,2009,China,South,Corn,357.25,13.63,2.3040000000000003,3,61.77,6.66,58.12,43.42,Rotasi Tanaman,2.84
+2384,2009,China,South,Fruits,614.98,8.85,2.37,7,,4.23,73.53,58.67,Tanpa Adaptasi,0.28
+3591,2009,China,South,Soybeans,1015.73,26.78,2.493,10,95.16,44.5,95.05,41.2,Tanaman Tahan Kekeringan,21.72
+187,2009,China,South,Vegetables,1371.85,15.08,2.799,2,60.21,38.92,72.19,60.91,Manajemen Air,26.8
+1423,2010,China,Central,Corn,859.16,28.88,1.431,3,69.93,4.72,38.38,92.58,Tanaman Tahan Kekeringan,8.79
+807,2010,China,Central,Soybeans,1101.29,7.05,2.98,10,26.38,40.92,30.06,90.12,Tanaman Tahan Kekeringan,25.77
+560,2010,China,Central,Sugarcane,2821.92,9.0,0.91,5,94.05,20.17,12.5,81.34,Pertanian Organik,1.73
+329,2010,China,East,Barley,1654.43,2.48,2.21,7,16.51,29.79,66.2,53.3,Pertanian Organik,34.98
+4344,2010,China,East,Wheat,2649.78,25.11,4.428,4,97.95,9.42,44.79,68.88,Manajemen Air,10.04
+458,2010,China,North,Coffee,2949.39,20.1,0.7290000000000001,2,67.57,2.07,45.43,34.67,Tanpa Adaptasi,0.86
+2814,2010,China,North,Cotton,2759.94,17.49,2.052,2,84.75,11.44,72.36,64.75,Manajemen Air,32.0
+643,2010,China,North,Soybeans,2175.01,3.68,2.98,2,80.24,23.17,11.27,63.18,Rotasi Tanaman,16.06
+2323,2010,China,North,Wheat,283.56,22.74,3.222,10,88.47,15.34,62.15,46.37,Manajemen Air,31.7
+6829,2010,China,North,Wheat,2014.5,24.46,1.755,6,69.6,44.25,11.49,79.02,Tanpa Adaptasi,31.28
+514,2010,China,South,Fruits,2742.42,4.77,1.73,2,15.79,1.66,60.99,76.23,Pertanian Organik,9.32
+5557,2010,China,South,Sugarcane,2006.55,23.34,4.1850000000000005,0,37.23,28.93,77.09,71.62,Tanaman Tahan Kekeringan,12.6
+7924,2010,China,South,Sugarcane,2904.79,14.83,4.89,10,20.31,47.7,70.28,67.91,Rotasi Tanaman,18.4
+7003,2011,China,Central,Fruits,2668.63,3.87,2.63,8,97.92,36.48,32.27,44.58,Pertanian Organik,24.37
+3256,2011,China,Central,Sugarcane,1588.33,26.56,2.349,4,40.05,6.22,16.61,64.75,Pertanian Organik,13.4
+6192,2011,China,Central,Vegetables,2273.45,19.28,0.918,6,88.08,40.18,23.84,79.33,Pertanian Organik,-4.74
+3868,2011,China,East,Barley,1495.57,14.04,1.63,0,38.78,7.12,20.81,49.01,Tanaman Tahan Kekeringan,22.05
+4526,2011,China,East,Rice,324.51,25.23,3.357,10,56.77,26.88,79.17,94.05,Tanaman Tahan Kekeringan,33.6
+551,2011,China,East,Soybeans,2776.56,18.32,4.464,10,68.27,13.0,23.35,31.11,Tanaman Tahan Kekeringan,19.45
+925,2011,China,North,Barley,2257.47,9.19,1.37,7,70.82,44.93,48.63,79.5,Pertanian Organik,28.59
+926,2011,China,North,Coffee,914.21,20.73,1.107,2,16.44,9.25,52.92,71.11,Tanaman Tahan Kekeringan,23.68
+6217,2011,China,North,Coffee,1633.95,25.93,1.08,2,68.64,35.54,60.77,83.91,Tanaman Tahan Kekeringan,24.4
+6466,2011,China,North,Coffee,2770.64,13.65,3.01,6,85.45,43.0,5.64,95.09,Manajemen Air,15.26
+6006,2011,China,North,Rice,806.12,29.04,0.5670000000000001,6,28.14,39.64,5.51,94.44,Tanpa Adaptasi,4.57
+7808,2011,China,North,Vegetables,2132.12,26.53,2.6910000000000003,7,50.62,36.31,64.48,80.94,Manajemen Air,15.82
+6330,2011,China,South,Corn,1196.19,19.14,0.6930000000000001,7,33.32,42.77,37.53,44.29,Tanpa Adaptasi,3.38
+5871,2011,China,South,Fruits,2207.84,23.12,1.413,3,64.48,48.93,80.37,45.99,Rotasi Tanaman,13.8
+380,2011,China,South,Sugarcane,1900.12,6.85,3.0,6,67.53,25.0,10.55,82.0,Manajemen Air,16.0
+2684,2012,China,Central,Corn,405.77,16.58,1.251,2,70.44,12.67,19.2,96.89,Tanaman Tahan Kekeringan,24.87
+2441,2012,China,Central,Fruits,753.66,15.24,1.908,3,35.5,5.23,71.95,37.25,Tanaman Tahan Kekeringan,26.12
+2977,2012,China,Central,Rice,985.29,1.33,1.69,6,90.64,47.04,3.29,55.83,Tanpa Adaptasi,8.42
+3057,2012,China,Central,Rice,2251.07,1.7,1.7,8,11.07,43.28,0.24,46.83,Pertanian Organik,10.72
+5151,2012,China,Central,Soybeans,,17.7,3.4290000000000003,0,68.95,20.43,88.43,35.17,Tanaman Tahan Kekeringan,15.84
+7824,2012,China,Central,Soybeans,1014.35,14.98,3.16,4,88.87,36.52,78.65,30.34,Manajemen Air,19.02
+756,2012,China,Central,Sugarcane,1572.27,11.23,1.54,6,55.9,1.82,59.15,84.66,Rotasi Tanaman,27.53
+2373,2012,China,Central,Sugarcane,1296.77,25.37,2.277,1,43.18,44.42,88.45,47.39,Tanpa Adaptasi,30.77
+201,2012,China,East,Barley,698.09,14.91,1.82,7,71.23,41.28,37.03,71.53,Tanaman Tahan Kekeringan,33.35
+6244,2012,China,East,Cotton,590.19,6.88,2.81,3,30.37,24.86,84.18,45.73,Tanpa Adaptasi,33.12
+168,2012,China,East,Rice,1679.73,24.71,1.431,1,16.55,49.14,87.13,78.76,Pertanian Organik,-3.45
+3074,2012,China,East,Rice,402.76,25.99,2.493,2,45.75,34.3,17.68,39.17,Rotasi Tanaman,6.49
+2840,2012,China,East,Wheat,2033.33,26.87,3.375,8,84.85,15.17,14.79,98.95,Tanpa Adaptasi,19.03
+3143,2012,China,East,Wheat,768.5,20.92,4.4190000000000005,3,33.67,8.45,20.09,95.3,Rotasi Tanaman,13.38
+6029,2012,China,East,Wheat,519.94,2.81,4.95,3,,42.71,20.7,68.74,Manajemen Air,10.81
+6910,2012,China,East,,2387.26,1.61,2.79,10,87.94,6.4,72.77,87.23,Pertanian Organik,-2.91
+5774,2012,China,North,Barley,2271.47,23.07,0.8370000000000001,5,,45.31,18.88,99.48,Manajemen Air,1.4
+1622,2012,China,North,Corn,2788.5,24.67,0.666,0,77.12,42.27,47.64,56.07,Tanaman Tahan Kekeringan,-4.78
+6327,2012,China,North,Cotton,2625.55,24.81,2.727,6,99.21,48.06,4.26,87.04,Tanaman Tahan Kekeringan,28.6
+2571,2012,China,North,Soybeans,232.59,22.62,2.052,1,94.54,37.08,98.96,38.31,Rotasi Tanaman,2.99
+1908,2012,China,North,Sugarcane,2103.48,28.51,1.476,4,57.75,41.62,24.63,36.15,Tanaman Tahan Kekeringan,28.17
+6346,2012,China,North,Vegetables,2760.2,12.94,2.06,8,17.48,13.66,0.18,45.54,Tanpa Adaptasi,31.57
+2246,2012,China,North,Wheat,,8.9,1.575,3,81.95,40.76,20.74,37.09,Pertanian Organik,4.62
+3006,2012,China,South,Barley,617.15,9.45,1.16,5,39.44,12.2,14.43,67.47,Rotasi Tanaman,2.48
+2171,2012,China,South,Corn,2985.74,11.05,3.25,3,34.38,33.75,88.65,68.25,Pertanian Organik,12.69
+4745,2012,China,South,Rice,1354.54,2.5,1.56,8,52.1,28.73,45.71,36.29,Rotasi Tanaman,31.39
+2739,2012,China,South,Sugarcane,2376.06,6.62,2.73,6,21.61,44.52,31.78,98.87,Tanaman Tahan Kekeringan,23.63
+6762,2012,China,South,Sugarcane,1462.44,17.49,3.519,9,,38.73,48.35,48.41,Rotasi Tanaman,26.39
+3241,2012,China,South,Vegetables,863.0,24.34,2.565,6,76.41,7.0,95.02,93.75,Rotasi Tanaman,7.8
+3529,2012,China,South,Vegetables,1141.98,23.41,1.629,3,45.95,48.31,79.25,73.96,Tanpa Adaptasi,9.1
+3576,2012,China,South,Vegetables,2986.04,16.73,2.358,3,14.6,2.64,49.36,90.19,Manajemen Air,31.97
+4674,2012,China,South,Vegetables,2548.66,21.05,1.044,5,,41.31,10.31,34.45,Tanpa Adaptasi,7.75
+6855,2012,China,South,Vegetables,2259.84,19.72,0.873,3,80.43,17.48,9.35,49.17,Rotasi Tanaman,32.8
+2168,2012,China,South,Wheat,1080.6,11.71,3.62,0,19.7,40.61,87.68,41.6,Tanaman Tahan Kekeringan,30.03
+6399,2012,China,South,Wheat,356.27,3.0,3.906,0,55.84,9.99,26.94,56.85,Rotasi Tanaman,13.95
+6624,2012,China,South,Wheat,2977.62,4.71,1.07,7,99.04,12.36,78.18,31.99,Tanpa Adaptasi,31.56
+7304,2013,China,Central,Barley,1129.64,7.63,2.6,6,42.85,18.69,57.49,96.9,Pertanian Organik,18.71
+3222,2013,China,Central,Cotton,578.41,9.12,1.2,6,29.88,14.33,17.52,31.0,Manajemen Air,4.36
+367,2013,China,Central,Rice,2054.7,8.71,2.32,10,37.89,32.73,9.26,88.35,Rotasi Tanaman,8.16
+975,2013,China,Central,Soybeans,2807.91,10.85,2.94,0,16.22,3.34,66.55,95.05,Manajemen Air,-2.99
+6148,2013,China,Central,Soybeans,622.43,7.04,2.21,4,91.11,16.64,47.28,40.36,Tanaman Tahan Kekeringan,7.78
+3691,2013,China,East,Fruits,238.41,10.46,2.0160000000000005,0,33.87,41.47,82.91,41.81,Rotasi Tanaman,-3.55
+757,2013,China,East,Rice,1835.49,13.52,3.32,9,82.05,12.56,52.96,90.36,Tanpa Adaptasi,15.28
+6021,2013,China,East,Rice,297.09,13.88,,9,10.18,8.24,78.69,98.91,Pertanian Organik,3.98
+6161,2013,China,East,Soybeans,2859.4,27.8,2.538,8,19.42,5.54,18.66,36.68,Rotasi Tanaman,26.87
+3674,2013,China,East,Wheat,1580.35,21.22,1.287,1,97.9,20.12,82.12,60.96,Manajemen Air,34.07
+5407,2013,China,East,Wheat,815.87,4.58,3.41,3,29.32,39.75,65.76,46.61,Manajemen Air,34.87
+369,2013,China,North,Rice,1862.0,23.41,2.034,8,45.79,29.72,40.16,91.95,Tanaman Tahan Kekeringan,-0.97
+6615,2013,China,North,Rice,1540.68,6.41,1.61,1,19.12,31.96,39.92,66.16,Manajemen Air,11.66
+5756,2013,China,South,Cotton,2605.87,11.33,3.44,0,69.35,14.86,1.85,52.77,Pertanian Organik,11.86
+4191,2013,China,South,Sugarcane,596.13,16.94,0.873,6,79.85,47.22,40.3,47.67,Rotasi Tanaman,6.17
+5622,2013,China,South,Vegetables,,22.32,1.737,1,33.68,15.53,26.03,52.87,Pertanian Organik,24.4
+3994,2013,China,South,Wheat,2782.55,15.31,1.395,4,41.56,2.91,11.91,60.66,Pertanian Organik,30.78
+58,2014,China,Central,Corn,1616.7,27.32,3.78,4,76.44,45.53,36.41,39.14,Tanpa Adaptasi,12.76
+1451,2014,China,Central,Corn,,29.36,4.338,4,54.26,47.2,65.79,37.02,Tanpa Adaptasi,11.08
+238,2014,China,Central,Cotton,634.28,11.79,1.35,2,46.67,42.58,60.96,32.03,Tanpa Adaptasi,-1.57
+6767,2014,China,Central,Cotton,2090.77,2.93,1.0,8,38.22,12.66,79.7,50.96,Manajemen Air,1.36
+7610,2014,China,Central,Cotton,1798.42,8.97,1.26,5,52.31,10.42,74.96,68.76,Tanaman Tahan Kekeringan,22.24
+167,2014,China,Central,Rice,1823.08,14.83,1.86,5,52.61,39.83,46.02,30.77,Manajemen Air,28.15
+2689,2014,China,Central,Sugarcane,410.23,8.16,1.368,10,58.88,18.74,81.84,64.53,Rotasi Tanaman,-4.64
+3636,2014,China,Central,Sugarcane,1682.38,23.95,1.233,8,33.73,17.5,88.6,82.35,Manajemen Air,3.75
+3895,2014,China,East,Barley,1262.96,1.0,2.18,8,16.89,38.78,50.13,43.56,Tanpa Adaptasi,2.92
+4419,2014,China,East,Barley,1235.22,12.47,3.56,8,28.74,45.37,1.79,86.0,Tanaman Tahan Kekeringan,20.73
+4600,2014,China,East,Barley,964.52,23.04,2.619,4,26.6,4.81,82.24,85.82,Tanpa Adaptasi,8.99
+3727,2014,China,East,Coffee,2072.76,20.61,2.673,6,65.87,27.1,55.69,77.99,Rotasi Tanaman,17.17
+2028,2014,China,North,Barley,2455.91,17.42,2.367,8,23.98,24.91,30.22,59.42,Manajemen Air,26.49
+7180,2014,China,North,Coffee,539.27,7.69,2.82,3,38.99,44.68,30.89,53.86,Rotasi Tanaman,26.57
+3826,2014,China,North,Corn,1456.54,8.45,2.51,1,51.63,13.45,98.44,61.97,Tanpa Adaptasi,21.44
+3741,2014,China,North,Cotton,1490.74,19.6,1.8,0,45.75,44.19,17.03,98.07,Pertanian Organik,24.42
+6987,2014,China,North,Cotton,,1.14,1.71,5,97.42,25.94,77.57,93.38,Tanpa Adaptasi,10.57
+3554,2014,China,North,Rice,2140.85,0.89,2.86,7,14.14,0.24,83.81,37.98,Rotasi Tanaman,33.2
+6071,2014,China,North,Wheat,2955.14,6.26,0.87,4,27.88,3.24,69.46,66.79,Tanaman Tahan Kekeringan,4.52
+601,2014,China,South,Barley,1408.99,24.32,2.835,8,45.98,16.75,79.98,83.6,Tanaman Tahan Kekeringan,16.82
+2159,2014,China,South,Coffee,1547.72,10.25,2.76,10,64.27,43.66,15.93,75.36,Tanpa Adaptasi,0.28
+7552,2014,China,South,Cotton,1978.18,22.41,2.646,7,52.9,24.47,32.95,72.1,Manajemen Air,23.47
+4071,2014,China,South,Soybeans,630.0,17.63,2.763,3,64.95,15.85,11.26,44.27,Pertanian Organik,15.72
+4982,2014,China,South,Vegetables,2767.76,10.27,1.94,8,73.43,18.56,7.39,36.41,Tanpa Adaptasi,-4.32
+717,2014,China,South,Wheat,1796.7,16.23,0.63,1,69.63,5.82,37.39,53.53,Rotasi Tanaman,-1.69
+5602,2015,China,Central,Cotton,1804.75,19.53,0.963,5,32.12,33.43,59.81,75.27,Pertanian Organik,1.32
+1776,2015,China,Central,Wheat,652.64,5.43,1.64,10,88.85,36.67,21.35,34.72,Manajemen Air,8.68
+4032,2015,China,Central,Wheat,886.79,18.65,1.827,0,81.44,31.48,33.66,85.79,Tanpa Adaptasi,1.26
+7293,2015,China,East,Coffee,2970.3,17.92,1.836,2,29.71,49.76,14.56,76.36,Pertanian Organik,8.84
+3844,2015,China,East,Cotton,729.39,29.92,1.944,5,50.62,23.57,21.97,50.91,Rotasi Tanaman,-2.55
+5476,2015,China,East,Cotton,1776.47,7.76,2.84,1,16.71,44.15,18.28,60.23,Pertanian Organik,11.98
+2989,2015,China,East,Soybeans,1935.35,12.29,2.6,7,26.29,6.26,30.08,88.38,Rotasi Tanaman,2.85
+1271,2015,China,East,Wheat,462.15,29.97,2.664,6,54.58,38.95,34.45,64.11,Tanaman Tahan Kekeringan,7.83
+4499,2015,China,East,Wheat,2390.19,16.9,2.664,7,84.81,24.88,33.77,69.05,Tanpa Adaptasi,5.48
+6045,2015,China,East,,1675.49,25.82,2.592,8,51.45,9.92,83.18,59.58,Tanpa Adaptasi,0.84
+5244,2015,China,North,Coffee,2654.39,8.1,1.2,6,39.27,33.87,8.32,74.01,Tanpa Adaptasi,33.94
+7470,2015,China,North,Coffee,2539.88,29.1,2.709,2,72.18,31.42,53.11,89.4,Tanpa Adaptasi,18.49
+7158,2015,China,North,Fruits,2434.73,20.47,0.783,5,,44.08,31.23,48.11,Tanaman Tahan Kekeringan,-3.13
+5031,2015,China,North,Rice,737.04,6.33,2.94,1,12.07,3.05,11.74,30.63,Manajemen Air,13.32
+5061,2015,China,North,Rice,1060.34,29.6,2.3040000000000003,2,39.93,38.41,71.37,82.6,Pertanian Organik,16.71
+2902,2015,China,North,Sugarcane,1361.23,28.88,1.107,3,54.91,13.92,15.31,30.13,Tanaman Tahan Kekeringan,3.48
+4525,2015,China,North,Sugarcane,2517.66,21.0,0.954,5,98.04,34.93,66.68,77.17,Tanaman Tahan Kekeringan,6.34
+7122,2015,China,North,Vegetables,458.65,15.88,,4,23.78,40.5,51.9,75.67,Tanaman Tahan Kekeringan,14.39
+7944,2015,China,North,Wheat,,14.48,1.89,8,89.9,48.53,48.04,46.57,Pertanian Organik,6.04
+3283,2015,China,South,Barley,2568.13,25.46,2.484,1,93.16,24.72,74.78,90.55,Tanpa Adaptasi,-2.4
+683,2015,China,South,Coffee,711.74,15.9,3.123,8,72.97,27.74,12.37,49.23,Tanpa Adaptasi,20.81
+1729,2015,China,South,Coffee,1909.66,14.73,1.32,10,18.94,5.94,33.44,89.66,Tanaman Tahan Kekeringan,-3.69
+584,2015,China,South,Corn,1676.25,5.34,3.71,5,46.41,48.28,98.27,59.38,Manajemen Air,11.78
+5169,2015,China,South,Fruits,2798.43,28.8,0.747,1,11.41,39.58,89.64,97.04,Manajemen Air,23.61
+4120,2015,China,South,Rice,674.69,11.79,2.42,7,80.42,38.72,16.05,53.48,Rotasi Tanaman,22.46
+1980,2016,China,Central,Coffee,593.98,28.4,2.6910000000000003,1,20.5,37.46,22.01,95.61,Tanaman Tahan Kekeringan,13.34
+4895,2016,China,Central,Cotton,900.72,4.74,0.68,8,15.38,35.91,37.68,57.03,Tanaman Tahan Kekeringan,1.15
+7585,2016,China,Central,Fruits,1612.28,15.7,1.899,7,15.9,30.68,27.87,47.66,Tanpa Adaptasi,14.49
+2514,2016,China,Central,Rice,2275.55,29.1,3.654,5,13.46,3.86,18.92,60.68,Rotasi Tanaman,11.14
+6666,2016,China,Central,Rice,2159.12,2.3,2.71,9,88.06,9.94,23.1,32.32,Tanpa Adaptasi,9.6
+1553,2016,China,Central,Soybeans,2327.73,18.26,2.115,6,85.58,41.13,45.35,51.7,Manajemen Air,24.82
+2350,2016,China,Central,Soybeans,843.72,27.77,1.494,5,34.32,6.04,80.39,44.38,Tanaman Tahan Kekeringan,-0.17
+4273,2016,China,Central,Vegetables,2879.65,6.66,,7,22.01,14.39,23.93,66.19,Tanaman Tahan Kekeringan,18.7
+5894,2016,China,Central,Vegetables,2707.78,11.69,0.68,10,49.0,39.91,24.35,50.68,Tanaman Tahan Kekeringan,-0.11
+6442,2016,China,Central,,1773.76,28.43,3.213,8,72.87,14.01,16.04,81.13,Tanpa Adaptasi,29.18
+1343,2016,China,East,Barley,1096.44,3.93,2.92,6,56.58,38.25,55.84,82.73,Tanpa Adaptasi,15.87
+2404,2016,China,East,Barley,2997.57,20.18,1.197,6,99.98,30.65,87.87,55.42,Tanaman Tahan Kekeringan,-3.44
+490,2016,China,East,Fruits,1245.22,23.27,2.493,9,19.55,32.82,85.52,65.86,Tanaman Tahan Kekeringan,15.28
+3626,2016,China,East,Sugarcane,684.53,3.86,3.64,5,56.99,16.5,77.41,88.77,Manajemen Air,29.21
+1743,2016,China,East,Vegetables,658.12,5.14,3.4,4,49.87,22.03,88.26,98.69,Tanaman Tahan Kekeringan,32.18
+2697,2016,China,East,Wheat,1988.73,25.92,1.341,5,98.54,6.99,52.33,77.63,Manajemen Air,8.94
+2161,2016,China,North,Cotton,2743.78,11.78,1.3,6,95.17,2.25,1.18,94.25,Rotasi Tanaman,3.78
+5215,2016,China,North,Cotton,1424.27,10.38,2.92,2,33.15,39.1,67.71,86.36,Tanpa Adaptasi,5.1
+5820,2016,China,North,Sugarcane,2769.14,11.07,4.45,2,31.16,49.82,28.56,86.13,Tanaman Tahan Kekeringan,10.83
+3651,2016,China,North,Vegetables,2378.44,22.96,1.98,2,81.61,45.62,80.33,33.34,Tanaman Tahan Kekeringan,12.31
+1791,2016,China,South,Barley,1960.38,12.83,2.42,4,41.08,23.78,41.8,64.31,Manajemen Air,28.08
+1869,2016,China,South,Barley,2398.46,2.84,1.95,7,85.05,15.49,49.46,65.46,Rotasi Tanaman,21.19
+2455,2016,China,South,Barley,1612.28,16.13,2.745,4,13.78,21.81,76.04,70.46,Pertanian Organik,17.09
+7667,2016,China,South,Barley,1308.54,23.26,2.1870000000000003,0,76.45,47.88,31.16,47.54,Tanpa Adaptasi,33.35
+875,2016,China,South,Coffee,1795.56,1.22,1.19,9,88.08,24.0,39.49,69.47,Pertanian Organik,25.81
+5013,2016,China,South,Cotton,2616.43,6.98,,10,96.21,6.95,60.09,84.09,Tanpa Adaptasi,27.08
+1529,2016,China,South,Fruits,536.52,1.92,,1,64.12,18.47,82.63,80.03,Rotasi Tanaman,12.74
+3876,2016,China,South,Rice,1241.16,7.66,1.2,7,79.38,35.97,16.56,95.94,Rotasi Tanaman,4.31
+4696,2016,China,South,Sugarcane,2276.92,15.09,1.836,2,54.07,8.81,8.24,48.33,Tanpa Adaptasi,28.69
+6326,2016,China,South,Sugarcane,2597.17,3.57,0.74,8,39.64,41.26,79.13,49.93,Rotasi Tanaman,-1.16
+4261,2016,China,South,Wheat,2498.91,2.76,2.92,10,40.08,41.99,64.51,54.41,Manajemen Air,3.07
+929,2017,China,Central,Fruits,2221.16,2.01,0.63,5,99.87,34.94,59.8,56.35,Tanpa Adaptasi,9.94
+7505,2017,China,Central,Vegetables,1768.91,26.06,2.628,0,52.83,27.45,4.01,76.29,Tanpa Adaptasi,4.5
+4536,2017,China,East,Barley,2930.9,10.48,0.78,10,70.33,46.58,75.43,58.37,Tanaman Tahan Kekeringan,-0.75
+5843,2017,China,East,Barley,1627.61,23.34,4.392,9,65.69,31.01,35.73,65.78,Tanaman Tahan Kekeringan,14.93
+3367,2017,China,East,Coffee,581.69,0.97,2.05,3,46.72,23.01,98.25,84.13,Tanpa Adaptasi,34.81
+3517,2017,China,East,Coffee,1910.02,27.7,4.383,9,55.21,34.36,88.3,42.32,Rotasi Tanaman,16.42
+3043,2017,China,East,Corn,2234.2,11.79,1.23,3,33.62,5.7,73.03,94.15,Tanpa Adaptasi,30.36
+3115,2017,China,East,Corn,2691.84,23.18,0.9,3,25.38,0.81,9.08,84.12,Tanpa Adaptasi,25.72
+7022,2017,China,East,Cotton,2025.8,28.2,0.549,5,15.4,41.03,47.96,71.87,Tanaman Tahan Kekeringan,2.27
+2890,2017,China,East,Fruits,1065.54,15.39,1.998,9,75.45,14.87,80.17,62.12,Tanpa Adaptasi,1.24
+3109,2017,China,East,Rice,2333.87,19.55,2.241,0,73.85,33.1,7.35,90.85,Tanpa Adaptasi,24.65
+2000,2017,China,East,,2022.98,28.79,1.98,6,15.83,14.96,0.57,91.44,Tanpa Adaptasi,1.16
+4345,2017,China,East,,2696.48,9.61,2.46,7,68.7,34.65,90.16,30.44,Tanpa Adaptasi,19.57
+5005,2017,China,North,Barley,1154.45,3.35,4.25,10,98.49,35.09,47.71,84.74,Pertanian Organik,15.19
+979,2017,China,North,Coffee,1735.48,18.1,2.007,9,53.82,41.81,80.2,41.62,Tanaman Tahan Kekeringan,27.93
+2758,2017,China,North,Coffee,920.48,13.8,3.98,1,90.74,8.5,44.6,65.6,Tanpa Adaptasi,14.31
+4923,2017,China,North,Fruits,422.83,1.95,1.926,4,65.35,34.18,13.68,85.81,Tanaman Tahan Kekeringan,24.67
+235,2017,China,North,Rice,1959.04,20.4,3.249,2,74.42,35.26,74.94,89.33,Rotasi Tanaman,15.88
+1399,2017,China,North,Soybeans,2662.39,23.57,3.15,5,64.37,10.85,21.23,89.98,Tanaman Tahan Kekeringan,30.7
+3269,2017,China,North,Sugarcane,2225.61,10.3,3.43,1,71.21,42.07,46.14,42.88,Manajemen Air,34.63
+7085,2017,China,North,Sugarcane,524.65,27.51,2.673,4,41.97,28.69,13.11,49.78,Manajemen Air,19.86
+6138,2017,China,South,Coffee,2027.98,18.09,3.447,5,33.19,2.9,81.86,49.61,Manajemen Air,29.56
+7186,2017,China,South,Coffee,2980.95,2.36,3.93,0,38.34,12.79,47.14,47.83,Manajemen Air,10.58
+1966,2017,China,South,Rice,2618.59,18.72,0.81,1,78.76,29.83,59.12,37.39,Manajemen Air,1.05
+7374,2017,China,South,Soybeans,2243.55,19.82,3.519,6,37.92,8.61,83.05,47.54,Tanpa Adaptasi,33.28
+1279,2017,China,South,Sugarcane,2732.86,2.18,2.54,3,50.88,42.49,56.06,47.07,Tanpa Adaptasi,-2.55
+1867,2018,China,Central,Corn,2965.94,8.56,0.73,6,50.02,32.32,52.26,43.99,Rotasi Tanaman,-0.33
+1109,2018,China,Central,Rice,2656.19,8.49,2.96,0,23.39,26.01,54.98,50.48,Pertanian Organik,8.93
+2097,2018,China,Central,Rice,2884.58,25.65,2.394,0,20.92,33.95,28.11,57.66,Pertanian Organik,11.54
+4041,2018,China,East,Coffee,2434.59,17.65,1.035,0,99.7,7.0,24.28,48.78,Pertanian Organik,8.53
+5907,2018,China,East,Corn,1847.23,6.02,0.96,6,90.49,41.95,76.37,45.3,Tanpa Adaptasi,26.54
+4034,2018,China,East,Cotton,552.45,5.08,2.87,9,30.22,47.26,76.26,69.05,Pertanian Organik,26.35
+4473,2018,China,East,Cotton,1996.13,20.55,2.9160000000000004,4,40.77,18.0,91.55,79.77,Manajemen Air,27.45
+3606,2018,China,East,Vegetables,2160.69,25.43,2.385,4,80.44,34.66,16.62,43.42,Pertanian Organik,3.59
+6724,2018,China,North,Barley,2881.59,28.34,1.413,0,64.35,5.71,65.34,49.53,Rotasi Tanaman,6.76
+3603,2018,China,North,Coffee,371.19,13.46,2.4480000000000004,4,47.01,42.56,7.57,53.7,Rotasi Tanaman,20.93
+6481,2018,China,North,Cotton,1644.3,19.99,0.783,7,80.97,25.04,54.45,54.71,Pertanian Organik,-0.79
+2623,2018,China,North,Rice,1863.52,2.35,3.26,4,10.4,39.18,75.9,67.6,Pertanian Organik,28.73
+4644,2018,China,North,Rice,1866.03,15.11,4.257000000000001,9,80.63,48.14,71.58,59.48,Tanaman Tahan Kekeringan,10.76
+1132,2018,China,North,Soybeans,837.56,1.07,0.86,3,87.34,8.92,20.84,31.5,Manajemen Air,32.46
+3710,2018,China,North,Soybeans,2360.3,20.06,3.762,1,50.35,27.19,19.41,64.65,Pertanian Organik,15.52
+4986,2018,China,North,Soybeans,2869.17,20.22,3.375,2,98.52,31.9,39.04,74.56,Tanaman Tahan Kekeringan,33.32
+7189,2018,China,North,Vegetables,805.63,18.77,3.627,6,61.15,43.43,59.06,48.87,Tanpa Adaptasi,11.49
+1463,2018,China,South,Barley,1993.27,23.16,1.962,3,86.68,7.09,97.59,94.63,Tanpa Adaptasi,10.62
+5638,2018,China,South,Barley,769.28,26.79,0.765,7,40.42,14.42,72.68,47.57,Manajemen Air,31.42
+3596,2018,China,South,Coffee,2227.69,25.8,1.692,0,25.65,10.19,41.97,98.87,Tanpa Adaptasi,7.51
+3534,2018,China,South,Corn,1502.98,29.99,2.493,8,10.99,24.73,95.4,50.6,Rotasi Tanaman,11.75
+4251,2018,China,South,Soybeans,2404.68,28.73,0.657,0,92.93,32.57,33.52,94.5,Tanaman Tahan Kekeringan,-3.26
+2936,2018,China,South,Vegetables,2989.0,3.46,1.13,4,56.0,5.04,37.71,55.72,Pertanian Organik,2.12
+4718,2018,China,South,Vegetables,2278.45,8.67,3.47,1,52.8,13.38,16.64,60.69,Tanaman Tahan Kekeringan,34.23
+1881,2018,China,South,Wheat,1202.44,26.94,3.339,2,42.68,34.73,14.45,55.37,Pertanian Organik,20.06
+998,2019,China,Central,Barley,2394.34,1.14,,10,36.75,39.85,98.41,62.91,Manajemen Air,19.87
+7014,2019,China,Central,Coffee,496.84,28.7,0.99,5,,47.8,55.92,36.01,Manajemen Air,0.42
+7912,2019,China,Central,Fruits,2888.33,27.79,1.737,6,25.15,36.48,47.73,55.57,Tanpa Adaptasi,17.26
+1899,2019,China,Central,Rice,1128.46,23.97,3.69,5,62.58,42.68,56.15,83.55,Tanpa Adaptasi,11.63
+3795,2019,China,Central,Rice,1118.08,3.81,2.19,1,62.08,35.59,19.77,73.63,Rotasi Tanaman,17.39
+1790,2019,China,Central,Vegetables,1463.79,12.84,2.0,5,77.19,11.44,24.23,87.86,Tanaman Tahan Kekeringan,30.14
+4506,2019,China,East,Fruits,2808.8,24.15,1.89,2,18.76,40.64,16.42,63.56,Tanaman Tahan Kekeringan,26.11
+259,2019,China,East,Sugarcane,884.26,17.21,0.657,8,18.66,33.9,75.94,66.78,Pertanian Organik,2.41
+6518,2019,China,East,Vegetables,310.18,20.44,1.386,6,74.34,12.37,18.65,53.18,Manajemen Air,-3.8
+7027,2019,China,East,Wheat,1808.5,11.22,2.65,5,88.33,0.22,52.53,54.61,Tanpa Adaptasi,4.74
+3155,2019,China,East,,1811.34,20.94,0.468,10,77.05,23.7,21.75,64.76,Tanpa Adaptasi,4.65
+6772,2019,China,North,Barley,1473.64,7.18,3.26,10,30.64,4.44,22.43,78.78,Tanpa Adaptasi,17.46
+3275,2019,China,North,Coffee,686.78,25.12,2.8440000000000003,9,83.75,10.92,10.22,65.5,Pertanian Organik,14.86
+2344,2019,China,North,Cotton,2932.92,26.91,0.7110000000000001,3,21.7,40.72,2.16,83.29,Rotasi Tanaman,0.7
+5968,2019,China,North,Fruits,766.2,8.73,2.35,4,41.48,30.14,12.98,75.61,Rotasi Tanaman,1.83
+1925,2019,China,North,Rice,824.87,17.0,2.088,5,46.37,20.41,89.97,92.57,Tanaman Tahan Kekeringan,11.96
+5495,2019,China,North,Rice,2595.37,27.71,1.953,8,75.98,3.52,25.39,37.48,Rotasi Tanaman,0.25
+2187,2019,China,North,Soybeans,2056.06,17.22,0.783,0,44.53,47.98,79.37,43.22,Manajemen Air,0.35
+4480,2019,China,North,Sugarcane,1729.95,2.73,0.95,9,94.11,36.92,98.11,97.12,Pertanian Organik,34.13
+1151,2019,China,North,Vegetables,2671.28,16.03,2.745,6,58.17,17.33,34.7,42.77,Manajemen Air,14.05
+7797,2019,China,North,Vegetables,,7.33,3.48,10,15.13,42.84,29.14,30.43,Manajemen Air,11.71
+2283,2019,China,North,Wheat,1544.68,23.59,2.259,3,28.02,20.49,37.76,58.05,Manajemen Air,28.76
+6396,2019,China,North,Wheat,587.79,27.45,1.431,3,53.77,24.88,93.47,77.66,Pertanian Organik,0.53
+6718,2019,China,South,Coffee,1815.35,28.76,2.781,3,72.64,16.24,36.28,92.42,Manajemen Air,25.49
+423,2019,China,South,Corn,1999.86,2.88,2.2,2,70.58,11.07,15.76,73.12,Pertanian Organik,14.63
+633,2019,China,South,Fruits,2529.45,12.4,1.4,3,75.59,29.67,85.67,30.07,Manajemen Air,28.63
+2756,2019,China,South,Rice,695.09,17.47,0.909,2,95.11,7.98,66.26,39.71,Pertanian Organik,1.97
+2848,2019,China,South,Soybeans,583.07,21.58,1.215,4,31.38,25.97,80.6,64.16,Rotasi Tanaman,5.6
+7756,2019,China,South,Sugarcane,566.49,6.04,0.62,4,,35.15,78.87,84.91,Pertanian Organik,-3.92
+7836,2019,China,South,Vegetables,2192.23,5.99,2.5,6,56.02,41.23,46.15,58.41,Rotasi Tanaman,29.22
+4691,2019,China,South,Wheat,933.65,17.21,2.1870000000000003,6,90.83,14.76,0.41,36.46,Tanpa Adaptasi,32.02
+2294,2020,China,Central,Fruits,1403.68,11.05,,6,33.83,2.23,83.76,78.45,Rotasi Tanaman,10.68
+4732,2020,China,Central,Sugarcane,,23.69,0.522,10,26.53,23.51,64.68,46.75,Manajemen Air,-3.27
+2789,2020,China,Central,,2258.71,21.42,0.549,6,98.32,19.76,75.4,57.37,Pertanian Organik,-0.42
+1094,2020,China,East,Barley,1381.47,26.98,1.098,2,89.66,4.13,89.57,94.3,Rotasi Tanaman,5.72
+4085,2020,China,East,Coffee,1055.15,1.75,2.44,0,25.21,38.79,39.26,76.05,Tanaman Tahan Kekeringan,1.24
+7784,2020,China,East,Coffee,999.94,7.17,2.64,6,39.7,16.97,21.25,67.43,Tanpa Adaptasi,9.05
+4259,2020,China,East,Corn,2799.48,27.79,1.845,8,71.27,47.47,36.78,42.56,Tanpa Adaptasi,21.22
+4561,2020,China,East,Corn,1114.37,19.95,2.682,5,,34.75,58.06,36.1,Tanpa Adaptasi,-0.12
+4855,2020,China,East,Corn,2409.77,13.35,2.05,6,30.51,18.98,9.18,75.8,Manajemen Air,30.39
+5127,2020,China,East,Corn,2325.9,2.17,2.59,6,16.25,21.73,43.42,84.32,Tanpa Adaptasi,28.77
+6709,2020,China,East,Vegetables,437.68,0.9,1.368,2,12.17,5.32,4.53,53.89,Tanaman Tahan Kekeringan,26.15
+7088,2020,China,East,Vegetables,1643.19,12.73,3.43,0,93.72,4.98,30.61,44.18,Rotasi Tanaman,13.85
+1856,2020,China,East,Wheat,298.17,12.96,2.556,7,65.98,37.45,57.33,66.74,Pertanian Organik,32.28
+2531,2020,China,East,Wheat,1138.1,19.71,2.142,3,72.62,20.61,25.75,61.16,Tanpa Adaptasi,5.76
+1459,2020,China,North,Fruits,1669.05,24.17,2.4480000000000004,2,55.35,10.44,41.7,78.02,Manajemen Air,29.14
+2231,2020,China,North,Sugarcane,1330.95,18.86,0.9,1,54.23,25.08,81.28,89.49,Manajemen Air,30.22
+5721,2020,China,North,Sugarcane,2757.34,24.7,2.025,7,37.56,32.7,2.38,99.28,Tanpa Adaptasi,3.74
+82,2020,China,North,Vegetables,1863.65,9.49,4.94,9,99.48,16.66,87.74,62.42,Pertanian Organik,17.9
+1273,2020,China,North,Wheat,696.4,29.09,0.7020000000000001,9,12.81,5.89,37.54,33.01,Rotasi Tanaman,-0.99
+774,2020,China,South,Barley,1647.43,1.22,2.02,4,56.96,18.56,51.44,90.27,Tanpa Adaptasi,29.17
+3735,2020,China,South,Cotton,2690.69,27.16,2.871,1,18.93,38.07,5.12,30.64,Pertanian Organik,29.82
+6238,2020,China,South,Cotton,955.41,26.09,3.96,2,73.5,31.81,73.68,39.7,Tanpa Adaptasi,11.26
+5995,2020,China,South,Fruits,328.63,0.71,1.575,4,15.5,37.15,77.4,88.43,Rotasi Tanaman,-2.91
+7011,2020,China,South,Rice,2781.32,14.89,1.35,1,92.69,25.68,97.25,44.34,Manajemen Air,1.86
+5616,2020,China,South,Soybeans,2402.17,22.18,2.9610000000000003,2,,3.4,33.73,70.58,Manajemen Air,10.69
+6048,2020,China,South,Soybeans,1960.41,15.54,2.2230000000000003,10,78.69,8.14,54.53,77.18,Tanaman Tahan Kekeringan,5.71
+7685,2020,China,South,Soybeans,2395.94,28.0,2.52,3,28.23,14.28,76.12,99.14,Tanaman Tahan Kekeringan,6.71
+5470,2020,China,South,Sugarcane,2397.23,2.66,1.55,6,95.23,44.83,39.34,89.57,Manajemen Air,5.01
+5883,2020,China,South,Sugarcane,263.07,29.05,1.809,6,15.68,14.19,3.08,97.36,Tanpa Adaptasi,28.51
+2584,2020,China,South,Wheat,1377.47,13.2,3.74,1,23.26,30.57,13.09,78.3,Manajemen Air,33.11
+3206,2021,China,Central,Corn,276.97,19.16,1.026,7,18.93,35.79,88.14,84.97,Manajemen Air,31.78
+2580,2021,China,Central,Fruits,1394.39,21.12,3.3480000000000003,9,48.52,6.94,27.48,65.51,Pertanian Organik,28.05
+7408,2021,China,Central,Fruits,2751.82,0.51,0.67,1,90.83,24.38,96.01,40.03,Manajemen Air,-0.58
+4594,2021,China,Central,Sugarcane,328.25,15.71,2.133,6,98.43,35.69,50.67,33.15,Tanaman Tahan Kekeringan,6.05
+123,2021,China,East,Barley,664.91,16.64,1.683,5,48.5,16.12,28.86,75.35,Pertanian Organik,3.85
+1494,2021,China,East,Barley,2605.89,7.86,2.56,5,14.8,42.87,49.25,78.09,Pertanian Organik,22.53
+3355,2021,China,East,Barley,623.74,14.37,3.98,4,17.85,19.69,15.78,71.93,Rotasi Tanaman,23.3
+1247,2021,China,East,Coffee,2433.56,18.24,3.168,4,87.48,43.54,34.37,42.76,Tanpa Adaptasi,11.3
+2003,2021,China,East,Rice,1799.26,14.02,3.03,8,43.52,7.02,8.89,51.05,Tanaman Tahan Kekeringan,19.59
+3609,2021,China,North,Coffee,2223.32,9.49,1.83,9,90.61,31.39,8.41,77.39,Rotasi Tanaman,4.68
+2228,2021,China,North,Corn,2690.73,8.51,1.76,6,26.46,16.66,59.21,67.58,Tanpa Adaptasi,19.9
+4082,2021,China,North,Corn,2317.74,24.89,0.738,7,30.82,23.85,36.39,31.99,Pertanian Organik,9.97
+5925,2021,China,North,Cotton,1828.27,13.23,3.05,6,52.6,24.19,35.88,32.5,Tanaman Tahan Kekeringan,32.56
+6917,2021,China,North,Fruits,1917.44,11.3,2.97,1,16.91,29.01,42.33,59.22,Tanpa Adaptasi,-3.55
+7303,2021,China,North,Rice,2621.24,27.56,1.512,3,24.67,4.5,61.72,86.56,Rotasi Tanaman,31.88
+3055,2021,China,North,Soybeans,2152.73,14.83,1.42,4,91.66,43.72,72.14,90.39,Manajemen Air,26.71
+3021,2021,China,North,Sugarcane,2966.25,19.78,2.313,8,45.18,3.04,84.95,52.78,Tanpa Adaptasi,10.94
+4645,2021,China,North,Vegetables,1972.19,13.42,4.64,4,79.99,49.19,52.45,66.32,Rotasi Tanaman,11.01
+6879,2021,China,North,Wheat,775.63,26.64,,10,88.38,28.47,90.99,34.46,Rotasi Tanaman,15.17
+2252,2021,China,South,Barley,2218.29,6.89,1.8,8,72.93,36.85,39.35,77.33,Tanaman Tahan Kekeringan,19.85
+7296,2021,China,South,Fruits,814.71,23.5,1.35,3,48.05,14.84,3.12,40.48,Tanaman Tahan Kekeringan,-0.26
+972,2021,China,South,,270.85,26.08,2.9970000000000003,8,23.89,17.9,68.52,71.17,Tanaman Tahan Kekeringan,26.05
+7426,2022,China,Central,Cotton,1990.89,16.18,2.466,2,47.47,33.22,17.13,98.13,Rotasi Tanaman,12.08
+3213,2022,China,Central,Fruits,1665.74,26.86,4.149,5,17.82,41.37,4.65,56.38,Tanaman Tahan Kekeringan,10.29
+2475,2022,China,Central,Rice,977.07,19.65,1.539,7,63.15,10.82,49.52,61.35,Manajemen Air,7.08
+2649,2022,China,Central,Sugarcane,2627.57,22.16,,7,23.95,35.56,79.87,52.82,Manajemen Air,-1.35
+3178,2022,China,Central,Wheat,1689.04,27.15,2.538,8,78.66,13.41,58.64,62.41,Pertanian Organik,12.07
+2608,2022,China,East,Corn,1814.14,26.66,1.899,5,65.65,12.04,21.18,61.44,Rotasi Tanaman,14.74
+2186,2022,China,East,Fruits,1334.58,3.48,2.15,9,32.59,47.95,91.05,68.55,Pertanian Organik,15.91
+5345,2022,China,East,Rice,2737.03,23.84,,4,67.88,12.56,70.86,33.67,Rotasi Tanaman,-4.36
+1461,2022,China,East,Vegetables,2772.27,9.77,3.2,9,47.24,20.05,72.08,90.0,Tanaman Tahan Kekeringan,23.38
+1,2022,China,East,Wheat,1478.74,9.55,0.57,2,36.9,49.99,77.22,88.87,Rotasi Tanaman,-0.33
+5148,2022,China,North,Corn,2909.47,28.61,3.285,8,53.95,22.83,63.55,67.98,Tanaman Tahan Kekeringan,31.12
+4340,2022,China,North,Cotton,,18.05,0.7200000000000001,1,,29.77,64.15,58.89,Tanaman Tahan Kekeringan,32.88
+6977,2022,China,North,Cotton,763.79,11.06,1.8,2,21.77,2.6,97.46,45.95,Tanaman Tahan Kekeringan,3.47
+6317,2022,China,South,Barley,2695.49,16.61,2.277,8,97.57,48.36,24.19,35.64,Rotasi Tanaman,34.65
+6495,2022,China,South,Coffee,335.25,13.46,2.178,0,11.79,7.28,47.67,64.61,Tanaman Tahan Kekeringan,0.52
+157,2022,China,South,Fruits,2369.78,22.02,1.926,4,64.46,13.11,24.9,48.92,Tanpa Adaptasi,12.34
+4550,2022,China,South,Rice,2519.85,17.57,3.204,9,24.0,24.15,33.03,93.21,Tanpa Adaptasi,14.72
+2979,2022,China,South,Soybeans,1009.48,5.28,0.84,9,79.83,9.9,86.86,44.87,Pertanian Organik,-3.35
+6402,2022,China,South,Vegetables,2445.98,19.7,1.098,7,22.33,22.54,69.07,45.82,Tanpa Adaptasi,34.5
+4038,2022,China,South,Wheat,2967.32,16.84,1.557,0,81.07,44.5,92.19,64.16,Tanaman Tahan Kekeringan,-0.34
+4183,2022,China,South,,2719.06,23.76,0.873,10,40.98,38.94,77.96,76.68,Pertanian Organik,6.49
+2073,2023,China,Central,Rice,871.18,28.3,1.395,0,78.34,7.63,94.77,98.02,Pertanian Organik,9.24
+6498,2023,China,Central,Soybeans,1607.87,16.47,3.258,5,72.96,18.01,11.39,68.18,Manajemen Air,24.96
+988,2023,China,Central,Sugarcane,1347.29,1.72,4.18,8,34.01,11.88,27.92,69.65,Pertanian Organik,11.72
+6437,2023,China,Central,Vegetables,2149.31,14.69,2.97,0,52.9,30.39,76.8,88.82,Tanaman Tahan Kekeringan,2.04
+3212,2023,China,Central,,1636.85,14.73,1.68,9,99.01,30.27,13.84,31.65,Tanaman Tahan Kekeringan,9.96
+3261,2023,China,East,Barley,2788.74,22.24,1.881,4,63.72,23.6,67.12,59.84,Manajemen Air,27.67
+3297,2023,China,East,Cotton,359.19,2.97,0.8370000000000001,5,94.9,3.44,86.13,45.35,Pertanian Organik,6.22
+3906,2023,China,East,Sugarcane,2004.83,2.22,1.1,4,75.78,26.93,81.56,33.33,Rotasi Tanaman,2.07
+6575,2023,China,East,Sugarcane,2991.6,26.44,2.4480000000000004,6,32.17,35.91,30.3,38.76,Pertanian Organik,20.29
+6600,2023,China,East,Sugarcane,1752.96,3.21,2.85,8,28.11,6.25,91.17,30.9,Tanaman Tahan Kekeringan,-2.52
+2477,2023,China,North,Cotton,2704.2,21.07,1.4580000000000002,5,32.32,29.45,98.88,90.77,Manajemen Air,15.21
+5065,2023,China,North,Cotton,601.98,23.58,0.945,8,19.41,37.41,98.72,93.55,Tanaman Tahan Kekeringan,28.72
+2861,2023,China,North,Rice,1301.93,28.12,2.529,5,96.34,7.33,60.56,82.07,Tanpa Adaptasi,15.96
+4429,2023,China,North,Wheat,1658.66,24.34,1.305,9,38.4,7.91,91.21,80.43,Tanpa Adaptasi,21.5
+2679,2023,China,South,Coffee,463.47,24.48,2.682,9,93.31,26.4,71.62,98.97,Rotasi Tanaman,4.07
+1970,2023,China,South,Corn,1262.2,6.73,4.48,0,14.26,41.22,26.16,55.67,Manajemen Air,16.45
+6273,2023,China,South,Fruits,1289.98,13.28,1.51,10,43.32,12.86,65.64,72.84,Rotasi Tanaman,-0.24
+4542,2023,China,South,Sugarcane,1936.49,19.04,1.953,7,56.3,21.4,67.02,66.47,Tanaman Tahan Kekeringan,30.62
+5467,2023,China,South,Sugarcane,744.33,3.01,2.5,4,,24.08,25.98,87.35,Tanaman Tahan Kekeringan,-2.05
+5071,2023,China,South,Vegetables,1414.28,6.86,1.17,9,20.38,25.06,11.59,49.87,Pertanian Organik,9.12
+1562,2023,China,South,Wheat,885.76,21.86,2.475,0,22.81,19.95,13.34,76.72,Rotasi Tanaman,27.33
+4748,2024,China,Central,Coffee,602.94,16.99,2.07,6,18.43,40.64,6.52,83.89,Manajemen Air,7.47
+7352,2024,China,Central,Corn,734.68,23.76,3.294,2,54.3,47.1,65.11,47.05,Tanpa Adaptasi,19.01
+7307,2024,China,Central,Cotton,2551.73,9.18,1.03,7,97.21,34.56,7.86,52.47,Pertanian Organik,31.21
+7865,2024,China,Central,Rice,2247.4,27.31,3.33,7,21.7,27.31,99.55,69.96,Tanaman Tahan Kekeringan,34.18
+4228,2024,China,Central,Soybeans,1080.12,5.63,1.61,8,49.41,19.84,53.29,83.77,Rotasi Tanaman,-1.58
+7998,2024,China,East,Barley,,16.44,3.564,2,37.9,9.61,74.7,98.24,Tanaman Tahan Kekeringan,11.63
+1502,2024,China,East,Cotton,2438.42,10.33,1.53,9,41.35,42.53,62.65,86.53,Manajemen Air,14.87
+6058,2024,China,East,Fruits,339.88,6.45,3.159,10,22.61,27.71,31.54,77.08,Tanaman Tahan Kekeringan,15.85
+60,2024,China,North,Corn,2913.57,29.82,1.737,8,11.05,33.06,23.25,54.02,Rotasi Tanaman,3.23
+6100,2024,China,North,Fruits,2647.19,4.52,2.79,7,47.16,47.34,8.13,73.53,Pertanian Organik,34.64
+3684,2024,China,North,Rice,2057.49,8.79,2.18,1,24.77,41.35,17.87,86.32,Tanpa Adaptasi,-2.02
+5660,2024,China,North,Vegetables,790.4,23.82,1.575,4,78.21,8.87,53.43,32.34,Tanaman Tahan Kekeringan,-3.81
+3328,2024,China,South,Barley,1123.66,9.86,2.31,1,75.9,32.86,7.9,63.49,Tanaman Tahan Kekeringan,33.7
+7489,2024,China,South,Coffee,2720.88,11.76,3.72,9,92.86,36.34,53.4,94.67,Rotasi Tanaman,28.01
+5070,2024,China,South,Corn,2871.25,15.95,2.367,4,21.79,23.8,25.08,82.93,Tanpa Adaptasi,11.18
+3004,2024,China,South,Cotton,1339.27,13.36,1.16,5,76.19,4.23,98.66,95.7,Pertanian Organik,32.46
+6512,2024,China,South,Sugarcane,2255.76,0.75,1.8,0,93.8,31.22,27.39,30.82,Manajemen Air,12.93
+4243,2024,China,South,,702.98,22.23,3.447,4,92.34,22.63,1.71,77.89,Tanpa Adaptasi,12.21

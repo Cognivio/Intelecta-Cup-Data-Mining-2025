@@ -1,0 +1,762 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+2486,1990,Brazil,North,Cotton,678.67,15.71,3.339,10,58.16,24.08,23.06,96.01,Pertanian Organik,28.96
+3166,1990,Brazil,North,Vegetables,668.93,20.08,2.421,8,37.94,27.01,55.6,69.3,Tanpa Adaptasi,32.09
+792,1990,Brazil,Northeast,Corn,1684.51,0.64,,3,26.68,6.68,19.94,98.57,Rotasi Tanaman,9.92
+5392,1990,Brazil,Northeast,Cotton,1595.71,10.64,1.58,0,16.67,1.63,30.1,96.45,Pertanian Organik,29.65
+1081,1990,Brazil,Northeast,Fruits,628.7,23.4,1.089,8,64.67,26.46,76.08,78.07,Rotasi Tanaman,30.14
+2507,1990,Brazil,Northeast,Fruits,2422.87,9.28,1.72,10,18.64,33.77,61.48,87.12,Manajemen Air,17.04
+3497,1990,Brazil,Northeast,Fruits,2306.99,3.3,1.03,2,48.59,47.59,3.2,84.42,Tanaman Tahan Kekeringan,29.96
+6269,1990,Brazil,Northeast,Fruits,1291.53,23.13,1.053,2,84.88,12.8,32.0,90.53,Tanaman Tahan Kekeringan,33.31
+6989,1990,Brazil,Northeast,Rice,654.59,1.68,1.78,10,52.13,0.2,97.22,40.02,Rotasi Tanaman,5.47
+4153,1990,Brazil,Northeast,Sugarcane,818.35,26.6,2.115,3,64.28,10.28,73.15,53.7,Manajemen Air,2.53
+6281,1990,Brazil,Northeast,Sugarcane,1882.68,2.19,0.64,9,80.73,29.09,83.4,75.09,Rotasi Tanaman,3.48
+7636,1990,Brazil,South,Rice,1741.26,0.86,,9,66.27,46.73,77.48,62.54,Tanaman Tahan Kekeringan,19.73
+3819,1990,Brazil,South,Soybeans,1469.61,16.48,1.845,1,72.7,35.05,57.37,86.61,Tanpa Adaptasi,22.84
+912,1990,Brazil,South,Wheat,2786.23,15.67,2.781,2,24.96,28.8,13.58,61.95,Tanpa Adaptasi,10.31
+7342,1990,Brazil,South,,1539.58,9.7,1.76,2,49.92,12.68,10.67,96.86,Manajemen Air,16.81
+4564,1990,Brazil,Southeast,Coffee,1504.73,25.81,2.1870000000000003,2,81.45,3.15,42.3,72.78,Tanaman Tahan Kekeringan,9.45
+2898,1990,Brazil,Southeast,Wheat,2983.57,25.05,2.583,10,59.02,37.34,55.92,86.2,Manajemen Air,12.6
+3293,1991,Brazil,North,Corn,2160.93,3.12,2.13,4,26.25,17.02,58.6,74.0,Manajemen Air,10.88
+4836,1991,Brazil,North,Corn,200.17,18.44,1.332,0,78.34,27.38,19.47,89.71,Manajemen Air,24.37
+4969,1991,Brazil,North,Corn,1448.23,27.87,4.14,6,21.66,39.74,89.05,65.69,Manajemen Air,19.83
+2265,1991,Brazil,North,Fruits,1251.43,28.72,2.241,4,85.85,18.26,89.93,86.58,Rotasi Tanaman,5.27
+6844,1991,Brazil,North,Soybeans,2604.59,28.07,2.052,6,68.22,2.16,56.1,53.85,Tanpa Adaptasi,21.3
+97,1991,Brazil,North,Vegetables,1729.85,3.19,0.84,7,10.39,17.04,84.92,85.94,Tanaman Tahan Kekeringan,21.98
+4568,1991,Brazil,North,Vegetables,2400.5,24.64,1.89,10,94.33,26.2,58.73,78.86,Manajemen Air,5.67
+3000,1991,Brazil,North,Wheat,1068.61,4.12,1.76,4,95.83,5.92,34.56,97.49,Manajemen Air,-4.56
+6136,1991,Brazil,North,Wheat,1897.53,5.6,1.81,8,86.35,38.24,59.39,97.38,Tanaman Tahan Kekeringan,27.63
+7125,1991,Brazil,North,Wheat,888.06,6.27,3.24,10,66.17,18.72,64.95,40.28,Tanaman Tahan Kekeringan,30.72
+2639,1991,Brazil,Northeast,Cotton,1517.32,24.31,3.555,5,26.41,36.95,77.91,52.41,Manajemen Air,18.47
+249,1991,Brazil,Northeast,Fruits,1646.83,5.77,1.86,6,65.89,2.99,67.22,36.67,Manajemen Air,-2.43
+1412,1991,Brazil,Northeast,Sugarcane,2587.44,10.69,1.33,7,39.16,45.43,93.32,84.29,Manajemen Air,-2.67
+5033,1991,Brazil,Northeast,Sugarcane,427.79,10.58,1.368,5,92.38,0.49,43.97,76.19,Manajemen Air,2.23
+5904,1991,Brazil,Northeast,Wheat,1382.86,21.79,2.772,6,79.09,40.21,92.11,45.94,Tanpa Adaptasi,29.29
+6418,1991,Brazil,Northeast,Wheat,407.81,6.74,0.891,3,87.05,18.58,54.93,77.36,Tanpa Adaptasi,28.03
+4508,1991,Brazil,South,Barley,1263.9,5.53,1.35,0,39.57,45.74,6.84,82.02,Rotasi Tanaman,-3.52
+4783,1991,Brazil,South,Soybeans,1418.63,29.73,3.204,1,50.9,1.27,35.11,35.88,Pertanian Organik,22.22
+5197,1991,Brazil,Southeast,Corn,2343.65,4.05,3.4,10,73.34,47.12,87.43,90.33,Manajemen Air,28.37
+364,1991,Brazil,Southeast,Cotton,2050.5,23.24,0.477,1,78.38,12.6,98.2,95.79,Manajemen Air,-1.17
+7758,1991,Brazil,Southeast,Soybeans,1377.55,1.92,2.88,6,27.14,4.58,76.14,84.86,Manajemen Air,0.16
+6800,1991,Brazil,Southeast,Sugarcane,2110.9,12.01,0.7,3,19.3,16.89,29.95,74.84,Tanpa Adaptasi,9.13
+3760,1992,Brazil,North,Coffee,1399.34,27.87,1.215,7,91.55,32.06,65.81,80.17,Tanaman Tahan Kekeringan,1.71
+382,1992,Brazil,North,Corn,272.7,1.14,0.765,1,40.15,33.09,14.42,41.79,Rotasi Tanaman,20.59
+3495,1992,Brazil,North,Rice,692.42,25.05,0.927,2,54.47,8.3,34.78,77.55,Rotasi Tanaman,-1.79
+4126,1992,Brazil,North,Soybeans,1949.15,22.08,3.015,2,97.89,44.62,18.73,96.41,Pertanian Organik,11.53
+1386,1992,Brazil,North,Sugarcane,1823.26,10.72,1.92,10,69.23,6.5,55.32,40.1,Tanpa Adaptasi,30.8
+511,1992,Brazil,North,Vegetables,248.16,5.69,0.6030000000000001,6,43.55,35.29,15.06,92.66,Tanaman Tahan Kekeringan,-3.75
+7172,1992,Brazil,Northeast,Barley,2522.83,22.58,1.584,1,65.29,4.89,70.95,64.63,Tanpa Adaptasi,34.07
+7299,1992,Brazil,Northeast,Cotton,771.18,1.05,3.95,0,91.47,9.3,11.28,43.4,Rotasi Tanaman,24.42
+694,1992,Brazil,Northeast,Rice,2273.81,13.34,0.88,10,15.72,21.59,59.57,78.51,Manajemen Air,32.02
+342,1992,Brazil,Northeast,Vegetables,1126.53,16.68,0.972,10,20.95,22.05,27.7,82.02,Tanaman Tahan Kekeringan,2.65
+3361,1992,Brazil,South,Barley,1319.03,22.94,1.494,5,79.89,24.13,23.08,40.77,Rotasi Tanaman,31.22
+581,1992,Brazil,South,Coffee,2912.46,25.83,2.079,0,90.98,40.07,29.17,93.57,Tanpa Adaptasi,18.8
+4182,1992,Brazil,South,Cotton,2222.15,5.38,3.69,9,36.18,48.84,49.11,55.29,Pertanian Organik,16.03
+2640,1992,Brazil,South,Rice,2339.05,1.77,2.31,2,82.68,43.59,42.7,54.24,Rotasi Tanaman,20.9
+7822,1992,Brazil,South,Vegetables,1275.29,5.38,3.55,6,47.95,38.73,59.04,94.3,Tanaman Tahan Kekeringan,23.39
+1207,1992,Brazil,South,Wheat,2288.68,21.11,1.845,10,48.1,17.62,38.04,47.58,Rotasi Tanaman,-4.32
+5974,1992,Brazil,Southeast,Cotton,865.52,15.04,1.116,2,52.1,0.51,27.42,78.79,Tanaman Tahan Kekeringan,3.74
+6012,1992,Brazil,Southeast,Cotton,2330.43,8.0,,8,90.81,47.48,12.02,70.05,Tanpa Adaptasi,22.3
+56,1992,Brazil,Southeast,Rice,719.74,21.53,2.259,10,35.46,48.77,17.98,88.94,Tanpa Adaptasi,15.65
+334,1992,Brazil,Southeast,Vegetables,2832.16,26.08,2.8080000000000003,5,93.87,14.45,14.93,87.91,Manajemen Air,20.08
+299,1993,Brazil,North,Barley,303.7,20.0,2.619,3,28.56,12.88,86.06,57.46,Pertanian Organik,27.64
+4131,1993,Brazil,North,Barley,428.15,12.91,2.142,10,,33.14,44.13,40.37,Pertanian Organik,11.55
+3809,1993,Brazil,North,Rice,531.38,21.26,1.521,9,63.68,31.82,16.83,57.69,Tanpa Adaptasi,9.46
+6676,1993,Brazil,North,Soybeans,1872.81,23.56,1.872,7,92.14,6.18,85.86,46.6,Rotasi Tanaman,4.65
+5459,1993,Brazil,North,Vegetables,1585.93,2.32,1.96,5,30.46,1.76,72.43,42.91,Tanaman Tahan Kekeringan,-1.61
+2194,1993,Brazil,North,Wheat,2910.07,7.41,0.66,2,80.12,26.73,63.88,87.5,Manajemen Air,-4.27
+4148,1993,Brazil,Northeast,Sugarcane,1948.77,5.7,1.37,0,88.3,14.54,47.5,91.42,Manajemen Air,4.98
+7226,1993,Brazil,Northeast,Sugarcane,2730.11,19.26,2.979,0,26.68,43.26,35.95,33.38,Tanaman Tahan Kekeringan,11.53
+265,1993,Brazil,Northeast,Vegetables,1820.31,13.5,1.52,2,94.82,21.06,55.27,53.98,Manajemen Air,8.43
+1095,1993,Brazil,Northeast,Wheat,2082.91,4.35,1.55,6,31.04,9.49,54.49,58.74,Tanaman Tahan Kekeringan,25.31
+2834,1993,Brazil,Northeast,Wheat,1016.68,25.69,1.971,0,91.95,24.31,83.59,98.82,Manajemen Air,8.41
+5153,1993,Brazil,Northeast,Wheat,1402.34,12.15,2.41,10,93.15,6.99,48.42,92.73,Tanpa Adaptasi,21.9
+5887,1993,Brazil,Northeast,Wheat,2117.82,12.87,2.42,4,92.27,8.66,4.35,58.88,Tanpa Adaptasi,9.18
+1422,1993,Brazil,South,Barley,,26.39,0.873,8,52.83,17.54,63.57,38.31,Pertanian Organik,7.12
+1902,1993,Brazil,South,Barley,990.6,0.7,1.11,8,97.74,21.0,34.67,95.42,Pertanian Organik,31.16
+7796,1993,Brazil,South,Coffee,1798.11,25.67,0.7200000000000001,10,70.68,48.0,59.41,99.51,Manajemen Air,9.32
+1314,1993,Brazil,South,Corn,1661.77,12.42,3.55,1,89.58,20.35,76.91,72.31,Rotasi Tanaman,30.11
+1467,1993,Brazil,South,Rice,1068.91,17.29,4.122,8,24.29,49.5,19.56,56.94,Rotasi Tanaman,12.45
+3555,1993,Brazil,South,Sugarcane,573.74,25.62,1.989,2,24.55,1.41,70.76,34.46,Pertanian Organik,33.48
+3063,1993,Brazil,South,Wheat,495.0,20.66,0.747,9,75.78,39.96,64.3,90.1,Tanaman Tahan Kekeringan,-4.17
+520,1993,Brazil,Southeast,Coffee,569.82,17.37,1.818,1,,10.26,31.13,55.38,Tanaman Tahan Kekeringan,12.98
+5948,1993,Brazil,Southeast,Coffee,2264.86,15.56,2.574,2,40.68,37.06,68.58,41.55,Pertanian Organik,11.87
+2762,1993,Brazil,Southeast,Corn,663.3,7.95,3.29,2,46.22,20.01,80.34,48.82,Tanpa Adaptasi,13.18
+3568,1993,Brazil,Southeast,Corn,1614.79,28.07,2.385,8,42.53,29.34,59.49,79.77,Tanpa Adaptasi,34.21
+7686,1993,Brazil,Southeast,Cotton,2261.0,21.76,1.953,10,17.78,4.8,74.79,69.49,Tanpa Adaptasi,12.63
+3769,1993,Brazil,Southeast,Fruits,1319.93,17.79,2.4120000000000004,8,49.34,47.64,50.7,46.39,Tanpa Adaptasi,17.19
+341,1993,Brazil,Southeast,Rice,598.71,21.4,1.962,3,91.25,11.21,13.98,72.15,Tanaman Tahan Kekeringan,25.48
+4494,1993,Brazil,Southeast,Rice,1723.52,22.54,2.493,0,10.68,23.12,13.56,53.97,Pertanian Organik,31.11
+1886,1993,Brazil,Southeast,Sugarcane,1505.05,5.27,3.05,1,22.76,12.06,48.15,58.43,Tanaman Tahan Kekeringan,23.44
+2612,1993,Brazil,Southeast,Vegetables,1520.13,7.21,1.97,8,48.59,40.33,43.87,84.65,Rotasi Tanaman,19.79
+4296,1993,Brazil,Southeast,Vegetables,2783.75,12.44,1.45,7,55.12,30.57,97.17,92.31,Tanpa Adaptasi,5.09
+7823,1994,Brazil,North,Corn,804.66,7.78,0.95,1,21.87,49.07,9.65,31.93,Tanaman Tahan Kekeringan,31.44
+6610,1994,Brazil,North,Cotton,1079.11,1.41,0.91,10,64.74,33.85,16.0,36.65,Tanpa Adaptasi,9.91
+6739,1994,Brazil,North,Cotton,2194.41,20.24,0.801,7,51.57,48.77,3.63,39.07,Manajemen Air,27.95
+2333,1994,Brazil,North,Fruits,2235.27,1.06,1.13,9,28.49,15.28,64.96,97.18,Tanaman Tahan Kekeringan,29.77
+6961,1994,Brazil,North,Rice,2467.08,1.49,0.79,7,22.83,3.86,32.37,96.73,Tanaman Tahan Kekeringan,0.62
+2957,1994,Brazil,North,Sugarcane,803.5,21.6,2.394,0,50.48,30.57,9.58,94.22,Pertanian Organik,-4.22
+725,1994,Brazil,North,Vegetables,1321.75,7.65,2.94,9,30.43,31.36,60.33,77.8,Pertanian Organik,21.64
+2206,1994,Brazil,North,,742.13,1.24,3.53,10,32.67,2.83,60.63,79.38,Tanpa Adaptasi,28.38
+1045,1994,Brazil,Northeast,Coffee,2413.23,28.33,2.565,5,16.32,45.27,64.64,75.81,Manajemen Air,10.61
+7206,1994,Brazil,Northeast,Coffee,1727.19,25.02,2.196,10,56.59,28.61,72.83,94.26,Tanaman Tahan Kekeringan,16.42
+2715,1994,Brazil,Northeast,Corn,1174.19,23.09,3.015,7,53.91,35.83,91.7,75.14,Manajemen Air,25.26
+6544,1994,Brazil,Northeast,Corn,648.06,4.08,2.0,7,28.7,47.86,99.14,59.99,Pertanian Organik,4.33
+6025,1994,Brazil,Northeast,Soybeans,1234.01,8.6,1.89,7,95.35,15.41,10.84,90.78,Tanpa Adaptasi,5.38
+2533,1994,Brazil,South,Corn,1739.41,26.32,0.936,6,96.12,38.26,70.73,69.7,Tanpa Adaptasi,-3.84
+6948,1994,Brazil,South,Rice,705.7,17.21,3.276,5,83.56,22.38,60.25,84.04,Rotasi Tanaman,21.45
+7517,1994,Brazil,South,Vegetables,1025.42,25.02,0.9,0,99.54,0.97,22.35,89.78,Manajemen Air,29.82
+2092,1994,Brazil,South,Wheat,910.32,7.5,2.93,6,84.68,36.13,73.07,79.61,Pertanian Organik,28.91
+4914,1994,Brazil,South,,282.02,8.5,2.214,10,83.55,10.49,89.69,73.6,Manajemen Air,17.26
+304,1994,Brazil,Southeast,Coffee,906.42,29.79,2.763,10,72.86,6.7,10.54,45.66,Tanaman Tahan Kekeringan,20.66
+771,1994,Brazil,Southeast,Corn,1710.22,23.66,4.203,6,14.7,12.39,49.64,43.62,Manajemen Air,12.73
+5377,1994,Brazil,Southeast,Corn,991.56,23.42,2.133,0,85.66,39.78,30.0,45.78,Tanaman Tahan Kekeringan,29.61
+1823,1995,Brazil,North,Coffee,1446.6,11.56,4.0,10,67.18,20.41,46.97,49.94,Tanpa Adaptasi,33.76
+2981,1995,Brazil,North,Rice,1502.93,10.33,1.28,5,41.87,18.92,40.14,66.0,Tanaman Tahan Kekeringan,31.99
+3693,1995,Brazil,North,Rice,635.58,22.57,0.63,0,59.82,18.29,76.49,82.43,Rotasi Tanaman,-4.0
+2435,1995,Brazil,North,Vegetables,1079.85,1.83,2.12,1,37.37,3.56,79.76,33.36,Pertanian Organik,-3.21
+3332,1995,Brazil,North,,221.37,26.6,2.169,8,17.9,10.01,85.24,49.55,Rotasi Tanaman,-0.65
+6126,1995,Brazil,North,,1188.34,4.89,2.93,8,77.5,30.14,49.27,58.42,Pertanian Organik,24.53
+6929,1995,Brazil,Northeast,Barley,2785.25,24.29,1.575,5,17.13,28.94,21.61,46.73,Rotasi Tanaman,-2.35
+4963,1995,Brazil,Northeast,Coffee,1908.73,14.7,1.1,4,39.89,22.96,38.0,39.66,Manajemen Air,32.86
+3429,1995,Brazil,Northeast,Cotton,2653.64,1.76,2.75,0,44.54,8.8,36.33,34.05,Tanaman Tahan Kekeringan,23.3
+4117,1995,Brazil,Northeast,Cotton,2459.91,12.02,3.59,0,66.09,25.02,17.86,74.83,Rotasi Tanaman,19.69
+1555,1995,Brazil,Northeast,Fruits,1618.88,12.68,1.09,7,14.28,3.35,2.0,99.4,Tanpa Adaptasi,22.16
+3983,1995,Brazil,Northeast,Fruits,1065.85,20.73,2.484,5,43.0,35.53,88.21,31.62,Tanpa Adaptasi,-2.18
+6255,1995,Brazil,Northeast,Sugarcane,1783.12,27.44,2.529,9,76.5,28.64,23.97,76.9,Tanaman Tahan Kekeringan,-0.94
+3957,1995,Brazil,South,Coffee,2181.06,24.53,0.765,8,41.42,46.35,32.41,67.76,Tanaman Tahan Kekeringan,24.55
+3765,1995,Brazil,South,Corn,1934.47,20.3,2.763,3,57.53,48.06,94.62,34.52,Rotasi Tanaman,17.5
+3550,1995,Brazil,South,Cotton,1063.82,15.25,0.756,9,37.28,10.79,17.16,50.36,Rotasi Tanaman,-0.55
+2620,1995,Brazil,South,Fruits,,3.96,4.43,8,78.62,16.15,53.97,44.51,Tanaman Tahan Kekeringan,15.99
+1349,1995,Brazil,South,Rice,2666.76,5.76,4.87,9,43.37,48.86,7.83,55.52,Tanpa Adaptasi,13.24
+1623,1995,Brazil,South,Soybeans,890.92,15.29,0.756,1,12.51,10.41,3.4,91.81,Pertanian Organik,3.63
+7923,1995,Brazil,South,Vegetables,2289.45,21.15,1.953,9,44.83,6.65,54.89,96.36,Tanaman Tahan Kekeringan,29.86
+5789,1995,Brazil,South,,1349.06,16.71,2.034,3,32.01,11.44,38.19,58.22,Manajemen Air,17.69
+396,1995,Brazil,Southeast,Cotton,619.08,4.03,2.95,3,62.01,13.28,18.77,42.99,Manajemen Air,6.41
+5036,1996,Brazil,North,Barley,1039.71,0.78,3.71,1,47.73,23.92,96.07,68.22,Tanpa Adaptasi,13.81
+7080,1996,Brazil,North,Cotton,1994.95,7.34,0.51,9,38.27,47.18,6.91,80.02,Manajemen Air,2.5
+5614,1996,Brazil,North,Fruits,1256.32,18.44,2.898,5,92.39,38.57,67.76,93.62,Tanpa Adaptasi,12.55
+59,1996,Brazil,North,Sugarcane,273.85,29.7,2.52,5,14.9,20.56,53.87,64.79,Pertanian Organik,12.54
+1803,1996,Brazil,North,Sugarcane,1509.68,20.67,3.4290000000000003,10,28.71,25.3,52.48,63.51,Manajemen Air,25.31
+2549,1996,Brazil,North,Vegetables,2660.38,11.69,2.17,2,17.01,49.15,68.6,71.87,Pertanian Organik,2.31
+4185,1996,Brazil,North,,1768.55,1.48,2.47,10,51.14,34.41,72.52,42.93,Manajemen Air,15.43
+6499,1996,Brazil,Northeast,Corn,2364.04,28.46,1.26,4,76.69,39.09,56.39,52.65,Tanaman Tahan Kekeringan,23.16
+3210,1996,Brazil,Northeast,Sugarcane,453.23,0.76,0.855,5,60.71,47.96,57.53,36.12,Tanaman Tahan Kekeringan,5.86
+7036,1996,Brazil,Northeast,Sugarcane,272.54,20.62,3.4650000000000003,0,95.61,10.01,56.33,35.86,Pertanian Organik,26.4
+5385,1996,Brazil,Northeast,Vegetables,506.66,5.65,0.62,8,99.97,39.75,77.3,54.36,Tanaman Tahan Kekeringan,-0.46
+4252,1996,Brazil,South,Barley,1029.44,16.9,1.683,1,23.7,40.87,17.73,74.76,Pertanian Organik,28.2
+6353,1996,Brazil,South,Corn,1001.89,3.07,2.95,10,40.44,34.15,33.58,34.49,Pertanian Organik,8.19
+3946,1996,Brazil,South,Cotton,572.52,6.81,2.78,2,45.22,33.49,89.6,71.61,Tanaman Tahan Kekeringan,25.49
+1588,1996,Brazil,South,Rice,247.44,8.42,2.52,2,52.69,6.56,10.86,56.99,Manajemen Air,34.76
+5723,1996,Brazil,South,Rice,1285.67,4.71,,1,45.14,8.78,39.17,51.08,Rotasi Tanaman,15.57
+1843,1996,Brazil,South,Soybeans,2554.86,0.82,2.58,10,19.47,46.21,77.33,79.53,Tanaman Tahan Kekeringan,-4.37
+3536,1996,Brazil,South,Sugarcane,2715.28,19.54,1.629,0,79.03,14.08,54.13,44.9,Manajemen Air,6.33
+7780,1996,Brazil,South,Sugarcane,,24.69,1.836,1,62.83,20.68,92.58,64.55,Rotasi Tanaman,22.47
+570,1996,Brazil,South,Wheat,2059.61,3.38,2.42,6,31.8,16.55,44.63,61.79,Pertanian Organik,14.86
+2457,1996,Brazil,South,Wheat,1548.65,8.13,2.17,7,36.16,14.13,35.49,67.16,Tanpa Adaptasi,15.2
+4362,1996,Brazil,South,,514.2,17.93,0.7020000000000001,10,28.48,43.42,78.74,92.18,Manajemen Air,7.5
+6503,1996,Brazil,Southeast,Barley,2548.29,19.71,3.06,6,85.88,42.6,75.47,34.09,Tanpa Adaptasi,29.5
+2348,1996,Brazil,Southeast,Corn,2910.16,18.28,2.4480000000000004,2,69.88,26.33,44.74,43.15,Tanaman Tahan Kekeringan,3.27
+6308,1996,Brazil,Southeast,Corn,1045.81,15.46,3.132,0,71.69,1.54,94.64,98.93,Rotasi Tanaman,25.87
+497,1997,Brazil,North,Barley,2001.52,25.67,0.459,6,13.5,15.71,54.22,90.93,Tanaman Tahan Kekeringan,5.95
+1331,1997,Brazil,North,Cotton,665.03,13.08,3.08,0,60.85,34.32,46.18,86.93,Tanaman Tahan Kekeringan,34.97
+1592,1997,Brazil,North,Vegetables,2706.76,19.85,2.07,3,82.29,1.29,72.6,73.37,Tanaman Tahan Kekeringan,23.12
+1574,1997,Brazil,North,Wheat,2119.79,29.3,1.998,4,88.39,29.36,36.45,37.99,Manajemen Air,13.1
+5015,1997,Brazil,Northeast,Barley,1353.01,9.94,3.73,3,76.6,1.18,34.4,63.28,Manajemen Air,28.18
+7687,1997,Brazil,Northeast,Barley,452.74,16.44,2.16,5,81.75,13.14,47.37,88.46,Manajemen Air,3.02
+7975,1997,Brazil,Northeast,Coffee,2190.64,9.73,3.74,0,50.61,14.53,4.28,54.6,Manajemen Air,24.04
+5394,1997,Brazil,Northeast,Corn,1872.06,25.68,2.169,7,22.1,45.4,47.28,71.96,Tanaman Tahan Kekeringan,3.88
+5724,1997,Brazil,Northeast,Cotton,2165.52,8.19,1.79,8,27.94,24.08,36.52,60.6,Manajemen Air,-2.99
+4611,1997,Brazil,Northeast,Rice,1634.32,29.55,2.754,5,29.84,48.57,3.21,30.18,Tanpa Adaptasi,17.45
+3716,1997,Brazil,Northeast,Vegetables,1774.94,21.31,1.827,1,73.48,22.87,44.33,96.72,Pertanian Organik,30.59
+785,1997,Brazil,South,Coffee,1417.94,5.23,3.49,9,87.22,6.06,60.17,42.91,Tanpa Adaptasi,16.82
+7101,1998,Brazil,North,Barley,2369.88,4.86,2.69,0,74.84,9.57,68.72,77.74,Manajemen Air,14.4
+1166,1998,Brazil,North,Corn,945.19,3.65,1.26,2,88.68,24.96,10.74,43.48,Rotasi Tanaman,33.34
+1801,1998,Brazil,North,Corn,2741.73,7.16,4.19,0,46.41,6.55,3.19,43.81,Tanpa Adaptasi,13.41
+6770,1998,Brazil,North,Corn,259.47,12.5,3.456,10,94.25,4.27,5.27,62.81,Rotasi Tanaman,21.63
+7078,1998,Brazil,North,Corn,1800.58,20.17,1.899,1,29.54,32.58,0.08,52.74,Tanaman Tahan Kekeringan,18.48
+509,1998,Brazil,North,Cotton,1424.18,18.82,1.467,0,,0.3,48.61,86.98,Tanaman Tahan Kekeringan,21.02
+6278,1998,Brazil,North,Fruits,486.79,16.91,2.8800000000000003,7,41.67,3.12,72.87,45.56,Manajemen Air,16.5
+6571,1998,Brazil,North,Fruits,2905.52,11.26,2.85,1,85.19,22.65,33.92,92.02,Manajemen Air,30.02
+7841,1998,Brazil,North,Rice,1012.38,5.44,2.19,6,21.47,11.11,33.96,32.29,Manajemen Air,30.58
+3363,1998,Brazil,North,Soybeans,2932.16,5.67,0.89,8,85.61,18.06,98.43,87.92,Rotasi Tanaman,7.49
+5818,1998,Brazil,North,Vegetables,1031.08,19.54,1.323,0,18.43,23.1,56.39,47.68,Manajemen Air,33.25
+814,1998,Brazil,Northeast,Cotton,1147.78,4.27,2.53,2,30.08,37.57,3.87,42.78,Tanaman Tahan Kekeringan,19.95
+2390,1998,Brazil,Northeast,Fruits,2549.02,5.1,2.42,2,73.56,5.65,81.49,62.87,Rotasi Tanaman,3.75
+6699,1998,Brazil,Northeast,Sugarcane,1249.29,3.32,1.8,9,20.69,28.13,33.34,89.1,Rotasi Tanaman,8.37
+4503,1998,Brazil,Northeast,Wheat,576.25,23.49,3.654,7,69.52,24.3,62.02,89.57,Pertanian Organik,17.37
+6682,1998,Brazil,South,Fruits,1329.74,18.69,2.043,1,41.96,45.23,39.1,76.98,Rotasi Tanaman,27.65
+7225,1998,Brazil,South,Rice,1970.45,13.89,1.93,2,41.49,16.31,94.79,55.36,Tanaman Tahan Kekeringan,28.86
+2629,1998,Brazil,South,Sugarcane,1075.2,6.65,1.7,8,43.75,24.48,5.23,90.96,Manajemen Air,8.96
+2317,1998,Brazil,South,Wheat,2969.51,13.77,3.54,10,73.43,21.97,6.07,80.27,Rotasi Tanaman,26.42
+5903,1998,Brazil,South,Wheat,672.66,9.54,2.71,7,,30.14,40.75,69.59,Manajemen Air,29.39
+5398,1998,Brazil,Southeast,Barley,2118.96,23.26,4.104,6,93.75,14.91,9.75,99.13,Manajemen Air,11.95
+1945,1998,Brazil,Southeast,Corn,1320.73,15.6,3.0690000000000004,3,38.24,24.53,19.99,75.54,Pertanian Organik,34.78
+1817,1998,Brazil,Southeast,Fruits,2056.97,2.53,3.02,3,19.15,21.44,9.81,77.78,Manajemen Air,30.16
+2287,1998,Brazil,Southeast,Soybeans,1977.38,1.78,3.47,8,99.24,45.72,74.52,43.44,Pertanian Organik,21.45
+3330,1999,Brazil,North,Barley,1539.67,0.85,1.94,3,23.29,37.79,7.88,86.42,Tanpa Adaptasi,1.57
+3701,1999,Brazil,North,Coffee,1422.72,25.57,1.746,10,71.13,15.49,28.02,59.47,Tanaman Tahan Kekeringan,2.88
+319,1999,Brazil,North,Corn,345.67,16.45,0.63,0,91.94,37.81,19.72,85.48,Tanaman Tahan Kekeringan,5.52
+2023,1999,Brazil,North,Cotton,1174.64,0.5,1.48,1,66.21,42.48,31.22,88.39,Pertanian Organik,27.18
+6007,1999,Brazil,North,Fruits,2322.92,23.23,2.619,5,82.64,11.61,27.7,75.52,Tanpa Adaptasi,1.41
+810,1999,Brazil,North,Soybeans,876.98,17.18,2.439,6,73.82,40.9,31.51,68.47,Rotasi Tanaman,8.54
+6409,1999,Brazil,North,Soybeans,2670.57,16.98,2.511,6,81.26,34.16,81.07,32.2,Manajemen Air,14.96
+4456,1999,Brazil,North,Vegetables,1723.84,14.81,2.44,10,75.99,26.98,19.31,63.95,Rotasi Tanaman,7.5
+7135,1999,Brazil,North,Vegetables,2376.93,15.59,2.07,5,68.77,28.13,82.14,74.71,Pertanian Organik,-0.06
+2114,1999,Brazil,Northeast,Corn,1011.56,28.33,,1,11.78,36.1,97.83,61.65,Tanpa Adaptasi,6.61
+4489,1999,Brazil,Northeast,Corn,2517.6,4.54,1.3,10,51.61,26.1,39.02,57.35,Manajemen Air,27.13
+5478,1999,Brazil,Northeast,Corn,2101.23,26.62,2.529,1,17.19,10.71,97.82,91.97,Pertanian Organik,12.0
+7008,1999,Brazil,Northeast,Soybeans,1315.09,3.82,3.93,3,88.74,22.67,21.2,74.89,Tanpa Adaptasi,12.9
+1503,1999,Brazil,Northeast,Sugarcane,2133.97,2.53,1.05,5,87.52,49.63,26.83,97.15,Rotasi Tanaman,-2.76
+6440,1999,Brazil,South,Barley,1545.26,24.21,2.682,2,56.44,47.95,73.99,44.48,Pertanian Organik,27.81
+3697,1999,Brazil,South,Corn,2275.48,27.27,1.539,3,33.44,22.08,12.94,39.63,Tanaman Tahan Kekeringan,6.32
+7988,1999,Brazil,South,Corn,629.52,15.31,2.565,9,21.32,41.54,18.58,65.85,Tanaman Tahan Kekeringan,29.82
+462,1999,Brazil,South,Cotton,2360.85,17.05,2.565,8,42.03,4.05,8.72,49.44,Pertanian Organik,28.82
+3689,1999,Brazil,South,Fruits,1442.25,15.75,3.762,4,88.84,13.91,50.99,67.65,Tanpa Adaptasi,19.44
+5104,1999,Brazil,South,Rice,2174.86,3.74,2.46,3,36.07,31.31,59.14,78.02,Pertanian Organik,6.28
+7191,1999,Brazil,South,Wheat,993.7,16.63,2.4480000000000004,4,29.14,14.08,38.96,63.96,Tanpa Adaptasi,29.84
+7049,1999,Brazil,Southeast,Corn,1489.71,17.81,1.692,7,70.38,37.86,93.91,42.35,Tanpa Adaptasi,34.18
+7266,1999,Brazil,Southeast,Corn,2462.0,2.05,3.48,0,93.58,9.17,8.55,79.54,Tanaman Tahan Kekeringan,18.7
+6743,1999,Brazil,Southeast,Cotton,2084.84,15.74,4.086,6,41.64,10.78,97.39,49.98,Pertanian Organik,10.52
+489,1999,Brazil,Southeast,Fruits,264.65,17.47,3.5010000000000003,9,57.78,37.61,54.45,82.65,Manajemen Air,13.2
+2451,1999,Brazil,Southeast,Sugarcane,2062.77,15.59,2.682,8,61.47,3.83,12.6,97.39,Pertanian Organik,25.93
+1322,1999,Brazil,Southeast,Vegetables,2980.82,17.65,2.0160000000000005,2,58.55,20.98,27.64,30.71,Tanpa Adaptasi,15.16
+6922,2000,Brazil,North,Barley,2283.01,26.24,2.07,6,58.16,31.24,34.14,62.29,Manajemen Air,13.22
+5516,2000,Brazil,North,Coffee,2170.6,15.1,2.421,3,43.29,28.03,53.45,40.78,Rotasi Tanaman,-0.99
+5870,2000,Brazil,North,Corn,2515.12,11.21,2.4,0,89.54,17.09,71.97,81.76,Tanaman Tahan Kekeringan,17.21
+3040,2000,Brazil,North,Cotton,2287.45,0.97,2.86,10,47.73,13.21,32.38,98.34,Tanaman Tahan Kekeringan,18.47
+1105,2000,Brazil,North,Fruits,522.25,19.51,3.267,6,61.29,42.89,14.59,90.55,Rotasi Tanaman,25.5
+2420,2000,Brazil,North,Sugarcane,763.6,0.86,2.25,3,54.14,23.99,96.36,66.56,Tanaman Tahan Kekeringan,15.79
+5621,2000,Brazil,North,Vegetables,2310.33,2.13,2.15,4,96.22,38.42,52.29,68.99,Tanaman Tahan Kekeringan,13.83
+7985,2000,Brazil,North,,,1.18,1.67,2,11.7,37.76,90.27,86.76,Pertanian Organik,10.16
+1687,2000,Brazil,Northeast,Cotton,1846.08,2.89,1.86,4,38.23,15.43,45.28,71.01,Manajemen Air,-0.77
+1975,2000,Brazil,Northeast,Fruits,1763.32,27.66,2.781,5,69.44,24.79,64.38,33.49,Tanaman Tahan Kekeringan,34.7
+4412,2000,Brazil,Northeast,,416.62,23.05,3.321,2,50.16,11.47,61.19,76.49,Tanpa Adaptasi,30.48
+2226,2000,Brazil,South,Cotton,2387.09,26.43,0.486,6,48.29,11.71,62.86,74.62,Manajemen Air,1.7
+4414,2000,Brazil,South,Cotton,545.27,22.61,4.257000000000001,4,85.67,30.21,39.76,99.75,Tanpa Adaptasi,17.26
+5097,2000,Brazil,South,Sugarcane,432.4,28.01,2.4120000000000004,10,85.64,24.01,99.23,89.83,Manajemen Air,29.14
+5571,2000,Brazil,South,Sugarcane,1872.61,5.13,2.67,2,53.45,46.44,84.27,35.88,Pertanian Organik,16.28
+3131,2000,Brazil,South,Vegetables,1588.64,19.49,2.313,7,88.42,43.88,63.09,44.88,Pertanian Organik,32.8
+3815,2000,Brazil,South,Wheat,1336.49,5.09,4.45,5,79.92,38.93,22.12,91.8,Tanpa Adaptasi,14.48
+7539,2000,Brazil,Southeast,Coffee,2236.69,7.89,1.93,5,94.52,33.83,81.68,43.61,Tanpa Adaptasi,10.56
+1294,2000,Brazil,Southeast,Corn,649.23,11.49,3.11,6,11.78,32.59,46.16,44.36,Manajemen Air,20.27
+2772,2000,Brazil,Southeast,Corn,827.51,24.79,1.908,7,57.75,42.87,25.55,56.69,Manajemen Air,16.58
+4802,2000,Brazil,Southeast,Fruits,1133.58,24.03,2.6910000000000003,1,25.96,41.52,47.14,41.24,Tanpa Adaptasi,0.19
+2438,2000,Brazil,Southeast,Rice,465.15,9.33,3.051,4,90.52,15.95,46.05,36.68,Manajemen Air,33.06
+7411,2000,Brazil,Southeast,Vegetables,1492.63,27.48,,10,47.53,48.03,82.09,31.44,Rotasi Tanaman,3.89
+5991,2000,Brazil,Southeast,Wheat,2138.94,9.48,3.99,9,42.1,34.92,46.88,33.25,Pertanian Organik,28.2
+5173,2001,Brazil,North,Cotton,2682.02,17.83,1.485,1,40.26,47.8,58.54,65.71,Pertanian Organik,34.32
+7783,2001,Brazil,North,Rice,2640.72,3.5,3.12,3,64.97,0.3,34.36,54.81,Tanaman Tahan Kekeringan,25.08
+1340,2001,Brazil,North,Vegetables,1909.13,19.83,1.521,2,13.55,28.94,91.2,95.87,Manajemen Air,1.22
+5206,2001,Brazil,Northeast,Coffee,1181.23,14.88,1.75,0,30.07,4.86,92.81,54.87,Rotasi Tanaman,31.44
+7372,2001,Brazil,Northeast,Coffee,2304.38,1.63,2.67,0,70.09,2.21,75.15,78.86,Manajemen Air,3.76
+7572,2001,Brazil,Northeast,Fruits,2567.87,0.89,2.81,8,27.18,24.56,96.08,68.89,Pertanian Organik,6.08
+1884,2001,Brazil,Northeast,Soybeans,1012.65,14.71,1.3,2,96.55,7.49,39.07,47.77,Tanpa Adaptasi,5.95
+46,2001,Brazil,Northeast,Wheat,2624.77,27.0,3.087,6,65.87,0.0,37.42,54.0,Tanpa Adaptasi,34.13
+4719,2001,Brazil,Northeast,Wheat,746.65,17.68,2.718,4,51.16,34.29,76.03,48.81,Manajemen Air,11.01
+4976,2001,Brazil,South,Corn,,27.65,3.132,7,77.93,42.31,2.6,55.02,Tanpa Adaptasi,34.57
+6703,2001,Brazil,South,Cotton,1398.49,19.67,1.35,7,48.14,43.96,56.27,83.66,Rotasi Tanaman,8.75
+6180,2001,Brazil,South,Fruits,343.07,28.17,3.213,10,79.55,42.97,54.1,40.28,Pertanian Organik,15.44
+7468,2001,Brazil,South,Fruits,1020.76,4.37,0.86,0,28.82,43.91,12.59,96.82,Manajemen Air,22.29
+6013,2001,Brazil,South,Vegetables,1602.57,25.88,2.484,6,38.33,31.64,31.17,87.52,Rotasi Tanaman,31.82
+571,2001,Brazil,Southeast,Coffee,560.69,24.93,2.8440000000000003,4,37.23,35.33,0.49,91.92,Manajemen Air,20.49
+5496,2001,Brazil,Southeast,Corn,1216.21,27.71,2.385,8,68.16,4.12,21.99,61.18,Tanpa Adaptasi,2.33
+204,2001,Brazil,Southeast,Rice,514.15,21.96,0.639,4,15.95,25.39,42.58,85.01,Tanaman Tahan Kekeringan,2.64
+3925,2001,Brazil,Southeast,Vegetables,1020.27,17.02,0.8370000000000001,9,75.08,28.33,37.35,36.27,Pertanian Organik,4.85
+4080,2001,Brazil,Southeast,Wheat,325.82,4.45,2.367,5,14.19,24.14,15.74,88.73,Tanaman Tahan Kekeringan,3.82
+7477,2001,Brazil,Southeast,Wheat,860.38,3.78,1.15,0,61.56,28.13,32.4,68.68,Rotasi Tanaman,8.56
+5702,2002,Brazil,North,Barley,1875.08,6.88,3.53,2,37.99,30.61,11.12,42.57,Rotasi Tanaman,14.14
+6000,2002,Brazil,North,Barley,1747.5,22.52,3.6,10,21.76,2.36,28.18,57.45,Pertanian Organik,20.71
+1042,2002,Brazil,North,Coffee,1069.17,4.4,2.32,5,77.62,0.51,34.03,30.47,Rotasi Tanaman,-0.93
+7550,2002,Brazil,North,Coffee,1909.09,7.79,3.06,0,85.06,28.52,39.72,72.83,Pertanian Organik,20.35
+6016,2002,Brazil,North,Cotton,2121.49,24.43,0.648,3,11.72,26.29,28.57,55.42,Tanaman Tahan Kekeringan,-2.92
+5849,2002,Brazil,North,Soybeans,2413.72,2.31,2.23,3,82.48,0.41,72.67,42.44,Rotasi Tanaman,7.36
+61,2002,Brazil,North,Vegetables,2093.59,1.35,1.37,4,54.05,32.8,8.62,31.26,Manajemen Air,-3.81
+4398,2002,Brazil,North,Wheat,1683.61,6.73,1.03,6,75.75,45.3,29.93,68.16,Manajemen Air,28.72
+6958,2002,Brazil,Northeast,Fruits,2194.53,12.01,3.26,6,60.19,43.56,6.68,50.85,Tanaman Tahan Kekeringan,25.16
+2528,2002,Brazil,Northeast,Vegetables,2842.65,9.45,3.09,6,56.13,8.33,30.77,48.3,Manajemen Air,12.29
+2416,2002,Brazil,Northeast,Wheat,466.73,25.21,1.341,1,28.87,5.27,90.96,94.96,Tanaman Tahan Kekeringan,24.41
+3202,2002,Brazil,Northeast,Wheat,412.73,21.63,3.861,8,76.22,5.0,89.8,43.12,Manajemen Air,17.27
+7152,2002,Brazil,Northeast,Wheat,1868.72,22.12,3.0330000000000004,10,11.32,42.06,9.39,30.51,Pertanian Organik,21.67
+1127,2002,Brazil,Northeast,,1607.67,15.46,1.296,5,17.12,12.55,13.05,45.03,Tanaman Tahan Kekeringan,33.64
+1287,2002,Brazil,South,Coffee,1446.56,19.13,2.673,4,12.2,21.18,41.25,65.37,Manajemen Air,-1.18
+7990,2002,Brazil,South,Cotton,2595.48,6.19,2.1,8,96.94,21.56,84.9,60.37,Pertanian Organik,-4.33
+502,2002,Brazil,South,Sugarcane,1175.52,3.11,1.58,1,25.11,27.95,72.35,98.98,Tanaman Tahan Kekeringan,1.99
+4681,2002,Brazil,South,Sugarcane,2919.49,12.99,1.91,8,97.93,7.63,28.92,69.59,Tanaman Tahan Kekeringan,34.75
+6219,2002,Brazil,South,Vegetables,1812.35,11.03,1.93,6,84.22,6.49,26.25,57.12,Pertanian Organik,4.33
+1845,2002,Brazil,Southeast,Rice,2918.4,28.62,2.8080000000000003,4,16.9,30.45,40.05,47.56,Manajemen Air,15.16
+5422,2002,Brazil,Southeast,Vegetables,1592.06,3.26,1.41,1,85.47,38.31,22.5,96.58,Rotasi Tanaman,25.78
+7107,2002,Brazil,Southeast,Vegetables,1336.49,6.88,0.94,0,70.82,38.67,71.32,34.03,Pertanian Organik,23.63
+3963,2002,Brazil,Southeast,Wheat,864.48,23.52,1.854,2,14.82,10.93,96.66,66.27,Manajemen Air,7.76
+1246,2003,Brazil,North,Coffee,902.86,21.15,2.358,0,31.17,22.1,29.12,97.32,Manajemen Air,6.15
+5141,2003,Brazil,North,Coffee,2713.23,9.54,1.95,1,31.1,2.81,72.73,58.05,Rotasi Tanaman,-3.47
+2665,2003,Brazil,North,Corn,2898.91,7.63,0.85,9,79.29,41.44,38.44,51.82,Pertanian Organik,25.87
+3189,2003,Brazil,North,Corn,1098.87,26.42,2.682,4,66.43,30.99,16.13,40.95,Rotasi Tanaman,18.13
+3907,2003,Brazil,North,Corn,1185.67,6.59,2.86,6,96.37,49.19,24.66,40.81,Rotasi Tanaman,-2.93
+4533,2003,Brazil,North,Cotton,961.66,14.22,1.66,1,22.17,36.41,94.9,79.52,Rotasi Tanaman,5.37
+1745,2003,Brazil,North,Wheat,1287.61,5.16,2.42,10,20.72,14.57,25.85,76.53,Rotasi Tanaman,24.93
+6236,2003,Brazil,Northeast,Barley,2501.89,15.26,2.07,8,38.41,11.32,6.73,69.2,Rotasi Tanaman,21.24
+5313,2003,Brazil,Northeast,Corn,2755.97,17.21,1.332,9,23.31,5.12,64.84,39.66,Manajemen Air,26.48
+7828,2003,Brazil,Northeast,Corn,791.4,15.92,0.882,10,83.63,30.54,59.65,63.38,Manajemen Air,-0.18
+5232,2003,Brazil,Northeast,Cotton,303.0,10.77,3.258,7,75.93,13.49,41.06,53.26,Tanaman Tahan Kekeringan,19.52
+18,2003,Brazil,Northeast,Soybeans,2783.83,3.57,3.97,8,76.69,17.61,89.67,62.62,Tanaman Tahan Kekeringan,26.5
+5019,2003,Brazil,Northeast,Soybeans,1063.2,1.07,3.33,3,36.56,8.59,61.32,89.48,Pertanian Organik,33.88
+1692,2003,Brazil,Northeast,Wheat,2524.3,24.02,1.728,1,48.88,20.12,80.51,84.2,Tanpa Adaptasi,25.54
+6740,2003,Brazil,Northeast,Wheat,761.18,3.6,1.27,1,64.34,18.87,71.16,82.53,Rotasi Tanaman,9.06
+4885,2003,Brazil,South,Corn,735.99,0.68,2.81,5,74.84,4.11,94.77,60.21,Tanaman Tahan Kekeringan,-4.54
+7918,2003,Brazil,South,Corn,1520.28,5.19,1.02,7,24.78,25.32,2.44,39.86,Manajemen Air,8.21
+2818,2003,Brazil,South,Cotton,1132.32,2.39,1.76,1,61.92,42.47,25.1,40.69,Tanaman Tahan Kekeringan,23.76
+1620,2003,Brazil,South,Fruits,2455.43,16.69,1.773,1,32.13,39.31,26.29,90.45,Tanaman Tahan Kekeringan,-4.66
+2686,2003,Brazil,South,Rice,2419.31,2.22,2.66,9,63.79,10.45,71.96,61.01,Pertanian Organik,8.38
+5851,2003,Brazil,South,Soybeans,819.37,4.03,2.48,8,94.86,13.63,64.98,92.21,Tanaman Tahan Kekeringan,15.79
+7569,2003,Brazil,South,Soybeans,1771.82,10.96,3.1,1,44.46,6.54,27.37,75.58,Tanpa Adaptasi,25.1
+5267,2003,Brazil,Southeast,Corn,813.11,9.62,3.2,1,59.87,8.01,90.49,56.64,Tanpa Adaptasi,11.51
+719,2003,Brazil,Southeast,Wheat,2834.64,16.02,2.646,1,92.91,48.0,61.07,73.4,Pertanian Organik,20.61
+4507,2004,Brazil,North,Barley,1732.45,17.34,1.539,7,93.0,31.6,96.04,36.43,Manajemen Air,3.95
+1456,2004,Brazil,North,Coffee,504.31,17.98,1.719,9,72.15,26.87,47.39,41.98,Manajemen Air,1.95
+3369,2004,Brazil,North,Coffee,2946.82,29.62,0.459,8,63.73,17.61,63.79,74.65,Manajemen Air,0.86
+5739,2004,Brazil,North,Coffee,1713.93,21.59,1.26,9,91.11,18.9,31.77,53.06,Tanaman Tahan Kekeringan,0.01
+5515,2004,Brazil,North,Rice,844.24,12.1,2.82,3,87.31,42.39,28.15,53.7,Tanpa Adaptasi,16.02
+6215,2004,Brazil,Northeast,Fruits,568.46,0.71,1.3,10,62.12,13.1,35.86,72.26,Tanaman Tahan Kekeringan,5.33
+2770,2004,Brazil,Northeast,Sugarcane,2184.12,9.86,1.84,3,86.39,11.06,90.36,77.45,Manajemen Air,-2.98
+1673,2004,Brazil,South,Soybeans,2040.01,15.12,2.322,7,38.09,23.61,37.39,37.01,Rotasi Tanaman,-2.1
+2666,2004,Brazil,South,Wheat,1945.96,21.93,1.377,9,46.48,42.21,86.81,94.83,Pertanian Organik,30.06
+4558,2004,Brazil,South,Wheat,1251.99,0.89,3.07,2,71.22,30.28,29.27,39.87,Pertanian Organik,29.6
+2830,2004,Brazil,Southeast,Corn,2067.76,1.52,4.71,2,48.64,44.39,31.51,39.38,Rotasi Tanaman,17.07
+453,2004,Brazil,Southeast,Cotton,1981.1,22.68,0.6030000000000001,9,30.97,46.72,74.34,81.79,Pertanian Organik,8.4
+985,2004,Brazil,Southeast,Fruits,2933.77,18.13,1.557,1,30.86,44.75,68.17,47.64,Manajemen Air,28.59
+4406,2004,Brazil,Southeast,Rice,519.87,4.55,2.53,5,40.28,2.41,54.88,61.9,Tanpa Adaptasi,20.65
+7205,2004,Brazil,Southeast,Wheat,2894.74,23.47,0.918,8,11.03,21.46,23.8,67.04,Tanpa Adaptasi,3.8
+766,2004,Brazil,Southeast,,308.47,7.77,2.0160000000000005,9,89.35,13.46,81.84,74.32,Manajemen Air,6.55
+496,2005,Brazil,North,Coffee,1627.65,10.44,1.67,7,53.53,5.61,12.37,34.36,Manajemen Air,2.84
+3614,2005,Brazil,North,Coffee,2188.04,14.07,0.81,6,98.35,17.37,2.0,77.85,Rotasi Tanaman,32.03
+1647,2005,Brazil,North,Corn,1013.05,4.05,2.28,0,,36.49,97.06,98.9,Tanaman Tahan Kekeringan,5.97
+821,2005,Brazil,North,Soybeans,2295.88,22.16,2.088,3,17.6,17.26,34.2,75.22,Manajemen Air,2.64
+3618,2005,Brazil,North,Soybeans,1017.31,11.89,2.15,7,62.56,11.03,86.47,54.56,Tanpa Adaptasi,1.89
+5322,2005,Brazil,North,Soybeans,1402.81,19.82,2.133,9,81.09,38.45,31.22,42.39,Manajemen Air,22.62
+6458,2005,Brazil,North,Sugarcane,1351.33,27.73,2.772,3,43.57,21.82,91.95,99.44,Tanpa Adaptasi,27.43
+4853,2005,Brazil,North,Vegetables,1176.16,25.81,1.035,8,67.2,49.61,2.17,37.96,Pertanian Organik,21.28
+7241,2005,Brazil,North,Wheat,2630.17,27.27,1.548,8,29.92,47.49,18.74,47.39,Tanpa Adaptasi,26.31
+101,2005,Brazil,Northeast,Barley,1130.04,5.41,0.98,4,71.24,20.36,52.54,70.51,Pertanian Organik,-4.1
+753,2005,Brazil,Northeast,Barley,1331.13,29.41,2.619,8,97.56,26.21,70.18,67.03,Rotasi Tanaman,4.49
+3738,2005,Brazil,Northeast,Fruits,1416.74,22.76,1.746,7,16.68,20.73,4.14,73.79,Rotasi Tanaman,8.91
+887,2005,Brazil,Northeast,Wheat,2882.19,7.62,2.03,9,72.33,6.64,28.53,83.39,Pertanian Organik,4.37
+4730,2005,Brazil,Northeast,Wheat,283.55,21.14,2.25,6,82.94,44.92,98.83,53.89,Pertanian Organik,8.36
+2610,2005,Brazil,South,Coffee,358.33,19.9,1.017,0,88.76,9.59,92.67,57.64,Rotasi Tanaman,28.4
+7993,2005,Brazil,South,Coffee,649.23,25.46,1.962,5,74.81,25.51,26.17,82.87,Pertanian Organik,-1.03
+6092,2005,Brazil,South,Corn,522.39,26.74,2.988,0,96.25,24.69,29.23,65.18,Rotasi Tanaman,26.54
+5381,2005,Brazil,South,Cotton,2935.28,3.63,1.29,3,77.44,42.73,42.62,80.72,Pertanian Organik,-0.69
+7766,2005,Brazil,South,Rice,1976.59,13.12,0.85,3,94.83,20.94,26.24,66.41,Manajemen Air,-1.14
+6447,2005,Brazil,South,Vegetables,590.93,4.95,2.06,5,15.23,2.6,89.26,87.57,Tanaman Tahan Kekeringan,1.9
+3507,2005,Brazil,Southeast,Cotton,1910.34,14.43,1.28,5,97.01,12.87,67.32,38.04,Rotasi Tanaman,33.17
+7000,2005,Brazil,Southeast,Soybeans,1159.44,17.08,2.592,2,31.23,18.44,23.58,45.06,Tanaman Tahan Kekeringan,14.58
+6008,2005,Brazil,Southeast,Sugarcane,536.91,21.8,1.737,0,91.22,24.82,67.18,58.82,Rotasi Tanaman,3.92
+924,2005,Brazil,Southeast,Wheat,,21.27,2.178,10,52.03,36.18,65.5,54.28,Rotasi Tanaman,0.15
+6453,2005,Brazil,Southeast,,2933.93,14.67,3.02,1,97.81,19.93,1.45,75.89,Pertanian Organik,34.79
+2634,2006,Brazil,North,Corn,1762.79,25.76,0.675,6,29.03,46.47,11.06,47.57,Rotasi Tanaman,0.85
+1252,2006,Brazil,North,Cotton,1660.23,14.92,1.98,5,49.95,0.72,69.54,41.68,Tanaman Tahan Kekeringan,26.73
+4103,2006,Brazil,North,Rice,1568.2,9.46,1.97,10,74.67,9.52,84.55,45.76,Manajemen Air,26.37
+1069,2006,Brazil,North,Wheat,1309.22,12.78,0.72,8,30.59,1.18,63.52,72.42,Tanpa Adaptasi,9.61
+460,2006,Brazil,Northeast,Barley,,13.87,0.91,8,99.45,2.61,45.06,70.63,Tanaman Tahan Kekeringan,0.59
+2370,2006,Brazil,Northeast,Coffee,485.11,12.93,2.169,10,70.73,38.02,80.81,51.09,Tanpa Adaptasi,2.88
+2955,2006,Brazil,Northeast,Cotton,2238.66,26.38,2.583,9,25.13,23.78,62.07,49.42,Tanaman Tahan Kekeringan,4.37
+3800,2006,Brazil,Northeast,Rice,661.37,1.65,1.19,3,81.87,28.03,33.29,76.63,Pertanian Organik,23.38
+4942,2006,Brazil,Northeast,Soybeans,1605.24,25.42,2.061,5,75.17,35.42,1.1,88.85,Rotasi Tanaman,23.39
+3103,2006,Brazil,Northeast,Vegetables,234.47,5.15,1.233,10,48.79,12.56,83.04,53.61,Tanaman Tahan Kekeringan,23.54
+3951,2006,Brazil,Northeast,Wheat,827.4,2.31,2.4,1,27.04,47.04,6.8,38.39,Rotasi Tanaman,6.48
+1317,2006,Brazil,Northeast,,2667.53,0.82,3.45,8,37.44,39.42,86.98,88.69,Rotasi Tanaman,19.08
+2498,2006,Brazil,South,Fruits,849.71,22.67,0.6930000000000001,4,40.07,19.38,84.37,94.66,Manajemen Air,-2.17
+4839,2006,Brazil,South,Soybeans,2365.62,4.94,,6,40.01,41.19,10.68,68.95,Rotasi Tanaman,6.27
+6931,2006,Brazil,South,Vegetables,1971.67,21.5,1.512,3,25.56,31.92,36.15,80.86,Pertanian Organik,28.91
+5487,2006,Brazil,Southeast,Corn,1025.6,15.72,2.637,1,20.15,17.99,34.52,55.72,Rotasi Tanaman,17.83
+4771,2006,Brazil,Southeast,Cotton,794.81,5.63,1.48,8,44.47,25.61,50.82,66.43,Pertanian Organik,9.88
+691,2006,Brazil,Southeast,Fruits,2580.32,10.97,3.79,5,44.69,38.67,54.72,42.23,Tanaman Tahan Kekeringan,32.45
+1015,2007,Brazil,North,Coffee,887.92,16.12,4.032000000000001,2,13.58,31.49,44.32,45.36,Tanaman Tahan Kekeringan,15.29
+1672,2007,Brazil,North,Cotton,995.56,10.57,2.27,4,87.97,14.77,13.2,30.93,Manajemen Air,8.08
+3279,2007,Brazil,North,Fruits,2693.76,25.77,2.466,9,45.65,33.83,76.55,92.31,Rotasi Tanaman,7.63
+147,2007,Brazil,North,Rice,1573.94,17.5,2.25,8,23.22,0.28,25.02,74.24,Rotasi Tanaman,10.38
+4510,2007,Brazil,North,Wheat,998.57,16.77,2.709,0,37.76,48.08,82.84,83.76,Tanpa Adaptasi,11.68
+5189,2007,Brazil,North,Wheat,476.31,16.73,1.287,6,19.14,37.21,89.66,70.59,Pertanian Organik,23.55
+5486,2007,Brazil,North,Wheat,1082.9,28.2,0.459,8,24.46,14.33,1.95,60.9,Pertanian Organik,0.05
+7619,2007,Brazil,North,Wheat,2771.13,26.86,3.06,10,13.75,45.77,31.35,91.9,Tanpa Adaptasi,24.47
+3082,2007,Brazil,Northeast,Coffee,1314.05,2.76,1.64,2,47.71,36.66,94.94,95.05,Tanpa Adaptasi,5.15
+1364,2007,Brazil,Northeast,Cotton,2981.85,28.3,2.718,4,35.03,36.09,40.99,59.84,Tanaman Tahan Kekeringan,18.79
+5471,2007,Brazil,Northeast,Cotton,2302.59,7.71,0.67,3,95.04,36.31,91.74,44.24,Tanpa Adaptasi,6.51
+5816,2007,Brazil,Northeast,Fruits,2985.77,3.71,2.92,6,75.08,42.2,15.95,74.93,Pertanian Organik,25.0
+3685,2007,Brazil,South,Coffee,719.59,19.46,2.466,1,97.76,47.73,76.31,86.69,Tanpa Adaptasi,32.66
+4101,2007,Brazil,South,Coffee,407.81,25.6,1.89,1,13.13,22.93,5.5,61.01,Tanpa Adaptasi,31.75
+4121,2007,Brazil,South,Coffee,1858.63,22.74,1.071,9,24.71,41.63,58.83,74.15,Pertanian Organik,22.32
+114,2007,Brazil,South,Cotton,1829.0,26.57,1.782,7,88.96,28.22,84.36,71.23,Tanpa Adaptasi,22.4
+151,2007,Brazil,South,Fruits,1221.9,15.94,0.657,0,84.63,20.73,71.95,47.98,Pertanian Organik,8.81
+2301,2007,Brazil,South,Fruits,2713.81,4.12,2.84,3,34.6,31.97,93.71,98.38,Rotasi Tanaman,31.28
+3016,2007,Brazil,South,Fruits,2932.04,17.33,1.737,9,49.8,1.58,18.86,40.74,Tanaman Tahan Kekeringan,-1.28
+7707,2007,Brazil,South,Rice,2048.22,9.69,1.5,5,80.67,9.44,91.73,46.49,Tanpa Adaptasi,34.51
+6023,2007,Brazil,South,Wheat,2061.42,29.55,1.143,8,24.43,8.6,24.9,40.26,Tanpa Adaptasi,6.51
+6432,2007,Brazil,Southeast,Cotton,971.41,11.69,1.5,2,45.42,0.08,5.57,98.74,Tanaman Tahan Kekeringan,7.03
+4167,2007,Brazil,Southeast,Fruits,2805.58,17.61,3.402,2,82.36,14.62,15.15,62.57,Tanpa Adaptasi,12.12
+1170,2007,Brazil,Southeast,Soybeans,2118.07,22.98,3.186,3,12.84,13.45,15.74,93.59,Manajemen Air,25.26
+5708,2007,Brazil,Southeast,Soybeans,2913.02,29.03,1.584,1,80.98,25.2,92.15,90.27,Tanpa Adaptasi,10.27
+5252,2007,Brazil,Southeast,Sugarcane,707.41,14.58,1.1,10,94.58,31.77,98.69,81.96,Tanpa Adaptasi,9.25
+6389,2007,Brazil,Southeast,Wheat,868.61,5.97,2.13,10,52.95,18.98,53.83,84.46,Manajemen Air,-0.66
+6996,2008,Brazil,North,Barley,1730.09,29.39,3.114,0,38.81,38.19,82.73,97.99,Rotasi Tanaman,28.33
+3659,2008,Brazil,North,Fruits,2780.22,20.22,0.477,5,81.71,27.63,15.3,39.42,Tanaman Tahan Kekeringan,5.64
+1304,2008,Brazil,North,Sugarcane,2692.7,3.29,3.62,0,49.38,33.36,44.97,61.39,Manajemen Air,13.32
+3989,2008,Brazil,North,Vegetables,2848.73,21.25,3.582,1,51.02,48.11,73.4,66.83,Tanpa Adaptasi,30.54
+5758,2008,Brazil,Northeast,Rice,2469.2,29.84,1.872,9,31.08,3.78,80.51,32.94,Manajemen Air,-4.67
+2941,2008,Brazil,Northeast,Sugarcane,865.17,2.75,2.65,2,45.32,26.03,38.99,55.57,Pertanian Organik,28.91
+1601,2008,Brazil,South,Coffee,2111.55,14.06,3.26,10,41.68,39.02,39.37,98.89,Pertanian Organik,21.6
+3182,2008,Brazil,South,Coffee,2374.77,7.02,1.74,9,56.59,10.0,66.61,39.61,Tanpa Adaptasi,33.11
+2797,2008,Brazil,South,Fruits,1100.08,10.55,2.34,1,15.08,46.66,34.78,78.15,Tanpa Adaptasi,7.0
+2227,2008,Brazil,South,Sugarcane,2970.42,13.72,3.85,8,26.13,17.48,28.94,80.56,Tanpa Adaptasi,15.29
+4436,2008,Brazil,South,Sugarcane,1538.68,2.08,1.79,4,20.15,0.61,18.32,34.08,Manajemen Air,24.06
+5931,2008,Brazil,South,Sugarcane,1774.12,14.54,1.88,1,83.55,12.17,53.63,68.65,Tanaman Tahan Kekeringan,17.38
+4814,2008,Brazil,Southeast,Barley,1243.52,25.43,2.619,1,42.62,42.42,18.89,99.58,Pertanian Organik,-2.03
+3608,2008,Brazil,Southeast,Coffee,1476.6,13.19,3.86,3,10.07,21.26,11.0,80.71,Rotasi Tanaman,31.93
+3451,2008,Brazil,Southeast,Corn,2107.38,2.4,3.72,3,26.74,23.32,31.85,51.82,Tanaman Tahan Kekeringan,15.92
+7415,2008,Brazil,Southeast,Cotton,2193.89,9.11,0.83,5,28.53,22.04,62.04,54.08,Tanaman Tahan Kekeringan,7.8
+2638,2008,Brazil,Southeast,Sugarcane,1074.04,4.67,2.18,2,45.25,9.52,84.57,46.78,Tanaman Tahan Kekeringan,15.79
+2488,2008,Brazil,Southeast,Vegetables,1329.79,16.64,2.259,6,11.01,21.11,16.82,60.91,Pertanian Organik,18.15
+3322,2008,Brazil,Southeast,Wheat,2674.21,8.78,3.7,4,19.99,21.44,84.28,97.88,Tanpa Adaptasi,20.1
+2522,2009,Brazil,North,Barley,779.12,17.19,1.377,4,60.17,30.27,86.98,85.25,Pertanian Organik,8.56
+1597,2009,Brazil,North,Fruits,2687.58,7.88,0.66,4,22.05,38.78,67.89,44.29,Rotasi Tanaman,3.42
+6277,2009,Brazil,North,Fruits,942.7,21.2,2.2230000000000003,3,52.98,23.03,81.52,89.96,Rotasi Tanaman,9.03
+5003,2009,Brazil,Northeast,Fruits,1351.15,17.35,1.755,10,92.97,1.29,14.76,92.97,Manajemen Air,10.47
+1948,2009,Brazil,South,Barley,556.08,21.65,2.565,7,60.12,29.19,72.57,99.73,Rotasi Tanaman,12.81
+3435,2009,Brazil,South,Corn,1400.13,28.43,0.981,2,,43.65,3.66,93.72,Tanaman Tahan Kekeringan,5.72
+4562,2009,Brazil,South,Corn,339.07,22.2,1.089,10,29.51,10.04,78.18,80.73,Manajemen Air,8.0
+7112,2009,Brazil,South,Sugarcane,2387.38,24.83,1.2240000000000002,1,90.94,2.37,76.13,30.53,Manajemen Air,27.31
+2538,2009,Brazil,South,Vegetables,213.23,24.0,3.0690000000000004,0,28.4,38.44,18.38,78.83,Tanaman Tahan Kekeringan,15.33
+1638,2009,Brazil,South,Wheat,610.9,23.21,4.437,3,93.22,7.39,51.02,51.29,Tanaman Tahan Kekeringan,10.59
+5364,2009,Brazil,Southeast,Corn,2441.23,9.94,1.42,5,94.47,2.78,37.7,57.81,Tanpa Adaptasi,-4.98
+4087,2009,Brazil,Southeast,Cotton,2430.96,10.9,1.73,3,71.71,24.71,24.93,97.73,Tanaman Tahan Kekeringan,-2.64
+707,2009,Brazil,Southeast,Vegetables,1717.03,2.11,1.57,6,64.8,48.11,95.59,97.08,Rotasi Tanaman,14.02
+5862,2010,Brazil,North,Barley,813.66,8.74,2.15,7,68.58,26.67,55.07,86.06,Pertanian Organik,11.51
+4408,2010,Brazil,North,Coffee,598.18,10.64,3.59,2,38.92,49.75,14.8,93.95,Rotasi Tanaman,32.35
+1689,2010,Brazil,North,Corn,2711.06,12.47,1.69,6,25.64,3.56,60.76,33.99,Tanpa Adaptasi,28.93
+433,2010,Brazil,North,Fruits,2918.01,15.2,2.979,3,87.07,11.74,16.84,54.39,Tanpa Adaptasi,23.06
+2681,2010,Brazil,North,Fruits,2612.62,2.0,1.25,1,48.3,21.09,3.45,61.51,Manajemen Air,23.36
+7400,2010,Brazil,North,Rice,1436.21,29.36,1.2240000000000002,9,28.25,37.26,44.87,33.9,Rotasi Tanaman,-1.18
+179,2010,Brazil,North,Vegetables,1662.53,13.85,2.22,10,77.04,15.94,92.54,85.24,Manajemen Air,0.08
+3438,2010,Brazil,Northeast,Coffee,707.98,4.73,1.75,6,70.14,34.86,78.42,61.67,Manajemen Air,4.3
+7058,2010,Brazil,Northeast,Cotton,586.82,10.79,3.2,10,54.42,48.22,75.83,62.05,Tanpa Adaptasi,12.13
+3834,2010,Brazil,Northeast,Fruits,2181.13,11.93,1.45,2,32.43,12.77,94.52,99.22,Rotasi Tanaman,22.26
+4551,2010,Brazil,South,Barley,942.76,18.9,1.638,2,74.74,31.75,56.53,86.24,Pertanian Organik,1.51
+3978,2010,Brazil,South,Coffee,2333.37,10.6,1.37,0,63.44,17.05,17.69,81.55,Manajemen Air,20.83
+484,2010,Brazil,South,Vegetables,1424.28,9.92,2.77,9,14.69,1.62,67.03,72.4,Tanaman Tahan Kekeringan,30.98
+6645,2010,Brazil,South,Vegetables,233.03,28.98,1.638,8,61.55,0.07,45.53,73.87,Rotasi Tanaman,25.81
+2110,2010,Brazil,South,Wheat,787.6,1.83,1.39,0,95.82,2.97,4.45,71.96,Tanpa Adaptasi,25.2
+582,2010,Brazil,Southeast,Coffee,774.14,4.97,1.77,2,56.31,20.31,37.15,79.54,Pertanian Organik,9.27
+4546,2010,Brazil,Southeast,Coffee,1292.69,2.61,2.29,3,77.12,45.54,11.25,48.36,Pertanian Organik,1.97
+6994,2010,Brazil,Southeast,Coffee,1099.08,22.49,3.582,8,65.81,9.86,67.63,83.85,Tanaman Tahan Kekeringan,25.84
+3025,2010,Brazil,Southeast,Fruits,2598.66,13.04,1.05,5,44.85,2.72,3.21,69.36,Manajemen Air,-0.1
+3965,2010,Brazil,Southeast,Fruits,1102.22,20.76,3.762,7,29.65,10.06,4.64,36.83,Tanaman Tahan Kekeringan,16.41
+5568,2010,Brazil,Southeast,Fruits,475.21,28.27,2.9160000000000004,9,45.1,10.19,54.84,87.96,Manajemen Air,18.18
+6609,2010,Brazil,Southeast,Soybeans,,24.81,2.331,4,80.63,22.64,93.06,60.71,Rotasi Tanaman,18.54
+7086,2010,Brazil,Southeast,Soybeans,679.97,11.3,2.57,4,70.84,27.88,78.65,58.29,Manajemen Air,5.58
+5274,2011,Brazil,North,Coffee,1202.98,22.34,1.134,8,10.96,2.62,38.39,96.54,Rotasi Tanaman,-0.07
+2918,2011,Brazil,North,Corn,2432.33,7.09,1.28,6,33.42,37.49,78.3,58.85,Manajemen Air,0.84
+7742,2011,Brazil,North,Corn,933.77,13.42,3.44,6,45.94,22.02,93.53,74.02,Pertanian Organik,20.23
+5520,2011,Brazil,North,Cotton,2384.13,21.88,1.53,10,78.09,6.05,46.82,62.55,Tanaman Tahan Kekeringan,15.41
+7919,2011,Brazil,North,Sugarcane,330.29,14.57,1.278,5,50.61,0.38,22.45,44.23,Tanpa Adaptasi,22.27
+7026,2011,Brazil,North,Vegetables,333.52,29.52,1.989,4,13.78,6.17,81.59,76.96,Rotasi Tanaman,9.78
+7789,2011,Brazil,Northeast,Barley,1849.16,28.69,1.575,0,92.31,43.63,93.8,84.17,Manajemen Air,17.13
+3617,2011,Brazil,Northeast,Coffee,2103.25,19.85,2.124,3,67.55,18.97,24.41,35.89,Tanpa Adaptasi,27.98
+2113,2011,Brazil,Northeast,Cotton,1380.06,7.41,,8,97.69,1.68,86.95,51.32,Tanaman Tahan Kekeringan,4.19
+7952,2011,Brazil,Northeast,Rice,739.19,28.82,2.547,10,22.09,0.1,45.37,32.36,Tanpa Adaptasi,0.52
+1130,2011,Brazil,Northeast,Soybeans,2439.52,29.81,3.0330000000000004,0,20.58,24.34,78.16,96.18,Tanpa Adaptasi,17.47
+1537,2011,Brazil,Northeast,Soybeans,1178.28,18.32,3.303,0,63.75,0.61,39.7,93.7,Tanpa Adaptasi,32.17
+4210,2011,Brazil,Northeast,Sugarcane,646.39,2.66,2.59,7,37.08,18.33,96.75,97.09,Pertanian Organik,15.4
+5489,2011,Brazil,South,Corn,1729.16,25.37,2.2230000000000003,10,52.76,40.63,81.94,63.88,Tanpa Adaptasi,28.63
+7548,2011,Brazil,South,Corn,328.13,16.17,0.8190000000000001,6,16.52,9.88,31.44,39.9,Tanaman Tahan Kekeringan,31.31
+6856,2011,Brazil,South,Fruits,,5.12,4.0,10,97.87,0.07,52.22,44.64,Manajemen Air,13.29
+2245,2011,Brazil,South,Sugarcane,422.47,13.11,4.293,2,38.8,36.74,95.73,30.99,Tanaman Tahan Kekeringan,18.35
+3841,2011,Brazil,South,Vegetables,607.47,11.91,1.89,4,61.74,34.76,98.62,63.34,Tanpa Adaptasi,7.07
+4702,2011,Brazil,South,Vegetables,1051.32,29.15,1.215,5,36.91,47.54,88.15,65.62,Manajemen Air,3.65
+3070,2011,Brazil,Southeast,Corn,1433.31,11.91,2.08,6,79.2,25.19,67.56,55.03,Pertanian Organik,15.75
+2394,2011,Brazil,Southeast,Cotton,608.86,18.84,2.4480000000000004,3,35.32,11.81,35.69,59.81,Manajemen Air,9.23
+4890,2011,Brazil,Southeast,Cotton,2987.1,1.01,3.94,0,41.39,28.65,99.35,30.42,Manajemen Air,18.03
+449,2011,Brazil,Southeast,Fruits,2474.43,5.24,2.14,3,69.98,34.44,35.74,46.44,Manajemen Air,25.0
+3758,2011,Brazil,Southeast,Fruits,2494.56,18.05,4.041,5,92.45,31.02,15.99,65.26,Pertanian Organik,17.4
+2366,2011,Brazil,Southeast,Soybeans,855.35,19.4,1.575,0,57.94,29.2,68.11,42.26,Rotasi Tanaman,-4.35
+4015,2011,Brazil,Southeast,Soybeans,,20.68,0.855,9,20.7,21.79,18.64,57.21,Tanaman Tahan Kekeringan,31.33
+7418,2011,Brazil,Southeast,Soybeans,879.86,11.08,1.72,4,89.78,7.57,61.64,94.39,Tanpa Adaptasi,8.24
+2899,2011,Brazil,Southeast,Vegetables,2146.69,25.67,0.774,8,25.97,19.33,77.24,87.25,Tanaman Tahan Kekeringan,29.37
+1703,2012,Brazil,North,Sugarcane,386.02,26.76,4.311,8,81.99,27.93,54.83,80.1,Tanpa Adaptasi,10.84
+4901,2012,Brazil,North,Sugarcane,2857.58,25.3,3.555,6,29.24,5.82,67.81,95.25,Tanpa Adaptasi,31.48
+1237,2012,Brazil,North,Wheat,973.65,12.49,1.14,6,72.9,6.22,11.09,89.75,Tanpa Adaptasi,26.95
+5335,2012,Brazil,North,Wheat,494.8,25.13,2.484,4,42.3,27.39,86.7,87.48,Tanpa Adaptasi,33.47
+6625,2012,Brazil,North,Wheat,639.86,27.2,2.142,2,49.3,36.87,22.51,63.22,Rotasi Tanaman,17.44
+913,2012,Brazil,Northeast,Barley,385.6,20.9,1.548,3,71.57,44.92,28.14,92.22,Pertanian Organik,7.43
+5615,2012,Brazil,Northeast,Barley,335.39,11.16,3.519,0,47.6,44.95,15.52,86.35,Tanaman Tahan Kekeringan,30.6
+5790,2012,Brazil,Northeast,Barley,1303.28,10.19,1.07,2,31.78,37.84,51.63,56.8,Pertanian Organik,-0.86
+2927,2012,Brazil,Northeast,Corn,1313.11,0.91,2.67,10,58.96,43.43,87.06,57.26,Rotasi Tanaman,9.85
+1567,2012,Brazil,Northeast,Soybeans,978.96,24.69,2.043,5,66.67,0.1,3.53,45.05,Tanpa Adaptasi,20.38
+5089,2012,Brazil,Northeast,Wheat,2045.79,3.05,0.71,10,50.35,7.87,70.28,50.4,Tanaman Tahan Kekeringan,5.63
+4424,2012,Brazil,South,Coffee,2180.7,12.63,0.69,7,79.45,26.94,85.48,92.06,Pertanian Organik,9.08
+343,2012,Brazil,South,Corn,215.42,16.31,1.629,6,70.39,15.3,42.5,58.38,Pertanian Organik,7.61
+992,2012,Brazil,South,Corn,2282.78,8.91,2.36,0,70.12,22.92,31.51,52.97,Tanaman Tahan Kekeringan,34.78
+3449,2012,Brazil,South,Cotton,2935.29,12.1,1.69,4,45.11,17.34,26.51,37.05,Tanpa Adaptasi,2.16
+5506,2012,Brazil,South,Cotton,1967.94,17.32,2.124,3,18.94,16.14,76.08,63.62,Pertanian Organik,19.21
+7465,2012,Brazil,South,Cotton,724.46,11.57,0.81,2,89.08,14.87,39.15,71.58,Tanpa Adaptasi,8.61
+6193,2012,Brazil,South,Soybeans,323.73,14.5,1.548,2,62.63,13.68,37.52,82.56,Manajemen Air,-1.22
+1519,2012,Brazil,South,Sugarcane,423.52,23.14,3.438,3,92.16,27.85,41.23,94.96,Rotasi Tanaman,28.3
+5463,2012,Brazil,South,Sugarcane,2309.34,19.85,1.593,6,37.55,17.69,18.34,84.82,Pertanian Organik,-4.1
+2644,2012,Brazil,South,Vegetables,,15.97,1.557,10,23.71,49.76,64.28,76.35,Pertanian Organik,14.82
+526,2012,Brazil,South,Wheat,2857.09,24.93,1.1700000000000002,10,40.59,13.02,28.65,74.52,Pertanian Organik,20.2
+2846,2012,Brazil,South,Wheat,2256.64,5.21,2.7,8,54.25,28.94,67.14,42.99,Rotasi Tanaman,20.59
+1628,2012,Brazil,Southeast,Fruits,521.8,24.07,2.178,9,86.64,15.8,26.25,79.22,Tanpa Adaptasi,14.96
+1895,2012,Brazil,Southeast,Rice,1164.56,19.67,2.772,6,42.81,36.06,51.1,75.84,Rotasi Tanaman,31.7
+1979,2012,Brazil,Southeast,Sugarcane,1918.47,6.91,3.81,4,89.47,16.31,84.3,51.69,Pertanian Organik,33.44
+4029,2012,Brazil,Southeast,Wheat,1595.06,20.63,1.719,2,35.31,30.63,8.78,93.66,Pertanian Organik,-4.5
+200,2013,Brazil,North,Barley,1165.27,20.42,3.807,9,97.58,5.95,65.35,43.92,Manajemen Air,16.25
+5549,2013,Brazil,North,Barley,1979.36,28.24,2.3760000000000003,4,33.78,11.17,51.38,49.55,Manajemen Air,0.73
+3380,2013,Brazil,North,Cotton,1421.92,29.73,1.4580000000000002,6,64.35,33.94,57.3,56.32,Pertanian Organik,9.07
+3470,2013,Brazil,North,Fruits,241.42,21.54,2.538,10,69.32,29.87,16.01,82.34,Tanaman Tahan Kekeringan,-0.01
+4813,2013,Brazil,North,Fruits,206.82,13.11,0.8190000000000001,0,19.91,25.2,39.17,62.93,Manajemen Air,29.52
+2716,2013,Brazil,North,Rice,1076.62,7.15,2.91,2,71.09,43.68,50.68,37.8,Rotasi Tanaman,5.71
+2543,2013,Brazil,North,Sugarcane,990.13,18.59,2.619,9,52.42,45.28,93.88,93.24,Tanaman Tahan Kekeringan,27.38
+7737,2013,Brazil,North,Sugarcane,774.16,15.15,2.853,1,93.29,25.14,59.67,85.84,Rotasi Tanaman,10.34
+2867,2013,Brazil,North,Wheat,673.4,2.17,3.97,9,48.75,35.77,41.46,41.45,Rotasi Tanaman,31.6
+7877,2013,Brazil,Northeast,Barley,810.72,16.92,1.143,8,98.51,13.95,11.73,90.15,Rotasi Tanaman,-0.61
+1772,2013,Brazil,Northeast,Coffee,2748.89,21.96,1.035,6,14.09,27.98,46.75,56.66,Tanaman Tahan Kekeringan,3.41
+4948,2013,Brazil,Northeast,Cotton,473.93,28.72,2.673,6,22.77,3.9,96.08,40.63,Pertanian Organik,18.83
+3849,2013,Brazil,Northeast,Fruits,2844.46,1.63,3.69,7,84.92,37.54,9.09,97.38,Pertanian Organik,32.56
+3861,2013,Brazil,Northeast,Fruits,230.41,19.97,0.792,6,64.77,26.03,65.07,53.75,Rotasi Tanaman,-0.45
+4806,2013,Brazil,Northeast,Fruits,1036.05,22.95,0.7110000000000001,10,56.63,38.17,54.23,61.29,Manajemen Air,-3.02
+3770,2013,Brazil,Northeast,Rice,2687.32,0.63,3.56,10,45.14,24.58,12.03,96.0,Tanpa Adaptasi,13.88
+3696,2013,Brazil,Northeast,Sugarcane,1089.02,13.98,1.81,1,85.36,32.55,89.48,99.67,Tanpa Adaptasi,4.24
+7577,2013,Brazil,Northeast,Sugarcane,,18.09,3.564,4,72.75,39.01,38.8,81.9,Manajemen Air,32.66
+4727,2013,Brazil,South,Barley,408.65,17.18,2.16,3,56.54,26.04,69.67,52.42,Manajemen Air,5.57
+6973,2013,Brazil,South,Cotton,1547.89,3.95,1.61,9,13.64,32.13,81.27,96.01,Tanpa Adaptasi,24.56
+3877,2013,Brazil,South,Soybeans,392.35,29.2,2.565,1,56.46,18.34,81.03,77.38,Manajemen Air,3.4
+1114,2013,Brazil,South,Wheat,2595.49,16.55,0.756,6,59.65,27.52,45.0,68.51,Tanpa Adaptasi,30.98
+2811,2013,Brazil,South,Wheat,2676.04,19.73,2.736,10,51.62,12.54,41.13,39.54,Pertanian Organik,14.31
+6408,2013,Brazil,South,Wheat,1568.37,6.33,3.93,3,80.78,15.88,2.53,48.61,Manajemen Air,27.35
+1300,2013,Brazil,South,,2733.28,20.32,1.368,10,46.79,3.09,49.63,48.56,Manajemen Air,8.17
+98,2013,Brazil,Southeast,Corn,2528.14,29.63,1.782,10,61.69,17.72,12.6,74.5,Rotasi Tanaman,2.61
+7204,2013,Brazil,Southeast,Corn,2585.61,5.6,3.46,2,14.69,19.59,46.88,83.94,Tanpa Adaptasi,23.99
+2508,2013,Brazil,Southeast,Cotton,530.58,14.17,2.15,9,,48.2,55.14,90.57,Rotasi Tanaman,-0.85
+3069,2013,Brazil,Southeast,Cotton,1694.56,18.55,3.6,9,10.17,36.59,13.43,56.31,Tanaman Tahan Kekeringan,17.22
+353,2013,Brazil,Southeast,Rice,,9.68,2.96,4,59.49,32.3,72.16,74.52,Rotasi Tanaman,4.66
+1524,2013,Brazil,Southeast,Rice,631.42,27.03,3.5370000000000004,4,45.63,8.47,7.95,41.91,Tanaman Tahan Kekeringan,15.33
+4832,2014,Brazil,North,Coffee,1056.81,20.95,1.809,4,37.88,31.62,53.97,60.24,Pertanian Organik,-3.78
+7060,2014,Brazil,North,Cotton,933.48,19.46,4.428,7,30.56,4.1,63.63,67.17,Rotasi Tanaman,17.42
+4184,2014,Brazil,North,Rice,2840.06,16.42,1.845,7,57.57,44.25,73.97,52.98,Pertanian Organik,1.68
+4896,2014,Brazil,North,Rice,669.87,28.96,1.026,10,10.06,0.7,1.28,74.9,Tanpa Adaptasi,29.23
+2218,2014,Brazil,North,Vegetables,1399.96,2.38,3.56,10,79.9,35.01,0.42,67.89,Rotasi Tanaman,11.53
+7897,2014,Brazil,Northeast,Rice,1168.22,1.33,4.42,5,32.24,13.06,83.76,62.28,Tanaman Tahan Kekeringan,12.75
+7484,2014,Brazil,Northeast,Soybeans,267.79,21.12,1.1880000000000002,5,19.43,44.06,71.56,39.76,Rotasi Tanaman,29.22
+444,2014,Brazil,Northeast,Sugarcane,1720.87,4.65,3.0,3,61.99,21.38,83.0,98.27,Manajemen Air,24.85
+7981,2014,Brazil,Northeast,,605.38,26.01,0.927,0,53.61,22.54,14.81,41.55,Manajemen Air,-1.76
+231,2014,Brazil,South,Fruits,2451.44,3.87,2.0,6,26.33,10.03,32.82,61.32,Tanaman Tahan Kekeringan,6.56
+7895,2014,Brazil,Southeast,Corn,1281.74,1.12,1.58,4,57.34,42.5,35.87,80.24,Pertanian Organik,28.46
+63,2014,Brazil,Southeast,Fruits,1842.25,9.74,3.45,3,24.94,16.02,85.03,83.9,Rotasi Tanaman,18.02
+5918,2014,Brazil,Southeast,Soybeans,317.45,25.21,1.431,3,55.45,1.93,93.82,44.69,Manajemen Air,8.31
+3874,2015,Brazil,North,Barley,1060.12,22.19,2.196,9,52.27,41.75,40.61,85.57,Tanpa Adaptasi,32.59
+7456,2015,Brazil,North,Barley,504.52,22.48,4.23,6,78.72,34.97,21.95,56.33,Pertanian Organik,19.0
+3119,2015,Brazil,North,Coffee,2734.87,22.49,1.953,4,28.19,16.02,13.21,54.47,Pertanian Organik,9.39
+6106,2015,Brazil,North,Sugarcane,804.11,23.52,4.248,1,75.67,1.73,78.02,49.8,Tanpa Adaptasi,14.69
+1806,2015,Brazil,North,Vegetables,832.65,5.14,4.84,8,84.55,19.65,6.95,78.23,Tanaman Tahan Kekeringan,18.4
+5304,2015,Brazil,North,Vegetables,2464.59,18.08,3.231,10,88.64,10.53,25.8,45.94,Rotasi Tanaman,19.18
+6478,2015,Brazil,North,Wheat,1736.66,24.2,3.0690000000000004,6,90.62,4.4,88.95,54.79,Rotasi Tanaman,22.14
+5647,2015,Brazil,Northeast,Corn,351.11,6.61,3.231,1,53.51,19.98,68.31,90.0,Pertanian Organik,18.13
+1332,2015,Brazil,Northeast,Fruits,1861.76,26.32,1.251,1,56.76,28.25,62.16,46.46,Rotasi Tanaman,4.64
+1669,2015,Brazil,Northeast,Rice,1302.01,22.11,0.963,3,10.47,0.89,68.61,76.89,Tanpa Adaptasi,24.41
+1870,2015,Brazil,Northeast,Soybeans,1895.58,28.81,2.9970000000000003,6,57.88,48.59,91.04,81.8,Rotasi Tanaman,18.81
+6747,2015,Brazil,South,Corn,293.46,18.22,3.051,8,78.94,9.36,84.02,76.51,Rotasi Tanaman,33.02
+4737,2015,Brazil,South,Cotton,1170.23,9.21,0.7,5,41.02,25.59,63.68,68.97,Tanaman Tahan Kekeringan,9.52
+5256,2015,Brazil,South,Sugarcane,2364.74,11.72,2.3,2,62.7,10.1,16.3,51.17,Tanaman Tahan Kekeringan,21.32
+4557,2015,Brazil,South,Vegetables,2969.26,26.43,2.295,2,88.84,14.0,48.88,53.56,Rotasi Tanaman,3.36
+1922,2015,Brazil,South,Wheat,629.33,12.02,1.88,9,29.06,47.85,74.86,47.09,Pertanian Organik,29.62
+6102,2015,Brazil,Southeast,Coffee,1510.51,6.6,3.93,10,88.13,19.79,92.08,66.86,Tanpa Adaptasi,12.31
+7825,2015,Brazil,Southeast,Fruits,2197.59,18.45,3.735,8,80.31,21.61,96.83,84.87,Pertanian Organik,18.75
+1499,2015,Brazil,Southeast,Rice,1792.33,16.38,0.936,0,68.15,7.14,90.48,94.59,Rotasi Tanaman,-2.44
+4127,2015,Brazil,Southeast,Rice,2415.63,18.87,2.709,5,34.88,26.14,79.44,31.79,Pertanian Organik,31.62
+4579,2015,Brazil,Southeast,Soybeans,2804.57,19.59,2.9250000000000003,6,19.06,36.64,2.06,75.26,Pertanian Organik,23.75
+5604,2016,Brazil,North,Coffee,831.46,9.47,3.93,0,55.3,31.62,76.95,56.56,Tanpa Adaptasi,11.62
+3230,2016,Brazil,North,Corn,1965.91,3.65,2.1,2,98.95,12.97,95.71,86.05,Tanaman Tahan Kekeringan,22.9
+7306,2016,Brazil,North,Corn,1370.33,27.77,1.845,10,68.13,2.07,7.38,39.33,Tanpa Adaptasi,6.46
+5103,2016,Brazil,North,Soybeans,2294.5,26.55,2.9970000000000003,9,67.06,31.83,27.18,83.32,Manajemen Air,15.57
+1942,2016,Brazil,North,Sugarcane,1582.88,23.73,3.4650000000000003,8,86.71,47.19,95.75,39.36,Pertanian Organik,13.2
+262,2016,Brazil,North,Vegetables,518.94,15.2,2.826,0,68.39,27.51,40.25,51.51,Rotasi Tanaman,23.35
+3598,2016,Brazil,North,Wheat,268.1,6.47,3.438,1,39.36,0.97,79.5,85.02,Pertanian Organik,26.22
+5133,2016,Brazil,North,Wheat,1349.64,2.64,0.59,10,20.72,36.69,49.03,93.72,Tanpa Adaptasi,1.1
+6635,2016,Brazil,North,Wheat,2892.79,21.43,2.394,5,54.46,1.31,11.12,65.05,Pertanian Organik,12.62
+6375,2016,Brazil,Northeast,Corn,2838.43,13.91,1.9,3,47.04,29.17,40.28,48.99,Tanpa Adaptasi,-2.75
+7692,2016,Brazil,Northeast,Rice,1451.52,25.21,2.259,10,22.1,4.28,33.23,36.49,Manajemen Air,3.11
+6914,2016,Brazil,Northeast,Soybeans,1786.46,3.0,0.86,5,11.75,3.33,1.08,55.99,Pertanian Organik,-4.0
+7053,2016,Brazil,Northeast,Wheat,2172.68,13.53,3.92,0,18.74,28.29,57.27,70.63,Tanpa Adaptasi,14.85
+199,2016,Brazil,South,Sugarcane,1722.96,2.61,3.89,7,,12.8,19.66,36.86,Manajemen Air,28.79
+4570,2016,Brazil,South,Sugarcane,1720.53,21.85,3.168,1,50.46,21.03,77.71,78.14,Manajemen Air,31.06
+2646,2016,Brazil,Southeast,Coffee,2593.9,23.88,2.934,8,,5.99,9.81,52.67,Rotasi Tanaman,28.24
+4805,2016,Brazil,Southeast,Cotton,572.28,9.91,2.1,6,45.78,42.85,66.37,42.92,Rotasi Tanaman,6.42
+239,2016,Brazil,Southeast,Fruits,2521.38,29.58,2.7,3,19.14,49.57,11.25,43.73,Tanaman Tahan Kekeringan,0.31
+1981,2016,Brazil,Southeast,Soybeans,900.67,20.21,1.035,10,12.23,8.83,4.47,32.43,Rotasi Tanaman,26.98
+2153,2016,Brazil,Southeast,Soybeans,530.53,1.58,1.98,0,73.21,10.08,16.6,59.88,Manajemen Air,2.47
+3631,2016,Brazil,Southeast,Vegetables,960.55,8.52,3.75,0,63.52,3.48,97.74,44.74,Tanaman Tahan Kekeringan,34.54
+5263,2017,Brazil,North,Coffee,,10.03,2.16,3,82.04,20.73,76.74,86.16,Pertanian Organik,10.96
+7986,2017,Brazil,North,Soybeans,528.91,27.11,2.9610000000000003,4,12.58,2.94,74.19,39.29,Manajemen Air,28.47
+4286,2017,Brazil,North,Sugarcane,1168.65,18.37,1.926,3,47.3,46.45,86.71,87.8,Pertanian Organik,24.79
+7164,2017,Brazil,North,Wheat,362.0,0.91,2.115,6,13.5,26.43,92.29,58.28,Tanpa Adaptasi,33.17
+2828,2017,Brazil,Northeast,Cotton,1304.49,7.9,1.59,7,35.17,27.89,99.73,41.74,Tanpa Adaptasi,15.76
+1665,2017,Brazil,Northeast,Vegetables,1105.75,17.53,1.368,3,51.8,2.35,76.82,62.76,Rotasi Tanaman,24.33
+5635,2017,Brazil,Northeast,Wheat,1224.5,7.32,3.96,0,15.36,48.94,15.16,99.66,Pertanian Organik,23.2
+5936,2017,Brazil,Northeast,Wheat,1778.88,19.32,2.52,2,92.15,25.64,72.89,87.33,Rotasi Tanaman,24.09
+5913,2017,Brazil,South,Coffee,1457.37,12.07,0.83,4,37.82,45.47,76.11,75.83,Manajemen Air,21.48
+4354,2017,Brazil,South,Corn,222.48,17.26,1.134,2,,21.15,62.77,77.85,Tanpa Adaptasi,7.58
+6723,2017,Brazil,South,Soybeans,,14.3,1.19,8,98.19,8.77,73.72,61.44,Rotasi Tanaman,33.08
+6372,2017,Brazil,South,Sugarcane,2600.49,6.56,1.5,5,98.38,38.15,66.12,44.11,Pertanian Organik,9.55
+7322,2017,Brazil,South,Vegetables,2881.31,1.84,1.86,1,96.56,1.31,25.32,48.75,Manajemen Air,1.18
+3287,2017,Brazil,South,Wheat,2664.38,23.62,1.692,1,46.12,29.54,95.98,73.67,Pertanian Organik,5.08
+1590,2017,Brazil,Southeast,Soybeans,2917.84,17.54,3.5010000000000003,1,15.28,26.14,91.81,64.77,Manajemen Air,33.18
+3642,2017,Brazil,Southeast,Sugarcane,2522.91,10.69,3.63,9,39.14,40.29,42.38,75.87,Tanaman Tahan Kekeringan,29.89
+5064,2017,Brazil,Southeast,Sugarcane,2391.85,0.74,0.97,5,64.05,46.13,21.41,99.65,Tanaman Tahan Kekeringan,27.55
+5881,2018,Brazil,North,Barley,2639.04,6.01,3.64,10,52.71,28.15,61.34,88.14,Tanaman Tahan Kekeringan,20.83
+2520,2018,Brazil,North,Fruits,535.79,23.11,0.999,4,18.33,32.51,87.92,38.37,Pertanian Organik,31.41
+4880,2018,Brazil,North,Sugarcane,1825.72,5.54,1.69,3,48.17,19.18,19.15,32.09,Pertanian Organik,11.09
+1468,2018,Brazil,North,Vegetables,2772.97,3.69,1.75,8,97.42,19.51,64.59,97.73,Tanpa Adaptasi,19.46
+4488,2018,Brazil,North,Wheat,320.88,18.75,3.483,10,50.49,16.71,93.25,72.3,Tanpa Adaptasi,34.84
+7434,2018,Brazil,North,Wheat,2994.39,18.02,1.4580000000000002,4,72.3,44.09,98.45,66.42,Tanaman Tahan Kekeringan,14.28
+6656,2018,Brazil,North,,2776.81,19.46,2.61,4,68.93,5.61,3.07,85.35,Manajemen Air,15.84
+6307,2018,Brazil,Northeast,Coffee,1670.4,29.62,2.007,4,52.3,20.22,82.83,37.69,Tanaman Tahan Kekeringan,33.21
+1674,2018,Brazil,Northeast,Corn,2844.7,28.02,1.179,8,40.19,43.47,21.27,30.3,Tanaman Tahan Kekeringan,-1.94
+3038,2018,Brazil,Northeast,Cotton,2629.77,11.69,3.33,0,79.33,27.45,50.11,42.33,Manajemen Air,34.52
+5344,2018,Brazil,Northeast,Cotton,620.36,5.81,3.47,9,20.94,23.14,36.81,95.66,Pertanian Organik,10.55
+2525,2018,Brazil,Northeast,Fruits,,26.29,2.196,8,75.7,33.83,64.82,98.49,Tanaman Tahan Kekeringan,14.79
+2353,2018,Brazil,South,Cotton,2848.8,28.58,2.358,6,72.77,19.84,8.59,66.96,Tanaman Tahan Kekeringan,7.03
+7785,2018,Brazil,South,Rice,584.39,26.7,1.845,7,15.86,4.89,38.13,39.79,Tanaman Tahan Kekeringan,3.15
+4426,2018,Brazil,South,Soybeans,1939.07,28.44,2.952,7,79.37,14.76,48.85,34.6,Manajemen Air,11.29
+4151,2018,Brazil,South,Wheat,2844.96,13.31,1.8,7,33.3,32.46,0.42,78.27,Tanpa Adaptasi,23.69
+7871,2018,Brazil,Southeast,Barley,,23.05,3.6,8,17.87,34.97,38.6,30.8,Tanaman Tahan Kekeringan,19.55
+646,2018,Brazil,Southeast,Fruits,924.45,4.39,3.17,5,47.45,8.28,1.11,49.13,Pertanian Organik,29.43
+873,2018,Brazil,Southeast,Rice,797.11,13.85,2.97,4,47.82,16.5,62.3,58.31,Tanaman Tahan Kekeringan,16.64
+7443,2018,Brazil,Southeast,Wheat,1523.97,8.97,4.51,7,65.26,0.49,70.15,57.32,Tanaman Tahan Kekeringan,19.28
+727,2019,Brazil,North,Corn,945.55,10.04,1.87,9,19.34,34.39,38.39,44.36,Tanpa Adaptasi,34.06
+214,2019,Brazil,North,Sugarcane,1823.5,24.83,2.07,4,61.9,20.32,0.15,38.5,Tanpa Adaptasi,28.53
+919,2019,Brazil,North,Sugarcane,1824.83,24.47,3.285,7,22.4,15.7,47.09,32.99,Pertanian Organik,34.62
+5025,2019,Brazil,North,Vegetables,842.97,27.24,1.08,8,36.76,13.43,32.19,69.89,Pertanian Organik,24.11
+5751,2019,Brazil,North,Vegetables,2319.49,6.88,2.29,0,35.06,38.07,1.67,63.01,Tanpa Adaptasi,15.21
+7778,2019,Brazil,North,Wheat,359.98,11.18,1.143,7,32.03,27.17,34.49,52.08,Tanpa Adaptasi,1.83
+2964,2019,Brazil,Northeast,Soybeans,1336.8,1.83,0.51,10,28.97,47.93,11.87,46.1,Manajemen Air,2.84
+36,2019,Brazil,Northeast,Vegetables,605.32,14.05,3.49,8,81.41,13.13,90.1,68.22,Tanpa Adaptasi,16.05
+5128,2019,Brazil,Northeast,Vegetables,336.67,16.16,1.521,1,,21.71,83.34,31.38,Pertanian Organik,31.7
+3436,2019,Brazil,Northeast,Wheat,2522.37,27.34,3.1410000000000005,6,66.48,10.02,64.27,91.11,Manajemen Air,15.26
+5222,2019,Brazil,South,Coffee,847.28,7.15,1.87,10,11.43,20.42,64.5,35.8,Pertanian Organik,17.84
+587,2019,Brazil,South,Fruits,1262.53,25.81,2.43,9,66.75,1.86,75.04,42.74,Tanpa Adaptasi,3.27
+6107,2019,Brazil,South,Rice,2815.52,11.9,0.65,0,96.56,25.7,76.04,79.86,Manajemen Air,-4.46
+5208,2019,Brazil,South,Soybeans,2959.85,3.78,3.71,3,98.54,8.6,61.22,92.76,Pertanian Organik,33.46
+5291,2019,Brazil,South,Vegetables,1244.3,11.84,2.53,3,61.45,44.41,35.33,68.41,Manajemen Air,-2.96
+7648,2019,Brazil,South,,2740.39,21.03,1.944,8,51.5,35.11,16.4,42.64,Rotasi Tanaman,15.28
+6489,2019,Brazil,Southeast,Barley,2056.55,26.63,1.377,0,43.14,38.15,15.6,95.44,Tanaman Tahan Kekeringan,24.92
+3125,2019,Brazil,Southeast,Corn,2918.76,16.61,2.106,3,46.29,33.07,4.7,31.48,Manajemen Air,19.08
+3884,2019,Brazil,Southeast,Corn,285.36,28.83,1.863,4,19.57,36.26,2.98,81.32,Pertanian Organik,7.6
+2030,2019,Brazil,Southeast,Sugarcane,2597.47,1.67,3.32,9,89.24,2.93,26.85,40.66,Tanaman Tahan Kekeringan,31.46
+6452,2020,Brazil,North,Coffee,285.16,24.93,2.583,0,20.69,33.14,66.98,34.06,Tanaman Tahan Kekeringan,9.06
+3750,2020,Brazil,North,Soybeans,2000.89,13.49,0.96,3,63.15,40.28,53.83,42.02,Tanpa Adaptasi,25.21
+5644,2020,Brazil,North,Soybeans,1140.49,22.08,2.178,8,43.12,13.39,2.28,84.94,Tanpa Adaptasi,30.11
+7454,2020,Brazil,North,Soybeans,2170.17,23.52,2.2230000000000003,0,62.77,13.01,20.97,80.96,Pertanian Organik,23.28
+4534,2020,Brazil,North,Vegetables,840.16,13.43,2.97,2,86.98,40.17,32.73,97.75,Pertanian Organik,15.14
+5804,2020,Brazil,North,Wheat,1566.53,7.87,4.92,9,96.51,18.89,3.05,31.95,Tanpa Adaptasi,12.97
+2641,2020,Brazil,Northeast,Barley,377.32,23.24,1.152,5,26.38,35.92,78.51,99.87,Rotasi Tanaman,4.77
+6426,2020,Brazil,Northeast,Cotton,2744.13,17.37,0.945,0,24.21,16.54,37.89,52.4,Tanaman Tahan Kekeringan,-4.4
+1202,2020,Brazil,Northeast,Rice,2141.14,18.0,2.502,1,74.0,4.71,96.73,61.39,Manajemen Air,6.02
+3419,2020,Brazil,Northeast,Soybeans,661.69,10.08,2.68,3,29.33,10.57,56.17,97.0,Rotasi Tanaman,16.97
+4472,2020,Brazil,Northeast,Sugarcane,1688.35,14.38,1.61,1,26.01,37.66,73.95,37.12,Rotasi Tanaman,4.07
+7039,2020,Brazil,Northeast,Vegetables,708.79,21.69,2.4120000000000004,0,25.94,37.34,9.29,48.73,Tanpa Adaptasi,27.78
+7290,2020,Brazil,Northeast,Vegetables,1925.36,6.93,2.17,9,45.23,7.53,18.85,33.71,Tanaman Tahan Kekeringan,28.22
+651,2020,Brazil,South,Corn,2268.03,17.71,1.314,1,86.78,30.03,27.25,34.05,Tanaman Tahan Kekeringan,27.49
+1630,2020,Brazil,South,Rice,1327.56,8.37,4.5,7,43.12,14.17,74.9,45.01,Tanpa Adaptasi,15.02
+2777,2020,Brazil,South,Soybeans,1324.22,9.12,3.54,0,26.93,38.53,13.29,44.91,Manajemen Air,14.74
+300,2020,Brazil,Southeast,Cotton,2058.61,25.0,,10,48.57,27.6,53.46,52.54,Tanpa Adaptasi,5.51
+1705,2020,Brazil,Southeast,Rice,708.55,8.74,5.0,9,37.39,21.04,63.84,36.86,Manajemen Air,17.54
+4974,2020,Brazil,Southeast,Rice,2252.3,26.08,3.681,8,73.84,32.1,42.35,39.77,Manajemen Air,18.21
+7699,2020,Brazil,Southeast,Vegetables,983.43,6.18,2.27,10,55.38,21.64,55.34,86.15,Tanaman Tahan Kekeringan,32.93
+4513,2020,Brazil,Southeast,Wheat,2056.02,29.65,2.682,6,15.39,38.29,48.51,38.27,Tanaman Tahan Kekeringan,-1.08
+1072,2021,Brazil,North,Wheat,862.7,2.95,3.35,6,65.77,35.36,37.86,44.68,Pertanian Organik,14.03
+2968,2021,Brazil,North,Wheat,609.75,5.32,3.29,3,16.76,2.7,29.87,33.53,Manajemen Air,23.54
+2380,2021,Brazil,Northeast,Barley,2909.11,9.71,4.91,10,17.5,2.88,54.27,43.3,Rotasi Tanaman,11.27
+6342,2021,Brazil,Northeast,Coffee,2810.7,16.44,2.871,9,82.7,27.06,0.35,69.28,Tanaman Tahan Kekeringan,23.15
+3974,2021,Brazil,Northeast,Corn,1475.3,9.32,1.61,5,38.55,27.96,0.3,80.81,Rotasi Tanaman,1.11
+7006,2021,Brazil,Northeast,Fruits,2453.02,25.07,1.035,2,50.36,30.27,23.12,39.95,Manajemen Air,27.12
+7535,2021,Brazil,Northeast,Fruits,,9.36,2.16,1,61.85,7.16,49.97,37.8,Tanaman Tahan Kekeringan,7.02
+505,2021,Brazil,Northeast,Rice,1983.96,24.95,3.087,9,37.04,26.91,93.17,75.14,Rotasi Tanaman,21.8
+3702,2021,Brazil,Northeast,Rice,1924.14,25.39,4.383,6,49.01,16.9,44.85,65.24,Tanaman Tahan Kekeringan,17.49
+2454,2021,Brazil,Northeast,Soybeans,1934.48,13.54,2.04,1,15.58,6.28,25.85,60.89,Rotasi Tanaman,-3.71
+6579,2021,Brazil,Northeast,Sugarcane,388.87,13.1,1.494,8,57.29,10.68,53.57,33.69,Manajemen Air,33.43
+7809,2021,Brazil,Northeast,Sugarcane,752.1,27.97,1.062,8,11.68,42.97,26.8,49.13,Manajemen Air,-1.23
+1457,2021,Brazil,South,Coffee,2147.24,23.92,4.4910000000000005,2,71.71,12.29,43.24,94.2,Tanpa Adaptasi,11.75
+6465,2021,Brazil,South,Coffee,254.8,15.02,2.574,3,55.91,18.76,8.27,67.69,Pertanian Organik,7.83
+3639,2021,Brazil,South,Corn,218.48,21.0,4.23,2,80.44,45.8,98.17,77.78,Rotasi Tanaman,17.74
+974,2021,Brazil,South,Soybeans,2584.52,21.0,2.601,4,49.27,30.11,76.03,57.01,Tanaman Tahan Kekeringan,17.19
+5940,2021,Brazil,South,Soybeans,1164.61,15.82,0.81,9,50.18,41.31,54.22,39.81,Rotasi Tanaman,-2.02
+1454,2021,Brazil,South,Sugarcane,2510.51,5.42,2.45,0,32.08,13.97,98.85,57.83,Pertanian Organik,12.39
+3024,2021,Brazil,Southeast,Cotton,2904.07,11.68,2.17,8,15.7,39.69,63.44,85.05,Tanaman Tahan Kekeringan,13.61
+5113,2021,Brazil,Southeast,Cotton,2894.33,20.34,3.978,5,87.89,36.08,45.23,87.71,Manajemen Air,14.36
+3130,2021,Brazil,Southeast,Fruits,1691.91,16.69,1.638,3,80.72,33.14,21.04,87.34,Tanaman Tahan Kekeringan,11.58
+6279,2021,Brazil,Southeast,Fruits,1775.26,8.44,0.78,8,27.11,35.89,82.62,77.13,Tanaman Tahan Kekeringan,4.35
+5200,2021,Brazil,Southeast,Rice,956.56,1.92,4.43,9,30.34,35.59,58.24,38.48,Manajemen Air,12.19
+2516,2021,Brazil,Southeast,Soybeans,545.86,16.18,2.169,7,39.84,2.78,65.78,49.04,Rotasi Tanaman,2.31
+2588,2021,Brazil,Southeast,Vegetables,2060.84,20.14,0.972,1,98.92,39.36,59.38,70.56,Pertanian Organik,22.33
+7311,2021,Brazil,Southeast,Wheat,1468.92,21.96,1.2240000000000002,9,55.19,46.98,90.64,31.15,Manajemen Air,7.84
+7560,2021,Brazil,Southeast,Wheat,1911.69,19.7,3.474,10,79.47,7.57,3.94,85.04,Rotasi Tanaman,29.57
+1266,2022,Brazil,North,Barley,251.51,0.83,0.846,5,22.67,0.79,19.55,99.02,Tanpa Adaptasi,26.16
+3505,2022,Brazil,North,Barley,2948.08,17.69,2.934,2,51.74,6.4,26.94,32.34,Manajemen Air,17.9
+6857,2022,Brazil,North,Cotton,2488.69,1.05,1.33,3,78.97,37.76,12.71,88.91,Tanpa Adaptasi,1.46
+2276,2022,Brazil,North,Fruits,1304.68,21.67,2.421,5,72.06,49.81,26.21,55.81,Manajemen Air,12.88
+7995,2022,Brazil,North,Rice,539.92,0.85,3.21,6,37.46,37.16,10.14,98.29,Tanaman Tahan Kekeringan,10.37
+352,2022,Brazil,North,Soybeans,2572.78,6.11,1.71,9,21.57,21.88,7.38,47.83,Pertanian Organik,34.71
+2064,2022,Brazil,North,Vegetables,585.75,2.53,2.73,10,75.73,30.19,36.78,75.32,Manajemen Air,24.76
+2121,2022,Brazil,Northeast,Barley,1417.15,26.27,2.718,10,54.98,22.31,41.46,34.58,Rotasi Tanaman,12.13
+4545,2022,Brazil,Northeast,Barley,2963.56,29.39,1.26,9,23.08,36.68,91.94,63.96,Tanpa Adaptasi,0.69
+786,2022,Brazil,Northeast,Cotton,1859.75,28.03,2.8800000000000003,5,75.18,11.41,53.93,60.01,Tanaman Tahan Kekeringan,32.49
+2320,2022,Brazil,Northeast,Wheat,1338.2,12.39,1.39,9,47.74,8.23,83.55,60.86,Tanaman Tahan Kekeringan,32.12
+7142,2022,Brazil,South,Coffee,1323.46,25.0,0.54,1,13.06,34.84,71.43,55.58,Tanpa Adaptasi,2.46
+2413,2022,Brazil,South,Cotton,1094.92,5.83,1.21,8,73.31,3.44,13.33,31.6,Manajemen Air,5.67
+3502,2022,Brazil,South,Vegetables,1740.9,7.38,1.59,8,,41.8,55.89,56.1,Tanaman Tahan Kekeringan,10.9
+3310,2022,Brazil,South,Wheat,806.4,18.93,3.474,6,64.17,15.61,25.55,51.1,Manajemen Air,23.5
+5094,2022,Brazil,Southeast,Cotton,2647.66,3.84,1.8,3,14.97,9.37,36.53,66.92,Tanpa Adaptasi,-4.33
+7715,2022,Brazil,Southeast,Rice,1932.49,6.76,4.25,9,24.7,34.52,82.1,72.86,Pertanian Organik,19.64
+4163,2022,Brazil,Southeast,Sugarcane,2373.23,16.33,2.007,7,47.73,41.55,64.46,80.4,Manajemen Air,8.21
+5509,2022,Brazil,Southeast,Vegetables,2339.12,21.89,2.052,8,72.88,31.54,3.9,72.41,Tanaman Tahan Kekeringan,27.33
+4815,2023,Brazil,North,Barley,1135.22,7.75,2.36,7,30.22,23.84,33.14,66.56,Rotasi Tanaman,7.25
+4374,2023,Brazil,North,Cotton,2139.76,16.96,2.133,3,42.04,33.03,62.37,53.27,Rotasi Tanaman,21.51
+6343,2023,Brazil,North,Cotton,1322.1,2.68,2.8,5,79.44,11.48,78.52,43.96,Tanpa Adaptasi,15.35
+4945,2023,Brazil,North,Fruits,2571.38,7.06,2.23,5,47.31,11.18,63.61,68.88,Rotasi Tanaman,13.64
+5187,2023,Brazil,North,Fruits,2219.51,14.44,0.86,5,46.73,44.8,75.92,73.75,Tanaman Tahan Kekeringan,8.02
+5599,2023,Brazil,North,Fruits,806.28,15.89,1.2060000000000002,4,50.43,26.45,99.5,31.8,Manajemen Air,-2.4
+7727,2023,Brazil,North,Fruits,1439.79,15.89,1.773,8,30.63,31.9,30.75,53.33,Manajemen Air,3.6
+1739,2023,Brazil,North,Vegetables,2170.38,22.29,0.5940000000000001,0,10.94,12.9,81.51,95.75,Pertanian Organik,-3.21
+1180,2023,Brazil,North,,2627.88,11.57,1.43,10,18.08,25.29,84.53,63.72,Tanpa Adaptasi,31.84
+2341,2023,Brazil,Northeast,Corn,2020.13,9.77,2.63,9,69.62,1.16,28.3,78.11,Rotasi Tanaman,27.38
+2552,2023,Brazil,Northeast,Cotton,2817.88,19.52,2.097,8,57.46,48.36,72.1,89.79,Rotasi Tanaman,18.87
+2983,2023,Brazil,Northeast,Soybeans,2969.11,28.44,1.836,4,87.02,9.29,34.13,65.22,Tanpa Adaptasi,23.39
+3313,2023,Brazil,Northeast,Soybeans,,12.08,2.97,6,39.76,3.69,81.71,62.76,Manajemen Air,20.12
+394,2023,Brazil,Northeast,Wheat,976.3,21.1,2.25,1,23.77,32.37,86.48,67.13,Tanaman Tahan Kekeringan,5.96
+990,2023,Brazil,South,Cotton,1549.86,12.08,1.48,10,64.08,22.57,92.85,33.16,Tanaman Tahan Kekeringan,-3.95
+942,2023,Brazil,South,Soybeans,820.05,4.39,2.16,10,81.13,0.81,63.37,93.33,Tanpa Adaptasi,10.78
+4577,2023,Brazil,South,,546.08,29.71,2.583,10,44.17,42.28,5.49,89.76,Pertanian Organik,2.43
+6689,2023,Brazil,Southeast,Coffee,1043.03,27.56,0.8280000000000001,7,88.55,8.35,96.24,66.67,Rotasi Tanaman,-3.07
+2472,2023,Brazil,Southeast,Corn,344.8,6.07,2.1870000000000003,7,71.61,36.23,62.72,48.25,Tanaman Tahan Kekeringan,15.41
+4766,2023,Brazil,Southeast,Rice,649.4,29.97,1.512,6,96.46,16.15,1.68,45.39,Rotasi Tanaman,34.44
+2800,2023,Brazil,Southeast,Vegetables,654.16,17.08,4.275,4,43.28,47.77,60.42,85.73,Pertanian Organik,11.82
+2827,2023,Brazil,Southeast,Wheat,408.19,24.67,2.052,0,64.81,36.1,92.95,76.19,Manajemen Air,28.43
+7259,2024,Brazil,North,Coffee,2808.0,6.0,1.27,6,28.08,23.78,96.56,92.28,Tanaman Tahan Kekeringan,1.23
+6620,2024,Brazil,North,Cotton,344.09,21.56,1.395,0,10.71,38.5,17.22,45.63,Manajemen Air,11.94
+2919,2024,Brazil,North,Sugarcane,2217.62,3.4,1.35,9,39.63,12.27,42.89,84.33,Tanaman Tahan Kekeringan,7.02
+5630,2024,Brazil,Northeast,Barley,396.84,18.45,3.159,0,64.28,44.92,95.99,79.72,Rotasi Tanaman,27.41
+7591,2024,Brazil,Northeast,Cotton,762.38,12.72,2.55,9,44.18,31.99,41.01,64.71,Pertanian Organik,32.6
+7925,2024,Brazil,Northeast,Cotton,374.67,5.12,2.259,8,58.86,3.13,70.26,31.97,Tanpa Adaptasi,31.93
+6104,2024,Brazil,Northeast,Rice,2489.88,17.56,2.466,8,50.21,17.24,25.25,82.25,Tanaman Tahan Kekeringan,8.62
+2889,2024,Brazil,Northeast,Wheat,2099.42,22.36,1.7009999999999998,0,88.51,7.04,0.98,65.31,Pertanian Organik,15.6
+3971,2024,Brazil,Northeast,Wheat,486.86,4.57,3.744,2,91.59,20.24,4.18,71.37,Manajemen Air,15.74
+6293,2024,Brazil,Northeast,Wheat,450.84,1.47,4.401,2,66.74,22.59,29.86,91.68,Tanpa Adaptasi,17.4
+5068,2024,Brazil,South,Coffee,1537.1,10.85,0.72,8,93.0,30.97,58.53,64.58,Tanpa Adaptasi,-3.99
+7336,2024,Brazil,South,Coffee,787.42,14.1,1.7,3,31.8,41.95,18.31,53.82,Pertanian Organik,29.4
+5550,2024,Brazil,South,Cotton,1303.35,1.04,1.67,3,75.5,40.17,12.31,70.61,Manajemen Air,25.91
+5966,2024,Brazil,South,Cotton,731.59,7.35,4.12,5,53.5,17.03,22.81,75.45,Pertanian Organik,16.04
+2018,2024,Brazil,Southeast,Barley,1618.59,23.4,1.395,6,14.46,16.64,93.64,66.1,Rotasi Tanaman,26.91
+5680,2024,Brazil,Southeast,Coffee,2286.86,6.95,1.19,6,74.84,10.79,34.09,70.13,Pertanian Organik,6.55
+5826,2024,Brazil,Southeast,Corn,2828.07,28.18,2.259,1,52.18,46.61,38.62,36.15,Tanpa Adaptasi,9.13
+7155,2024,Brazil,Southeast,Corn,537.52,17.65,1.2060000000000002,6,16.38,37.18,97.11,66.35,Tanpa Adaptasi,4.5
+7941,2024,Brazil,Southeast,Rice,916.1,12.26,0.56,1,31.21,16.7,70.48,78.33,Manajemen Air,-0.91
+2663,2024,Brazil,Southeast,Soybeans,229.81,11.25,2.241,7,35.64,1.12,4.67,49.0,Manajemen Air,31.96
+6394,2024,Brazil,Southeast,Sugarcane,230.35,10.54,2.151,0,39.56,4.42,89.38,40.63,Tanpa Adaptasi,16.49

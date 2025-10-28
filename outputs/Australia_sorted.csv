@@ -1,0 +1,827 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+3771,1990,Australia,'New South Wales',Cotton,2662.45,5.06,2.77,1,12.39,37.31,16.46,60.0,Manajemen Air,9.85
+5877,1990,Australia,'New South Wales',Cotton,1172.64,10.07,1.94,3,58.64,13.32,76.95,90.77,Rotasi Tanaman,25.98
+967,1990,Australia,'New South Wales',Fruits,2109.43,24.38,3.366,1,83.12,20.63,59.37,83.43,Manajemen Air,30.73
+6992,1990,Australia,'New South Wales',Sugarcane,1047.96,23.75,3.177,2,81.07,11.45,29.88,85.93,Tanaman Tahan Kekeringan,26.65
+7859,1990,Australia,'New South Wales',Wheat,792.95,20.71,2.16,10,61.95,36.69,18.7,42.84,Tanaman Tahan Kekeringan,9.51
+6246,1990,Australia,'Western Australia',Barley,1794.74,5.36,1.5,5,34.95,34.28,91.47,40.77,Pertanian Organik,1.55
+6091,1990,Australia,'Western Australia',Corn,1166.81,29.29,3.123,0,30.38,6.43,80.73,31.81,Manajemen Air,24.92
+1616,1990,Australia,'Western Australia',Cotton,2233.73,17.72,1.8,0,71.56,25.89,64.21,31.35,Manajemen Air,28.96
+5172,1990,Australia,'Western Australia',Cotton,1974.5,12.51,1.04,10,73.58,24.81,76.55,83.61,Rotasi Tanaman,5.28
+2636,1990,Australia,'Western Australia',Wheat,1589.46,29.82,0.5940000000000001,4,92.18,19.66,8.76,70.36,Rotasi Tanaman,3.95
+5,1990,Australia,Queensland,Fruits,2265.29,2.33,2.03,4,79.39,48.8,3.3,77.63,Tanpa Adaptasi,14.7
+6443,1990,Australia,Queensland,Wheat,2566.2,8.29,1.34,10,32.17,14.38,86.57,84.08,Manajemen Air,7.63
+5092,1990,Australia,Victoria,Barley,1531.7,3.74,2.03,3,94.21,45.11,42.02,65.18,Tanpa Adaptasi,4.39
+7413,1990,Australia,Victoria,Coffee,2396.39,4.05,3.75,10,97.83,0.66,56.46,66.68,Rotasi Tanaman,25.91
+3579,1990,Australia,Victoria,Rice,1813.13,28.18,3.546,0,71.66,48.21,76.79,87.34,Pertanian Organik,24.52
+5591,1990,Australia,Victoria,Vegetables,424.39,20.54,2.151,8,72.44,0.88,83.48,78.36,Pertanian Organik,-1.89
+755,1990,Australia,Victoria,Wheat,1626.77,28.94,2.133,1,43.84,24.22,77.72,74.01,Pertanian Organik,0.87
+1558,1991,Australia,'New South Wales',Cotton,1521.34,17.27,0.765,0,95.14,31.53,41.74,89.47,Rotasi Tanaman,29.24
+375,1991,Australia,'New South Wales',Rice,2772.5,7.45,3.94,3,,29.25,37.98,60.56,Tanpa Adaptasi,16.86
+1077,1991,Australia,'New South Wales',Rice,891.95,23.34,0.891,8,44.0,32.34,7.06,61.44,Tanaman Tahan Kekeringan,26.66
+5042,1991,Australia,'New South Wales',Rice,2640.75,3.89,2.28,0,15.9,22.27,9.59,84.18,Pertanian Organik,0.67
+5453,1991,Australia,'New South Wales',,2189.72,24.16,2.43,9,79.66,7.56,60.74,74.22,Pertanian Organik,26.62
+2166,1991,Australia,'Western Australia',Corn,2001.52,21.87,4.212,6,15.63,29.35,20.25,82.63,Tanpa Adaptasi,18.69
+6547,1991,Australia,'Western Australia',Corn,427.96,11.46,1.971,9,63.35,38.43,55.76,37.88,Tanaman Tahan Kekeringan,23.77
+6553,1991,Australia,'Western Australia',Corn,2136.25,18.29,1.485,7,27.68,16.69,83.15,49.44,Manajemen Air,3.63
+7893,1991,Australia,Queensland,Corn,455.67,2.36,3.609,1,63.61,17.5,73.5,53.09,Rotasi Tanaman,19.53
+7617,1991,Australia,Queensland,Cotton,2465.32,23.57,1.134,6,84.52,9.36,22.15,64.51,Tanpa Adaptasi,-3.68
+4729,1991,Australia,Queensland,Fruits,1369.28,12.99,2.58,6,93.19,31.54,97.75,36.5,Manajemen Air,25.12
+4684,1991,Australia,Queensland,Rice,773.81,12.5,4.82,4,62.24,18.94,54.92,82.06,Tanaman Tahan Kekeringan,15.66
+6727,1991,Australia,Queensland,Sugarcane,524.38,10.37,2.15,1,36.11,9.2,17.03,92.29,Pertanian Organik,15.11
+6077,1991,Australia,Queensland,Vegetables,655.7,10.73,1.61,5,82.42,34.79,53.69,88.82,Manajemen Air,9.56
+4823,1991,Australia,Victoria,Barley,1112.01,11.58,2.79,6,57.94,32.98,23.98,63.89,Rotasi Tanaman,5.86
+909,1991,Australia,Victoria,Cotton,2255.2,3.02,1.96,0,53.5,13.58,1.86,82.82,Rotasi Tanaman,9.23
+692,1991,Australia,Victoria,Fruits,934.32,28.92,2.421,2,86.01,22.46,90.27,74.76,Manajemen Air,4.28
+5135,1991,Australia,Victoria,Soybeans,892.24,5.72,2.09,7,75.78,30.17,61.89,54.41,Rotasi Tanaman,10.99
+1655,1991,Australia,Victoria,Vegetables,2279.38,15.41,2.763,4,38.61,20.27,10.15,69.21,Tanpa Adaptasi,34.54
+5502,1991,Australia,Victoria,Vegetables,1480.6,14.95,,10,97.5,15.63,27.22,76.99,Manajemen Air,32.07
+1005,1991,Australia,Victoria,Wheat,2962.49,22.46,1.773,8,35.78,11.56,57.99,63.13,Tanaman Tahan Kekeringan,16.67
+1488,1991,Australia,Victoria,Wheat,371.93,11.22,2.007,0,57.27,36.56,78.73,55.44,Manajemen Air,24.28
+1415,1991,Australia,Victoria,,1798.57,9.61,1.54,3,,42.78,86.13,84.96,Manajemen Air,23.59
+267,1992,Australia,'New South Wales',Cotton,1786.78,27.64,2.349,4,27.29,0.04,82.65,57.07,Manajemen Air,0.52
+7328,1992,Australia,'New South Wales',Cotton,284.8,0.94,2.4120000000000004,4,26.63,2.91,69.86,30.45,Rotasi Tanaman,31.96
+7405,1992,Australia,'New South Wales',Cotton,1004.29,18.82,1.755,1,81.42,7.22,48.1,99.03,Tanaman Tahan Kekeringan,3.93
+5840,1992,Australia,'New South Wales',Fruits,1911.34,13.25,1.24,0,78.15,12.71,37.63,30.68,Pertanian Organik,0.73
+789,1992,Australia,'New South Wales',Rice,1173.58,29.64,3.249,1,57.86,46.55,76.74,65.2,Manajemen Air,27.89
+6015,1992,Australia,'New South Wales',Soybeans,1679.85,7.72,3.52,1,66.66,48.77,73.1,45.33,Rotasi Tanaman,15.8
+2337,1992,Australia,'New South Wales',Sugarcane,2952.85,24.53,3.249,1,12.25,18.26,22.5,70.79,Manajemen Air,30.27
+1120,1992,Australia,'New South Wales',Wheat,1683.06,16.79,1.737,0,42.98,49.33,23.85,54.95,Tanaman Tahan Kekeringan,-4.81
+6296,1992,Australia,'New South Wales',Wheat,356.17,0.84,3.438,2,82.8,23.53,41.35,85.82,Rotasi Tanaman,12.87
+7843,1992,Australia,'New South Wales',Wheat,2399.24,5.67,2.64,6,15.11,4.73,82.01,55.67,Pertanian Organik,4.35
+6038,1992,Australia,'Western Australia',Barley,2872.86,14.98,2.98,9,64.93,12.88,43.98,67.83,Tanaman Tahan Kekeringan,14.38
+1680,1992,Australia,'Western Australia',Coffee,504.76,4.04,1.34,7,12.87,43.67,41.7,37.97,Tanaman Tahan Kekeringan,25.54
+6132,1992,Australia,'Western Australia',Fruits,442.74,23.42,2.439,4,83.45,2.51,3.44,32.82,Tanaman Tahan Kekeringan,22.5
+2490,1992,Australia,'Western Australia',Wheat,1945.67,11.84,0.98,10,94.04,33.48,60.6,86.36,Rotasi Tanaman,28.88
+7603,1992,Australia,Queensland,Barley,2055.87,23.03,1.296,4,68.85,23.94,64.58,59.86,Tanpa Adaptasi,-1.55
+4581,1992,Australia,Queensland,Corn,264.23,7.35,2.664,8,62.28,8.16,39.0,33.06,Manajemen Air,7.06
+4485,1992,Australia,Queensland,Cotton,1037.9,4.37,1.0,9,89.15,17.33,82.07,72.55,Tanpa Adaptasi,3.5
+4759,1992,Australia,Queensland,Cotton,1192.25,6.36,1.26,10,56.74,20.02,64.83,74.72,Pertanian Organik,8.88
+5700,1992,Australia,Queensland,Cotton,759.11,10.01,,10,38.31,13.22,57.49,92.54,Pertanian Organik,-4.45
+4519,1992,Australia,Queensland,Fruits,399.9,23.17,2.124,1,91.0,28.86,86.8,66.38,Pertanian Organik,15.43
+3930,1992,Australia,Queensland,Sugarcane,1062.72,4.16,3.41,1,62.83,1.42,65.46,74.73,Manajemen Air,11.0
+4502,1992,Australia,Queensland,Vegetables,2817.83,26.71,3.276,5,67.96,18.64,30.44,92.26,Manajemen Air,16.38
+7722,1992,Australia,Queensland,Vegetables,1720.82,27.61,2.547,1,41.41,30.43,21.16,39.47,Tanaman Tahan Kekeringan,8.26
+2628,1992,Australia,Queensland,Wheat,2144.52,21.99,1.4400000000000002,7,58.07,25.42,2.16,38.2,Pertanian Organik,3.79
+4490,1992,Australia,Queensland,,1453.38,7.71,2.74,10,85.23,46.14,37.36,86.7,Manajemen Air,18.08
+3433,1992,Australia,Victoria,Coffee,2779.86,20.85,1.296,10,77.87,15.9,15.57,53.42,Tanaman Tahan Kekeringan,-0.3
+6599,1992,Australia,Victoria,Fruits,2991.25,7.36,2.65,10,30.79,48.99,83.32,39.04,Tanaman Tahan Kekeringan,-3.96
+7066,1992,Australia,Victoria,Soybeans,1929.34,13.75,3.38,3,52.43,15.06,89.59,75.98,Manajemen Air,21.08
+7499,1992,Australia,Victoria,Wheat,1435.17,1.81,2.27,9,22.03,1.94,11.21,62.4,Tanaman Tahan Kekeringan,34.09
+4496,1993,Australia,'New South Wales',Coffee,2971.02,27.94,1.6740000000000002,8,15.45,31.45,71.4,62.65,Pertanian Organik,-3.65
+5808,1993,Australia,'New South Wales',Coffee,2146.55,15.35,1.737,6,65.15,11.8,13.77,39.88,Manajemen Air,-3.32
+6407,1993,Australia,'New South Wales',Rice,839.24,13.96,0.82,4,18.68,8.74,73.4,45.12,Pertanian Organik,3.66
+2094,1993,Australia,'New South Wales',,1441.54,17.82,2.4120000000000004,3,65.38,12.44,42.76,37.06,Tanaman Tahan Kekeringan,18.63
+817,1993,Australia,'Western Australia',Barley,2418.38,3.2,3.44,7,61.55,18.6,54.9,74.4,Rotasi Tanaman,29.02
+1258,1993,Australia,'Western Australia',Coffee,1048.57,1.99,0.63,5,99.6,28.68,64.66,49.3,Pertanian Organik,9.15
+5798,1993,Australia,'Western Australia',Coffee,456.45,5.76,3.285,4,28.91,19.17,55.14,62.0,Manajemen Air,30.96
+397,1993,Australia,'Western Australia',Fruits,2693.37,5.25,1.26,0,88.71,1.85,27.18,88.69,Tanaman Tahan Kekeringan,-4.08
+893,1993,Australia,'Western Australia',Fruits,2593.71,13.92,1.18,4,53.69,3.36,30.56,52.94,Tanpa Adaptasi,27.94
+6827,1993,Australia,'Western Australia',Fruits,2635.32,2.68,3.9,7,13.46,13.59,7.35,50.21,Tanpa Adaptasi,14.82
+2274,1993,Australia,'Western Australia',Soybeans,1076.02,5.28,2.26,7,47.1,0.32,23.72,81.99,Rotasi Tanaman,13.12
+4019,1993,Australia,'Western Australia',Soybeans,245.79,27.53,1.998,3,99.8,42.07,48.58,64.6,Manajemen Air,15.82
+5484,1993,Australia,'Western Australia',Soybeans,2201.47,22.96,2.475,1,92.29,30.64,94.29,76.59,Tanpa Adaptasi,27.64
+456,1993,Australia,Queensland,Coffee,2533.2,22.07,1.0080000000000002,2,54.93,9.94,96.63,97.86,Tanpa Adaptasi,29.51
+1049,1993,Australia,Queensland,Coffee,2661.95,3.29,2.9,10,69.98,16.22,4.84,47.58,Manajemen Air,33.78
+5216,1993,Australia,Queensland,Cotton,2854.44,22.79,1.053,1,23.94,42.41,13.56,85.97,Tanaman Tahan Kekeringan,0.13
+2605,1993,Australia,Queensland,Fruits,1689.19,25.36,3.582,6,56.55,26.4,53.45,62.42,Rotasi Tanaman,33.81
+6894,1993,Australia,Queensland,Rice,2759.73,12.12,2.21,2,48.13,20.97,83.8,39.15,Rotasi Tanaman,-2.15
+2500,1993,Australia,Queensland,Sugarcane,1898.75,21.77,2.403,0,86.47,0.86,37.13,58.64,Rotasi Tanaman,20.35
+6414,1993,Australia,Queensland,Vegetables,2495.42,9.19,3.48,2,35.89,37.44,68.69,49.38,Manajemen Air,34.78
+1406,1993,Australia,Queensland,,587.75,22.79,1.8,0,55.71,5.0,42.89,94.39,Manajemen Air,3.0
+4418,1993,Australia,Victoria,Coffee,1053.46,29.11,1.512,0,99.9,22.6,62.47,62.64,Pertanian Organik,17.6
+4098,1993,Australia,Victoria,Cotton,1097.05,16.64,3.15,9,93.91,16.62,40.35,64.27,Tanaman Tahan Kekeringan,30.27
+5053,1993,Australia,Victoria,Fruits,1879.01,29.8,3.123,3,18.76,10.84,18.34,75.85,Pertanian Organik,31.98
+5193,1993,Australia,Victoria,Sugarcane,1916.75,18.45,1.908,2,27.08,27.09,68.2,97.68,Tanpa Adaptasi,28.99
+1756,1993,Australia,Victoria,,852.27,25.68,1.278,3,,5.33,40.7,89.62,Tanpa Adaptasi,29.77
+2236,1994,Australia,'New South Wales',Coffee,2712.82,19.55,2.268,1,22.5,12.81,66.1,87.39,Pertanian Organik,30.49
+5696,1994,Australia,'New South Wales',Cotton,2993.87,28.08,2.385,5,58.56,24.54,19.99,87.32,Tanpa Adaptasi,6.05
+4586,1994,Australia,'New South Wales',Rice,1336.07,28.01,1.746,4,92.65,45.52,58.66,98.05,Rotasi Tanaman,-4.86
+5060,1994,Australia,'Western Australia',Corn,1189.57,19.98,2.619,7,81.78,1.54,86.11,31.16,Rotasi Tanaman,17.65
+7891,1994,Australia,'Western Australia',Fruits,1103.86,25.73,2.862,5,28.24,20.3,93.3,84.96,Rotasi Tanaman,24.92
+260,1994,Australia,'Western Australia',Sugarcane,1755.18,25.71,2.295,3,40.92,30.86,61.87,97.01,Tanpa Adaptasi,7.81
+842,1994,Australia,'Western Australia',Vegetables,2232.66,26.02,3.4290000000000003,9,33.69,10.77,36.64,99.03,Tanaman Tahan Kekeringan,12.45
+5324,1994,Australia,Queensland,Barley,2518.46,8.29,2.89,2,18.85,45.96,53.77,75.85,Tanaman Tahan Kekeringan,26.06
+1943,1994,Australia,Queensland,Corn,798.65,8.8,0.83,7,56.83,45.07,32.18,87.31,Tanpa Adaptasi,31.39
+5687,1994,Australia,Queensland,Fruits,1351.13,5.15,2.44,6,61.3,35.55,1.93,57.78,Rotasi Tanaman,0.07
+208,1994,Australia,Queensland,Rice,2953.61,11.26,2.32,8,28.57,34.81,21.81,92.57,Manajemen Air,3.67
+784,1994,Australia,Queensland,Vegetables,2964.15,24.23,2.826,8,43.33,24.08,47.88,46.46,Rotasi Tanaman,33.23
+3156,1994,Australia,Queensland,,1456.06,2.19,4.35,10,11.59,19.44,68.81,95.67,Pertanian Organik,16.15
+1036,1994,Australia,Victoria,Barley,376.95,26.54,0.945,10,66.78,22.35,47.48,86.03,Pertanian Organik,34.9
+5090,1994,Australia,Victoria,Barley,2143.99,27.9,1.4580000000000002,0,43.61,4.69,96.67,68.22,Pertanian Organik,4.69
+7860,1994,Australia,Victoria,Fruits,,11.63,1.85,10,26.43,40.22,90.25,37.33,Rotasi Tanaman,9.77
+1807,1994,Australia,Victoria,Rice,2143.8,1.19,0.52,5,49.02,9.82,71.25,49.75,Pertanian Organik,-1.17
+7130,1994,Australia,Victoria,Rice,1339.47,18.14,1.296,9,33.16,25.01,5.89,53.24,Pertanian Organik,5.89
+90,1994,Australia,Victoria,Sugarcane,1618.89,6.18,2.7,9,59.02,37.03,66.22,49.86,Rotasi Tanaman,9.27
+846,1994,Australia,Victoria,Vegetables,2219.46,7.95,0.61,6,18.21,16.33,93.12,58.47,Pertanian Organik,5.4
+1029,1994,Australia,Victoria,Vegetables,930.07,4.66,2.28,10,57.75,1.88,65.81,75.94,Tanpa Adaptasi,-2.29
+7590,1994,Australia,Victoria,Vegetables,885.03,22.19,0.873,7,78.12,12.51,53.2,65.9,Rotasi Tanaman,28.12
+879,1994,Australia,Victoria,Wheat,2412.26,12.4,3.8,6,21.31,39.95,10.03,80.73,Manajemen Air,33.53
+5821,1994,Australia,Victoria,Wheat,1637.89,24.75,1.935,7,25.64,37.9,9.5,69.26,Tanaman Tahan Kekeringan,10.17
+6716,1994,Australia,Victoria,,2899.32,26.34,2.853,1,58.58,18.32,31.91,57.66,Pertanian Organik,25.19
+906,1995,Australia,'New South Wales',Barley,1093.87,19.0,2.232,1,75.43,36.76,94.74,88.61,Tanpa Adaptasi,-4.74
+2942,1995,Australia,'New South Wales',Coffee,2273.72,5.77,0.58,10,92.5,29.57,25.78,90.75,Tanpa Adaptasi,7.07
+1065,1995,Australia,'New South Wales',Rice,1576.74,15.96,3.735,4,60.95,4.49,93.15,63.03,Tanpa Adaptasi,15.78
+3100,1995,Australia,'New South Wales',Rice,2324.59,28.58,3.924,2,83.14,32.29,27.24,66.51,Manajemen Air,17.88
+7127,1995,Australia,'New South Wales',Rice,2578.06,18.16,1.845,8,76.15,5.62,56.4,45.16,Manajemen Air,27.91
+5143,1995,Australia,'New South Wales',Soybeans,658.61,11.53,1.13,3,94.55,2.8,28.49,63.7,Pertanian Organik,32.03
+7878,1995,Australia,'New South Wales',Sugarcane,2155.85,7.34,3.59,3,26.54,36.21,80.3,68.21,Manajemen Air,26.09
+1777,1995,Australia,'New South Wales',Vegetables,379.78,10.64,,3,88.19,10.69,68.48,37.03,Pertanian Organik,8.39
+3901,1995,Australia,'New South Wales',Wheat,2534.33,29.57,0.54,8,85.65,8.13,7.87,82.68,Tanpa Adaptasi,-4.2
+1694,1995,Australia,'Western Australia',Coffee,2870.11,26.47,2.079,7,77.52,24.6,88.25,67.31,Manajemen Air,16.91
+4016,1995,Australia,'Western Australia',Cotton,1344.48,14.88,,7,17.05,41.0,57.29,94.27,Rotasi Tanaman,23.49
+7760,1995,Australia,'Western Australia',Cotton,552.26,18.49,3.645,5,44.46,20.77,21.75,46.1,Rotasi Tanaman,16.53
+4827,1995,Australia,'Western Australia',Sugarcane,1020.6,11.82,4.2,10,62.72,21.11,53.91,44.59,Tanaman Tahan Kekeringan,17.8
+6848,1995,Australia,'Western Australia',Vegetables,2982.6,10.02,1.47,6,65.36,45.88,34.36,89.53,Manajemen Air,30.99
+4744,1995,Australia,Queensland,Rice,1285.69,23.64,2.646,10,27.17,13.02,34.53,38.93,Pertanian Organik,6.55
+4926,1995,Australia,Queensland,Sugarcane,1844.52,15.36,3.366,1,93.36,8.07,32.19,67.27,Tanpa Adaptasi,25.6
+6983,1995,Australia,Victoria,Corn,2788.48,29.01,1.773,7,11.18,14.14,19.04,63.78,Manajemen Air,34.78
+1398,1995,Australia,Victoria,Fruits,2761.06,5.96,2.08,1,81.89,35.42,30.9,76.68,Pertanian Organik,31.16
+7805,1995,Australia,Victoria,Vegetables,938.55,16.8,1.278,0,19.15,0.32,73.79,46.4,Pertanian Organik,31.67
+2705,1995,Australia,Victoria,Wheat,2732.52,12.75,0.64,3,88.12,42.27,73.32,85.94,Pertanian Organik,-3.21
+4335,1995,Australia,Victoria,Wheat,845.64,14.72,0.9,4,49.99,13.37,2.11,66.55,Tanpa Adaptasi,22.97
+5333,1995,Australia,Victoria,Wheat,506.31,6.02,0.58,9,,28.2,37.65,90.05,Pertanian Organik,3.97
+3113,1995,Australia,Victoria,,1040.99,26.49,0.873,5,70.49,41.89,55.83,61.53,Manajemen Air,-4.29
+2745,1996,Australia,'New South Wales',Barley,2316.82,24.72,2.349,9,91.08,16.45,59.01,69.34,Tanpa Adaptasi,27.99
+5430,1996,Australia,'New South Wales',Barley,1981.35,28.0,3.321,6,93.67,44.15,56.73,58.41,Pertanian Organik,22.67
+3583,1996,Australia,'New South Wales',Fruits,909.11,26.53,3.5370000000000004,8,75.11,23.0,57.15,71.92,Manajemen Air,23.39
+5129,1996,Australia,'New South Wales',Soybeans,2716.7,22.34,2.466,0,93.32,3.0,68.3,34.95,Pertanian Organik,6.07
+4665,1996,Australia,'New South Wales',Vegetables,2016.39,28.08,1.341,9,38.76,44.59,48.78,72.44,Manajemen Air,-3.59
+2273,1996,Australia,'Western Australia',Barley,1074.13,21.61,2.205,2,47.84,41.39,39.7,98.34,Pertanian Organik,3.91
+4089,1996,Australia,'Western Australia',Cotton,1065.4,25.42,2.115,2,75.67,21.34,41.51,67.99,Rotasi Tanaman,13.64
+5777,1996,Australia,'Western Australia',Fruits,1947.44,3.91,1.14,6,53.43,16.42,39.29,99.01,Rotasi Tanaman,-1.85
+4379,1996,Australia,'Western Australia',Sugarcane,2765.15,14.43,2.16,0,74.25,39.84,42.36,57.56,Rotasi Tanaman,14.84
+5978,1996,Australia,'Western Australia',Sugarcane,2666.05,5.35,4.53,0,47.23,32.46,4.06,46.34,Tanaman Tahan Kekeringan,19.49
+6538,1996,Australia,'Western Australia',Vegetables,659.29,13.96,,4,30.35,28.54,73.1,95.27,Tanaman Tahan Kekeringan,22.37
+1543,1996,Australia,Queensland,Coffee,300.06,12.38,1.152,10,18.03,36.73,79.62,31.92,Manajemen Air,25.85
+1104,1996,Australia,Queensland,Cotton,1442.06,29.91,4.329,8,75.35,40.61,30.28,95.58,Manajemen Air,18.86
+7831,1996,Australia,Queensland,Fruits,1629.76,14.12,2.23,8,49.33,3.94,53.05,74.08,Manajemen Air,20.72
+7845,1996,Australia,Queensland,Fruits,1700.41,15.75,1.197,0,78.63,40.66,39.72,44.91,Manajemen Air,4.95
+769,1996,Australia,Queensland,Soybeans,2520.69,4.01,3.57,2,81.91,27.32,26.93,51.91,Tanpa Adaptasi,33.72
+2063,1996,Australia,Queensland,Soybeans,1055.06,6.06,2.64,5,66.87,42.23,90.98,51.63,Pertanian Organik,17.51
+7287,1996,Australia,Queensland,Soybeans,1486.3,11.59,4.94,5,61.09,38.11,49.49,45.73,Manajemen Air,15.9
+1696,1996,Australia,Queensland,Vegetables,586.91,2.45,2.11,1,,30.54,24.69,47.6,Rotasi Tanaman,0.08
+7475,1996,Australia,Queensland,,,24.03,1.7009999999999998,0,54.1,6.8,14.96,98.64,Tanpa Adaptasi,31.5
+13,1996,Australia,Victoria,Coffee,1300.08,11.78,3.3,1,78.33,14.84,76.15,77.12,Rotasi Tanaman,28.38
+7506,1996,Australia,Victoria,Cotton,1585.57,29.9,1.269,8,34.79,0.59,18.3,64.48,Tanaman Tahan Kekeringan,22.51
+1272,1996,Australia,Victoria,Fruits,1628.67,18.3,1.593,3,72.43,39.42,86.1,50.77,Manajemen Air,-1.37
+2963,1996,Australia,Victoria,Fruits,256.45,15.44,1.107,10,88.81,38.78,68.05,88.59,Pertanian Organik,29.04
+414,1996,Australia,Victoria,Rice,2472.31,12.82,1.35,7,37.68,11.43,73.07,98.78,Rotasi Tanaman,4.73
+7599,1996,Australia,Victoria,Sugarcane,2496.18,15.58,2.538,10,70.05,34.51,11.89,32.1,Tanpa Adaptasi,-4.47
+888,1996,Australia,Victoria,Wheat,1154.13,28.25,0.684,10,21.21,39.59,77.63,90.7,Pertanian Organik,-3.74
+7029,1997,Australia,'New South Wales',Barley,2630.71,28.43,2.178,0,78.01,29.51,20.59,93.51,Tanaman Tahan Kekeringan,10.3
+2431,1997,Australia,'New South Wales',Wheat,568.79,7.7,1.02,4,,1.29,46.41,91.5,Tanaman Tahan Kekeringan,-3.14
+736,1997,Australia,'Western Australia',Barley,2814.33,8.53,1.87,9,90.18,35.55,60.68,50.03,Rotasi Tanaman,14.62
+7340,1997,Australia,'Western Australia',Barley,500.73,2.96,1.74,9,58.86,25.33,48.25,37.55,Rotasi Tanaman,28.41
+5834,1997,Australia,'Western Australia',Coffee,768.06,10.92,1.68,9,80.44,24.25,81.45,64.15,Rotasi Tanaman,28.59
+7589,1997,Australia,'Western Australia',Cotton,1888.14,17.81,3.825,4,44.54,38.1,63.53,46.41,Pertanian Organik,19.75
+564,1997,Australia,Queensland,Coffee,1072.23,0.5,1.25,2,29.76,40.39,95.44,96.47,Rotasi Tanaman,6.27
+1302,1997,Australia,Queensland,Coffee,1384.72,13.56,0.57,2,72.3,44.89,86.41,80.2,Pertanian Organik,2.9
+7330,1997,Australia,Queensland,Fruits,1573.77,6.98,3.62,1,12.44,46.85,97.23,38.71,Pertanian Organik,30.08
+3924,1997,Australia,Victoria,Coffee,1030.95,17.27,1.314,5,27.95,16.0,36.97,63.56,Tanaman Tahan Kekeringan,8.04
+3935,1997,Australia,Victoria,Coffee,2923.12,19.52,1.026,0,75.07,3.61,67.01,82.58,Pertanian Organik,21.34
+4206,1997,Australia,Victoria,Corn,1454.52,24.33,3.195,8,41.33,41.78,91.13,40.55,Pertanian Organik,32.29
+5243,1997,Australia,Victoria,Fruits,359.42,26.07,3.042,6,86.51,11.37,26.78,53.54,Manajemen Air,32.65
+1608,1997,Australia,Victoria,Rice,2269.49,19.63,2.718,4,48.72,29.48,89.23,41.41,Tanpa Adaptasi,14.85
+2792,1997,Australia,Victoria,Rice,,28.83,1.089,10,95.84,18.75,37.2,69.77,Tanpa Adaptasi,8.54
+4757,1997,Australia,Victoria,Soybeans,1227.89,0.65,3.0,7,94.54,42.55,55.33,30.53,Tanpa Adaptasi,16.51
+4919,1997,Australia,Victoria,Sugarcane,800.09,2.02,1.9,4,11.26,10.83,81.59,70.84,Tanaman Tahan Kekeringan,19.97
+6850,1997,Australia,Victoria,Sugarcane,1467.99,22.71,1.386,10,22.84,7.56,66.48,95.78,Tanaman Tahan Kekeringan,34.75
+2527,1997,Australia,Victoria,Wheat,1037.9,19.09,0.7290000000000001,0,78.77,30.81,76.55,32.5,Rotasi Tanaman,28.67
+5296,1998,Australia,'New South Wales',Barley,1088.03,1.68,2.64,2,13.33,31.78,51.12,49.39,Manajemen Air,-0.1
+3749,1998,Australia,'New South Wales',Corn,2183.6,22.36,3.789,1,79.52,46.07,9.08,77.58,Rotasi Tanaman,12.0
+2503,1998,Australia,'New South Wales',Rice,1763.85,17.2,0.981,8,17.08,48.65,80.73,92.03,Tanpa Adaptasi,3.99
+7198,1998,Australia,'New South Wales',Vegetables,1121.74,28.97,2.592,9,24.18,14.82,55.74,92.28,Tanaman Tahan Kekeringan,29.92
+2088,1998,Australia,'New South Wales',Wheat,1645.96,24.08,3.492,0,80.28,39.58,27.02,84.54,Pertanian Organik,20.74
+6696,1998,Australia,'New South Wales',Wheat,2088.23,30.0,1.89,0,61.26,17.85,9.72,62.41,Tanpa Adaptasi,24.81
+6363,1998,Australia,'Western Australia',Cotton,1934.58,10.35,3.14,6,82.03,11.23,77.04,32.62,Manajemen Air,24.23
+7958,1998,Australia,'Western Australia',Fruits,1879.32,17.81,2.979,4,42.48,14.54,37.33,59.94,Rotasi Tanaman,27.29
+457,1998,Australia,'Western Australia',Sugarcane,2578.75,28.52,1.719,3,75.43,45.78,30.24,54.38,Pertanian Organik,-1.79
+5466,1998,Australia,'Western Australia',,448.22,17.99,1.962,10,99.23,6.0,61.05,73.79,Rotasi Tanaman,3.37
+6410,1998,Australia,Queensland,Barley,454.15,1.18,2.25,6,82.3,11.26,54.22,72.42,Manajemen Air,1.0
+1383,1998,Australia,Queensland,Coffee,361.45,26.86,1.476,3,36.54,40.71,80.12,41.53,Tanpa Adaptasi,-4.14
+5898,1998,Australia,Queensland,Coffee,1531.63,27.77,2.8080000000000003,2,46.29,33.86,17.93,82.22,Pertanian Organik,29.26
+7592,1998,Australia,Queensland,Corn,781.28,12.82,0.84,9,90.89,48.23,10.47,89.13,Tanaman Tahan Kekeringan,8.27
+2071,1998,Australia,Queensland,Wheat,1119.75,15.83,2.574,10,40.22,37.77,1.48,44.89,Tanpa Adaptasi,16.47
+3883,1998,Australia,Victoria,Cotton,1193.08,29.45,4.1850000000000005,8,,9.65,61.4,66.05,Tanpa Adaptasi,14.33
+7356,1998,Australia,Victoria,Fruits,1046.72,29.36,1.215,4,51.07,44.23,59.47,48.58,Manajemen Air,8.51
+1540,1998,Australia,Victoria,Vegetables,581.89,28.43,1.881,7,55.13,6.85,41.68,73.12,Tanaman Tahan Kekeringan,23.25
+1284,1998,Australia,Victoria,Wheat,1549.71,19.06,4.1850000000000005,5,91.09,12.0,87.39,67.61,Rotasi Tanaman,18.13
+1792,1998,Australia,Victoria,Wheat,934.35,4.94,2.36,5,62.75,13.31,55.8,80.56,Rotasi Tanaman,19.77
+983,1998,Australia,Victoria,,1641.05,14.6,1.2,1,17.17,48.04,39.81,55.0,Manajemen Air,0.18
+7267,1999,Australia,'New South Wales',Barley,1403.97,2.92,3.82,5,45.33,6.19,66.58,83.47,Tanaman Tahan Kekeringan,31.19
+447,1999,Australia,'New South Wales',Coffee,1547.11,10.92,1.93,1,79.67,30.08,90.6,59.56,Manajemen Air,21.1
+222,1999,Australia,'New South Wales',Corn,1368.43,2.88,1.93,10,51.78,42.23,62.26,86.79,Tanaman Tahan Kekeringan,22.55
+6260,1999,Australia,'New South Wales',Corn,1943.13,2.69,2.36,1,51.69,6.04,5.19,47.12,Manajemen Air,22.86
+3088,1999,Australia,'New South Wales',Cotton,1275.98,17.92,2.313,4,81.75,1.43,49.58,46.47,Tanaman Tahan Kekeringan,-4.5
+192,1999,Australia,'New South Wales',Fruits,2135.53,15.23,2.574,1,94.32,45.63,10.72,60.58,Tanpa Adaptasi,18.69
+4717,1999,Australia,'New South Wales',Fruits,2781.24,23.73,3.6,8,49.09,7.24,98.8,61.21,Tanaman Tahan Kekeringan,16.7
+7759,1999,Australia,'New South Wales',Sugarcane,871.11,10.87,2.29,8,17.38,41.65,23.34,74.17,Tanaman Tahan Kekeringan,34.09
+6026,1999,Australia,'Western Australia',Corn,217.23,5.22,1.8,9,17.36,29.95,45.21,97.14,Manajemen Air,23.42
+2714,1999,Australia,'Western Australia',Cotton,239.4,13.1,1.4220000000000002,8,43.21,4.38,31.58,78.29,Tanpa Adaptasi,16.33
+7168,1999,Australia,'Western Australia',Fruits,1370.94,17.34,2.106,6,41.62,46.5,0.67,76.29,Manajemen Air,12.42
+4115,1999,Australia,'Western Australia',Soybeans,706.31,29.7,2.754,6,36.73,47.11,29.69,86.71,Tanpa Adaptasi,11.6
+5735,1999,Australia,'Western Australia',Soybeans,1766.58,12.73,2.47,9,70.34,31.49,24.81,70.69,Manajemen Air,8.52
+3611,1999,Australia,'Western Australia',Sugarcane,1368.42,12.43,1.74,10,61.97,13.22,68.35,56.22,Tanaman Tahan Kekeringan,0.29
+568,1999,Australia,Queensland,Barley,365.23,1.3,1.161,5,60.33,15.66,41.33,64.19,Manajemen Air,7.8
+3341,1999,Australia,Queensland,Barley,633.52,29.42,2.556,7,,45.58,26.41,47.1,Tanaman Tahan Kekeringan,19.89
+7774,1999,Australia,Queensland,Barley,820.85,21.54,1.656,4,23.77,25.17,51.53,98.49,Tanpa Adaptasi,26.03
+2449,1999,Australia,Queensland,Coffee,2028.01,13.27,2.54,6,23.45,33.46,60.16,68.91,Tanaman Tahan Kekeringan,-0.07
+7583,1999,Australia,Queensland,Rice,1304.49,7.64,2.31,10,78.57,16.12,16.17,67.25,Tanpa Adaptasi,24.81
+258,1999,Australia,Queensland,Soybeans,2560.38,10.68,2.56,4,77.02,5.45,82.32,59.39,Tanpa Adaptasi,9.53
+4872,1999,Australia,Queensland,Vegetables,1674.33,11.31,1.19,0,13.69,7.58,94.03,98.67,Tanaman Tahan Kekeringan,21.2
+2108,1999,Australia,Queensland,Wheat,1315.12,17.77,,7,92.9,19.13,27.92,58.29,Tanpa Adaptasi,32.93
+2127,1999,Australia,Queensland,Wheat,2293.13,17.34,2.7,7,56.94,1.8,84.66,33.39,Pertanian Organik,-4.18
+1568,1999,Australia,Victoria,Barley,305.9,15.74,1.566,3,17.42,10.26,47.41,50.39,Tanpa Adaptasi,1.33
+2688,1999,Australia,Victoria,Barley,2433.74,18.59,2.556,10,14.95,28.71,41.68,92.98,Tanpa Adaptasi,10.63
+7344,1999,Australia,Victoria,Coffee,957.7,26.16,1.647,4,93.88,44.43,46.31,84.07,Tanpa Adaptasi,6.27
+5456,1999,Australia,Victoria,Soybeans,1519.37,21.19,0.8370000000000001,8,60.84,45.99,96.03,90.01,Pertanian Organik,30.82
+7212,1999,Australia,Victoria,Vegetables,1919.54,12.98,2.31,10,67.7,15.46,76.52,63.87,Tanpa Adaptasi,11.75
+5395,2000,Australia,'New South Wales',Coffee,1513.59,21.62,0.531,10,,36.76,99.83,71.63,Tanaman Tahan Kekeringan,-3.24
+5579,2000,Australia,'New South Wales',Corn,1726.31,9.32,2.97,4,54.83,3.92,40.97,73.17,Rotasi Tanaman,29.0
+7102,2000,Australia,'New South Wales',Corn,1424.75,29.65,3.897,3,24.92,33.43,39.53,58.84,Pertanian Organik,17.73
+5136,2000,Australia,'New South Wales',Rice,1641.99,15.83,3.096,2,94.75,13.7,42.84,73.56,Pertanian Organik,30.08
+2167,2000,Australia,'New South Wales',Soybeans,672.06,11.96,3.66,4,42.33,15.68,45.63,82.63,Pertanian Organik,14.51
+3326,2000,Australia,'New South Wales',Soybeans,1544.92,27.14,2.547,2,29.71,8.12,42.07,63.7,Tanaman Tahan Kekeringan,30.3
+4160,2000,Australia,'New South Wales',Sugarcane,1157.31,3.75,1.44,3,23.09,23.28,39.16,83.46,Tanpa Adaptasi,5.97
+4610,2000,Australia,'Western Australia',Barley,567.65,15.18,1.611,1,60.91,32.61,96.24,84.32,Manajemen Air,1.57
+702,2000,Australia,'Western Australia',Soybeans,1894.44,7.83,0.73,7,11.43,31.29,63.5,82.85,Rotasi Tanaman,3.89
+3175,2000,Australia,'Western Australia',Sugarcane,1950.42,27.67,2.664,6,46.7,30.36,76.56,91.28,Manajemen Air,27.25
+4035,2000,Australia,Queensland,Barley,2903.61,27.62,3.096,8,96.71,28.49,68.99,34.83,Tanaman Tahan Kekeringan,13.2
+776,2000,Australia,Queensland,Coffee,2151.08,28.56,2.2230000000000003,2,77.06,38.84,64.53,79.95,Manajemen Air,13.79
+338,2000,Australia,Queensland,Corn,1881.16,17.72,1.656,5,43.46,11.85,69.79,44.89,Tanpa Adaptasi,-4.06
+4686,2000,Australia,Queensland,Rice,414.75,16.58,1.485,2,93.38,11.03,20.62,57.46,Pertanian Organik,32.26
+76,2000,Australia,Victoria,Fruits,896.13,15.73,2.655,1,70.51,12.66,27.06,44.53,Tanaman Tahan Kekeringan,27.61
+1348,2000,Australia,Victoria,Fruits,1861.24,7.95,2.87,5,76.0,31.55,57.14,60.93,Tanpa Adaptasi,22.71
+2247,2000,Australia,Victoria,Vegetables,745.09,20.99,2.763,7,79.43,29.91,4.08,57.96,Tanaman Tahan Kekeringan,24.34
+1192,2001,Australia,'New South Wales',Barley,926.3,7.96,2.19,1,83.52,3.93,69.37,95.97,Pertanian Organik,17.18
+2842,2001,Australia,'New South Wales',Barley,2514.22,27.21,3.6,7,95.63,37.45,20.0,83.22,Pertanian Organik,13.52
+4463,2001,Australia,'New South Wales',Barley,1512.32,25.36,0.981,9,,11.21,18.68,61.72,Rotasi Tanaman,-4.95
+3792,2001,Australia,'New South Wales',Corn,1408.7,17.21,2.286,8,99.94,20.31,45.26,82.08,Rotasi Tanaman,31.46
+4449,2001,Australia,'New South Wales',Cotton,2556.37,20.57,1.161,9,20.88,45.32,98.92,47.48,Rotasi Tanaman,0.92
+5181,2001,Australia,'New South Wales',Cotton,1178.95,3.42,3.72,2,62.35,43.08,84.34,58.52,Tanaman Tahan Kekeringan,34.51
+3615,2001,Australia,'New South Wales',Fruits,1128.29,17.29,3.213,0,19.12,15.91,79.26,73.91,Manajemen Air,21.45
+3447,2001,Australia,'New South Wales',Rice,955.58,28.48,1.278,9,36.72,6.37,55.96,46.82,Manajemen Air,34.75
+859,2001,Australia,'New South Wales',Sugarcane,2917.08,7.93,3.23,4,18.69,40.56,24.99,55.69,Pertanian Organik,20.6
+6784,2001,Australia,'New South Wales',Sugarcane,1504.25,24.93,2.934,2,98.63,34.15,83.28,92.8,Rotasi Tanaman,23.59
+6840,2001,Australia,'New South Wales',Vegetables,2490.31,27.99,2.4480000000000004,7,48.02,40.37,40.84,63.27,Manajemen Air,17.11
+2724,2001,Australia,'New South Wales',Wheat,1529.16,9.26,2.77,1,95.52,49.9,73.11,98.65,Tanpa Adaptasi,31.38
+808,2001,Australia,'Western Australia',Coffee,2817.71,25.29,2.205,2,73.63,11.91,4.27,45.25,Tanpa Adaptasi,19.57
+4008,2001,Australia,'Western Australia',Corn,2589.28,5.34,1.05,10,29.53,15.68,83.55,34.31,Manajemen Air,1.9
+4166,2001,Australia,'Western Australia',Corn,307.99,13.92,1.314,2,98.08,47.06,62.27,97.13,Tanaman Tahan Kekeringan,8.81
+962,2001,Australia,'Western Australia',Sugarcane,2144.65,12.54,3.77,7,98.18,18.67,62.76,82.42,Rotasi Tanaman,23.91
+4353,2001,Australia,'Western Australia',Vegetables,1972.81,28.43,1.809,4,68.74,2.64,94.47,75.37,Manajemen Air,26.68
+5284,2001,Australia,'Western Australia',Vegetables,1936.31,12.13,,0,63.92,43.87,92.47,47.84,Rotasi Tanaman,9.81
+5161,2001,Australia,Queensland,Coffee,1098.16,3.62,2.85,0,70.03,49.58,73.55,79.7,Tanpa Adaptasi,4.81
+1862,2001,Australia,Queensland,Corn,716.27,10.07,2.51,6,48.62,30.59,58.84,77.03,Tanpa Adaptasi,22.78
+5246,2001,Australia,Queensland,Cotton,968.1,14.71,1.78,2,83.63,16.76,81.77,85.0,Tanpa Adaptasi,-2.56
+4092,2001,Australia,Queensland,Fruits,1462.08,28.49,0.765,6,,13.6,90.44,77.4,Rotasi Tanaman,3.23
+3285,2001,Australia,Queensland,Sugarcane,1380.08,11.58,3.47,9,35.02,36.87,41.58,30.66,Tanpa Adaptasi,26.26
+446,2001,Australia,Victoria,Barley,1823.69,25.29,1.638,5,71.67,47.18,31.43,94.03,Rotasi Tanaman,18.74
+6867,2001,Australia,Victoria,Corn,1471.92,5.91,3.76,6,62.9,22.03,71.54,99.16,Tanpa Adaptasi,28.14
+744,2001,Australia,Victoria,Fruits,260.72,25.98,2.8800000000000003,8,54.18,39.47,31.14,77.92,Manajemen Air,23.95
+1693,2001,Australia,Victoria,Fruits,1836.55,12.63,2.68,7,41.16,39.33,21.22,79.33,Pertanian Organik,32.97
+7094,2001,Australia,Victoria,Fruits,1370.84,10.35,4.39,1,52.11,21.86,65.52,78.52,Tanpa Adaptasi,12.96
+3289,2001,Australia,Victoria,Rice,1178.95,25.41,,4,90.7,34.89,26.19,45.56,Tanaman Tahan Kekeringan,22.51
+552,2001,Australia,Victoria,Sugarcane,1110.59,19.48,2.628,6,49.12,0.19,74.99,59.97,Tanaman Tahan Kekeringan,-4.91
+4877,2002,Australia,'New South Wales',Corn,593.43,8.29,0.55,5,57.23,46.86,76.39,86.65,Tanpa Adaptasi,3.69
+6480,2002,Australia,'New South Wales',Corn,,24.93,2.466,2,28.56,12.31,65.79,41.73,Tanpa Adaptasi,9.38
+1276,2002,Australia,'New South Wales',Cotton,1593.33,13.72,1.53,4,36.97,25.84,73.78,99.38,Pertanian Organik,6.47
+5543,2002,Australia,'New South Wales',Cotton,432.61,11.48,2.592,4,68.31,34.54,68.42,50.62,Manajemen Air,26.52
+5179,2002,Australia,'New South Wales',Sugarcane,351.85,5.74,1.332,7,73.28,12.46,49.74,60.74,Pertanian Organik,26.65
+534,2002,Australia,'New South Wales',Vegetables,965.55,15.76,2.466,0,70.26,46.07,14.07,32.2,Tanpa Adaptasi,17.44
+3195,2002,Australia,'New South Wales',Wheat,1705.42,27.03,0.873,4,75.07,14.23,36.37,49.0,Tanaman Tahan Kekeringan,4.44
+7495,2002,Australia,'New South Wales',Wheat,466.54,23.4,2.133,9,31.79,8.38,42.63,84.28,Tanaman Tahan Kekeringan,-0.45
+701,2002,Australia,'Western Australia',Barley,2452.7,16.01,2.277,6,42.91,12.67,4.4,70.28,Tanaman Tahan Kekeringan,16.2
+7218,2002,Australia,'Western Australia',Corn,817.22,9.9,2.85,0,90.21,21.36,40.93,93.54,Manajemen Air,19.63
+4108,2002,Australia,'Western Australia',Fruits,2538.88,1.52,4.23,7,57.55,24.86,84.01,71.59,Manajemen Air,13.49
+7910,2002,Australia,'Western Australia',Sugarcane,376.61,8.51,1.152,8,78.49,48.77,4.07,88.88,Rotasi Tanaman,-1.29
+1889,2002,Australia,Queensland,Coffee,2740.13,25.03,1.728,8,82.31,42.12,17.21,44.68,Pertanian Organik,8.85
+277,2002,Australia,Queensland,Rice,826.94,24.79,1.197,0,25.1,26.33,37.12,65.01,Pertanian Organik,8.26
+491,2002,Australia,Queensland,Soybeans,1184.26,13.47,1.71,3,79.55,25.1,8.07,87.12,Manajemen Air,4.53
+3133,2002,Australia,Queensland,Wheat,382.41,18.93,0.909,1,49.73,31.05,73.35,54.55,Rotasi Tanaman,32.34
+1971,2003,Australia,'New South Wales',Barley,1164.6,25.59,2.2230000000000003,4,12.82,26.75,48.21,58.84,Tanpa Adaptasi,8.31
+1387,2003,Australia,'New South Wales',Sugarcane,909.06,1.14,2.12,3,79.29,11.82,41.61,90.84,Pertanian Organik,32.16
+3853,2003,Australia,'Western Australia',Coffee,574.2,4.72,3.44,5,81.59,26.32,7.1,52.19,Tanpa Adaptasi,16.95
+1666,2003,Australia,'Western Australia',Corn,294.7,19.62,2.889,1,94.1,30.61,98.11,39.7,Pertanian Organik,10.34
+4293,2003,Australia,'Western Australia',Cotton,520.38,1.75,,7,43.99,24.13,68.55,78.06,Rotasi Tanaman,15.56
+615,2003,Australia,'Western Australia',Rice,2250.84,29.15,1.332,6,59.86,40.15,54.26,68.84,Pertanian Organik,20.3
+563,2003,Australia,'Western Australia',Sugarcane,1768.27,19.09,1.413,6,54.02,19.22,45.41,87.63,Pertanian Organik,4.34
+5078,2003,Australia,'Western Australia',Sugarcane,2782.42,1.05,2.21,1,42.67,16.45,25.28,73.61,Manajemen Air,0.63
+1728,2003,Australia,'Western Australia',Vegetables,1106.66,26.48,2.385,10,78.55,48.41,73.83,51.06,Manajemen Air,14.73
+2725,2003,Australia,'Western Australia',Vegetables,211.34,21.7,1.53,6,31.58,1.7,90.16,90.3,Manajemen Air,21.99
+7527,2003,Australia,Queensland,Corn,911.27,16.51,3.483,0,27.61,10.46,5.24,60.77,Tanaman Tahan Kekeringan,12.15
+1253,2003,Australia,Queensland,Cotton,2130.35,26.84,2.466,7,45.65,7.24,59.89,97.39,Pertanian Organik,-4.45
+5838,2003,Australia,Queensland,Fruits,1040.79,29.73,0.972,7,98.85,27.44,44.02,97.79,Pertanian Organik,-1.58
+4244,2003,Australia,Queensland,Sugarcane,1890.99,20.76,0.639,0,87.64,10.69,64.73,72.48,Manajemen Air,6.95
+5963,2003,Australia,Victoria,Barley,2966.75,12.36,0.78,1,28.02,5.66,68.35,95.51,Rotasi Tanaman,8.27
+111,2003,Australia,Victoria,Corn,2336.64,17.34,0.63,9,96.51,34.25,27.22,43.36,Manajemen Air,9.33
+1490,2003,Australia,Victoria,Corn,1583.9,26.91,2.529,9,94.01,39.18,49.74,61.18,Tanaman Tahan Kekeringan,17.16
+1988,2003,Australia,Victoria,Soybeans,1737.72,29.57,1.134,4,91.48,2.31,73.13,70.16,Manajemen Air,28.08
+7688,2003,Australia,Victoria,Soybeans,1668.74,5.74,1.03,5,83.29,30.11,30.34,67.21,Tanaman Tahan Kekeringan,27.35
+7227,2003,Australia,Victoria,Sugarcane,300.41,5.91,1.854,1,20.45,47.28,91.62,78.43,Manajemen Air,33.76
+6966,2003,Australia,Victoria,Wheat,1665.29,3.88,1.26,5,33.71,15.45,92.74,82.45,Pertanian Organik,7.19
+4866,2004,Australia,'New South Wales',Coffee,840.38,27.0,1.089,7,44.15,7.06,59.39,96.7,Tanpa Adaptasi,2.07
+3397,2004,Australia,'New South Wales',Cotton,458.03,2.88,2.574,7,45.99,32.23,52.22,83.86,Manajemen Air,25.69
+3660,2004,Australia,'New South Wales',Fruits,1685.23,9.12,2.24,8,89.75,49.0,12.25,69.88,Tanaman Tahan Kekeringan,4.41
+7549,2004,Australia,'New South Wales',Rice,2530.33,23.52,1.593,6,98.85,43.65,20.62,36.94,Tanpa Adaptasi,6.92
+3869,2004,Australia,'New South Wales',Soybeans,989.41,29.41,1.2060000000000002,8,37.14,24.19,16.89,37.35,Tanaman Tahan Kekeringan,21.44
+4994,2004,Australia,'New South Wales',Sugarcane,1837.58,13.62,4.63,2,22.01,18.2,16.12,73.33,Rotasi Tanaman,15.8
+2137,2004,Australia,'New South Wales',Vegetables,924.48,21.97,3.213,9,15.09,0.48,16.45,95.77,Manajemen Air,23.53
+3191,2004,Australia,'New South Wales',Wheat,1216.15,17.56,1.503,5,18.28,26.72,33.85,69.36,Tanaman Tahan Kekeringan,26.03
+4114,2004,Australia,'New South Wales',Wheat,1773.5,11.66,3.61,8,36.35,1.76,29.02,57.49,Rotasi Tanaman,24.1
+4043,2004,Australia,'New South Wales',,2801.9,12.03,1.88,1,42.74,44.17,11.52,98.51,Rotasi Tanaman,34.97
+1437,2004,Australia,'Western Australia',Coffee,2074.97,27.39,0.639,9,25.39,47.38,87.26,93.97,Tanaman Tahan Kekeringan,1.2
+7511,2004,Australia,'Western Australia',Corn,575.05,21.78,4.428,10,66.35,32.31,76.84,83.46,Manajemen Air,14.12
+2029,2004,Australia,'Western Australia',Sugarcane,972.56,6.15,3.87,8,71.55,43.61,15.23,51.4,Rotasi Tanaman,14.42
+6588,2004,Australia,'Western Australia',Sugarcane,984.19,25.26,2.466,6,49.52,20.3,44.55,80.04,Tanaman Tahan Kekeringan,14.15
+7820,2004,Australia,'Western Australia',Wheat,2268.58,14.48,2.63,0,41.16,31.74,10.54,60.18,Rotasi Tanaman,14.99
+5678,2004,Australia,'Western Australia',,2847.65,16.4,0.972,8,78.27,29.92,0.72,56.68,Rotasi Tanaman,-4.73
+363,2004,Australia,Queensland,Coffee,2590.69,15.9,0.999,10,52.52,31.91,55.27,67.09,Rotasi Tanaman,4.86
+2145,2004,Australia,Queensland,Coffee,2413.49,5.78,1.1,2,81.01,31.54,62.42,35.8,Tanaman Tahan Kekeringan,1.58
+3225,2004,Australia,Queensland,Corn,2507.17,18.62,3.699,1,26.81,44.63,41.87,64.81,Pertanian Organik,13.7
+665,2004,Australia,Queensland,Soybeans,1582.13,29.1,4.4190000000000005,10,41.87,15.16,91.8,31.49,Rotasi Tanaman,10.71
+1640,2004,Australia,Queensland,Soybeans,2439.18,27.63,3.726,1,81.7,33.62,29.65,64.09,Pertanian Organik,12.02
+7182,2004,Australia,Queensland,Wheat,286.62,0.76,1.836,5,89.4,14.93,37.18,54.33,Manajemen Air,8.13
+7024,2004,Australia,Victoria,Corn,1719.7,9.36,1.86,5,99.88,41.0,30.65,58.27,Pertanian Organik,28.28
+6585,2004,Australia,Victoria,Fruits,1061.47,11.21,2.9,9,31.88,11.43,69.08,64.62,Tanaman Tahan Kekeringan,25.39
+2295,2004,Australia,Victoria,Soybeans,2156.48,28.96,1.125,1,43.55,10.83,4.41,59.3,Rotasi Tanaman,32.86
+2893,2004,Australia,Victoria,Wheat,2021.72,3.45,2.45,4,97.85,37.71,39.57,45.43,Tanpa Adaptasi,-4.72
+4701,2004,Australia,Victoria,Wheat,2900.73,21.31,2.25,7,28.05,49.84,13.93,30.07,Tanaman Tahan Kekeringan,25.79
+3271,2005,Australia,'New South Wales',Corn,2054.71,18.74,1.179,10,71.71,47.19,38.77,43.42,Manajemen Air,28.34
+156,2005,Australia,'New South Wales',Fruits,1770.03,21.42,,10,84.08,47.18,46.73,64.41,Rotasi Tanaman,5.8
+6073,2005,Australia,'New South Wales',Fruits,217.01,5.1,,0,93.82,1.3,23.66,39.38,Pertanian Organik,11.62
+3731,2005,Australia,'New South Wales',Rice,2163.43,0.57,2.27,2,44.86,17.02,9.24,37.7,Rotasi Tanaman,32.33
+6970,2005,Australia,'New South Wales',Rice,508.5,7.93,2.74,7,26.9,34.09,6.44,86.77,Rotasi Tanaman,17.57
+4755,2005,Australia,'New South Wales',Sugarcane,1367.84,16.55,,3,92.98,37.27,8.65,67.57,Tanpa Adaptasi,14.58
+5662,2005,Australia,'New South Wales',Wheat,2249.08,6.66,4.18,9,,17.09,62.0,66.15,Rotasi Tanaman,13.72
+7638,2005,Australia,'Western Australia',Cotton,2110.23,20.46,2.385,10,29.36,27.8,51.45,40.07,Manajemen Air,22.38
+5266,2005,Australia,'Western Australia',Soybeans,2365.57,21.02,0.945,3,45.42,2.6,31.49,72.96,Rotasi Tanaman,22.27
+891,2005,Australia,'Western Australia',Wheat,497.48,7.25,2.232,8,62.04,42.88,59.62,81.15,Pertanian Organik,29.12
+2934,2005,Australia,Queensland,Coffee,252.36,9.74,2.322,2,58.07,4.14,34.39,47.45,Pertanian Organik,15.42
+6526,2005,Australia,Queensland,Fruits,2421.43,20.5,3.051,5,30.21,49.15,56.34,81.2,Manajemen Air,22.84
+5125,2005,Australia,Queensland,Rice,2714.07,11.55,2.53,1,90.58,4.41,73.63,33.01,Tanaman Tahan Kekeringan,34.24
+5493,2005,Australia,Queensland,Soybeans,455.47,29.39,2.025,10,60.03,8.23,99.51,47.38,Tanaman Tahan Kekeringan,-1.99
+7946,2005,Australia,Queensland,Sugarcane,2132.6,27.16,2.43,6,55.12,14.85,71.71,51.53,Rotasi Tanaman,12.09
+6454,2005,Australia,Queensland,Wheat,640.53,6.69,2.61,9,30.92,19.64,61.35,72.5,Rotasi Tanaman,4.69
+3371,2005,Australia,Victoria,Barley,1375.81,11.97,2.0,4,94.03,18.65,13.99,77.69,Pertanian Organik,8.54
+7349,2005,Australia,Victoria,Coffee,2558.22,7.79,3.61,8,94.04,18.09,6.65,48.35,Tanpa Adaptasi,15.89
+1965,2005,Australia,Victoria,Corn,1140.18,14.62,3.65,1,38.51,46.44,83.38,75.03,Pertanian Organik,17.49
+6568,2005,Australia,Victoria,Corn,1508.89,18.68,1.629,8,91.18,3.0,93.93,60.86,Manajemen Air,30.11
+4724,2005,Australia,Victoria,Cotton,1338.33,5.13,2.06,1,45.38,35.31,36.93,36.7,Rotasi Tanaman,-3.89
+5272,2005,Australia,Victoria,Wheat,1175.94,22.55,1.98,5,21.13,31.89,25.18,40.62,Manajemen Air,4.99
+7167,2006,Australia,'New South Wales',Coffee,1295.32,27.74,1.2060000000000002,1,45.93,33.68,26.81,68.4,Tanaman Tahan Kekeringan,9.05
+7775,2006,Australia,'New South Wales',Coffee,2204.84,18.59,2.682,6,63.78,37.34,83.52,48.17,Manajemen Air,-3.45
+724,2006,Australia,'New South Wales',Corn,860.56,5.99,1.09,5,21.65,38.96,62.83,70.99,Rotasi Tanaman,3.87
+1989,2006,Australia,'New South Wales',Corn,2566.16,29.69,1.359,8,68.42,2.34,55.61,75.24,Tanaman Tahan Kekeringan,13.36
+6154,2006,Australia,'New South Wales',Cotton,2157.81,27.43,0.963,2,90.71,9.77,6.44,60.33,Manajemen Air,-2.23
+6245,2006,Australia,'New South Wales',Sugarcane,2711.54,11.2,2.69,4,93.39,26.0,85.74,84.37,Pertanian Organik,7.68
+1854,2006,Australia,'New South Wales',Wheat,2876.87,6.78,2.19,7,75.41,45.11,40.4,52.17,Rotasi Tanaman,14.93
+6607,2006,Australia,'Western Australia',Barley,1040.06,12.59,1.36,0,17.67,42.11,32.59,92.29,Rotasi Tanaman,22.37
+1752,2006,Australia,'Western Australia',Fruits,1956.74,10.82,3.53,9,86.32,8.02,70.64,78.54,Rotasi Tanaman,13.84
+5738,2006,Australia,'Western Australia',Soybeans,410.34,24.71,1.6740000000000002,9,57.14,4.96,54.76,38.63,Rotasi Tanaman,28.6
+2707,2006,Australia,'Western Australia',Sugarcane,2639.95,15.19,1.323,0,67.96,40.4,50.16,50.86,Pertanian Organik,-3.77
+4174,2006,Australia,'Western Australia',Sugarcane,1132.0,21.33,2.772,2,86.87,14.71,84.13,41.78,Tanaman Tahan Kekeringan,20.58
+1521,2006,Australia,Queensland,Corn,2278.96,7.11,3.22,1,36.2,30.75,53.98,31.52,Manajemen Air,29.12
+2695,2006,Australia,Queensland,Corn,,3.48,4.34,3,76.15,47.65,22.51,53.0,Manajemen Air,12.09
+883,2006,Australia,Queensland,Vegetables,2425.17,29.34,1.278,5,33.5,47.49,57.4,34.96,Tanpa Adaptasi,7.76
+5147,2006,Australia,Queensland,Vegetables,1379.95,29.78,2.673,8,57.19,14.0,89.62,38.41,Tanaman Tahan Kekeringan,-4.42
+5338,2006,Australia,Queensland,Vegetables,2960.64,25.38,1.8,7,76.1,43.45,60.94,64.79,Rotasi Tanaman,8.8
+4390,2006,Australia,Victoria,Barley,2969.81,26.14,2.061,5,21.93,22.09,32.17,90.52,Pertanian Organik,-1.26
+7421,2006,Australia,Victoria,Coffee,2280.35,3.26,3.6,8,71.44,4.01,86.99,68.97,Rotasi Tanaman,30.93
+644,2006,Australia,Victoria,Corn,732.28,19.47,2.637,7,57.09,3.98,72.85,82.9,Tanpa Adaptasi,4.31
+1682,2006,Australia,Victoria,Cotton,2346.05,23.06,,5,10.74,1.14,17.08,89.16,Manajemen Air,4.08
+3399,2006,Australia,Victoria,Rice,2619.15,8.58,0.76,2,58.16,7.27,72.46,56.16,Pertanian Organik,6.11
+6168,2006,Australia,Victoria,Soybeans,764.0,6.53,2.23,10,93.95,6.55,55.06,39.62,Tanpa Adaptasi,28.12
+3746,2006,Australia,Victoria,Sugarcane,1943.91,17.26,3.123,1,46.94,15.39,0.14,82.58,Manajemen Air,25.27
+6299,2007,Australia,'New South Wales',Barley,1415.62,20.82,2.6910000000000003,8,15.25,2.12,20.53,78.21,Pertanian Organik,-4.98
+5982,2007,Australia,'New South Wales',Cotton,1263.09,25.41,1.476,9,70.76,21.76,27.44,85.36,Tanaman Tahan Kekeringan,29.82
+3160,2007,Australia,'New South Wales',,2413.46,7.59,3.41,1,26.8,45.73,0.76,91.31,Rotasi Tanaman,28.03
+351,2007,Australia,'Western Australia',Corn,1043.31,20.6,1.755,1,75.18,12.34,82.68,99.52,Tanaman Tahan Kekeringan,33.16
+1873,2007,Australia,'Western Australia',Cotton,1385.63,29.88,1.809,10,64.97,43.18,23.09,78.52,Tanpa Adaptasi,3.51
+5688,2007,Australia,'Western Australia',Fruits,1469.49,24.6,2.727,3,49.51,22.38,41.19,54.64,Pertanian Organik,31.72
+22,2007,Australia,'Western Australia',Soybeans,1415.98,17.38,1.62,4,75.37,14.73,40.04,96.47,Tanpa Adaptasi,18.45
+392,2007,Australia,'Western Australia',Wheat,1206.68,22.59,1.98,3,67.54,7.66,41.31,56.05,Manajemen Air,-2.65
+2729,2007,Australia,Queensland,Cotton,2776.74,10.18,2.0,2,,47.14,6.6,70.24,Pertanian Organik,8.71
+7188,2007,Australia,Queensland,Cotton,1844.15,18.26,2.574,1,67.78,35.02,78.42,99.68,Pertanian Organik,2.4
+940,2007,Australia,Queensland,Fruits,1038.9,7.9,2.72,3,31.35,4.37,67.9,67.84,Tanaman Tahan Kekeringan,3.48
+4889,2007,Australia,Queensland,Rice,1796.15,14.74,0.78,7,95.0,28.91,17.53,80.29,Tanpa Adaptasi,-3.89
+3992,2007,Australia,Queensland,Soybeans,2512.74,12.85,1.64,6,55.34,13.23,26.77,93.7,Pertanian Organik,4.5
+92,2007,Australia,Queensland,Vegetables,2963.79,17.39,1.845,7,11.25,37.46,1.65,51.74,Manajemen Air,30.94
+1452,2007,Australia,Queensland,Vegetables,595.16,11.98,1.01,8,24.57,47.93,15.46,82.2,Tanaman Tahan Kekeringan,-1.86
+6991,2007,Australia,Queensland,Wheat,2690.87,11.76,1.56,7,13.17,48.28,12.18,41.44,Rotasi Tanaman,-1.39
+7526,2007,Australia,Queensland,,1011.36,28.66,3.6,3,61.81,36.99,14.87,35.31,Tanaman Tahan Kekeringan,18.12
+7801,2007,Australia,Victoria,Coffee,2355.35,7.08,2.96,1,52.5,42.88,82.03,30.9,Rotasi Tanaman,6.75
+7464,2007,Australia,Victoria,Corn,634.17,12.89,1.44,6,15.22,19.41,93.12,95.46,Rotasi Tanaman,5.76
+1894,2007,Australia,Victoria,Soybeans,2594.95,18.56,2.097,10,81.53,0.31,89.56,61.65,Manajemen Air,12.09
+7977,2007,Australia,Victoria,Sugarcane,1244.18,7.16,2.56,1,72.72,3.85,7.06,54.93,Rotasi Tanaman,3.41
+7996,2007,Australia,Victoria,Sugarcane,2687.5,14.22,0.64,0,29.75,32.75,80.77,62.92,Pertanian Organik,0.41
+5096,2007,Australia,Victoria,Vegetables,1476.82,8.13,2.85,8,40.67,47.0,39.55,53.96,Tanpa Adaptasi,2.1
+6262,2007,Australia,Victoria,Vegetables,2063.31,16.08,1.845,3,89.79,38.06,77.37,99.57,Manajemen Air,32.75
+7019,2008,Australia,'New South Wales',Cotton,1993.05,13.6,2.86,2,13.91,27.93,42.49,72.49,Manajemen Air,21.06
+5888,2008,Australia,'New South Wales',Sugarcane,786.79,15.41,2.07,1,59.05,22.84,20.55,51.59,Manajemen Air,-4.36
+2043,2008,Australia,'New South Wales',Vegetables,2177.6,4.36,3.68,9,57.14,1.68,57.85,43.06,Pertanian Organik,17.76
+5289,2008,Australia,'New South Wales',Vegetables,2225.3,13.09,2.2,2,18.0,20.37,65.57,91.27,Tanaman Tahan Kekeringan,17.95
+7781,2008,Australia,'New South Wales',Vegetables,1999.17,23.71,3.51,9,87.17,22.82,34.04,46.83,Pertanian Organik,26.21
+1950,2008,Australia,'Western Australia',Cotton,498.54,6.12,4.149,0,83.49,2.74,0.05,57.99,Tanpa Adaptasi,19.91
+1006,2008,Australia,'Western Australia',Rice,2669.73,1.64,2.15,8,76.99,4.75,95.49,93.43,Tanaman Tahan Kekeringan,24.56
+4504,2008,Australia,'Western Australia',Rice,2608.91,24.82,2.907,4,57.82,35.54,38.04,33.43,Rotasi Tanaman,34.13
+1062,2008,Australia,'Western Australia',Sugarcane,2186.48,5.91,2.43,1,76.98,19.59,56.91,47.45,Pertanian Organik,12.62
+5142,2008,Australia,'Western Australia',Vegetables,535.69,5.23,4.43,8,25.89,3.25,26.24,42.61,Tanaman Tahan Kekeringan,11.33
+4375,2008,Australia,'Western Australia',Wheat,1156.2,5.63,0.65,8,,37.01,32.53,39.01,Rotasi Tanaman,3.13
+1657,2008,Australia,'Western Australia',,2261.36,25.01,2.043,10,31.72,47.88,30.33,96.13,Tanpa Adaptasi,29.98
+6781,2008,Australia,Queensland,Coffee,1341.09,25.7,0.756,7,17.67,15.84,78.74,60.63,Manajemen Air,22.23
+2476,2008,Australia,Queensland,Cotton,2875.04,29.41,2.538,7,23.82,32.67,54.92,54.44,Pertanian Organik,8.56
+5994,2008,Australia,Queensland,Fruits,1442.97,27.05,2.592,7,66.43,31.9,96.85,33.06,Pertanian Organik,13.45
+7117,2008,Australia,Queensland,Sugarcane,952.76,11.77,2.8,3,44.01,36.62,78.56,51.7,Rotasi Tanaman,2.08
+5572,2008,Australia,Queensland,Vegetables,2639.21,29.09,3.051,3,61.05,8.51,53.54,35.53,Manajemen Air,20.91
+5492,2008,Australia,Queensland,Wheat,2983.29,2.99,4.29,6,58.72,28.13,90.66,94.91,Pertanian Organik,16.3
+7197,2008,Australia,Queensland,Wheat,1487.07,17.5,3.051,9,34.77,3.09,62.81,56.27,Tanaman Tahan Kekeringan,28.55
+2040,2008,Australia,Victoria,Barley,2333.36,15.97,1.314,9,56.41,11.69,96.71,30.43,Rotasi Tanaman,6.37
+5927,2008,Australia,Victoria,Barley,2745.21,7.87,3.61,10,85.82,35.31,71.56,69.94,Tanpa Adaptasi,14.71
+4318,2008,Australia,Victoria,Coffee,2639.05,4.95,1.97,6,42.74,13.81,90.6,46.04,Rotasi Tanaman,20.94
+283,2008,Australia,Victoria,Corn,2826.0,16.56,2.547,0,41.86,7.41,59.83,71.9,Pertanian Organik,-2.14
+1497,2008,Australia,Victoria,Corn,1704.94,20.18,1.611,3,48.66,1.98,64.11,45.4,Rotasi Tanaman,25.49
+3772,2008,Australia,Victoria,Sugarcane,302.01,26.13,2.205,5,42.87,4.14,56.3,92.97,Tanaman Tahan Kekeringan,28.09
+6110,2008,Australia,Victoria,Vegetables,1846.78,10.12,2.15,0,79.75,27.0,86.04,38.15,Pertanian Organik,3.02
+4985,2009,Australia,'New South Wales',Barley,2175.87,26.83,1.881,0,64.99,18.37,53.0,62.54,Tanpa Adaptasi,10.62
+946,2009,Australia,'New South Wales',Coffee,2254.43,6.19,3.31,10,93.18,41.49,64.46,85.02,Rotasi Tanaman,15.35
+3634,2009,Australia,'New South Wales',Fruits,1450.63,13.43,2.88,0,16.45,34.9,94.59,63.07,Rotasi Tanaman,31.73
+5704,2009,Australia,'New South Wales',Fruits,1184.98,26.87,2.493,10,27.73,31.61,33.72,96.41,Tanaman Tahan Kekeringan,19.7
+3405,2009,Australia,'New South Wales',Rice,235.48,4.52,1.035,4,91.93,48.72,39.62,88.32,Tanpa Adaptasi,5.58
+2991,2009,Australia,'Western Australia',Coffee,2702.19,1.51,1.96,9,47.66,8.65,97.67,98.54,Rotasi Tanaman,2.84
+7706,2009,Australia,'Western Australia',Coffee,776.4,11.14,2.93,1,88.69,43.91,36.54,96.33,Tanpa Adaptasi,3.88
+7422,2009,Australia,'Western Australia',Cotton,1887.0,1.8,1.19,7,85.43,25.17,61.97,58.01,Tanaman Tahan Kekeringan,23.1
+3378,2009,Australia,'Western Australia',Wheat,759.25,17.79,0.7290000000000001,9,88.31,13.57,5.48,67.7,Tanaman Tahan Kekeringan,-1.38
+2377,2009,Australia,Queensland,Cotton,2691.5,12.26,3.66,7,81.59,36.93,22.75,50.68,Rotasi Tanaman,22.45
+5755,2009,Australia,Queensland,Rice,2910.35,6.87,1.74,0,15.55,43.37,9.71,89.41,Tanaman Tahan Kekeringan,33.56
+2735,2009,Australia,Victoria,Barley,660.12,14.28,1.85,3,32.97,25.56,90.67,82.44,Manajemen Air,6.94
+3145,2009,Australia,Victoria,Barley,2192.91,8.79,4.94,4,32.95,47.22,32.16,47.08,Rotasi Tanaman,10.77
+4291,2009,Australia,Victoria,Coffee,377.88,29.6,1.35,10,,45.46,67.64,66.63,Pertanian Organik,26.55
+897,2009,Australia,Victoria,Rice,430.92,9.62,1.629,6,37.53,35.79,82.35,92.74,Tanpa Adaptasi,7.27
+5225,2009,Australia,Victoria,Soybeans,1098.07,14.05,3.27,8,41.85,30.27,25.5,53.54,Tanpa Adaptasi,13.95
+1545,2009,Australia,Victoria,Vegetables,2718.12,14.0,3.14,8,36.9,47.94,47.94,94.86,Manajemen Air,21.69
+1517,2010,Australia,'New South Wales',Coffee,1161.47,3.22,4.68,7,94.69,11.97,55.14,64.79,Manajemen Air,17.75
+2062,2010,Australia,'New South Wales',Cotton,669.76,15.38,1.782,7,31.9,41.88,49.82,37.49,Rotasi Tanaman,21.04
+5229,2010,Australia,'New South Wales',Sugarcane,2923.05,17.8,1.7009999999999998,10,21.03,8.27,52.61,40.27,Tanaman Tahan Kekeringan,7.91
+545,2010,Australia,'New South Wales',Wheat,471.71,14.84,1.395,0,64.6,49.34,8.32,81.94,Rotasi Tanaman,33.84
+7033,2010,Australia,'New South Wales',Wheat,2245.91,4.83,2.02,2,93.19,8.2,34.23,72.31,Tanpa Adaptasi,13.54
+4511,2010,Australia,'Western Australia',Barley,488.42,28.35,0.648,9,65.78,13.76,10.56,83.34,Manajemen Air,7.4
+7432,2010,Australia,'Western Australia',Barley,1303.03,10.95,2.95,8,36.8,38.05,23.86,73.14,Pertanian Organik,-3.49
+4315,2010,Australia,'Western Australia',Fruits,2230.13,6.85,2.66,10,26.93,28.27,85.71,80.94,Tanaman Tahan Kekeringan,3.26
+189,2010,Australia,'Western Australia',Rice,322.88,13.55,1.233,10,94.8,46.94,0.32,63.05,Tanpa Adaptasi,24.33
+4275,2010,Australia,'Western Australia',Rice,2816.6,24.7,1.314,0,88.75,2.88,65.06,59.63,Manajemen Air,26.48
+7096,2010,Australia,'Western Australia',Vegetables,971.06,22.39,0.846,0,25.03,20.17,49.05,32.53,Tanaman Tahan Kekeringan,1.53
+7435,2010,Australia,'Western Australia',Vegetables,257.56,20.67,2.214,1,31.19,38.67,50.93,73.27,Rotasi Tanaman,3.6
+1282,2010,Australia,'Western Australia',Wheat,1981.2,25.89,0.846,8,42.91,12.25,55.08,47.54,Tanpa Adaptasi,8.56
+5417,2010,Australia,Queensland,Coffee,2677.98,15.82,2.475,10,45.52,18.08,61.91,91.65,Pertanian Organik,15.91
+3542,2010,Australia,Queensland,Corn,1663.53,10.78,1.78,8,32.1,24.62,97.56,83.84,Tanaman Tahan Kekeringan,22.29
+7734,2010,Australia,Queensland,Corn,1639.17,28.84,3.087,1,15.09,40.49,63.58,94.52,Tanaman Tahan Kekeringan,32.26
+6778,2010,Australia,Queensland,Fruits,1976.88,18.09,2.673,7,24.38,24.04,80.18,62.25,Manajemen Air,6.91
+1878,2010,Australia,Queensland,Soybeans,1083.02,4.62,0.55,10,71.43,15.7,62.0,38.36,Tanaman Tahan Kekeringan,3.3
+5227,2010,Australia,Queensland,Soybeans,1786.42,22.92,2.619,9,58.25,38.45,13.85,73.49,Tanaman Tahan Kekeringan,34.34
+335,2010,Australia,Queensland,Sugarcane,827.05,28.15,1.926,0,73.76,36.0,94.01,38.16,Tanaman Tahan Kekeringan,14.66
+4746,2010,Australia,Queensland,Wheat,440.47,13.84,2.43,2,19.44,37.15,56.35,92.61,Rotasi Tanaman,22.99
+572,2010,Australia,Victoria,Coffee,2294.81,8.66,2.82,3,39.88,29.31,79.91,59.92,Tanaman Tahan Kekeringan,20.85
+1707,2010,Australia,Victoria,Coffee,464.72,26.39,1.278,10,74.87,21.02,42.98,68.4,Tanaman Tahan Kekeringan,28.33
+3243,2010,Australia,Victoria,Coffee,1699.03,13.71,0.83,10,34.48,17.74,65.28,84.32,Tanpa Adaptasi,23.31
+6070,2010,Australia,Victoria,Coffee,2819.91,29.74,0.6120000000000001,9,93.88,29.55,36.91,84.32,Manajemen Air,7.83
+4099,2010,Australia,Victoria,Rice,2358.39,4.99,1.16,8,96.01,16.53,79.55,64.8,Manajemen Air,5.21
+3454,2010,Australia,Victoria,Vegetables,2793.84,7.91,2.05,9,34.0,11.33,85.54,52.05,Rotasi Tanaman,27.03
+6964,2010,Australia,Victoria,,1786.13,22.26,,3,65.96,14.54,16.33,67.67,Pertanian Organik,13.46
+3248,2011,Australia,'New South Wales',Coffee,1411.56,6.65,0.94,1,37.69,8.01,18.09,66.75,Rotasi Tanaman,24.69
+2093,2011,Australia,'New South Wales',Fruits,2366.88,1.01,1.72,10,71.67,30.13,27.04,76.18,Tanaman Tahan Kekeringan,8.85
+2900,2011,Australia,'New South Wales',Fruits,1193.89,18.17,2.079,4,39.29,17.98,21.21,43.94,Tanaman Tahan Kekeringan,23.2
+27,2011,Australia,'New South Wales',Wheat,2039.13,5.95,3.86,1,,42.5,75.2,82.79,Manajemen Air,27.8
+4279,2011,Australia,'New South Wales',Wheat,272.4,29.13,2.952,1,48.26,44.11,21.25,53.11,Tanaman Tahan Kekeringan,24.79
+7882,2011,Australia,'New South Wales',,1818.54,23.16,2.2230000000000003,7,18.28,42.45,47.2,62.25,Manajemen Air,14.0
+3292,2011,Australia,'Western Australia',Barley,,11.86,1.56,8,46.3,10.99,10.0,57.63,Pertanian Organik,3.91
+4386,2011,Australia,'Western Australia',Barley,608.88,25.61,2.673,0,62.23,20.09,59.38,76.47,Tanaman Tahan Kekeringan,26.73
+2426,2011,Australia,'Western Australia',Cotton,741.61,3.52,,9,96.07,45.32,17.33,31.52,Pertanian Organik,28.14
+2230,2011,Australia,'Western Australia',Rice,484.25,7.59,3.15,5,55.96,1.8,90.73,76.25,Manajemen Air,26.83
+2259,2011,Australia,'Western Australia',Soybeans,798.14,5.14,2.36,9,51.48,14.31,91.02,32.42,Pertanian Organik,1.57
+6095,2011,Australia,'Western Australia',Soybeans,1290.56,23.01,2.853,5,14.0,44.03,61.59,54.22,Manajemen Air,20.64
+991,2011,Australia,'Western Australia',Sugarcane,1081.13,27.88,1.0080000000000002,4,73.93,5.98,42.92,88.67,Pertanian Organik,23.55
+1308,2011,Australia,'Western Australia',Vegetables,2966.16,20.73,3.33,6,24.97,27.38,48.71,91.79,Rotasi Tanaman,32.59
+7576,2011,Australia,'Western Australia',Vegetables,1344.7,11.44,3.48,4,24.04,19.4,72.22,93.5,Rotasi Tanaman,24.53
+4862,2011,Australia,Queensland,Coffee,2336.07,9.93,1.63,6,13.96,0.62,32.84,99.46,Pertanian Organik,26.09
+1280,2011,Australia,Queensland,Rice,987.45,7.25,2.72,1,54.5,3.02,94.95,45.72,Rotasi Tanaman,17.63
+5399,2011,Australia,Queensland,Rice,954.01,28.29,2.727,1,73.42,6.2,11.12,62.46,Rotasi Tanaman,26.78
+5749,2011,Australia,Queensland,Wheat,2718.74,6.22,1.46,7,55.57,47.81,31.57,65.38,Tanaman Tahan Kekeringan,30.78
+1060,2011,Australia,Victoria,Barley,431.38,21.1,2.025,6,,12.76,36.39,79.08,Rotasi Tanaman,-0.74
+6188,2011,Australia,Victoria,Coffee,973.58,24.63,3.456,4,94.85,0.48,51.88,34.67,Manajemen Air,15.86
+4410,2011,Australia,Victoria,Corn,2705.67,10.54,1.82,4,97.8,35.08,79.68,82.63,Manajemen Air,-2.84
+7297,2011,Australia,Victoria,Corn,2482.75,6.39,2.97,9,17.4,46.67,71.53,97.04,Pertanian Organik,15.86
+1482,2011,Australia,Victoria,Cotton,2685.38,3.21,3.43,6,43.09,31.56,34.42,59.65,Tanpa Adaptasi,10.56
+2434,2011,Australia,Victoria,Cotton,2049.36,5.58,2.11,4,26.22,12.22,39.32,83.86,Tanpa Adaptasi,14.47
+922,2011,Australia,Victoria,Soybeans,468.2,3.24,0.8370000000000001,8,42.34,10.11,33.68,36.78,Tanpa Adaptasi,24.89
+126,2011,Australia,Victoria,Sugarcane,907.99,2.91,2.08,4,63.61,21.98,62.03,52.36,Rotasi Tanaman,8.97
+1818,2011,Australia,Victoria,Vegetables,1996.38,12.45,3.81,5,83.57,4.87,55.23,58.44,Rotasi Tanaman,16.76
+5479,2011,Australia,Victoria,Wheat,2579.93,25.51,1.638,2,82.87,14.3,88.17,46.08,Tanpa Adaptasi,12.5
+5596,2012,Australia,'New South Wales',Coffee,2665.7,12.28,1.0,2,69.51,44.65,43.79,31.87,Rotasi Tanaman,-0.45
+5608,2012,Australia,'New South Wales',Coffee,2965.15,12.06,0.86,10,96.01,25.48,45.17,80.76,Tanpa Adaptasi,23.62
+1883,2012,Australia,'New South Wales',Corn,1852.43,3.94,3.23,7,43.0,46.46,82.36,44.08,Tanaman Tahan Kekeringan,11.4
+3090,2012,Australia,'New South Wales',Fruits,2712.5,16.07,2.466,6,41.82,4.55,36.48,50.83,Manajemen Air,31.59
+5007,2012,Australia,'Western Australia',Barley,2107.57,26.51,1.602,9,80.5,47.75,20.31,31.74,Tanaman Tahan Kekeringan,6.0
+3984,2012,Australia,'Western Australia',Corn,2181.29,15.58,0.747,5,,22.9,58.45,62.81,Manajemen Air,-4.1
+1417,2012,Australia,'Western Australia',Cotton,1441.91,28.34,1.8,2,33.07,36.91,24.14,72.22,Tanpa Adaptasi,14.51
+7596,2012,Australia,'Western Australia',Cotton,398.91,15.33,2.052,5,29.3,22.88,85.25,70.6,Rotasi Tanaman,16.11
+3401,2012,Australia,'Western Australia',Vegetables,964.34,15.62,1.746,4,19.22,39.34,0.09,32.54,Rotasi Tanaman,8.01
+5418,2012,Australia,'Western Australia',Wheat,2374.44,3.58,2.24,6,96.98,22.63,20.66,94.77,Rotasi Tanaman,0.43
+1248,2012,Australia,'Western Australia',,265.86,3.28,3.42,4,64.08,5.89,1.96,79.69,Tanpa Adaptasi,17.63
+7751,2012,Australia,'Western Australia',,1299.2,20.87,1.602,0,52.74,37.28,30.05,57.93,Tanaman Tahan Kekeringan,6.96
+7289,2012,Australia,Queensland,Barley,1776.9,8.26,2.19,6,21.21,13.67,77.34,31.98,Tanaman Tahan Kekeringan,2.4
+6240,2012,Australia,Queensland,Coffee,1067.88,26.36,2.979,0,13.4,37.43,24.23,92.09,Rotasi Tanaman,24.68
+7793,2012,Australia,Queensland,Coffee,1981.58,2.93,2.99,2,30.94,4.22,59.01,59.26,Pertanian Organik,27.7
+316,2012,Australia,Queensland,Corn,2517.89,10.29,3.74,10,78.79,12.39,67.41,60.97,Pertanian Organik,14.6
+559,2012,Australia,Queensland,Cotton,1120.17,2.27,1.2,1,86.86,26.41,14.69,48.01,Manajemen Air,23.16
+2352,2012,Australia,Queensland,Fruits,570.58,11.01,4.64,6,93.29,7.12,95.04,82.9,Manajemen Air,17.1
+2484,2012,Australia,Queensland,Fruits,1709.47,22.6,1.269,4,83.82,28.21,1.47,33.59,Rotasi Tanaman,2.38
+7424,2012,Australia,Queensland,Fruits,1753.69,16.88,3.933,6,97.33,11.81,98.04,87.41,Tanpa Adaptasi,19.56
+2730,2012,Australia,Queensland,Rice,2317.21,25.08,1.35,10,47.87,12.14,4.85,70.64,Manajemen Air,25.08
+7906,2012,Australia,Queensland,Rice,1472.53,9.15,3.67,2,70.16,13.17,76.66,84.78,Tanaman Tahan Kekeringan,23.61
+1820,2012,Australia,Queensland,Soybeans,2356.04,14.21,4.92,1,14.97,44.16,95.15,31.55,Manajemen Air,15.49
+4620,2012,Australia,Queensland,Sugarcane,995.44,13.68,1.86,9,51.96,40.11,87.24,59.76,Tanaman Tahan Kekeringan,1.01
+7199,2012,Australia,Queensland,Vegetables,1608.9,18.34,1.053,10,37.72,39.29,67.1,39.65,Manajemen Air,-1.28
+7850,2012,Australia,Queensland,Vegetables,1640.93,2.64,3.56,3,57.51,21.92,78.61,52.03,Tanaman Tahan Kekeringan,31.3
+4960,2012,Australia,Queensland,Wheat,2911.48,21.24,2.115,1,46.68,2.42,31.75,78.71,Rotasi Tanaman,27.83
+2044,2012,Australia,Victoria,Barley,1374.14,3.97,1.6,4,96.91,35.65,26.19,52.4,Pertanian Organik,34.22
+6660,2012,Australia,Victoria,Barley,1027.77,25.88,3.33,4,68.32,40.11,60.54,90.08,Pertanian Organik,18.6
+412,2012,Australia,Victoria,Coffee,1469.37,25.71,2.034,0,70.81,19.85,76.66,50.39,Tanaman Tahan Kekeringan,33.08
+679,2012,Australia,Victoria,Corn,2796.71,5.42,2.85,4,16.77,23.04,47.11,46.43,Tanaman Tahan Kekeringan,8.24
+4828,2012,Australia,Victoria,Cotton,1735.67,1.47,2.44,2,24.59,15.25,52.39,82.42,Pertanian Organik,14.99
+4237,2012,Australia,Victoria,Soybeans,2833.0,1.91,1.81,1,81.29,34.46,54.09,40.99,Rotasi Tanaman,5.88
+94,2013,Australia,'New South Wales',Rice,2387.19,19.11,2.817,9,61.72,24.62,80.4,71.58,Tanaman Tahan Kekeringan,14.34
+6054,2013,Australia,'New South Wales',Sugarcane,811.38,6.7,0.88,10,98.93,21.69,82.0,31.42,Tanaman Tahan Kekeringan,22.02
+6591,2013,Australia,'New South Wales',Vegetables,261.95,11.64,2.025,7,57.15,16.78,80.33,37.62,Pertanian Organik,14.7
+682,2013,Australia,'Western Australia',Fruits,492.79,28.89,2.7,2,73.6,17.53,6.9,34.65,Manajemen Air,25.43
+6152,2013,Australia,'Western Australia',Rice,2039.69,3.34,0.96,0,36.47,19.23,57.28,64.2,Tanpa Adaptasi,4.84
+5192,2013,Australia,'Western Australia',Soybeans,1369.12,7.29,3.61,7,30.02,2.21,44.81,39.17,Tanaman Tahan Kekeringan,21.09
+4854,2013,Australia,'Western Australia',Vegetables,,10.89,2.58,8,71.04,48.55,92.19,83.09,Pertanian Organik,34.4
+7482,2013,Australia,'Western Australia',Wheat,971.24,18.33,4.149,1,81.52,40.51,99.79,43.25,Manajemen Air,16.32
+3172,2013,Australia,Queensland,Barley,2098.26,12.96,2.29,8,90.92,5.62,62.87,66.2,Manajemen Air,25.93
+1821,2013,Australia,Queensland,Fruits,2771.47,19.79,1.2060000000000002,8,55.85,19.73,69.95,97.16,Pertanian Organik,-1.67
+1753,2013,Australia,Queensland,Rice,664.36,15.57,1.638,9,62.28,27.31,23.71,45.02,Manajemen Air,34.85
+5829,2013,Australia,Queensland,Sugarcane,2676.26,16.99,1.872,6,94.88,37.14,18.75,52.43,Manajemen Air,7.99
+2747,2013,Australia,Queensland,Wheat,2886.24,25.63,3.4290000000000003,4,52.1,2.97,48.7,69.21,Rotasi Tanaman,10.47
+3776,2013,Australia,Queensland,Wheat,302.22,5.86,2.007,5,89.25,49.37,84.86,95.01,Pertanian Organik,-4.86
+6226,2013,Australia,Victoria,Corn,1834.38,11.85,1.43,2,38.32,40.85,15.82,90.78,Manajemen Air,8.81
+148,2013,Australia,Victoria,Cotton,1803.57,20.95,2.205,0,47.52,15.3,70.81,59.65,Manajemen Air,19.05
+2768,2013,Australia,Victoria,Fruits,2466.76,6.15,1.01,9,61.08,47.58,59.8,59.08,Rotasi Tanaman,28.83
+5196,2013,Australia,Victoria,Sugarcane,1376.44,26.54,1.548,2,58.78,48.66,11.95,44.55,Rotasi Tanaman,4.4
+120,2013,Australia,Victoria,Vegetables,2952.96,27.14,1.503,10,88.97,38.7,10.68,83.99,Rotasi Tanaman,15.93
+5556,2013,Australia,Victoria,Vegetables,470.11,16.07,1.134,4,85.79,30.29,27.66,67.76,Pertanian Organik,3.91
+7714,2013,Australia,Victoria,,2264.88,9.75,3.4,10,24.85,43.59,68.34,40.82,Pertanian Organik,32.06
+1960,2014,Australia,'New South Wales',Coffee,2709.29,5.84,2.19,1,82.67,12.95,77.19,91.78,Tanpa Adaptasi,20.42
+3879,2014,Australia,'New South Wales',Coffee,1153.52,10.93,1.17,7,74.31,32.23,28.6,88.03,Pertanian Organik,9.71
+1149,2014,Australia,'New South Wales',Corn,1529.37,29.94,2.259,6,18.83,24.05,21.44,31.74,Manajemen Air,1.7
+2467,2014,Australia,'New South Wales',Corn,836.33,13.24,3.01,6,50.79,21.82,54.34,38.87,Tanaman Tahan Kekeringan,17.1
+2504,2014,Australia,'New South Wales',Corn,453.86,19.89,1.485,6,38.75,13.2,92.26,68.37,Rotasi Tanaman,-1.3
+2016,2014,Australia,'New South Wales',Cotton,1118.92,7.33,4.08,5,12.14,28.54,14.76,60.3,Rotasi Tanaman,13.58
+53,2014,Australia,'New South Wales',Soybeans,1272.03,14.87,0.63,10,60.17,17.89,86.48,54.61,Tanaman Tahan Kekeringan,-0.61
+973,2014,Australia,'New South Wales',Soybeans,1870.65,10.49,1.03,2,15.95,1.35,72.87,94.42,Manajemen Air,26.56
+2482,2014,Australia,'New South Wales',Vegetables,2101.18,13.35,2.02,9,73.06,28.18,39.17,64.78,Pertanian Organik,28.07
+6354,2014,Australia,'Western Australia',Barley,925.85,18.3,4.104,3,57.32,7.4,55.64,30.69,Tanpa Adaptasi,11.97
+7065,2014,Australia,'Western Australia',Barley,1917.96,10.82,0.75,5,73.0,9.14,84.19,68.04,Tanpa Adaptasi,0.71
+4086,2014,Australia,'Western Australia',Coffee,1972.06,8.63,3.51,9,65.27,31.01,77.99,73.98,Rotasi Tanaman,19.47
+5850,2014,Australia,'Western Australia',Fruits,348.6,8.61,2.16,5,25.35,46.96,31.29,74.07,Tanaman Tahan Kekeringan,3.92
+3048,2014,Australia,'Western Australia',Soybeans,907.91,29.77,2.511,5,,49.5,57.29,98.19,Tanaman Tahan Kekeringan,7.15
+4844,2014,Australia,'Western Australia',Soybeans,1430.97,20.06,3.402,0,61.25,32.69,44.55,55.73,Pertanian Organik,23.53
+4217,2014,Australia,'Western Australia',Wheat,2132.82,12.9,2.04,10,53.37,33.33,63.27,85.47,Pertanian Organik,13.47
+2200,2014,Australia,Queensland,Corn,2193.64,5.46,2.94,10,85.63,42.07,46.25,94.66,Rotasi Tanaman,13.77
+3553,2014,Australia,Queensland,Corn,2682.47,3.88,3.98,6,74.93,15.43,32.79,78.83,Manajemen Air,16.2
+1007,2014,Australia,Queensland,Cotton,1259.43,25.95,0.549,8,71.35,26.86,84.77,96.17,Manajemen Air,5.32
+5742,2014,Australia,Queensland,Cotton,2651.99,26.42,4.086,1,12.54,27.54,43.83,87.84,Pertanian Organik,15.07
+4347,2014,Australia,Queensland,Fruits,1940.83,10.41,2.69,6,25.59,36.75,15.4,97.15,Pertanian Organik,30.71
+7244,2014,Australia,Queensland,Fruits,396.7,26.97,3.3480000000000003,3,95.32,48.62,60.27,66.2,Tanaman Tahan Kekeringan,21.53
+279,2014,Australia,Queensland,Rice,2947.64,13.44,3.31,3,50.5,42.52,94.41,48.55,Rotasi Tanaman,27.85
+1085,2014,Australia,Queensland,Rice,1721.56,5.78,1.05,0,13.47,17.71,0.29,92.52,Manajemen Air,0.45
+5126,2014,Australia,Queensland,Rice,2510.94,25.0,1.908,8,49.68,31.24,30.4,81.83,Manajemen Air,9.68
+7518,2014,Australia,Queensland,Rice,2380.74,22.3,4.455,1,22.24,20.73,77.47,39.68,Rotasi Tanaman,13.17
+5676,2014,Australia,Queensland,Vegetables,304.0,19.73,3.771,9,22.97,25.41,3.25,67.8,Tanpa Adaptasi,17.44
+1439,2014,Australia,Victoria,Barley,1229.03,11.38,4.05,1,95.29,34.95,79.13,69.87,Manajemen Air,11.57
+863,2014,Australia,Victoria,Corn,2353.82,28.88,1.89,7,76.69,5.57,86.19,98.64,Rotasi Tanaman,-1.18
+4750,2014,Australia,Victoria,Soybeans,2542.62,10.05,2.72,7,27.43,1.79,56.31,97.3,Tanaman Tahan Kekeringan,8.97
+1054,2014,Australia,Victoria,Wheat,1578.95,4.73,2.02,0,65.41,17.47,21.83,75.29,Tanpa Adaptasi,20.23
+5286,2014,Australia,Victoria,Wheat,1001.36,24.2,1.386,4,43.88,7.48,9.42,80.16,Rotasi Tanaman,10.5
+6358,2015,Australia,'New South Wales',Barley,213.56,26.1,0.558,8,49.87,9.25,10.48,98.32,Rotasi Tanaman,6.8
+2410,2015,Australia,'New South Wales',Coffee,1889.34,9.97,0.99,7,62.67,46.59,26.92,64.36,Rotasi Tanaman,34.84
+5578,2015,Australia,'New South Wales',Cotton,2185.15,22.06,1.71,10,84.86,28.14,12.74,64.33,Pertanian Organik,12.37
+3859,2015,Australia,'New South Wales',Fruits,740.96,29.07,0.7200000000000001,4,78.13,32.94,12.69,98.22,Pertanian Organik,32.82
+1798,2015,Australia,'Western Australia',Coffee,1869.25,5.68,1.41,6,73.89,24.5,42.48,73.53,Manajemen Air,29.89
+196,2015,Australia,'Western Australia',Corn,2623.61,13.09,0.58,3,43.89,34.51,56.94,56.16,Pertanian Organik,-0.37
+3302,2015,Australia,Queensland,Barley,1180.14,5.8,3.26,5,53.24,48.08,98.85,45.82,Tanpa Adaptasi,10.09
+4921,2015,Australia,Queensland,Barley,2313.91,10.31,1.76,5,74.22,17.06,10.13,44.31,Rotasi Tanaman,22.1
+6392,2015,Australia,Queensland,Coffee,2305.0,15.65,2.142,8,45.81,26.0,81.0,83.52,Pertanian Organik,20.85
+7874,2015,Australia,Queensland,Corn,1357.83,21.3,3.114,3,97.7,48.13,50.26,76.26,Rotasi Tanaman,26.87
+4265,2015,Australia,Queensland,Fruits,1218.2,29.42,3.447,2,51.36,6.04,53.32,74.52,Tanaman Tahan Kekeringan,34.69
+6511,2015,Australia,Queensland,Vegetables,1839.13,18.03,1.665,6,41.27,46.01,90.53,81.58,Manajemen Air,13.35
+4415,2015,Australia,Queensland,Wheat,1065.11,1.2,2.9,6,35.01,47.21,88.84,66.19,Pertanian Organik,10.36
+3510,2015,Australia,Victoria,Coffee,2691.67,6.7,4.97,6,81.39,6.36,87.43,99.29,Tanaman Tahan Kekeringan,14.73
+57,2015,Australia,Victoria,Cotton,2883.88,24.61,1.647,4,49.0,25.29,72.27,83.44,Rotasi Tanaman,-4.14
+5528,2015,Australia,Victoria,Cotton,576.04,4.04,,0,82.68,18.64,27.82,52.54,Tanpa Adaptasi,27.84
+1654,2015,Australia,Victoria,Fruits,2609.84,3.98,4.7,9,46.55,24.13,17.19,48.08,Pertanian Organik,12.03
+6405,2015,Australia,Victoria,Rice,912.68,20.6,3.168,10,17.12,4.78,82.91,35.32,Manajemen Air,15.24
+4959,2015,Australia,Victoria,Soybeans,1459.1,27.5,2.8800000000000003,4,31.95,33.79,45.17,94.22,Pertanian Organik,26.83
+7650,2015,Australia,Victoria,Soybeans,2992.55,6.37,3.53,3,17.76,24.04,82.87,94.37,Rotasi Tanaman,30.65
+4022,2015,Australia,Victoria,,2501.65,23.84,1.6740000000000002,5,57.03,3.04,68.34,88.4,Tanaman Tahan Kekeringan,10.54
+638,2016,Australia,'New South Wales',Coffee,726.14,18.38,1.863,1,71.03,43.03,20.6,42.38,Pertanian Organik,-4.09
+7004,2016,Australia,'New South Wales',Coffee,1310.81,4.79,1.22,2,76.36,32.73,50.07,38.74,Tanpa Adaptasi,27.7
+6995,2016,Australia,'New South Wales',Cotton,1127.5,3.17,3.22,9,44.28,44.02,61.44,89.2,Manajemen Air,15.95
+5729,2016,Australia,'New South Wales',Fruits,366.04,16.69,0.864,2,76.75,11.86,65.74,39.44,Pertanian Organik,22.05
+1144,2016,Australia,'New South Wales',Rice,2407.75,29.16,2.538,9,25.59,7.73,74.84,64.75,Rotasi Tanaman,24.36
+2450,2016,Australia,'New South Wales',Rice,248.98,2.36,2.277,8,,48.45,57.7,67.94,Rotasi Tanaman,2.23
+3208,2016,Australia,'New South Wales',Sugarcane,442.41,13.81,1.683,7,21.37,13.96,2.26,35.76,Rotasi Tanaman,-0.75
+790,2016,Australia,'New South Wales',Wheat,2988.68,1.79,0.92,7,97.75,37.66,53.93,86.43,Pertanian Organik,25.68
+7965,2016,Australia,'Western Australia',Fruits,1909.78,20.36,2.367,10,30.2,4.88,39.33,66.58,Tanaman Tahan Kekeringan,33.05
+7726,2016,Australia,'Western Australia',Soybeans,1502.53,6.18,1.7,9,59.67,32.47,28.26,46.82,Tanaman Tahan Kekeringan,12.23
+7611,2016,Australia,'Western Australia',Vegetables,2697.95,28.55,1.278,0,39.82,40.28,68.42,71.22,Tanpa Adaptasi,23.13
+6164,2016,Australia,Queensland,Barley,1522.18,15.1,2.619,5,15.54,17.42,86.28,93.55,Rotasi Tanaman,12.22
+6052,2016,Australia,Queensland,Coffee,2361.25,9.89,2.1,9,24.37,16.98,12.59,36.05,Tanaman Tahan Kekeringan,32.31
+7233,2016,Australia,Queensland,Rice,,23.13,1.386,10,88.89,43.03,69.48,58.99,Pertanian Organik,24.16
+6839,2016,Australia,Queensland,Vegetables,1799.75,6.91,3.06,9,84.26,27.78,71.84,87.18,Pertanian Organik,33.26
+7512,2016,Australia,Victoria,Corn,2838.2,12.44,1.43,10,71.81,33.4,43.41,89.36,Rotasi Tanaman,-0.27
+902,2016,Australia,Victoria,Rice,838.74,29.14,0.873,8,74.46,0.94,56.59,41.75,Tanpa Adaptasi,-0.38
+4524,2016,Australia,Victoria,Rice,654.94,24.22,2.268,10,40.06,35.43,57.96,84.3,Manajemen Air,-0.63
+2014,2016,Australia,Victoria,Sugarcane,2117.48,25.73,2.574,5,46.0,36.9,11.64,83.55,Pertanian Organik,22.75
+2774,2016,Australia,Victoria,Sugarcane,2094.43,14.61,1.14,6,68.33,14.01,26.04,58.12,Manajemen Air,9.45
+4658,2017,Australia,'New South Wales',Vegetables,204.65,16.65,1.629,9,63.09,12.63,96.01,58.63,Rotasi Tanaman,9.1
+911,2017,Australia,'Western Australia',Barley,1249.16,1.56,1.87,8,18.2,49.56,27.13,81.6,Tanpa Adaptasi,13.58
+5177,2017,Australia,'Western Australia',Corn,690.96,11.81,1.71,6,29.58,5.26,87.92,76.5,Tanaman Tahan Kekeringan,34.37
+5269,2017,Australia,'Western Australia',Corn,2635.98,20.93,1.062,0,16.68,33.63,59.45,63.72,Manajemen Air,-4.76
+772,2017,Australia,Queensland,Coffee,2389.11,24.75,0.8280000000000001,4,90.42,39.47,38.27,38.02,Pertanian Organik,8.61
+4605,2017,Australia,Queensland,Wheat,759.78,8.51,3.61,3,76.84,13.5,35.67,42.65,Pertanian Organik,10.77
+6658,2017,Australia,Queensland,,2417.53,12.52,0.56,1,37.5,32.32,50.11,37.55,Rotasi Tanaman,-4.0
+3512,2017,Australia,Victoria,Coffee,457.53,5.47,3.996,2,10.07,13.3,7.75,79.38,Rotasi Tanaman,16.03
+1697,2017,Australia,Victoria,Corn,2650.71,2.66,2.36,2,77.65,38.51,77.22,48.58,Rotasi Tanaman,-1.46
+2589,2017,Australia,Victoria,Corn,986.13,17.14,2.583,0,92.1,31.2,33.92,42.47,Pertanian Organik,28.85
+4693,2017,Australia,Victoria,Corn,1907.74,18.94,2.2230000000000003,1,70.61,36.53,16.28,46.83,Rotasi Tanaman,8.36
+4786,2017,Australia,Victoria,Cotton,536.64,21.16,0.9,0,48.19,15.02,34.9,74.75,Manajemen Air,24.95
+7448,2017,Australia,Victoria,Cotton,2088.99,21.85,4.311,10,30.74,34.09,12.18,77.6,Rotasi Tanaman,19.9
+7905,2017,Australia,Victoria,Vegetables,1911.82,26.79,1.431,4,27.82,47.69,12.09,67.51,Manajemen Air,3.79
+554,2017,Australia,Victoria,Wheat,2067.39,9.28,1.97,5,13.76,35.62,99.54,51.99,Tanpa Adaptasi,32.47
+1937,2017,Australia,Victoria,Wheat,296.34,10.26,1.035,0,52.81,42.01,28.24,90.27,Pertanian Organik,34.92
+2130,2018,Australia,'New South Wales',Barley,953.92,27.56,1.845,5,30.04,13.32,34.79,37.5,Tanpa Adaptasi,29.97
+4455,2018,Australia,'New South Wales',Corn,554.33,23.47,2.556,0,91.52,13.24,58.22,65.89,Rotasi Tanaman,4.32
+7595,2018,Australia,'New South Wales',Sugarcane,826.8,23.71,2.286,2,69.03,23.87,17.8,33.07,Manajemen Air,33.16
+7627,2018,Australia,'Western Australia',Cotton,2429.78,28.75,1.161,4,19.24,6.03,31.72,66.14,Pertanian Organik,33.54
+6531,2018,Australia,'Western Australia',Vegetables,1110.61,0.85,1.69,8,,3.65,70.23,74.21,Manajemen Air,19.99
+6768,2018,Australia,Queensland,Barley,2380.89,0.55,,2,90.06,28.01,45.34,31.63,Manajemen Air,34.0
+7684,2018,Australia,Queensland,Fruits,1538.19,16.76,2.277,5,39.34,28.29,38.45,37.01,Tanaman Tahan Kekeringan,13.12
+388,2018,Australia,Queensland,Rice,1881.28,28.31,1.863,9,66.69,12.29,16.45,93.65,Pertanian Organik,1.08
+7217,2018,Australia,Queensland,Rice,606.55,20.19,3.15,8,92.43,46.44,35.86,82.04,Tanpa Adaptasi,34.83
+5878,2018,Australia,Queensland,Sugarcane,364.49,20.05,0.765,7,46.14,35.64,15.56,88.18,Tanpa Adaptasi,33.04
+3498,2018,Australia,Queensland,Vegetables,2245.84,6.86,0.86,9,63.97,7.8,9.15,46.86,Manajemen Air,30.31
+4662,2018,Australia,Victoria,Coffee,2593.55,4.34,4.28,10,29.39,39.77,9.93,48.22,Tanpa Adaptasi,19.92
+6701,2018,Australia,Victoria,Coffee,2750.05,9.97,2.54,8,83.62,14.74,20.28,50.36,Tanaman Tahan Kekeringan,17.46
+6237,2018,Australia,Victoria,Cotton,1733.81,19.65,,3,43.18,35.48,74.99,75.19,Tanpa Adaptasi,14.39
+2765,2018,Australia,Victoria,Vegetables,2909.45,22.49,1.521,2,40.74,24.97,23.61,77.46,Tanpa Adaptasi,-1.52
+4572,2018,Australia,Victoria,Vegetables,2824.28,9.8,0.9,1,29.61,45.86,34.14,41.63,Manajemen Air,25.22
+3383,2019,Australia,'New South Wales',Cotton,2790.32,13.98,0.87,10,66.9,42.72,30.6,77.27,Rotasi Tanaman,31.6
+3681,2019,Australia,'New South Wales',Cotton,1412.78,1.98,2.89,7,23.1,18.93,13.3,67.91,Manajemen Air,33.45
+1748,2019,Australia,'New South Wales',Rice,2513.56,25.76,0.99,2,90.53,30.61,37.22,30.96,Tanaman Tahan Kekeringan,4.53
+3005,2019,Australia,'New South Wales',Soybeans,891.88,22.06,2.979,9,47.94,13.28,86.28,82.6,Tanpa Adaptasi,26.88
+3637,2019,Australia,'New South Wales',Wheat,1222.35,26.35,1.62,3,76.52,40.08,6.97,44.6,Tanaman Tahan Kekeringan,16.22
+6105,2019,Australia,'Western Australia',Barley,2799.86,28.49,1.296,6,64.45,5.95,72.33,51.88,Manajemen Air,34.34
+4199,2019,Australia,'Western Australia',Fruits,1378.51,14.46,2.92,2,,3.22,16.32,86.67,Tanpa Adaptasi,22.57
+5300,2019,Australia,'Western Australia',Fruits,2538.41,11.05,1.66,4,18.97,30.43,80.69,51.53,Pertanian Organik,8.17
+5860,2019,Australia,'Western Australia',Fruits,2139.99,12.62,2.96,9,82.45,20.17,7.11,76.49,Manajemen Air,3.32
+5794,2019,Australia,Queensland,Coffee,497.31,27.03,1.611,9,71.68,41.68,68.32,38.57,Pertanian Organik,33.76
+339,2019,Australia,Queensland,Corn,1909.56,1.29,1.14,7,20.34,21.03,1.45,34.23,Manajemen Air,31.29
+6678,2019,Australia,Queensland,Cotton,2172.56,27.3,3.222,10,40.79,25.71,49.53,53.45,Tanpa Adaptasi,10.87
+6149,2019,Australia,Queensland,Sugarcane,241.55,27.74,1.953,3,74.62,9.24,70.08,86.46,Manajemen Air,12.35
+7157,2019,Australia,Queensland,Vegetables,2288.12,14.82,1.58,8,41.68,40.31,85.51,98.12,Manajemen Air,3.99
+4838,2019,Australia,Queensland,,2062.82,5.7,3.81,8,43.46,40.73,93.33,78.62,Pertanian Organik,18.0
+7533,2019,Australia,Victoria,Barley,1000.13,11.08,0.79,6,75.05,40.54,28.02,57.96,Tanaman Tahan Kekeringan,9.35
+1032,2019,Australia,Victoria,Cotton,937.95,10.42,2.93,4,29.58,40.67,83.47,36.3,Tanpa Adaptasi,19.68
+4768,2019,Australia,Victoria,Fruits,640.2,20.21,3.276,9,51.21,40.02,51.38,83.6,Pertanian Organik,23.33
+7971,2019,Australia,Victoria,Fruits,2568.09,28.08,2.097,1,11.91,5.05,37.74,69.72,Pertanian Organik,34.59
+986,2019,Australia,Victoria,Rice,2474.69,26.45,1.125,8,75.84,35.2,42.85,62.48,Rotasi Tanaman,23.57
+709,2020,Australia,'New South Wales',Corn,2014.34,27.31,2.61,4,44.4,41.31,57.22,47.41,Pertanian Organik,4.2
+6647,2020,Australia,'New South Wales',Corn,771.85,6.97,3.47,1,82.08,42.14,42.08,71.12,Tanaman Tahan Kekeringan,27.68
+3377,2020,Australia,'New South Wales',Fruits,2330.99,18.23,0.936,5,81.05,0.77,19.44,90.85,Tanaman Tahan Kekeringan,-0.33
+174,2020,Australia,'New South Wales',Rice,2823.76,8.24,1.92,9,48.61,39.25,4.75,95.39,Tanpa Adaptasi,3.33
+2315,2020,Australia,'New South Wales',Sugarcane,1075.5,13.02,2.8,4,27.58,19.32,17.33,86.09,Tanaman Tahan Kekeringan,13.19
+3468,2020,Australia,'Western Australia',Soybeans,1744.29,23.44,1.746,1,64.22,1.31,60.84,99.72,Pertanian Organik,34.14
+3871,2020,Australia,'Western Australia',Sugarcane,1743.11,13.69,1.69,2,23.95,39.15,67.61,42.34,Manajemen Air,17.77
+7450,2020,Australia,'Western Australia',Sugarcane,2990.14,17.12,3.6,5,68.26,11.98,95.2,50.92,Tanaman Tahan Kekeringan,18.35
+486,2020,Australia,'Western Australia',Vegetables,784.23,10.57,0.88,2,90.83,47.14,77.36,51.02,Pertanian Organik,-1.3
+1183,2020,Australia,Queensland,Corn,862.86,5.27,1.13,9,76.0,5.86,42.27,80.0,Rotasi Tanaman,22.18
+794,2020,Australia,Queensland,Fruits,2603.79,10.46,1.01,9,90.75,27.85,64.5,97.85,Tanaman Tahan Kekeringan,0.93
+4138,2020,Australia,Queensland,Soybeans,1153.19,12.58,3.93,6,89.65,7.52,80.84,57.72,Tanpa Adaptasi,24.58
+6179,2020,Australia,Queensland,Soybeans,367.7,27.0,4.149,9,75.25,46.97,31.2,93.47,Rotasi Tanaman,11.71
+7309,2020,Australia,Queensland,Vegetables,272.15,26.21,1.053,4,28.84,32.6,38.66,44.21,Manajemen Air,9.71
+7945,2020,Australia,Victoria,Coffee,1958.91,7.98,3.72,6,64.64,14.13,73.9,97.36,Pertanian Organik,24.15
+2998,2020,Australia,Victoria,Corn,2268.91,1.45,1.84,6,47.38,16.9,84.07,39.34,Rotasi Tanaman,7.56
+6792,2020,Australia,Victoria,Corn,1548.83,12.11,3.71,10,34.18,35.41,73.31,41.5,Tanpa Adaptasi,27.35
+7966,2020,Australia,Victoria,Cotton,2884.25,26.14,2.3400000000000003,9,95.12,28.99,9.88,98.91,Manajemen Air,16.47
+172,2020,Australia,Victoria,Vegetables,2313.43,21.11,0.81,8,80.27,45.49,39.55,65.35,Tanaman Tahan Kekeringan,7.5
+6312,2020,Australia,Victoria,Vegetables,1577.21,7.21,1.09,1,71.91,23.9,59.37,43.3,Pertanian Organik,-0.78
+6793,2020,Australia,Victoria,Vegetables,250.49,14.21,,5,90.96,2.7,27.19,82.22,Tanaman Tahan Kekeringan,9.99
+5084,2021,Australia,'New South Wales',Barley,874.37,8.05,1.36,2,97.42,44.69,54.56,92.45,Tanpa Adaptasi,3.67
+5372,2021,Australia,'New South Wales',Cotton,1318.73,9.4,3.15,0,75.85,3.46,87.06,52.05,Rotasi Tanaman,11.49
+6380,2021,Australia,'New South Wales',Cotton,1583.95,8.11,3.34,3,55.39,41.4,17.66,38.91,Manajemen Air,31.34
+623,2021,Australia,'New South Wales',Fruits,1054.39,21.27,2.3040000000000003,7,10.55,19.45,65.19,59.95,Tanaman Tahan Kekeringan,3.15
+832,2021,Australia,'New South Wales',Fruits,578.59,14.57,0.89,8,24.94,39.19,81.38,39.54,Manajemen Air,29.25
+2961,2021,Australia,'New South Wales',Fruits,797.48,14.42,3.96,4,22.28,20.15,80.67,36.24,Tanpa Adaptasi,33.74
+4328,2021,Australia,'New South Wales',Fruits,2608.0,6.1,2.12,3,49.44,18.48,84.89,56.38,Tanaman Tahan Kekeringan,17.23
+7516,2021,Australia,'New South Wales',Fruits,2586.04,20.19,1.503,2,43.07,28.21,20.5,53.13,Tanaman Tahan Kekeringan,0.44
+1486,2021,Australia,'New South Wales',Rice,786.17,7.77,3.27,4,66.53,13.44,40.5,63.16,Tanaman Tahan Kekeringan,25.63
+3472,2021,Australia,'New South Wales',Rice,2896.68,7.82,0.93,9,85.98,23.89,20.29,81.13,Manajemen Air,5.19
+5896,2021,Australia,'New South Wales',Wheat,472.38,18.08,0.891,8,81.08,44.22,52.36,60.1,Tanpa Adaptasi,9.51
+2954,2021,Australia,'Western Australia',Corn,1121.14,7.5,1.65,5,28.87,24.61,60.56,80.19,Tanaman Tahan Kekeringan,34.85
+1107,2021,Australia,'Western Australia',Rice,2887.66,15.84,3.3480000000000003,0,77.67,31.4,38.82,79.29,Rotasi Tanaman,30.74
+4159,2021,Australia,'Western Australia',Vegetables,1096.57,4.09,2.37,4,53.95,45.9,69.99,40.07,Pertanian Organik,23.65
+2401,2021,Australia,Queensland,Cotton,1671.5,19.29,2.43,7,86.7,10.65,47.93,42.25,Rotasi Tanaman,26.17
+5057,2021,Australia,Queensland,Fruits,1406.69,9.6,2.31,7,82.14,10.94,96.54,43.89,Tanpa Adaptasi,-4.68
+686,2021,Australia,Victoria,Coffee,2595.23,24.25,3.834,6,69.43,19.57,87.02,86.35,Pertanian Organik,16.93
+19,2021,Australia,Victoria,Cotton,797.85,1.12,1.39,6,92.2,10.55,68.2,59.12,Tanaman Tahan Kekeringan,0.03
+7455,2021,Australia,Victoria,Cotton,788.11,5.73,,2,68.82,40.55,74.91,57.14,Tanaman Tahan Kekeringan,-1.06
+7618,2021,Australia,Victoria,Cotton,1191.16,29.88,2.277,7,72.58,17.69,9.86,94.81,Tanaman Tahan Kekeringan,-3.19
+1598,2021,Australia,Victoria,Fruits,2902.26,22.8,2.232,2,37.02,32.07,43.09,55.68,Tanaman Tahan Kekeringan,30.19
+2358,2021,Australia,Victoria,Rice,1068.65,26.28,1.116,9,21.21,16.75,94.48,61.6,Rotasi Tanaman,23.57
+3843,2021,Australia,Victoria,Soybeans,971.78,20.46,3.339,1,42.2,5.95,68.5,62.89,Tanaman Tahan Kekeringan,27.65
+1330,2021,Australia,Victoria,Vegetables,1118.64,22.68,1.4400000000000002,6,57.3,12.8,78.19,77.65,Manajemen Air,3.81
+7108,2021,Australia,Victoria,Vegetables,2544.44,12.6,2.67,7,80.16,38.28,55.63,88.65,Pertanian Organik,-0.77
+1086,2021,Australia,Victoria,Wheat,746.63,14.4,3.61,1,99.32,2.47,61.86,67.2,Rotasi Tanaman,11.78
+5711,2021,Australia,Victoria,Wheat,507.38,27.49,1.827,8,88.86,43.65,38.15,79.64,Rotasi Tanaman,-3.14
+5667,2021,Australia,Victoria,,1203.04,6.57,1.59,7,56.27,20.33,7.3,37.65,Tanaman Tahan Kekeringan,26.29
+7478,2022,Australia,'New South Wales',Barley,330.32,16.18,1.764,3,28.61,33.56,30.62,97.37,Manajemen Air,-0.03
+5759,2022,Australia,'New South Wales',Corn,2806.85,6.35,3.05,9,43.43,39.26,58.07,77.4,Rotasi Tanaman,16.2
+3480,2022,Australia,'New South Wales',Cotton,784.24,8.14,1.94,3,86.57,19.6,78.32,33.81,Tanaman Tahan Kekeringan,0.34
+5462,2022,Australia,'New South Wales',Rice,1431.14,18.01,1.431,0,98.49,44.6,40.76,72.1,Manajemen Air,-2.88
+850,2022,Australia,'New South Wales',Soybeans,2947.47,13.36,2.92,5,91.18,29.29,88.85,84.83,Rotasi Tanaman,-1.97
+337,2022,Australia,'New South Wales',Vegetables,233.62,4.47,2.2230000000000003,5,56.09,41.29,44.39,32.05,Tanaman Tahan Kekeringan,-1.59
+1172,2022,Australia,'New South Wales',Wheat,1091.31,18.92,0.774,9,32.36,34.38,99.52,33.39,Rotasi Tanaman,9.96
+2682,2022,Australia,'New South Wales',Wheat,2332.71,1.33,1.84,6,54.88,6.41,63.38,44.65,Pertanian Organik,13.62
+1184,2022,Australia,'Western Australia',Cotton,2273.52,8.79,1.04,3,43.61,44.44,12.26,46.59,Tanaman Tahan Kekeringan,27.18
+6492,2022,Australia,'Western Australia',Fruits,1252.71,21.99,2.196,0,52.59,0.97,99.53,47.57,Pertanian Organik,19.62
+6652,2022,Australia,'Western Australia',Wheat,1077.63,5.07,,9,56.0,41.62,13.52,57.34,Tanaman Tahan Kekeringan,4.27
+1055,2022,Australia,Queensland,Barley,998.03,21.35,1.305,3,86.93,23.38,20.89,42.06,Manajemen Air,31.16
+4794,2022,Australia,Queensland,Barley,470.23,7.8,2.475,5,95.66,5.88,87.95,85.5,Rotasi Tanaman,22.09
+5182,2022,Australia,Queensland,Coffee,2257.09,8.8,1.81,2,54.53,44.37,91.34,86.28,Pertanian Organik,-2.36
+5665,2022,Australia,Queensland,Coffee,1434.04,14.23,2.76,1,81.95,4.28,24.21,91.99,Tanpa Adaptasi,7.57
+4903,2022,Australia,Queensland,Corn,1285.08,5.87,4.46,2,94.3,41.79,44.49,96.89,Rotasi Tanaman,11.6
+5814,2022,Australia,Queensland,Corn,1597.86,2.32,1.92,1,18.52,7.68,86.47,95.51,Manajemen Air,-2.81
+7118,2022,Australia,Queensland,Cotton,1628.27,19.25,1.179,1,71.84,12.92,19.6,95.57,Tanaman Tahan Kekeringan,6.18
+5536,2022,Australia,Queensland,Soybeans,2941.85,14.13,1.6,7,40.79,9.33,71.99,39.69,Manajemen Air,31.64
+6321,2022,Australia,Queensland,Wheat,1165.89,0.9,2.91,9,14.11,31.07,35.96,93.57,Tanaman Tahan Kekeringan,31.78
+1582,2022,Australia,Victoria,Barley,2314.03,18.86,1.449,6,79.25,26.65,38.36,42.49,Pertanian Organik,6.66
+4870,2022,Australia,Victoria,Barley,1407.38,8.4,1.44,6,54.86,17.01,13.43,90.33,Pertanian Organik,8.03
+311,2022,Australia,Victoria,Corn,1546.03,2.18,2.93,3,43.77,39.05,65.31,77.63,Rotasi Tanaman,21.23
+1851,2022,Australia,Victoria,Corn,1652.81,25.75,1.791,0,55.33,6.97,72.53,48.37,Tanpa Adaptasi,-3.4
+4264,2022,Australia,Victoria,Corn,615.16,9.76,2.72,7,92.78,18.25,77.92,63.97,Tanaman Tahan Kekeringan,19.79
+2953,2022,Australia,Victoria,Cotton,2235.11,4.75,1.82,5,18.57,23.24,11.61,76.42,Tanaman Tahan Kekeringan,26.56
+3753,2022,Australia,Victoria,Soybeans,545.42,23.16,1.449,8,51.49,49.47,73.76,48.16,Manajemen Air,2.68
+4459,2023,Australia,'New South Wales',Barley,2731.37,5.41,2.81,5,52.17,27.71,11.96,45.46,Manajemen Air,8.53
+3870,2023,Australia,'New South Wales',Corn,860.7,15.59,2.07,10,37.24,11.03,24.91,73.02,Tanaman Tahan Kekeringan,22.81
+4937,2023,Australia,'New South Wales',Corn,286.61,28.88,,1,46.61,15.22,19.63,68.83,Tanaman Tahan Kekeringan,27.45
+2849,2023,Australia,'New South Wales',Cotton,559.47,25.94,0.9,4,76.49,44.33,74.55,71.87,Rotasi Tanaman,-1.62
+5912,2023,Australia,'New South Wales',Fruits,1808.01,22.8,2.313,9,51.09,46.47,8.21,94.04,Tanpa Adaptasi,16.96
+1579,2023,Australia,'New South Wales',Rice,289.33,17.79,1.494,10,50.8,44.85,19.43,61.09,Tanpa Adaptasi,18.67
+1730,2023,Australia,'New South Wales',Soybeans,1644.29,13.23,2.27,3,83.38,38.03,22.24,82.99,Manajemen Air,20.76
+6764,2023,Australia,'New South Wales',Soybeans,2866.97,13.3,1.53,10,19.57,20.81,20.75,90.88,Rotasi Tanaman,0.14
+3630,2023,Australia,'New South Wales',Sugarcane,2888.77,20.83,1.656,1,34.11,7.97,1.91,73.38,Tanpa Adaptasi,18.16
+5780,2023,Australia,'New South Wales',Vegetables,2653.98,27.89,1.305,9,48.81,6.93,71.62,99.94,Manajemen Air,5.91
+7128,2023,Australia,'New South Wales',Wheat,616.35,1.11,2.58,5,67.2,15.83,41.28,64.15,Pertanian Organik,28.93
+1921,2023,Australia,'Western Australia',Barley,1303.51,23.11,2.124,3,29.47,12.32,42.51,71.4,Manajemen Air,10.64
+726,2023,Australia,'Western Australia',Coffee,623.52,10.17,0.93,8,71.51,37.74,54.28,89.52,Pertanian Organik,20.63
+562,2023,Australia,'Western Australia',Fruits,1420.33,3.54,3.9,0,86.71,15.37,21.32,54.04,Rotasi Tanaman,10.03
+5664,2023,Australia,'Western Australia',Sugarcane,2821.98,13.32,3.85,0,62.58,34.25,53.3,47.39,Rotasi Tanaman,31.49
+5741,2023,Australia,'Western Australia',Vegetables,2512.43,11.45,3.84,6,16.77,24.64,59.25,50.99,Manajemen Air,24.99
+5383,2023,Australia,Queensland,Coffee,2116.13,20.44,2.2230000000000003,1,69.31,39.64,6.74,63.03,Pertanian Organik,33.95
+3226,2023,Australia,Queensland,Cotton,1536.77,12.33,2.32,5,41.73,42.04,61.54,30.49,Rotasi Tanaman,31.35
+5302,2023,Australia,Victoria,Corn,491.55,3.58,0.747,8,96.57,32.09,11.68,37.59,Tanpa Adaptasi,28.18
+1617,2023,Australia,Victoria,Cotton,1037.45,1.93,0.62,2,39.93,9.55,48.83,75.35,Tanaman Tahan Kekeringan,0.94
+6523,2023,Australia,Victoria,Cotton,1082.37,5.9,4.79,5,88.13,16.08,55.68,35.51,Rotasi Tanaman,14.59
+4134,2023,Australia,Victoria,Vegetables,1303.04,5.17,2.42,10,50.39,14.95,93.66,57.55,Rotasi Tanaman,13.61
+6572,2023,Australia,Victoria,Vegetables,1135.78,18.89,3.159,4,23.33,33.06,77.93,97.0,Manajemen Air,15.56
+881,2024,Australia,'New South Wales',Coffee,1361.3,22.13,4.221,5,38.46,47.81,83.4,78.13,Pertanian Organik,12.4
+5367,2024,Australia,'New South Wales',Corn,2428.05,19.43,2.4120000000000004,1,54.9,32.69,12.32,59.73,Tanpa Adaptasi,16.21
+4983,2024,Australia,'New South Wales',Cotton,1769.29,9.62,3.29,2,47.52,22.75,45.35,65.09,Manajemen Air,14.2
+7787,2024,Australia,'New South Wales',Cotton,,15.3,1.4580000000000002,2,87.65,35.47,46.23,57.76,Tanaman Tahan Kekeringan,25.74
+5856,2024,Australia,'New South Wales',Fruits,1421.68,18.94,3.5370000000000004,3,75.64,39.22,90.61,78.57,Tanaman Tahan Kekeringan,19.11
+577,2024,Australia,'New South Wales',Soybeans,604.4,24.09,0.864,3,43.36,10.75,32.23,56.35,Rotasi Tanaman,28.43
+1796,2024,Australia,'New South Wales',Soybeans,2261.66,10.48,3.36,4,44.44,24.45,14.41,38.23,Tanpa Adaptasi,22.47
+2501,2024,Australia,'New South Wales',Soybeans,1445.99,21.67,0.648,5,35.96,25.24,81.33,94.2,Tanaman Tahan Kekeringan,7.18
+418,2024,Australia,'New South Wales',Sugarcane,,2.25,0.88,6,76.52,40.6,76.74,86.65,Pertanian Organik,2.42
+7234,2024,Australia,'New South Wales',Sugarcane,1413.98,19.24,2.259,9,62.04,0.87,13.89,40.57,Tanaman Tahan Kekeringan,30.48
+1577,2024,Australia,'Western Australia',Barley,964.35,24.91,2.034,10,75.19,25.96,84.81,31.55,Tanaman Tahan Kekeringan,16.26
+741,2024,Australia,'Western Australia',Cotton,1560.5,6.98,1.45,2,69.08,10.04,94.86,40.99,Tanaman Tahan Kekeringan,-3.31
+4796,2024,Australia,'Western Australia',Sugarcane,1739.05,24.46,1.71,10,84.76,35.75,33.52,62.91,Tanpa Adaptasi,14.46
+3200,2024,Australia,'Western Australia',Vegetables,308.49,21.46,3.996,4,39.35,0.87,36.86,67.03,Pertanian Organik,15.09
+5776,2024,Australia,'Western Australia',Wheat,2607.31,24.61,0.8190000000000001,10,53.64,19.96,12.53,69.96,Tanpa Adaptasi,-1.42
+4303,2024,Australia,Queensland,Rice,1609.77,26.1,1.2240000000000002,2,,2.3,75.05,53.16,Manajemen Air,8.2
+3184,2024,Australia,Queensland,Soybeans,2998.47,12.81,3.21,1,30.4,44.99,84.77,64.11,Tanaman Tahan Kekeringan,20.22
+961,2024,Australia,Queensland,Sugarcane,2470.62,28.58,4.1850000000000005,10,73.91,24.58,74.84,73.06,Pertanian Organik,16.88
+1223,2024,Australia,Queensland,Sugarcane,2470.9,12.98,0.78,4,70.91,0.06,8.82,97.97,Tanaman Tahan Kekeringan,8.99
+1155,2024,Australia,Queensland,Vegetables,2296.02,28.38,0.864,2,48.66,30.05,2.19,78.6,Manajemen Air,4.22
+6720,2024,Australia,Queensland,Vegetables,2363.56,19.39,1.629,7,42.89,35.59,32.38,73.74,Rotasi Tanaman,8.67
+4711,2024,Australia,Queensland,,2476.45,15.18,3.582,5,33.86,18.55,38.72,68.24,Pertanian Organik,20.01
+2751,2024,Australia,Victoria,Coffee,1179.71,16.01,2.295,3,70.54,33.2,95.09,98.05,Tanaman Tahan Kekeringan,14.33
+7657,2024,Australia,Victoria,Corn,730.24,24.35,1.566,1,11.49,47.39,94.54,61.82,Tanaman Tahan Kekeringan,24.79
+3580,2024,Australia,Victoria,Cotton,870.49,29.32,1.962,6,22.22,11.5,6.68,78.66,Tanpa Adaptasi,32.89
+3985,2024,Australia,Victoria,Cotton,782.84,23.38,1.773,5,46.78,6.77,65.83,97.1,Manajemen Air,1.02
+7358,2024,Australia,Victoria,Cotton,378.13,2.78,2.394,10,64.24,29.84,13.54,50.01,Manajemen Air,-3.85
+3774,2024,Australia,Victoria,Rice,531.93,19.76,2.475,4,96.79,0.79,79.01,87.6,Tanpa Adaptasi,27.19
+3952,2024,Australia,Victoria,Vegetables,362.02,1.1,2.43,6,40.43,11.47,29.23,95.31,Rotasi Tanaman,12.83

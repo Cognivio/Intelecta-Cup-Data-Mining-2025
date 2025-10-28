@@ -1,0 +1,772 @@
+ID,Tahun,Nama_Negara,Wilayah,Jenis_Tanaman,Total_Curah_Hujan_mm,Emisi_CO2_JT_Ton,Hasil_Panen_Ton_per_HA,Kejadian_Cuaca_Ekstrim,Akses_Irigasi,Penggunaan_Pestisida_KG_per_HA,Penggunaan_Pupuk_KG_per_HA,Indeks_Kesehatan_Tanah,Strategi_Adaptasi,Suhu_Rata_Rata_C
+522,1990,Russia,Central,Coffee,235.95,16.62,2.592,8,69.38,20.97,99.5,33.63,Rotasi Tanaman,32.02
+2261,1990,Russia,Central,Coffee,2567.68,24.32,2.52,0,98.83,25.77,21.2,57.98,Manajemen Air,-1.55
+3995,1990,Russia,Central,Cotton,1441.75,23.06,1.098,5,49.61,22.31,11.96,60.21,Manajemen Air,9.2
+5482,1990,Russia,Central,Cotton,359.77,22.78,3.483,5,47.89,17.24,48.52,79.21,Pertanian Organik,16.1
+7840,1990,Russia,Central,Rice,1103.53,8.05,,9,95.71,9.66,18.72,85.83,Tanpa Adaptasi,34.78
+1530,1990,Russia,Central,Soybeans,303.52,11.09,1.116,10,80.05,10.25,34.94,50.98,Rotasi Tanaman,-2.88
+1882,1990,Russia,Central,Vegetables,2690.23,29.05,0.63,0,30.01,40.87,99.65,34.14,Rotasi Tanaman,4.01
+5872,1990,Russia,Central,Vegetables,2909.45,2.61,1.54,10,17.68,46.88,61.85,90.84,Pertanian Organik,3.09
+4083,1990,Russia,Northwestern,Coffee,1568.56,14.58,2.26,4,70.19,8.76,79.43,79.24,Tanaman Tahan Kekeringan,24.42
+5315,1990,Russia,Northwestern,Corn,1164.1,13.28,1.27,6,38.45,44.24,63.18,39.72,Pertanian Organik,34.76
+1846,1990,Russia,Northwestern,Soybeans,1569.38,8.49,1.19,7,83.76,14.71,62.46,44.41,Tanaman Tahan Kekeringan,20.71
+5782,1990,Russia,Northwestern,Soybeans,1002.5,7.04,2.3,6,95.37,34.8,52.33,62.5,Pertanian Organik,-1.7
+1003,1990,Russia,Northwestern,Sugarcane,2625.82,4.48,0.57,10,99.05,32.22,88.34,52.61,Tanpa Adaptasi,7.19
+3544,1990,Russia,Siberian,Corn,470.21,22.74,2.115,7,67.62,45.98,91.59,89.64,Manajemen Air,1.05
+2376,1990,Russia,Siberian,Fruits,1177.02,5.84,1.1,5,42.4,38.74,18.22,47.48,Manajemen Air,-3.57
+7148,1990,Russia,Siberian,Soybeans,2401.14,23.49,1.404,1,64.74,9.71,75.58,80.06,Rotasi Tanaman,28.55
+2466,1990,Russia,Siberian,Sugarcane,438.15,22.54,2.331,8,29.54,19.62,85.07,61.81,Rotasi Tanaman,5.09
+1020,1990,Russia,Volga,Barley,2087.37,22.03,0.648,5,80.97,44.22,54.19,71.67,Pertanian Organik,3.46
+6685,1990,Russia,Volga,Barley,389.2,23.58,4.203,3,24.99,18.74,67.65,80.63,Manajemen Air,17.12
+3345,1990,Russia,Volga,Coffee,2559.5,29.74,3.933,4,70.35,13.15,86.62,35.57,Tanpa Adaptasi,13.94
+7351,1990,Russia,Volga,Coffee,2662.36,29.85,1.233,8,44.67,2.49,45.95,91.26,Manajemen Air,6.23
+1090,1990,Russia,Volga,Cotton,2106.57,21.24,1.107,4,80.18,5.48,44.52,75.12,Tanpa Adaptasi,8.95
+2135,1990,Russia,Volga,Fruits,262.78,16.42,,4,26.71,30.04,40.29,92.78,Pertanian Organik,3.82
+12,1990,Russia,Volga,Soybeans,2110.11,9.34,0.8,4,64.44,6.22,65.73,46.02,Tanpa Adaptasi,24.12
+2536,1990,Russia,Volga,Soybeans,708.91,3.98,1.93,2,71.97,31.55,33.25,73.67,Rotasi Tanaman,8.07
+273,1990,Russia,Volga,Sugarcane,2583.48,2.45,0.89,3,12.03,7.31,42.99,96.49,Manajemen Air,-0.51
+1334,1991,Russia,Central,Coffee,298.48,23.84,3.411,0,35.72,20.81,44.46,38.99,Rotasi Tanaman,34.63
+5977,1991,Russia,Central,Corn,2731.06,22.85,1.323,7,82.0,3.28,93.46,93.99,Rotasi Tanaman,-4.45
+6462,1991,Russia,Central,Fruits,329.86,6.05,3.384,4,38.34,18.81,28.35,33.28,Manajemen Air,34.81
+7159,1991,Russia,Central,Fruits,395.8,20.4,2.142,1,65.7,18.13,51.79,83.54,Tanpa Adaptasi,25.74
+3724,1991,Russia,Central,Vegetables,1058.39,11.92,1.24,7,61.69,11.83,13.49,50.06,Pertanian Organik,33.54
+1549,1991,Russia,Central,Wheat,649.72,7.56,0.6,2,20.87,32.73,57.45,72.54,Rotasi Tanaman,-0.74
+4597,1991,Russia,Central,Wheat,1055.83,22.15,3.78,6,71.27,29.71,25.92,75.37,Rotasi Tanaman,19.2
+5562,1991,Russia,Central,Wheat,2316.07,9.33,3.8,3,16.98,16.7,21.3,41.95,Manajemen Air,17.01
+540,1991,Russia,Northwestern,Barley,1339.3,1.71,3.23,9,61.56,2.35,46.15,82.3,Tanpa Adaptasi,30.13
+6449,1991,Russia,Northwestern,Fruits,1052.23,10.17,3.17,10,41.61,1.43,62.85,67.48,Tanpa Adaptasi,15.01
+1148,1991,Russia,Northwestern,Rice,360.53,0.66,2.52,10,98.19,18.18,98.13,68.53,Manajemen Air,17.46
+1850,1991,Russia,Northwestern,Rice,2396.33,22.12,2.3040000000000003,1,22.6,34.28,29.53,65.68,Rotasi Tanaman,34.42
+2554,1991,Russia,Northwestern,Sugarcane,1109.2,18.55,3.276,0,34.66,5.5,37.25,39.37,Tanpa Adaptasi,31.24
+5762,1991,Russia,Northwestern,Wheat,1112.81,13.57,2.02,5,91.89,41.69,82.7,73.28,Pertanian Organik,14.84
+229,1991,Russia,Northwestern,,519.91,29.89,1.251,6,69.0,1.12,16.89,84.2,Manajemen Air,20.07
+5998,1991,Russia,Siberian,Coffee,2797.94,4.61,3.15,1,62.24,20.72,91.52,54.87,Pertanian Organik,27.56
+6344,1991,Russia,Siberian,Coffee,2552.83,23.85,0.477,10,89.7,40.84,54.88,99.77,Manajemen Air,6.58
+4850,1991,Russia,Siberian,Corn,2040.78,18.51,1.242,4,53.51,18.62,1.97,93.75,Pertanian Organik,-4.64
+5645,1991,Russia,Siberian,Corn,712.35,5.75,0.95,1,50.79,37.12,84.83,47.06,Rotasi Tanaman,25.85
+4266,1991,Russia,Siberian,Fruits,1646.55,5.2,3.08,3,78.8,48.17,25.05,41.68,Tanpa Adaptasi,15.52
+1770,1991,Russia,Siberian,Rice,2519.56,20.39,3.123,3,72.14,24.46,31.99,86.16,Tanaman Tahan Kekeringan,34.79
+4321,1991,Russia,Siberian,Rice,2209.13,14.54,4.02,6,23.26,49.1,65.03,40.96,Tanaman Tahan Kekeringan,19.08
+2118,1991,Russia,Volga,Coffee,867.33,16.96,1.764,6,81.34,21.28,19.26,65.96,Manajemen Air,-3.91
+2660,1991,Russia,Volga,Cotton,2399.72,29.56,0.558,0,21.35,15.63,51.98,34.36,Tanpa Adaptasi,-3.23
+6537,1991,Russia,Volga,Soybeans,1364.2,18.54,0.531,1,64.45,5.09,30.32,69.47,Tanpa Adaptasi,9.55
+4538,1991,Russia,Volga,Sugarcane,2048.46,20.83,2.718,9,90.55,2.74,48.08,78.76,Tanaman Tahan Kekeringan,32.51
+803,1992,Russia,Central,Barley,1984.51,17.41,3.24,10,19.57,34.25,54.09,95.83,Manajemen Air,22.48
+3358,1992,Russia,Central,Cotton,1036.04,24.71,1.953,10,71.46,38.19,80.98,90.87,Tanaman Tahan Kekeringan,7.2
+5552,1992,Russia,Central,Rice,2608.65,25.02,3.825,7,64.38,35.35,89.19,60.16,Manajemen Air,11.35
+408,1992,Russia,Central,Wheat,1277.89,3.32,2.12,7,35.84,1.74,45.84,74.08,Tanaman Tahan Kekeringan,3.29
+7969,1992,Russia,Northwestern,Fruits,651.88,21.89,2.097,9,70.98,45.17,81.18,49.29,Manajemen Air,29.07
+7644,1992,Russia,Northwestern,Rice,1899.71,23.95,3.636,0,61.17,34.94,26.83,79.22,Tanaman Tahan Kekeringan,18.71
+2939,1992,Russia,Northwestern,Soybeans,1036.27,4.54,2.14,2,51.19,27.21,4.19,58.47,Pertanian Organik,6.54
+6313,1992,Russia,Northwestern,Sugarcane,562.04,25.76,1.26,9,93.8,24.08,98.22,86.99,Tanpa Adaptasi,5.89
+2662,1992,Russia,Northwestern,Wheat,1373.9,14.17,1.63,8,67.03,40.49,47.26,95.11,Pertanian Organik,-0.23
+6464,1992,Russia,Siberian,Barley,1485.54,13.03,,9,78.27,15.9,14.49,50.34,Manajemen Air,20.31
+202,1992,Russia,Siberian,Coffee,2790.5,14.73,0.79,4,93.55,39.88,10.9,50.46,Tanpa Adaptasi,-3.76
+372,1992,Russia,Siberian,Coffee,2053.37,27.41,2.313,9,40.77,33.45,44.04,39.9,Pertanian Organik,19.6
+4260,1992,Russia,Siberian,Coffee,1075.91,12.22,2.64,6,51.31,23.54,0.33,49.67,Rotasi Tanaman,26.68
+504,1992,Russia,Siberian,Rice,2195.42,5.18,2.63,7,59.91,5.64,83.34,98.12,Rotasi Tanaman,33.83
+1841,1992,Russia,Siberian,Rice,1689.34,22.1,1.152,2,79.72,16.08,30.79,78.96,Tanpa Adaptasi,-0.17
+6467,1992,Russia,Siberian,Rice,1553.81,18.36,2.439,9,17.68,13.5,79.66,67.38,Tanpa Adaptasi,6.39
+3574,1992,Russia,Siberian,Soybeans,2787.63,5.9,0.88,4,47.42,15.18,78.73,87.78,Pertanian Organik,25.35
+7813,1992,Russia,Siberian,Sugarcane,1391.2,14.2,2.95,5,68.02,27.11,54.86,79.65,Tanaman Tahan Kekeringan,9.48
+4416,1992,Russia,Volga,Corn,2928.55,27.1,3.798,2,35.35,28.09,59.44,98.52,Rotasi Tanaman,16.43
+5099,1992,Russia,Volga,Cotton,791.51,22.06,4.122,5,41.45,22.12,94.02,99.28,Tanaman Tahan Kekeringan,11.51
+2084,1992,Russia,Volga,Fruits,2451.91,9.47,3.36,8,59.49,3.36,18.99,42.4,Rotasi Tanaman,16.23
+5967,1992,Russia,Volga,Soybeans,2842.68,12.67,1.21,3,77.68,6.42,41.27,98.81,Manajemen Air,25.63
+3700,1992,Russia,Volga,Sugarcane,1403.64,16.46,1.197,4,52.62,26.91,83.63,44.41,Manajemen Air,23.94
+3488,1992,Russia,Volga,Wheat,1042.89,24.35,1.863,9,78.68,28.5,43.98,44.6,Rotasi Tanaman,26.64
+5745,1992,Russia,Volga,,2489.95,23.81,0.864,5,92.43,44.88,96.51,85.64,Tanaman Tahan Kekeringan,22.24
+3893,1993,Russia,Central,Corn,2027.5,28.06,1.818,6,59.16,8.21,14.79,96.52,Pertanian Organik,30.78
+4671,1993,Russia,Central,Sugarcane,2981.4,4.85,4.89,10,70.38,38.97,58.57,78.21,Tanpa Adaptasi,16.72
+746,1993,Russia,Central,Vegetables,2429.7,8.12,3.86,9,63.57,29.46,64.4,85.07,Rotasi Tanaman,34.97
+4861,1993,Russia,Northwestern,Coffee,2220.79,20.36,0.765,3,20.43,0.9,78.66,39.36,Rotasi Tanaman,9.1
+5049,1993,Russia,Northwestern,Coffee,533.85,12.94,2.88,0,,37.82,55.59,91.58,Pertanian Organik,2.0
+67,1993,Russia,Northwestern,Rice,1926.35,4.26,1.63,8,23.49,29.29,4.09,84.43,Pertanian Organik,19.13
+1508,1993,Russia,Northwestern,Vegetables,1505.86,14.22,4.29,3,12.49,10.95,32.76,54.92,Tanaman Tahan Kekeringan,19.09
+7666,1993,Russia,Northwestern,Vegetables,1995.14,11.46,4.98,8,76.93,29.82,62.61,66.65,Pertanian Organik,16.39
+3720,1993,Russia,Northwestern,Wheat,1781.26,10.88,2.78,0,36.31,28.9,56.15,46.08,Manajemen Air,8.41
+72,1993,Russia,Siberian,Barley,2881.83,29.21,,5,27.96,14.7,4.7,89.71,Rotasi Tanaman,13.45
+2026,1993,Russia,Siberian,Barley,1926.65,23.12,0.882,1,39.61,27.47,63.5,93.85,Manajemen Air,8.88
+4633,1993,Russia,Siberian,Cotton,532.0,16.79,1.602,2,72.83,35.58,66.7,61.97,Rotasi Tanaman,5.93
+4084,1993,Russia,Siberian,Fruits,1008.76,16.67,0.621,3,33.46,39.83,75.32,91.82,Pertanian Organik,-4.01
+3658,1993,Russia,Siberian,Rice,2679.36,3.11,2.0,10,41.18,45.48,78.34,79.97,Pertanian Organik,-1.41
+6986,1993,Russia,Siberian,Soybeans,1012.47,5.96,1.76,9,69.41,44.76,21.9,91.04,Tanpa Adaptasi,8.89
+5382,1993,Russia,Siberian,Vegetables,1162.39,28.43,2.511,3,66.33,45.24,52.81,50.09,Pertanian Organik,14.28
+1464,1993,Russia,Volga,Barley,1484.47,23.58,2.484,3,78.22,15.61,78.25,82.17,Rotasi Tanaman,32.84
+2647,1993,Russia,Volga,Cotton,2220.99,9.13,0.81,10,22.61,4.92,11.86,83.85,Tanpa Adaptasi,31.79
+3806,1993,Russia,Volga,Cotton,725.14,29.18,1.341,7,27.61,11.97,46.43,60.42,Pertanian Organik,-0.25
+6369,1993,Russia,Volga,Cotton,1996.01,11.99,1.11,1,,13.81,33.56,76.84,Rotasi Tanaman,34.89
+6047,1993,Russia,Volga,Fruits,423.44,12.78,0.5670000000000001,0,40.5,18.43,41.03,39.75,Tanpa Adaptasi,2.0
+6830,1994,Russia,Central,Barley,1183.67,23.59,2.1870000000000003,4,41.43,17.32,66.73,86.27,Tanaman Tahan Kekeringan,27.71
+5697,1994,Russia,Central,Cotton,1427.56,1.86,3.98,3,77.87,48.03,61.46,81.31,Tanaman Tahan Kekeringan,32.55
+5787,1994,Russia,Central,Cotton,2323.45,19.85,2.772,3,56.67,8.13,11.67,38.22,Tanaman Tahan Kekeringan,13.44
+2915,1994,Russia,Central,Soybeans,2577.53,28.51,,3,64.97,38.72,99.34,90.41,Pertanian Organik,7.73
+6713,1994,Russia,Central,Sugarcane,1377.47,6.62,3.5,2,31.33,27.87,10.72,85.32,Rotasi Tanaman,28.71
+1563,1994,Russia,Central,Wheat,1326.46,10.73,3.93,4,30.71,44.28,22.54,90.13,Manajemen Air,29.65
+2515,1994,Russia,Northwestern,Corn,2608.73,14.32,2.02,0,93.9,48.68,67.92,68.38,Pertanian Organik,6.14
+6546,1994,Russia,Northwestern,Corn,2523.09,29.74,1.836,9,48.54,42.58,13.72,76.37,Manajemen Air,11.94
+2564,1994,Russia,Northwestern,Cotton,2369.04,17.3,3.024,7,60.14,8.3,87.68,65.87,Tanaman Tahan Kekeringan,19.82
+3688,1994,Russia,Northwestern,Cotton,1168.51,12.94,2.01,6,26.9,10.64,42.75,35.02,Rotasi Tanaman,2.47
+4253,1994,Russia,Northwestern,Soybeans,1979.63,11.1,1.72,7,66.61,43.19,85.27,42.12,Pertanian Organik,21.39
+5499,1994,Russia,Northwestern,Sugarcane,2606.77,27.38,0.918,8,34.02,20.12,37.01,96.79,Rotasi Tanaman,8.47
+773,1994,Russia,Northwestern,Wheat,2439.34,13.08,3.08,3,21.34,38.78,6.64,50.53,Tanpa Adaptasi,20.84
+628,1994,Russia,Siberian,Fruits,1771.43,18.93,1.116,6,32.91,10.2,30.39,34.68,Tanaman Tahan Kekeringan,22.5
+1240,1994,Russia,Siberian,Fruits,1951.82,20.76,2.547,10,98.63,23.35,96.89,46.25,Rotasi Tanaman,13.05
+7077,1994,Russia,Siberian,Rice,1526.57,16.16,3.51,8,59.97,5.01,18.78,73.37,Tanpa Adaptasi,18.28
+1516,1994,Russia,Siberian,Wheat,2786.78,28.4,1.485,7,91.81,11.87,79.96,49.13,Pertanian Organik,26.33
+5010,1994,Russia,Siberian,,423.77,8.08,3.231,3,32.04,24.27,34.21,88.97,Pertanian Organik,29.29
+6834,1994,Russia,Volga,Coffee,730.03,23.01,1.791,9,92.69,45.77,86.82,78.63,Tanaman Tahan Kekeringan,30.25
+3335,1994,Russia,Volga,Corn,1198.19,14.45,1.16,5,36.29,44.24,86.31,35.93,Rotasi Tanaman,28.2
+7463,1994,Russia,Volga,Cotton,764.61,28.1,0.5850000000000001,3,34.87,40.32,27.01,84.59,Tanpa Adaptasi,-2.11
+6049,1994,Russia,Volga,Fruits,394.37,29.94,1.692,10,66.56,6.02,39.94,78.12,Rotasi Tanaman,28.3
+2752,1994,Russia,Volga,Rice,2805.57,3.73,2.02,6,91.63,42.4,2.7,95.01,Tanaman Tahan Kekeringan,7.3
+1313,1994,Russia,Volga,Vegetables,404.08,28.26,2.169,6,26.71,0.71,14.15,59.49,Manajemen Air,8.76
+2319,1994,Russia,Volga,Vegetables,1719.08,5.92,0.57,1,11.69,42.8,2.75,90.49,Manajemen Air,5.67
+1318,1994,Russia,Volga,Wheat,1894.57,26.33,2.601,10,51.56,22.28,64.17,30.0,Manajemen Air,-4.35
+401,1995,Russia,Central,Corn,1288.19,15.23,2.3400000000000003,5,43.27,14.63,64.52,76.81,Tanpa Adaptasi,10.07
+3958,1995,Russia,Central,Cotton,852.62,24.59,3.519,2,38.33,15.74,38.08,35.72,Tanaman Tahan Kekeringan,30.03
+7038,1995,Russia,Central,Fruits,1486.95,3.89,0.85,8,62.38,45.66,96.65,63.68,Tanpa Adaptasi,-3.7
+523,1995,Russia,Central,Wheat,585.08,22.83,2.268,2,61.17,37.73,78.83,99.6,Tanaman Tahan Kekeringan,-1.58
+4177,1995,Russia,Northwestern,Fruits,1854.45,6.34,1.03,2,41.35,41.65,26.39,75.04,Rotasi Tanaman,7.37
+6336,1995,Russia,Northwestern,Rice,1399.13,28.52,1.566,5,52.72,45.9,55.81,59.62,Pertanian Organik,8.32
+7915,1995,Russia,Northwestern,Rice,2946.26,19.44,1.314,5,89.9,41.13,83.94,46.59,Tanpa Adaptasi,25.73
+5079,1995,Russia,Northwestern,Soybeans,363.51,24.06,0.945,6,25.58,8.11,64.97,98.6,Manajemen Air,7.24
+7032,1995,Russia,Northwestern,Soybeans,221.4,9.88,3.654,1,48.25,24.98,16.26,87.84,Pertanian Organik,14.77
+1366,1995,Russia,Northwestern,Sugarcane,1758.15,25.89,1.278,6,47.65,0.64,39.34,39.49,Pertanian Organik,-0.99
+2423,1995,Russia,Siberian,Coffee,2698.9,11.5,1.67,4,66.82,19.18,66.42,84.01,Pertanian Organik,0.83
+3959,1995,Russia,Siberian,Corn,1858.39,24.53,1.143,1,74.88,33.27,85.07,48.4,Rotasi Tanaman,25.62
+1219,1995,Russia,Siberian,Fruits,1801.34,23.4,2.268,1,29.96,6.32,88.21,32.4,Manajemen Air,14.57
+2693,1995,Russia,Siberian,Soybeans,2716.6,2.18,2.77,5,56.32,19.72,78.07,67.48,Tanaman Tahan Kekeringan,0.47
+1723,1995,Russia,Siberian,Sugarcane,626.9,29.66,3.654,7,75.95,23.67,30.94,41.37,Tanpa Adaptasi,14.91
+6360,1995,Russia,Siberian,Sugarcane,2600.43,9.53,0.72,4,52.96,45.25,62.75,52.25,Pertanian Organik,-1.02
+1346,1995,Russia,Siberian,Vegetables,1298.27,1.51,0.85,5,56.38,21.72,40.83,67.6,Tanaman Tahan Kekeringan,32.07
+6885,1995,Russia,Siberian,Vegetables,1636.64,8.41,0.54,9,76.72,8.19,69.3,68.85,Manajemen Air,7.56
+7091,1995,Russia,Siberian,Wheat,430.18,20.24,1.4580000000000002,1,21.82,15.6,53.76,57.31,Tanaman Tahan Kekeringan,22.39
+4627,1995,Russia,Volga,Coffee,327.95,25.58,1.134,0,70.0,8.57,6.48,52.76,Pertanian Organik,-1.95
+7270,1995,Russia,Volga,Corn,2090.09,11.1,2.28,10,44.26,8.12,54.63,73.27,Manajemen Air,12.99
+7948,1995,Russia,Volga,Cotton,2812.06,11.01,2.89,7,49.05,48.01,42.69,69.33,Pertanian Organik,22.2
+4162,1995,Russia,Volga,Rice,1610.31,7.52,0.55,7,54.43,15.39,65.05,59.17,Manajemen Air,1.94
+5558,1995,Russia,Volga,Soybeans,2709.14,3.27,2.02,9,82.33,1.87,53.3,35.29,Tanpa Adaptasi,2.47
+4849,1995,Russia,Volga,Vegetables,1901.61,16.26,3.1050000000000004,9,31.91,28.14,80.84,86.56,Manajemen Air,18.43
+3504,1996,Russia,Central,Cotton,1884.81,18.87,0.99,7,15.99,24.71,12.49,47.72,Manajemen Air,-4.79
+245,1996,Russia,Central,Soybeans,832.91,28.72,1.881,3,99.18,15.81,77.0,68.68,Tanaman Tahan Kekeringan,2.21
+409,1996,Russia,Central,,426.28,15.06,0.7110000000000001,4,30.86,38.12,14.62,56.05,Pertanian Organik,0.07
+5668,1996,Russia,Northwestern,Barley,2594.55,23.74,2.61,2,75.6,35.13,8.67,48.0,Pertanian Organik,3.53
+3766,1996,Russia,Northwestern,Coffee,1901.48,24.88,1.989,4,45.18,14.94,75.88,63.77,Tanaman Tahan Kekeringan,28.44
+2253,1996,Russia,Northwestern,Wheat,616.88,2.22,2.61,10,20.4,21.71,4.33,33.69,Tanaman Tahan Kekeringan,14.65
+7444,1996,Russia,Siberian,Cotton,1181.0,21.0,2.2230000000000003,1,64.78,17.9,96.03,45.84,Rotasi Tanaman,6.21
+3506,1996,Russia,Siberian,Soybeans,2410.48,3.7,2.86,4,95.77,32.61,34.29,52.16,Pertanian Organik,-0.66
+5522,1996,Russia,Siberian,Sugarcane,1815.77,24.46,0.648,2,48.44,26.56,81.84,67.94,Rotasi Tanaman,1.98
+3270,1996,Russia,Volga,Coffee,2157.01,22.59,3.366,6,43.87,39.16,22.44,35.99,Pertanian Organik,31.74
+5832,1996,Russia,Volga,Fruits,1360.0,2.14,0.94,0,80.81,3.34,51.38,34.29,Tanaman Tahan Kekeringan,2.19
+7371,1996,Russia,Volga,Wheat,2862.02,18.96,1.656,5,64.06,8.61,31.58,81.14,Manajemen Air,25.15
+835,1997,Russia,Central,Barley,451.24,10.4,1.656,8,29.77,34.02,58.74,59.22,Pertanian Organik,-0.13
+953,1997,Russia,Central,Rice,1456.99,12.26,1.99,3,55.44,23.82,24.31,53.9,Manajemen Air,34.62
+3584,1997,Russia,Central,Rice,619.37,8.48,4.3,0,32.64,7.75,47.71,50.61,Rotasi Tanaman,14.74
+6341,1997,Russia,Central,Rice,2706.28,15.86,1.962,2,68.84,42.74,84.9,59.7,Rotasi Tanaman,33.74
+2847,1997,Russia,Central,Sugarcane,1952.12,3.71,2.11,1,71.33,17.25,90.78,54.77,Pertanian Organik,23.33
+858,1997,Russia,Central,Wheat,1914.79,13.48,4.41,9,71.27,38.32,74.82,85.15,Rotasi Tanaman,17.27
+1350,1997,Russia,Northwestern,Barley,2676.41,22.67,3.393,6,14.34,7.68,97.59,73.11,Rotasi Tanaman,13.92
+2817,1997,Russia,Northwestern,Fruits,2727.35,2.27,1.91,8,74.54,15.73,34.22,42.19,Pertanian Organik,6.78
+5646,1997,Russia,Northwestern,Rice,2360.91,22.48,2.556,0,51.04,10.61,21.83,72.38,Rotasi Tanaman,27.9
+7987,1997,Russia,Northwestern,Rice,2401.63,13.01,0.71,2,47.62,3.61,51.79,80.9,Rotasi Tanaman,-3.98
+3683,1997,Russia,Northwestern,Soybeans,218.22,19.27,1.656,9,36.36,25.9,34.68,99.17,Tanaman Tahan Kekeringan,32.23
+4172,1997,Russia,Northwestern,Wheat,2985.97,11.64,2.51,9,13.71,24.77,68.14,48.54,Pertanian Organik,28.83
+6708,1997,Russia,Siberian,Barley,,25.1,2.331,3,96.19,43.11,6.07,91.06,Tanpa Adaptasi,16.85
+6805,1997,Russia,Siberian,Barley,1024.74,27.39,4.32,9,68.17,8.02,6.95,71.48,Rotasi Tanaman,18.86
+2070,1997,Russia,Siberian,Coffee,782.13,9.35,3.66,1,71.14,8.71,36.39,39.19,Manajemen Air,30.81
+2667,1997,Russia,Siberian,Corn,2217.9,28.6,1.818,5,81.0,41.29,36.05,33.46,Manajemen Air,-2.37
+5815,1997,Russia,Siberian,Corn,1437.26,28.74,2.358,3,82.99,13.22,77.15,32.52,Tanaman Tahan Kekeringan,16.16
+438,1997,Russia,Siberian,Fruits,,25.58,2.871,7,98.62,23.4,21.78,58.46,Rotasi Tanaman,12.22
+2473,1997,Russia,Siberian,Rice,1871.8,10.01,1.62,4,41.77,25.7,59.06,84.55,Tanpa Adaptasi,29.23
+647,1997,Russia,Siberian,Sugarcane,697.62,9.55,4.95,3,95.46,39.14,45.24,49.95,Manajemen Air,10.15
+2599,1997,Russia,Siberian,Sugarcane,1725.07,17.83,0.756,5,34.47,35.19,51.95,31.41,Tanpa Adaptasi,32.5
+2648,1997,Russia,Siberian,Wheat,1997.39,13.72,3.61,5,77.49,47.96,57.35,83.83,Pertanian Organik,12.19
+2877,1997,Russia,Volga,Cotton,,3.35,4.53,2,76.19,12.81,58.68,35.14,Tanpa Adaptasi,13.63
+4297,1997,Russia,Volga,Fruits,2995.0,13.18,2.05,2,90.99,7.19,14.79,35.16,Tanaman Tahan Kekeringan,32.24
+3848,1997,Russia,Volga,Soybeans,2601.88,1.77,0.89,2,54.52,37.52,55.65,93.59,Pertanian Organik,4.63
+430,1997,Russia,Volga,Wheat,2925.2,18.12,2.259,1,29.13,33.88,19.41,58.62,Rotasi Tanaman,29.58
+2024,1998,Russia,Central,Barley,2961.29,17.77,2.421,0,41.38,44.19,83.43,40.94,Tanpa Adaptasi,3.91
+5203,1998,Russia,Central,Barley,1630.0,15.56,2.088,10,56.41,41.89,29.0,81.6,Rotasi Tanaman,34.68
+1793,1998,Russia,Central,Coffee,2847.11,21.27,2.799,8,80.49,23.75,83.26,44.61,Tanaman Tahan Kekeringan,15.21
+5627,1998,Russia,Central,Coffee,2188.16,4.31,3.67,2,33.24,0.14,25.62,54.11,Pertanian Organik,27.71
+5686,1998,Russia,Central,Wheat,956.3,12.79,0.9,4,11.89,9.0,64.79,93.91,Tanpa Adaptasi,-1.4
+2876,1998,Russia,Northwestern,Coffee,990.51,8.5,2.27,1,25.48,18.69,74.69,97.46,Tanpa Adaptasi,4.61
+6361,1998,Russia,Northwestern,Coffee,1623.72,1.21,3.66,8,21.67,14.33,74.33,64.79,Rotasi Tanaman,27.07
+4904,1998,Russia,Northwestern,Cotton,771.22,6.89,2.13,0,76.06,31.1,55.51,50.68,Rotasi Tanaman,6.55
+3362,1998,Russia,Northwestern,Fruits,2126.38,17.27,3.042,5,39.88,30.94,44.36,89.58,Rotasi Tanaman,13.34
+5085,1998,Russia,Northwestern,Soybeans,1925.45,21.02,2.367,6,42.71,10.5,51.02,75.44,Rotasi Tanaman,3.7
+1929,1998,Russia,Northwestern,Vegetables,1129.6,7.91,0.81,10,23.91,21.75,52.47,33.72,Pertanian Organik,9.7
+7532,1998,Russia,Siberian,Barley,1116.77,15.22,3.285,9,77.48,0.72,78.68,89.61,Pertanian Organik,12.05
+7570,1998,Russia,Siberian,Coffee,1994.3,20.5,2.628,6,,20.18,49.33,63.91,Rotasi Tanaman,2.64
+3587,1998,Russia,Siberian,Soybeans,2805.77,15.41,2.682,0,48.33,23.05,64.72,74.1,Manajemen Air,7.85
+513,1998,Russia,Volga,Barley,1120.88,22.35,2.9610000000000003,2,63.72,17.65,58.2,71.84,Tanpa Adaptasi,28.83
+2912,1998,Russia,Volga,Barley,941.17,25.46,3.204,0,46.06,37.16,58.82,31.14,Manajemen Air,24.34
+2565,1998,Russia,Volga,Fruits,1726.01,14.76,1.26,8,59.34,28.79,64.7,56.22,Manajemen Air,1.87
+1834,1998,Russia,Volga,Sugarcane,739.8,3.88,2.8,7,32.6,13.37,77.41,44.11,Manajemen Air,10.18
+347,1998,Russia,Volga,Vegetables,1943.75,13.43,1.2,9,37.65,11.76,43.85,64.86,Manajemen Air,25.44
+4552,1998,Russia,Volga,Wheat,2795.11,22.45,1.359,2,49.98,15.43,12.91,63.49,Pertanian Organik,18.9
+390,1999,Russia,Central,Coffee,1810.18,3.92,1.91,1,72.17,10.71,17.08,54.64,Manajemen Air,9.52
+5388,1999,Russia,Central,Fruits,477.32,20.4,2.385,6,85.81,27.27,96.32,34.35,Pertanian Organik,4.76
+7047,1999,Russia,Central,Sugarcane,753.08,16.07,3.861,7,88.74,42.78,22.14,82.03,Pertanian Organik,18.09
+7902,1999,Russia,Central,Vegetables,2877.09,26.56,2.088,5,96.13,41.4,71.91,50.53,Rotasi Tanaman,19.25
+1541,1999,Russia,Central,Wheat,1151.46,5.61,2.84,8,39.15,14.88,51.83,60.88,Tanpa Adaptasi,-0.21
+6670,1999,Russia,Central,,1403.83,13.73,1.16,2,48.72,43.36,58.45,32.92,Pertanian Organik,9.36
+6005,1999,Russia,Northwestern,Coffee,2093.25,7.04,2.16,0,49.42,4.71,38.95,87.41,Rotasi Tanaman,4.11
+4821,1999,Russia,Northwestern,Corn,2917.8,29.81,1.737,5,60.04,34.35,4.49,62.84,Pertanian Organik,15.54
+7741,1999,Russia,Northwestern,Fruits,220.18,26.38,2.934,7,68.54,2.82,96.41,55.77,Pertanian Organik,32.29
+3489,1999,Russia,Northwestern,Rice,1918.84,8.66,1.82,1,26.32,48.17,34.99,62.55,Tanaman Tahan Kekeringan,11.49
+5953,1999,Russia,Northwestern,Rice,2557.89,14.29,3.95,9,17.42,48.01,60.43,92.36,Pertanian Organik,30.56
+5450,1999,Russia,Northwestern,Sugarcane,1297.36,26.97,1.305,4,88.64,25.9,91.58,79.63,Manajemen Air,34.18
+5806,1999,Russia,Northwestern,Sugarcane,1569.13,9.14,3.27,1,26.13,46.74,67.88,47.81,Rotasi Tanaman,26.78
+1831,1999,Russia,Northwestern,Vegetables,952.83,27.97,,2,28.65,44.94,75.47,63.98,Tanpa Adaptasi,9.47
+3721,1999,Russia,Siberian,Fruits,2877.67,26.48,2.421,3,87.0,30.1,10.79,99.41,Rotasi Tanaman,34.7
+921,1999,Russia,Siberian,Rice,2160.83,5.2,1.28,0,94.66,6.99,79.8,69.25,Tanpa Adaptasi,5.72
+2719,1999,Russia,Siberian,Soybeans,2025.12,7.46,1.58,6,58.02,10.79,69.93,44.82,Rotasi Tanaman,9.93
+3532,1999,Russia,Siberian,,667.23,12.35,1.63,2,62.1,36.07,31.63,55.06,Tanaman Tahan Kekeringan,-0.47
+1958,1999,Russia,Volga,Barley,1026.42,12.88,1.39,0,63.62,22.07,87.75,83.28,Pertanian Organik,21.61
+5508,1999,Russia,Volga,Coffee,2937.33,21.93,1.881,5,18.24,13.12,85.15,57.11,Tanpa Adaptasi,7.09
+7827,1999,Russia,Volga,Cotton,2340.57,2.83,2.2,6,13.27,26.49,17.59,98.31,Manajemen Air,27.69
+4493,1999,Russia,Volga,Soybeans,492.55,20.67,2.538,9,17.43,29.99,75.37,74.49,Pertanian Organik,13.5
+6954,1999,Russia,Volga,Soybeans,2181.96,28.04,2.394,4,14.56,40.83,70.67,35.19,Manajemen Air,27.69
+6847,1999,Russia,Volga,Vegetables,1493.56,25.44,1.1700000000000002,3,97.65,0.85,86.52,36.09,Pertanian Organik,30.85
+3053,1999,Russia,Volga,,2920.92,5.06,0.87,6,84.69,34.04,95.18,95.26,Tanaman Tahan Kekeringan,27.28
+3288,2000,Russia,Central,Sugarcane,336.78,19.09,2.475,6,28.34,28.08,16.98,35.88,Tanpa Adaptasi,27.39
+112,2000,Russia,Northwestern,Barley,2731.26,18.53,2.052,7,98.44,36.11,3.09,50.4,Tanaman Tahan Kekeringan,-3.03
+4028,2000,Russia,Northwestern,Barley,936.59,17.88,2.214,6,97.23,1.62,80.17,43.0,Tanaman Tahan Kekeringan,29.35
+4575,2000,Russia,Northwestern,Cotton,914.54,7.41,2.58,9,81.46,5.26,5.49,43.47,Rotasi Tanaman,-0.2
+5180,2000,Russia,Northwestern,Cotton,574.4,14.13,1.66,0,24.78,45.32,46.25,38.65,Pertanian Organik,17.18
+5220,2000,Russia,Northwestern,Soybeans,587.5,13.53,2.49,0,88.22,8.46,11.32,40.9,Tanaman Tahan Kekeringan,7.32
+1250,2000,Russia,Northwestern,Sugarcane,344.25,17.02,0.936,3,60.14,41.6,3.16,81.65,Tanpa Adaptasi,-0.42
+7071,2000,Russia,Northwestern,Sugarcane,1422.26,12.74,3.33,4,,27.9,78.59,38.07,Tanpa Adaptasi,29.38
+7137,2000,Russia,Northwestern,Sugarcane,1668.07,16.19,3.33,8,35.54,49.19,21.89,53.54,Rotasi Tanaman,23.34
+37,2000,Russia,Siberian,Corn,1520.32,25.51,1.4580000000000002,1,28.12,32.65,22.26,89.07,Tanpa Adaptasi,3.12
+3393,2000,Russia,Siberian,Cotton,461.1,16.1,1.269,1,72.39,13.89,61.58,95.99,Tanaman Tahan Kekeringan,3.76
+6283,2000,Russia,Siberian,Fruits,1091.29,8.55,0.6,6,64.86,21.67,58.09,82.68,Tanpa Adaptasi,-4.46
+3129,2000,Russia,Siberian,Soybeans,1539.21,4.22,0.87,1,26.42,1.45,84.93,89.72,Tanpa Adaptasi,34.13
+3376,2000,Russia,Siberian,Sugarcane,2087.3,12.77,2.97,3,93.78,0.1,10.34,89.42,Manajemen Air,22.44
+2728,2000,Russia,Siberian,Wheat,222.01,4.26,1.404,8,53.19,11.55,75.66,46.36,Pertanian Organik,22.1
+4509,2000,Russia,Volga,Corn,1972.23,14.49,4.54,2,80.18,0.59,60.87,63.09,Tanpa Adaptasi,19.04
+6362,2000,Russia,Volga,Corn,1960.82,18.02,1.935,10,15.89,24.28,12.43,54.28,Pertanian Organik,-4.44
+104,2000,Russia,Volga,Cotton,924.24,1.09,2.73,9,98.92,49.4,31.22,55.96,Pertanian Organik,28.35
+7150,2000,Russia,Volga,Fruits,2834.77,24.8,1.278,9,13.47,31.37,8.82,84.83,Tanpa Adaptasi,-0.98
+7735,2000,Russia,Volga,Fruits,2768.88,4.17,2.24,2,24.67,34.02,48.56,73.19,Manajemen Air,25.39
+4798,2000,Russia,Volga,Rice,1665.18,11.98,,9,65.92,38.29,14.56,35.67,Manajemen Air,7.77
+2034,2000,Russia,Volga,Soybeans,1533.09,20.34,3.015,1,58.75,5.1,73.73,33.32,Manajemen Air,32.89
+2359,2000,Russia,Volga,Vegetables,1814.46,23.24,2.862,4,97.31,23.15,28.4,79.1,Rotasi Tanaman,31.98
+284,2000,Russia,Volga,Wheat,2740.56,22.12,1.989,2,78.18,22.6,93.78,98.34,Manajemen Air,4.23
+7779,2001,Russia,Central,Barley,1133.84,18.82,1.584,3,95.32,19.77,6.79,80.41,Tanaman Tahan Kekeringan,25.02
+7169,2001,Russia,Central,Coffee,2067.09,25.16,0.558,4,15.33,7.15,29.21,91.31,Tanpa Adaptasi,-2.08
+6438,2001,Russia,Central,Sugarcane,1484.06,12.61,1.81,3,23.25,44.58,93.15,82.87,Tanaman Tahan Kekeringan,13.77
+2495,2001,Russia,Northwestern,Fruits,1271.26,29.93,0.927,2,34.2,19.29,20.41,44.14,Rotasi Tanaman,29.86
+4292,2001,Russia,Northwestern,Fruits,2745.94,23.47,2.6910000000000003,8,41.17,2.82,58.89,93.27,Tanaman Tahan Kekeringan,0.06
+1708,2001,Russia,Northwestern,Sugarcane,1331.47,22.48,3.933,2,48.58,37.98,0.65,83.39,Manajemen Air,11.92
+2805,2001,Russia,Northwestern,Sugarcane,295.04,18.25,1.017,4,82.27,0.64,9.22,49.65,Tanpa Adaptasi,-4.31
+5311,2001,Russia,Northwestern,Wheat,2641.27,9.25,1.25,0,,19.24,76.81,64.29,Pertanian Organik,8.27
+133,2001,Russia,Siberian,Corn,961.32,19.2,3.384,7,65.22,35.04,20.6,69.11,Manajemen Air,13.75
+4761,2001,Russia,Siberian,Rice,1784.84,17.55,2.754,2,94.35,19.96,70.49,90.86,Manajemen Air,13.53
+5779,2001,Russia,Siberian,Rice,1267.68,24.85,2.7,9,95.56,17.98,72.09,69.47,Tanpa Adaptasi,-3.71
+4638,2001,Russia,Siberian,Soybeans,1064.48,26.94,2.322,9,41.0,3.14,28.42,31.49,Tanaman Tahan Kekeringan,6.66
+7031,2001,Russia,Volga,Barley,1782.66,27.85,0.99,10,87.27,4.51,41.37,98.59,Pertanian Organik,8.34
+573,2001,Russia,Volga,Coffee,2181.12,29.62,2.079,2,84.27,2.53,87.7,91.05,Tanaman Tahan Kekeringan,1.16
+969,2001,Russia,Volga,Coffee,2799.82,17.49,0.918,4,60.87,30.4,64.62,55.2,Tanpa Adaptasi,27.94
+425,2001,Russia,Volga,Corn,2847.79,27.1,4.4190000000000005,3,63.59,22.93,95.72,53.44,Manajemen Air,13.33
+5796,2001,Russia,Volga,Corn,2649.82,7.73,1.6,5,88.08,34.14,86.65,71.33,Manajemen Air,1.54
+948,2001,Russia,Volga,Cotton,,7.99,2.77,4,59.07,35.29,50.39,56.54,Tanaman Tahan Kekeringan,28.16
+6338,2001,Russia,Volga,Cotton,273.76,16.36,0.972,1,62.85,40.71,48.26,37.69,Rotasi Tanaman,24.08
+2263,2001,Russia,Volga,Fruits,321.85,4.3,3.0330000000000004,3,17.78,28.87,83.0,62.95,Rotasi Tanaman,31.2
+7232,2001,Russia,Volga,Rice,481.98,16.28,0.801,10,96.7,20.8,8.59,76.29,Pertanian Organik,25.5
+1325,2002,Russia,Central,Barley,2076.29,17.78,1.998,6,22.65,46.54,15.56,52.33,Rotasi Tanaman,34.16
+507,2002,Russia,Central,Rice,,8.47,2.03,2,27.72,5.62,20.24,96.56,Tanaman Tahan Kekeringan,-0.87
+3265,2002,Russia,Northwestern,Coffee,531.25,20.01,2.106,0,26.23,40.76,34.72,90.56,Manajemen Air,1.71
+7487,2002,Russia,Northwestern,Cotton,632.85,14.44,0.82,0,44.75,8.6,40.63,76.29,Rotasi Tanaman,30.33
+6302,2002,Russia,Northwestern,Fruits,2152.47,22.43,2.799,4,61.16,16.46,99.99,50.39,Tanaman Tahan Kekeringan,23.95
+4517,2002,Russia,Northwestern,Soybeans,2772.99,12.29,0.66,4,43.97,10.72,34.9,42.6,Rotasi Tanaman,4.7
+1275,2002,Russia,Siberian,Barley,1764.29,9.52,2.01,6,59.38,31.25,84.49,58.09,Manajemen Air,6.53
+5044,2002,Russia,Siberian,Coffee,324.46,10.14,2.277,1,75.08,7.42,83.91,44.62,Tanaman Tahan Kekeringan,31.63
+454,2002,Russia,Siberian,Corn,588.53,29.56,0.855,10,57.98,49.58,3.32,70.28,Pertanian Organik,32.29
+1449,2002,Russia,Siberian,Sugarcane,1444.57,21.82,0.5760000000000001,4,75.5,14.83,94.29,93.69,Pertanian Organik,0.25
+2798,2002,Russia,Siberian,Wheat,308.92,3.87,,3,75.88,8.47,5.36,69.06,Tanpa Adaptasi,33.67
+3657,2002,Russia,Siberian,Wheat,530.53,15.22,2.3400000000000003,1,74.88,18.49,87.44,90.49,Manajemen Air,25.35
+7350,2002,Russia,Siberian,Wheat,1905.94,19.7,3.366,2,84.84,1.63,32.42,52.93,Tanpa Adaptasi,15.11
+1404,2002,Russia,Volga,Coffee,1481.82,5.27,1.38,10,26.09,37.38,51.08,40.84,Pertanian Organik,24.42
+7215,2002,Russia,Volga,Fruits,403.59,26.0,1.017,7,61.54,22.34,37.6,93.07,Rotasi Tanaman,33.1
+5491,2002,Russia,Volga,Sugarcane,485.52,11.82,2.574,1,49.41,6.38,89.5,89.57,Pertanian Organik,32.23
+1092,2002,Russia,Volga,Wheat,2687.94,10.69,1.22,1,,41.7,46.74,41.65,Pertanian Organik,23.52
+6821,2002,Russia,Volga,Wheat,1915.53,14.53,2.27,2,78.48,49.66,89.64,70.88,Tanpa Adaptasi,2.16
+1539,2003,Russia,Central,Barley,643.27,24.28,2.682,9,99.33,7.72,62.39,72.13,Rotasi Tanaman,11.44
+3190,2003,Russia,Central,Corn,2907.11,1.24,2.77,5,55.36,6.64,5.07,74.09,Pertanian Organik,22.69
+6292,2003,Russia,Central,Corn,2944.75,25.29,0.5940000000000001,3,75.39,2.98,63.54,38.98,Tanaman Tahan Kekeringan,4.3
+5001,2003,Russia,Central,Rice,1293.13,5.5,1.74,10,83.88,30.25,14.82,56.04,Tanpa Adaptasi,4.0
+4860,2003,Russia,Central,Wheat,1667.33,2.36,3.81,8,,45.34,60.11,62.88,Pertanian Organik,21.79
+6984,2003,Russia,Northwestern,Barley,1246.18,10.85,2.15,7,64.93,3.03,99.9,33.22,Tanaman Tahan Kekeringan,26.95
+3164,2003,Russia,Northwestern,Corn,,13.8,0.9,1,10.42,18.5,55.28,33.1,Tanpa Adaptasi,3.21
+2260,2003,Russia,Northwestern,Cotton,1729.6,16.28,2.385,9,36.28,47.56,77.03,31.97,Tanpa Adaptasi,31.67
+6972,2003,Russia,Northwestern,Cotton,336.83,7.58,2.052,8,17.5,5.12,49.06,96.88,Manajemen Air,12.58
+7250,2003,Russia,Northwestern,Sugarcane,2036.43,9.81,,3,37.79,6.75,92.56,72.14,Tanpa Adaptasi,5.05
+5083,2003,Russia,Siberian,Coffee,2470.43,21.59,2.646,3,95.73,48.87,6.71,51.56,Tanaman Tahan Kekeringan,33.19
+6368,2003,Russia,Siberian,Coffee,340.89,17.1,0.801,8,21.74,19.33,25.9,46.09,Tanpa Adaptasi,5.91
+2144,2003,Russia,Siberian,Soybeans,1597.38,28.28,2.133,5,21.35,38.92,56.43,32.91,Tanaman Tahan Kekeringan,-4.27
+5563,2003,Russia,Siberian,Vegetables,2348.9,2.53,2.87,2,82.49,15.56,64.62,31.24,Manajemen Air,20.65
+1721,2003,Russia,Volga,Corn,928.47,20.68,3.771,2,48.43,1.56,48.47,64.52,Tanaman Tahan Kekeringan,14.12
+2181,2003,Russia,Volga,Cotton,2030.02,6.47,2.84,8,24.68,49.42,5.74,98.83,Tanaman Tahan Kekeringan,1.78
+7564,2003,Russia,Volga,Soybeans,1309.09,2.37,1.81,2,98.47,14.67,45.27,92.68,Tanpa Adaptasi,14.06
+1983,2003,Russia,Volga,Sugarcane,1040.21,14.93,2.7,2,85.96,49.54,2.35,57.18,Pertanian Organik,27.24
+3263,2003,Russia,Volga,Vegetables,1140.8,28.61,3.3120000000000003,5,31.35,42.01,35.03,98.48,Tanaman Tahan Kekeringan,26.27
+6957,2003,Russia,Volga,Vegetables,2969.17,18.14,2.502,7,27.38,9.74,19.21,53.89,Tanpa Adaptasi,13.06
+2619,2004,Russia,Central,Barley,1751.73,27.97,2.1870000000000003,9,81.94,0.33,31.22,91.82,Rotasi Tanaman,1.27
+5710,2004,Russia,Central,Cotton,1536.38,1.47,1.38,6,77.01,30.4,22.16,83.53,Manajemen Air,7.46
+7449,2004,Russia,Central,Cotton,1537.83,21.22,1.944,9,11.22,49.23,38.49,93.44,Tanaman Tahan Kekeringan,9.82
+6641,2004,Russia,Central,Fruits,2320.63,27.52,1.917,4,65.33,8.33,80.55,90.01,Manajemen Air,34.67
+7695,2004,Russia,Central,Fruits,302.35,14.54,2.655,1,26.67,36.6,16.65,64.08,Tanpa Adaptasi,8.58
+2862,2004,Russia,Central,Rice,2060.62,2.83,2.55,3,50.05,23.46,75.84,77.97,Tanaman Tahan Kekeringan,-0.25
+1750,2004,Russia,Central,Wheat,1459.47,23.62,3.492,3,92.12,42.89,53.19,38.34,Pertanian Organik,11.2
+70,2004,Russia,Northwestern,Cotton,1825.52,3.86,2.64,5,78.02,21.65,91.83,87.89,Tanaman Tahan Kekeringan,3.26
+5420,2004,Russia,Northwestern,Soybeans,432.39,11.81,1.899,1,20.03,42.63,45.4,41.24,Manajemen Air,33.19
+7399,2004,Russia,Northwestern,Sugarcane,1138.51,10.85,2.89,2,78.79,34.72,83.27,83.76,Rotasi Tanaman,10.66
+6186,2004,Russia,Northwestern,Vegetables,2760.9,2.54,2.43,8,68.0,39.65,20.59,45.1,Pertanian Organik,21.73
+131,2004,Russia,Siberian,Coffee,2248.23,9.53,2.37,7,79.09,39.18,19.44,99.39,Tanaman Tahan Kekeringan,-3.61
+1571,2004,Russia,Siberian,Coffee,,16.53,1.971,3,67.67,6.2,60.05,91.23,Tanaman Tahan Kekeringan,4.0
+2368,2004,Russia,Siberian,Wheat,1927.82,2.46,1.75,5,85.59,43.62,16.56,36.08,Rotasi Tanaman,18.95
+6329,2004,Russia,Siberian,Wheat,1446.15,12.29,3.25,1,12.22,15.89,4.74,74.39,Rotasi Tanaman,19.95
+4096,2004,Russia,Volga,Barley,2856.31,20.71,2.061,3,66.05,35.94,25.74,51.78,Pertanian Organik,14.18
+7430,2004,Russia,Volga,Barley,1246.45,12.23,4.32,10,88.27,40.49,54.31,95.16,Tanpa Adaptasi,10.09
+1227,2004,Russia,Volga,Corn,1478.39,22.27,2.331,4,68.5,38.75,33.32,41.45,Pertanian Organik,20.52
+6791,2004,Russia,Volga,Corn,1980.81,29.49,2.25,2,94.45,41.35,26.26,35.93,Pertanian Organik,3.98
+323,2004,Russia,Volga,Cotton,1566.36,5.35,3.98,5,26.45,34.34,9.14,36.08,Manajemen Air,20.52
+7839,2004,Russia,Volga,Soybeans,2554.61,4.06,2.46,5,87.17,0.78,28.51,48.31,Tanpa Adaptasi,34.41
+6044,2004,Russia,Volga,Wheat,436.88,6.78,1.431,6,93.07,46.96,82.93,60.46,Manajemen Air,5.44
+3365,2005,Russia,Central,Rice,1536.81,2.41,3.15,8,38.07,38.85,6.59,91.57,Rotasi Tanaman,21.73
+2248,2005,Russia,Central,Soybeans,412.99,22.02,1.593,3,77.98,25.68,19.69,94.98,Tanpa Adaptasi,11.23
+4366,2005,Russia,Central,Soybeans,794.28,1.34,0.57,7,26.24,17.05,26.13,99.02,Manajemen Air,-2.56
+107,2005,Russia,Central,Sugarcane,2106.72,19.58,1.314,0,36.9,42.24,32.05,88.4,Tanpa Adaptasi,8.0
+4141,2005,Russia,Northwestern,Coffee,1407.22,6.31,4.9,7,53.99,13.87,55.67,41.14,Tanaman Tahan Kekeringan,16.02
+5718,2005,Russia,Northwestern,Coffee,533.16,17.62,2.592,3,93.51,44.32,44.18,41.86,Tanaman Tahan Kekeringan,25.86
+6212,2005,Russia,Northwestern,Corn,1797.03,13.72,1.24,1,11.22,10.8,65.35,83.36,Tanpa Adaptasi,7.41
+4979,2005,Russia,Northwestern,Rice,741.5,20.78,0.522,2,20.91,13.66,21.32,57.05,Tanaman Tahan Kekeringan,7.58
+3516,2005,Russia,Northwestern,Sugarcane,756.86,20.98,2.943,7,15.23,34.67,70.74,58.07,Manajemen Air,18.14
+7575,2005,Russia,Northwestern,Sugarcane,1960.5,23.16,0.7290000000000001,8,29.12,2.41,54.94,88.83,Pertanian Organik,-1.29
+1610,2005,Russia,Northwestern,Vegetables,2276.04,1.73,1.72,2,18.07,49.27,36.26,96.86,Rotasi Tanaman,5.68
+1321,2005,Russia,Siberian,Fruits,2602.42,25.49,2.826,1,52.31,42.68,32.51,56.91,Manajemen Air,32.6
+6985,2005,Russia,Siberian,Rice,885.22,16.96,2.25,0,43.3,20.35,94.55,34.97,Tanaman Tahan Kekeringan,0.16
+1924,2005,Russia,Siberian,Soybeans,1134.41,27.92,1.845,10,39.89,12.68,73.51,72.97,Rotasi Tanaman,27.04
+6229,2005,Russia,Siberian,Soybeans,601.56,0.87,1.26,5,35.47,18.35,29.65,52.21,Tanaman Tahan Kekeringan,28.97
+119,2005,Russia,Siberian,Sugarcane,623.08,18.35,1.809,7,55.89,2.58,46.55,91.45,Rotasi Tanaman,2.11
+1619,2005,Russia,Siberian,Vegetables,1599.08,5.85,1.32,8,20.52,28.36,0.55,54.96,Pertanian Organik,9.66
+767,2005,Russia,Siberian,Wheat,2727.55,3.46,1.45,10,10.49,30.1,98.15,73.01,Tanaman Tahan Kekeringan,-1.23
+185,2005,Russia,Volga,Vegetables,717.04,15.03,1.872,6,13.51,19.49,1.27,89.32,Manajemen Air,30.1
+966,2006,Russia,Central,Corn,2179.09,14.0,1.69,10,84.56,28.27,17.35,53.04,Rotasi Tanaman,15.64
+1472,2006,Russia,Central,Cotton,2159.8,21.74,1.827,5,31.47,19.41,87.72,49.3,Pertanian Organik,10.02
+3445,2006,Russia,Central,Vegetables,1935.03,10.41,3.79,2,42.35,39.57,96.74,36.34,Manajemen Air,21.48
+4554,2006,Russia,Central,Wheat,2640.46,5.59,1.83,9,70.35,20.99,37.85,57.19,Tanaman Tahan Kekeringan,32.98
+7492,2006,Russia,Central,,623.91,24.87,1.053,8,99.02,45.75,4.66,56.91,Pertanian Organik,24.87
+5442,2006,Russia,Northwestern,,1546.54,14.81,3.01,5,99.83,2.34,67.42,83.97,Tanpa Adaptasi,32.09
+6017,2006,Russia,Siberian,Coffee,2784.62,10.84,1.39,0,25.7,14.53,81.67,48.5,Tanaman Tahan Kekeringan,29.96
+4830,2006,Russia,Siberian,Cotton,2179.29,19.88,0.873,1,50.85,22.81,40.03,42.96,Pertanian Organik,31.72
+4300,2006,Russia,Siberian,Fruits,819.73,1.88,2.92,3,78.14,5.47,21.14,88.51,Tanaman Tahan Kekeringan,-1.31
+4553,2006,Russia,Siberian,,371.64,7.33,1.836,7,47.85,3.79,40.65,32.27,Rotasi Tanaman,29.04
+7173,2006,Russia,Volga,Barley,2404.8,3.97,2.27,7,40.7,9.26,30.77,68.71,Pertanian Organik,3.37
+16,2006,Russia,Volga,Coffee,328.74,2.91,3.474,5,47.33,27.07,37.02,74.12,Pertanian Organik,25.43
+3002,2006,Russia,Volga,Fruits,1281.3,23.39,1.998,0,92.22,27.48,85.13,35.24,Manajemen Air,25.26
+1896,2006,Russia,Volga,Soybeans,1147.48,26.81,1.08,1,75.68,48.72,40.14,98.72,Rotasi Tanaman,34.56
+4448,2006,Russia,Volga,Wheat,1399.31,1.75,1.23,1,98.92,11.38,99.47,62.02,Tanpa Adaptasi,-3.4
+2779,2007,Russia,Central,Barley,2901.8,21.11,2.511,6,29.78,45.99,2.32,92.73,Pertanian Organik,23.0
+5581,2007,Russia,Central,Barley,963.51,3.0,3.38,0,60.84,47.52,49.27,80.29,Tanpa Adaptasi,10.62
+723,2007,Russia,Central,Coffee,2503.29,23.08,3.825,4,56.13,28.06,76.06,36.68,Tanpa Adaptasi,19.5
+405,2007,Russia,Central,Corn,2604.09,24.74,2.25,10,29.45,5.24,72.57,34.79,Tanaman Tahan Kekeringan,-2.82
+7471,2007,Russia,Central,Cotton,955.91,5.67,0.78,9,38.19,5.35,67.61,33.09,Tanpa Adaptasi,7.45
+2032,2007,Russia,Central,Rice,1809.89,12.23,3.79,1,24.73,41.62,91.99,74.69,Pertanian Organik,33.72
+4929,2007,Russia,Central,Soybeans,2747.51,4.24,3.73,7,47.64,7.31,24.55,38.94,Pertanian Organik,14.48
+272,2007,Russia,Northwestern,Coffee,1096.15,3.03,1.49,6,99.58,3.47,59.11,35.6,Tanpa Adaptasi,33.45
+5123,2007,Russia,Northwestern,Cotton,2707.14,8.29,2.05,3,26.65,16.77,57.53,49.2,Pertanian Organik,13.22
+1624,2007,Russia,Siberian,Barley,,19.41,3.474,4,19.0,2.59,55.66,73.61,Pertanian Organik,26.53
+5975,2007,Russia,Siberian,Rice,1221.39,22.98,3.402,2,45.7,39.41,83.13,82.96,Rotasi Tanaman,21.27
+3665,2007,Russia,Siberian,Sugarcane,243.83,5.56,1.332,10,16.19,13.81,21.78,85.18,Tanaman Tahan Kekeringan,9.38
+1379,2007,Russia,Volga,Barley,2780.14,23.57,1.53,8,51.65,35.88,15.66,46.22,Rotasi Tanaman,2.04
+3336,2007,Russia,Volga,Barley,222.22,21.34,3.078,3,60.68,18.68,10.91,59.29,Rotasi Tanaman,14.66
+4535,2007,Russia,Volga,Cotton,2593.99,27.33,1.233,1,69.43,41.66,25.46,68.52,Tanaman Tahan Kekeringan,25.55
+815,2007,Russia,Volga,Fruits,1339.2,27.64,2.3760000000000003,7,34.76,14.06,29.36,53.95,Tanpa Adaptasi,6.05
+5008,2007,Russia,Volga,Vegetables,1934.75,1.25,3.83,3,67.66,4.8,12.04,84.88,Tanaman Tahan Kekeringan,20.55
+5152,2007,Russia,Volga,Vegetables,1274.42,29.0,2.241,0,55.35,46.96,56.09,68.46,Pertanian Organik,25.81
+5523,2007,Russia,Volga,Vegetables,544.14,21.65,1.692,2,10.44,9.97,36.23,72.34,Manajemen Air,22.37
+6429,2008,Russia,Central,Barley,1877.56,21.95,4.023,0,83.57,49.95,29.26,98.37,Tanpa Adaptasi,11.36
+7724,2008,Russia,Central,Coffee,2162.61,15.26,1.278,9,64.96,4.78,7.75,58.89,Manajemen Air,-3.69
+3680,2008,Russia,Northwestern,Fruits,890.69,17.54,0.909,9,89.24,26.1,69.6,35.3,Pertanian Organik,-0.06
+322,2008,Russia,Northwestern,Rice,668.2,12.77,1.97,10,35.05,20.36,55.3,63.14,Tanpa Adaptasi,23.75
+1146,2008,Russia,Northwestern,Rice,1405.25,3.36,1.55,7,54.78,46.6,15.38,47.7,Manajemen Air,10.71
+4017,2008,Russia,Northwestern,Vegetables,2203.33,9.65,1.04,8,83.97,31.18,47.31,79.3,Pertanian Organik,23.7
+4325,2008,Russia,Northwestern,Wheat,2017.38,1.79,1.8,5,51.37,30.63,70.66,40.63,Manajemen Air,14.41
+2396,2008,Russia,Siberian,Corn,1281.05,5.86,,2,24.46,20.25,17.57,66.78,Rotasi Tanaman,-3.76
+1814,2008,Russia,Siberian,Cotton,1809.18,29.97,2.646,4,58.34,5.66,82.4,67.27,Pertanian Organik,5.43
+2421,2008,Russia,Siberian,Soybeans,1944.95,16.19,2.403,2,80.85,5.02,97.39,82.37,Rotasi Tanaman,-4.44
+136,2008,Russia,Siberian,Sugarcane,303.38,5.75,2.547,6,59.96,43.24,88.93,69.43,Tanpa Adaptasi,9.04
+5839,2008,Russia,Siberian,Vegetables,,18.6,2.097,0,81.26,18.73,45.2,99.29,Rotasi Tanaman,4.3
+5429,2008,Russia,Volga,Barley,421.42,16.17,3.4290000000000003,0,78.82,37.27,63.38,99.98,Rotasi Tanaman,20.09
+6783,2008,Russia,Volga,Barley,1335.96,7.78,4.42,8,98.61,49.68,15.89,59.6,Tanaman Tahan Kekeringan,13.19
+7614,2008,Russia,Volga,Barley,1321.43,4.1,1.29,8,63.5,24.23,1.83,62.36,Rotasi Tanaman,4.19
+970,2008,Russia,Volga,Coffee,2898.03,22.84,2.601,6,72.11,6.72,57.25,92.16,Pertanian Organik,11.04
+7593,2008,Russia,Volga,Corn,1885.9,5.7,1.42,3,95.06,26.69,88.84,79.22,Pertanian Organik,26.0
+6090,2008,Russia,Volga,Rice,1927.25,17.02,1.386,1,64.2,32.4,42.9,65.5,Manajemen Air,23.83
+5131,2008,Russia,Volga,Sugarcane,768.36,4.89,3.64,2,25.91,41.14,30.02,92.13,Rotasi Tanaman,26.98
+3247,2008,Russia,Volga,Vegetables,343.11,18.31,2.772,5,88.32,30.94,96.42,63.49,Pertanian Organik,11.68
+4312,2008,Russia,Volga,Vegetables,2585.34,17.89,1.611,4,77.38,9.07,17.17,37.32,Rotasi Tanaman,15.09
+6524,2008,Russia,Volga,Vegetables,,28.68,2.682,1,97.56,23.98,42.23,62.63,Rotasi Tanaman,4.68
+5874,2008,Russia,Volga,Wheat,2420.05,0.59,3.57,4,21.12,40.44,47.78,86.42,Rotasi Tanaman,20.35
+5138,2008,Russia,Volga,,2780.07,19.37,1.782,7,65.99,6.52,12.58,45.45,Rotasi Tanaman,18.04
+7116,2009,Russia,Central,Barley,2089.83,1.64,2.43,10,36.57,4.59,45.88,43.38,Manajemen Air,23.6
+1024,2009,Russia,Central,Corn,2283.01,17.0,3.258,6,77.48,35.34,81.89,36.73,Manajemen Air,31.79
+3391,2009,Russia,Central,Corn,1431.91,4.25,0.62,6,23.75,13.33,36.41,63.99,Pertanian Organik,9.33
+6785,2009,Russia,Central,Cotton,,21.87,2.736,7,94.1,45.73,46.51,78.72,Rotasi Tanaman,33.9
+2185,2009,Russia,Central,Fruits,2713.36,3.4,4.31,1,67.18,24.77,34.96,64.71,Pertanian Organik,13.2
+4010,2009,Russia,Central,Rice,2521.41,11.78,2.26,5,80.23,37.31,18.97,37.75,Tanpa Adaptasi,17.98
+2519,2009,Russia,Central,Wheat,1002.42,29.22,3.978,9,26.76,1.39,86.77,45.16,Tanaman Tahan Kekeringan,16.22
+7378,2009,Russia,Central,Wheat,2034.91,2.15,2.62,1,14.24,19.04,26.51,72.17,Pertanian Organik,7.24
+4394,2009,Russia,Northwestern,Sugarcane,1431.14,23.81,3.087,6,11.42,10.3,65.0,48.88,Pertanian Organik,24.78
+6775,2009,Russia,Northwestern,Vegetables,2539.71,23.76,3.51,0,36.31,19.76,99.27,92.72,Pertanian Organik,25.34
+7698,2009,Russia,Northwestern,Vegetables,2976.06,0.52,1.66,6,43.42,41.12,20.39,50.17,Rotasi Tanaman,1.43
+487,2009,Russia,Northwestern,,2151.16,18.34,2.475,2,29.35,31.01,27.05,75.68,Tanaman Tahan Kekeringan,-1.08
+345,2009,Russia,Siberian,Cotton,2503.2,9.31,1.01,7,26.55,28.17,84.83,94.51,Rotasi Tanaman,3.23
+2882,2009,Russia,Siberian,Rice,1906.86,6.83,2.4,2,83.67,25.95,93.42,41.7,Rotasi Tanaman,2.6
+2160,2009,Russia,Siberian,Vegetables,572.95,17.77,2.25,5,,37.62,69.39,89.77,Pertanian Organik,32.91
+3856,2009,Russia,Volga,Barley,551.02,10.45,0.67,3,70.49,26.44,64.26,61.55,Tanaman Tahan Kekeringan,5.12
+7414,2009,Russia,Volga,Barley,2309.94,26.99,2.655,10,54.95,49.87,59.82,38.45,Rotasi Tanaman,12.4
+7851,2009,Russia,Volga,Barley,722.37,18.04,2.169,4,69.73,5.03,61.72,87.66,Pertanian Organik,14.44
+3970,2009,Russia,Volga,Corn,2772.84,28.42,1.161,3,63.45,40.49,35.85,54.7,Tanpa Adaptasi,1.11
+3578,2009,Russia,Volga,Rice,2747.01,9.48,1.9,2,67.24,8.64,48.92,33.16,Tanaman Tahan Kekeringan,3.22
+1004,2009,Russia,Volga,Vegetables,1082.04,19.97,1.89,8,42.29,24.03,28.98,61.63,Manajemen Air,32.13
+7235,2009,Russia,Volga,,1842.12,7.07,,6,46.69,47.04,55.8,75.0,Manajemen Air,4.87
+6271,2010,Russia,Central,Coffee,2874.58,28.52,,10,90.75,18.71,83.29,69.67,Manajemen Air,3.99
+6551,2010,Russia,Central,Corn,2979.1,10.8,2.45,7,26.06,12.98,65.95,34.33,Pertanian Organik,-0.25
+2996,2010,Russia,Central,Rice,1243.83,23.97,1.773,8,19.86,36.34,21.76,42.87,Tanpa Adaptasi,-1.89
+1715,2010,Russia,Central,Soybeans,534.29,12.49,1.77,1,58.45,49.12,56.21,34.34,Pertanian Organik,11.66
+5501,2010,Russia,Central,Soybeans,1497.58,2.23,2.48,8,78.75,2.12,65.03,86.67,Pertanian Organik,8.74
+1392,2010,Russia,Central,Vegetables,798.65,6.77,2.28,1,62.92,5.56,76.79,34.06,Manajemen Air,8.08
+2561,2010,Russia,Central,Vegetables,2589.96,17.08,0.666,5,83.02,18.46,0.86,68.81,Rotasi Tanaman,0.91
+3387,2010,Russia,Central,Vegetables,1205.27,29.53,2.79,9,18.77,0.7,5.77,32.96,Manajemen Air,19.98
+4144,2010,Russia,Northwestern,Coffee,2094.31,5.22,3.16,6,71.69,42.08,41.59,32.25,Pertanian Organik,20.03
+1863,2010,Russia,Northwestern,Corn,2865.77,24.01,2.718,4,52.37,6.92,99.47,47.01,Manajemen Air,10.83
+6263,2010,Russia,Northwestern,Cotton,1210.85,19.41,1.377,9,94.92,32.34,46.68,97.35,Tanpa Adaptasi,16.85
+4031,2010,Russia,Northwestern,Fruits,2082.44,29.57,1.197,1,29.21,20.52,76.34,66.39,Tanaman Tahan Kekeringan,4.33
+3818,2010,Russia,Northwestern,Rice,1282.93,17.8,2.043,3,35.25,30.14,35.76,36.99,Pertanian Organik,2.9
+6428,2010,Russia,Northwestern,Soybeans,382.53,10.18,0.81,0,43.24,1.04,72.19,74.4,Tanpa Adaptasi,23.88
+6891,2010,Russia,Northwestern,Sugarcane,338.93,26.94,2.601,5,73.03,24.43,30.96,68.61,Tanpa Adaptasi,22.02
+6975,2010,Russia,Northwestern,Sugarcane,2255.23,3.17,0.68,8,31.22,48.03,4.4,69.85,Tanaman Tahan Kekeringan,0.35
+2272,2010,Russia,Northwestern,Wheat,2633.19,7.28,3.58,8,17.6,15.68,57.08,57.06,Tanaman Tahan Kekeringan,10.25
+3605,2010,Russia,Siberian,Corn,322.61,10.3,0.5040000000000001,7,30.04,49.78,53.7,71.73,Rotasi Tanaman,-1.86
+783,2010,Russia,Siberian,Cotton,2129.79,25.32,2.943,2,37.35,26.22,49.51,34.68,Pertanian Organik,23.39
+3967,2010,Russia,Siberian,Cotton,1197.54,10.02,1.42,1,68.98,33.8,68.93,59.51,Manajemen Air,20.9
+7683,2010,Russia,Siberian,Cotton,644.7,29.52,4.446000000000001,3,78.08,7.3,22.8,70.89,Rotasi Tanaman,14.4
+3600,2010,Russia,Siberian,,2929.35,26.97,1.323,1,92.67,14.89,46.38,42.97,Tanpa Adaptasi,20.76
+4376,2010,Russia,Volga,Soybeans,676.04,18.37,1.611,5,94.24,49.08,16.12,56.49,Pertanian Organik,13.83
+3896,2010,Russia,Volga,Sugarcane,1093.08,25.74,2.232,4,94.3,49.78,79.09,58.72,Tanaman Tahan Kekeringan,29.56
+7393,2010,Russia,Volga,Wheat,2762.82,11.78,2.62,9,87.61,43.84,38.6,69.14,Tanpa Adaptasi,17.65
+2590,2011,Russia,Central,Barley,1517.58,6.29,0.56,9,84.48,5.82,71.79,39.5,Rotasi Tanaman,8.02
+3801,2011,Russia,Central,Corn,2123.54,16.49,4.041,5,12.57,10.56,21.36,92.05,Tanaman Tahan Kekeringan,10.29
+7909,2011,Russia,Central,Corn,273.13,26.41,1.899,10,23.26,41.95,84.43,87.39,Pertanian Organik,20.77
+2054,2011,Russia,Central,Fruits,1012.51,3.0,4.12,10,14.66,38.44,43.55,61.64,Manajemen Air,16.7
+1916,2011,Russia,Central,Rice,1983.72,3.2,2.53,10,66.76,1.15,74.17,47.71,Tanpa Adaptasi,15.78
+1930,2011,Russia,Central,Rice,1819.34,2.47,1.16,3,25.72,10.95,36.54,75.78,Manajemen Air,29.27
+359,2011,Russia,Central,Soybeans,1448.96,1.16,0.82,10,51.55,5.29,25.12,46.29,Tanpa Adaptasi,7.72
+6482,2011,Russia,Central,Sugarcane,1820.5,2.76,4.46,3,77.96,30.74,61.31,89.8,Tanpa Adaptasi,16.71
+3075,2011,Russia,Central,Vegetables,452.64,25.58,1.2060000000000002,1,52.07,34.92,24.35,60.26,Tanpa Adaptasi,3.09
+6990,2011,Russia,Northwestern,Corn,427.81,22.15,1.539,10,96.01,36.88,72.18,94.72,Rotasi Tanaman,22.12
+2884,2011,Russia,Northwestern,Fruits,1221.11,2.27,2.58,3,49.85,32.76,93.43,81.46,Tanaman Tahan Kekeringan,18.16
+3503,2011,Russia,Northwestern,Rice,247.41,8.53,2.097,0,17.77,33.2,22.2,83.14,Manajemen Air,3.07
+2398,2011,Russia,Northwestern,Soybeans,578.13,5.98,1.42,1,41.41,15.2,95.86,75.5,Pertanian Organik,2.1
+3673,2011,Russia,Northwestern,Soybeans,2954.43,29.74,1.08,1,25.87,38.97,32.5,66.2,Manajemen Air,1.62
+7955,2011,Russia,Northwestern,Sugarcane,511.96,5.85,1.92,9,18.37,39.0,66.5,67.14,Rotasi Tanaman,25.12
+566,2011,Russia,Northwestern,Wheat,279.55,17.56,2.709,1,11.08,6.74,93.14,88.63,Rotasi Tanaman,17.95
+3030,2011,Russia,Northwestern,Wheat,1785.86,5.1,2.56,4,47.59,18.16,87.68,90.42,Tanpa Adaptasi,19.3
+1554,2011,Russia,Siberian,Barley,2385.87,8.19,3.56,4,56.14,21.85,64.87,68.75,Pertanian Organik,30.21
+428,2011,Russia,Siberian,Corn,2861.59,26.47,2.637,2,39.81,32.4,55.52,48.37,Manajemen Air,5.96
+2872,2011,Russia,Siberian,Corn,204.1,15.53,3.294,0,,2.61,45.1,73.39,Tanaman Tahan Kekeringan,27.33
+5483,2011,Russia,Siberian,Corn,827.54,1.04,3.08,2,76.61,40.98,32.79,86.93,Tanaman Tahan Kekeringan,25.63
+7578,2011,Russia,Siberian,Rice,1814.87,17.11,2.457,7,75.24,5.91,10.18,45.82,Manajemen Air,-1.84
+7802,2011,Russia,Siberian,Vegetables,597.69,5.46,1.25,3,32.32,41.26,42.54,33.29,Manajemen Air,-0.74
+7800,2011,Russia,Siberian,Wheat,219.04,10.66,2.763,7,65.99,15.91,72.55,76.31,Rotasi Tanaman,25.83
+1071,2011,Russia,Volga,Barley,2731.35,22.92,1.791,8,56.27,24.86,72.66,35.65,Tanaman Tahan Kekeringan,30.41
+2780,2011,Russia,Volga,Corn,2883.27,10.74,2.91,4,99.16,36.69,99.29,81.12,Tanaman Tahan Kekeringan,-2.33
+4892,2011,Russia,Volga,Corn,2149.75,13.88,1.38,5,82.12,38.39,40.61,96.41,Manajemen Air,22.7
+6456,2011,Russia,Volga,Rice,497.79,14.51,1.071,6,22.04,15.53,88.89,42.81,Rotasi Tanaman,-2.21
+7224,2011,Russia,Volga,Rice,1161.03,10.21,0.85,2,17.46,2.43,80.1,69.08,Tanaman Tahan Kekeringan,8.27
+6548,2012,Russia,Central,Barley,1757.68,10.22,1.22,1,49.79,5.86,7.83,99.32,Manajemen Air,26.71
+1196,2012,Russia,Central,Cotton,952.74,19.4,2.7,3,73.78,36.25,19.16,84.93,Tanpa Adaptasi,4.09
+1639,2012,Russia,Central,Fruits,2151.42,16.55,2.2230000000000003,7,14.19,18.89,99.86,75.91,Tanaman Tahan Kekeringan,4.29
+7341,2012,Russia,Central,Fruits,872.39,8.49,2.03,10,92.05,6.08,32.1,70.13,Manajemen Air,23.18
+5159,2012,Russia,Central,Rice,2943.58,19.63,2.565,10,36.87,4.09,21.13,73.43,Tanpa Adaptasi,7.5
+297,2012,Russia,Central,Vegetables,443.77,7.31,0.558,9,90.95,11.76,52.05,55.64,Pertanian Organik,-3.28
+604,2012,Russia,Northwestern,Barley,2651.02,7.3,2.65,0,76.55,36.44,47.44,48.91,Manajemen Air,15.84
+5475,2012,Russia,Northwestern,Barley,2780.5,7.15,1.66,4,81.13,40.68,64.86,56.53,Pertanian Organik,22.2
+5538,2012,Russia,Northwestern,Coffee,2384.7,23.6,2.727,4,45.28,33.35,97.11,78.08,Tanpa Adaptasi,24.77
+818,2012,Russia,Northwestern,Cotton,398.58,19.1,3.168,1,77.05,38.19,49.13,80.33,Manajemen Air,31.3
+3988,2012,Russia,Northwestern,Fruits,2065.21,28.29,1.197,1,65.11,28.74,92.75,32.19,Manajemen Air,27.02
+1500,2012,Russia,Northwestern,Wheat,2513.4,26.23,1.179,3,17.93,40.93,53.11,45.9,Pertanian Organik,5.44
+317,2012,Russia,Siberian,Fruits,377.92,12.74,3.249,10,40.52,16.7,91.12,59.33,Tanaman Tahan Kekeringan,17.15
+3921,2012,Russia,Siberian,Fruits,626.62,1.14,1.54,2,34.88,3.91,44.63,30.18,Manajemen Air,22.6
+3847,2012,Russia,Siberian,Sugarcane,372.08,13.98,1.296,2,99.05,1.27,51.58,45.17,Tanpa Adaptasi,6.63
+5569,2012,Russia,Siberian,Vegetables,1195.67,5.34,3.59,3,52.57,21.82,64.4,71.25,Manajemen Air,10.06
+211,2012,Russia,Siberian,Wheat,863.78,13.9,3.02,7,90.97,22.28,70.33,98.66,Rotasi Tanaman,31.67
+2878,2012,Russia,Volga,Barley,1861.44,17.55,1.863,8,16.19,5.3,9.52,82.13,Manajemen Air,-3.26
+6422,2012,Russia,Volga,Barley,1809.41,9.31,1.34,10,88.47,41.4,23.5,66.86,Tanpa Adaptasi,21.46
+5546,2012,Russia,Volga,Coffee,,25.12,2.682,10,24.16,34.04,42.37,81.39,Tanpa Adaptasi,11.5
+886,2012,Russia,Volga,,1059.58,28.75,1.755,4,52.96,0.85,52.44,67.51,Rotasi Tanaman,15.42
+403,2013,Russia,Central,Fruits,1552.88,19.65,2.196,1,75.33,35.25,30.01,89.14,Manajemen Air,12.26
+796,2013,Russia,Central,Rice,1543.32,10.0,1.55,10,33.06,32.33,23.71,62.26,Tanaman Tahan Kekeringan,5.39
+7747,2013,Russia,Central,Rice,1510.77,5.02,3.96,1,83.69,34.39,23.27,74.11,Tanaman Tahan Kekeringan,24.53
+6150,2013,Russia,Central,Soybeans,2346.76,1.94,3.78,2,23.21,10.42,51.8,52.19,Pertanian Organik,12.96
+6135,2013,Russia,Central,Sugarcane,732.75,21.76,0.846,10,37.62,33.81,29.18,78.38,Pertanian Organik,-0.79
+6769,2013,Russia,Central,Wheat,2928.94,2.15,1.32,9,35.17,26.94,76.78,46.05,Tanaman Tahan Kekeringan,0.27
+3934,2013,Russia,Northwestern,Barley,2605.92,10.76,2.02,3,35.04,7.59,96.97,36.18,Pertanian Organik,11.24
+6486,2013,Russia,Northwestern,Rice,662.16,0.68,4.62,4,39.12,5.28,92.55,32.83,Tanpa Adaptasi,13.74
+4950,2013,Russia,Northwestern,Wheat,2932.39,26.38,,9,61.52,44.06,88.86,66.79,Tanaman Tahan Kekeringan,26.38
+518,2013,Russia,Siberian,Coffee,511.32,23.09,2.358,8,54.02,14.52,37.67,55.84,Rotasi Tanaman,-1.27
+1390,2013,Russia,Siberian,Corn,2706.02,16.11,3.168,7,28.22,20.34,35.21,61.36,Pertanian Organik,30.99
+6655,2013,Russia,Siberian,Rice,798.23,24.85,3.528,7,49.64,16.12,65.12,50.77,Rotasi Tanaman,26.53
+2213,2013,Russia,Siberian,Sugarcane,213.17,25.42,0.6930000000000001,9,77.26,48.63,53.19,90.59,Tanpa Adaptasi,-4.97
+3268,2013,Russia,Siberian,Sugarcane,2825.44,9.33,2.66,3,11.33,6.16,71.9,89.66,Rotasi Tanaman,34.35
+6288,2013,Russia,Siberian,Sugarcane,2021.05,0.78,,5,51.9,47.24,98.74,46.04,Rotasi Tanaman,34.59
+2559,2013,Russia,Volga,Barley,1680.65,9.24,3.25,5,67.37,24.3,31.47,53.17,Pertanian Organik,21.56
+4779,2013,Russia,Volga,Corn,2483.16,9.4,1.92,4,36.17,0.71,90.79,92.08,Rotasi Tanaman,-3.68
+869,2013,Russia,Volga,Cotton,2030.52,19.12,4.329,10,26.23,16.06,91.79,82.03,Tanaman Tahan Kekeringan,16.54
+2411,2013,Russia,Volga,Cotton,886.67,5.95,0.73,1,72.47,38.14,83.8,57.83,Rotasi Tanaman,6.47
+6687,2013,Russia,Volga,Fruits,2246.09,21.13,2.9250000000000003,5,82.22,9.34,46.4,32.47,Tanaman Tahan Kekeringan,33.17
+6945,2013,Russia,Volga,Rice,2857.73,14.11,2.88,6,36.93,18.54,14.47,80.15,Pertanian Organik,-2.74
+1074,2013,Russia,Volga,Sugarcane,656.03,10.38,2.67,3,57.4,2.77,0.34,68.6,Pertanian Organik,6.28
+3446,2013,Russia,Volga,Sugarcane,887.69,17.61,3.861,7,60.03,31.72,18.06,42.31,Pertanian Organik,13.19
+2844,2013,Russia,Volga,Wheat,301.58,10.59,3.4290000000000003,1,45.76,46.87,90.09,74.85,Pertanian Organik,30.53
+213,2014,Russia,Central,Rice,749.58,5.01,2.77,2,58.68,41.29,95.73,85.9,Tanaman Tahan Kekeringan,-0.09
+1394,2014,Russia,Central,Rice,1405.59,8.17,1.81,6,32.18,43.7,32.04,75.47,Tanpa Adaptasi,29.17
+6710,2014,Russia,Central,Vegetables,1547.39,9.77,2.42,9,,44.78,44.99,99.74,Rotasi Tanaman,2.87
+4445,2014,Russia,Central,,2488.68,27.95,3.222,0,85.85,15.03,95.27,75.57,Pertanian Organik,19.24
+2453,2014,Russia,Northwestern,Coffee,1884.53,8.0,2.73,5,73.07,19.92,54.16,87.07,Tanaman Tahan Kekeringan,14.49
+5373,2014,Russia,Northwestern,Corn,1033.54,19.56,1.143,10,10.73,18.44,13.89,54.29,Manajemen Air,27.76
+4278,2014,Russia,Northwestern,Sugarcane,2730.75,5.62,1.61,4,34.14,14.38,25.08,92.52,Rotasi Tanaman,-0.6
+7231,2014,Russia,Siberian,Barley,508.99,13.77,3.32,9,11.97,6.83,23.21,43.49,Manajemen Air,11.72
+592,2014,Russia,Siberian,Corn,,15.08,0.783,3,59.09,40.59,30.23,88.99,Tanpa Adaptasi,-3.44
+1940,2014,Russia,Siberian,Rice,2467.88,21.92,3.042,5,58.66,34.78,38.63,66.65,Tanaman Tahan Kekeringan,20.54
+1044,2014,Russia,Siberian,Soybeans,1768.36,1.93,2.28,10,63.2,36.57,3.99,61.15,Pertanian Organik,-2.88
+7079,2014,Russia,Siberian,Sugarcane,2824.79,3.47,1.78,3,89.44,46.55,24.73,53.44,Tanpa Adaptasi,9.45
+2583,2014,Russia,Siberian,Vegetables,542.18,8.97,1.51,2,86.06,32.66,92.11,70.91,Tanpa Adaptasi,25.82
+567,2014,Russia,Siberian,Wheat,2377.78,13.0,3.44,9,32.25,0.16,27.17,94.87,Manajemen Air,17.85
+5866,2014,Russia,Volga,Sugarcane,2967.56,2.87,2.27,0,58.26,37.84,82.09,60.16,Pertanian Organik,9.06
+4193,2014,Russia,Volga,Vegetables,2294.25,18.85,2.3760000000000003,2,52.43,16.75,5.78,83.34,Tanpa Adaptasi,11.22
+6870,2014,Russia,Volga,Wheat,,16.83,1.278,3,97.43,11.77,11.87,69.37,Rotasi Tanaman,-0.7
+4767,2015,Russia,Central,Barley,2488.16,15.43,2.871,3,93.67,41.32,23.26,52.62,Manajemen Air,13.36
+4320,2015,Russia,Central,Coffee,1868.46,11.72,4.76,6,65.08,39.61,56.58,64.38,Pertanian Organik,17.36
+7133,2015,Russia,Central,Coffee,1016.73,13.57,4.77,7,88.88,47.72,54.6,81.33,Tanpa Adaptasi,13.69
+7921,2015,Russia,Central,Corn,2884.46,1.59,1.36,0,83.18,37.23,97.62,34.23,Rotasi Tanaman,7.78
+3572,2015,Russia,Central,Cotton,2633.45,28.1,0.936,10,93.08,48.69,48.75,63.01,Pertanian Organik,31.54
+6533,2015,Russia,Northwestern,Fruits,764.58,15.02,1.584,4,92.39,40.08,98.74,36.01,Manajemen Air,8.37
+4958,2015,Russia,Northwestern,Wheat,,9.05,3.28,5,64.64,0.26,45.15,80.2,Rotasi Tanaman,26.45
+1912,2015,Russia,Siberian,Barley,2110.2,4.59,4.8,4,,3.85,29.67,51.47,Rotasi Tanaman,13.95
+4469,2015,Russia,Siberian,Coffee,2550.33,21.77,2.817,6,83.13,8.44,29.6,91.77,Rotasi Tanaman,26.53
+6746,2015,Russia,Siberian,Cotton,1086.11,23.38,3.987,4,47.81,29.58,24.76,82.85,Pertanian Organik,19.2
+791,2015,Russia,Siberian,Fruits,2426.31,27.02,1.404,5,67.4,27.76,73.97,84.11,Rotasi Tanaman,-3.65
+1205,2015,Russia,Siberian,Soybeans,1299.65,27.99,2.988,10,12.32,33.81,28.97,75.7,Tanaman Tahan Kekeringan,16.2
+1058,2015,Russia,Volga,Barley,1154.28,4.93,2.97,9,59.11,33.92,16.75,59.56,Manajemen Air,7.02
+3431,2015,Russia,Volga,Barley,2920.04,8.99,2.72,9,17.24,27.88,20.09,58.47,Manajemen Air,-4.46
+703,2015,Russia,Volga,Coffee,465.46,26.67,2.673,10,46.96,20.02,63.83,94.58,Rotasi Tanaman,28.18
+2864,2015,Russia,Volga,Corn,2849.18,28.34,2.835,0,94.06,6.44,62.83,82.81,Rotasi Tanaman,11.84
+5864,2015,Russia,Volga,Corn,987.02,27.28,2.4480000000000004,8,41.76,26.15,77.99,92.37,Tanaman Tahan Kekeringan,32.53
+3864,2015,Russia,Volga,Fruits,768.91,21.25,4.041,3,49.36,15.44,33.91,83.89,Tanpa Adaptasi,15.93
+4285,2015,Russia,Volga,Fruits,993.47,26.0,0.7020000000000001,1,60.52,46.13,21.97,38.14,Tanaman Tahan Kekeringan,4.85
+5626,2015,Russia,Volga,Soybeans,486.78,3.69,4.14,2,21.35,12.93,29.25,99.16,Tanaman Tahan Kekeringan,15.48
+6391,2015,Russia,Volga,Vegetables,1864.49,24.17,3.024,10,45.18,16.45,49.9,50.7,Manajemen Air,28.04
+7042,2015,Russia,Volga,Vegetables,1411.53,5.52,1.74,6,49.13,27.39,48.41,74.15,Pertanian Organik,6.0
+4837,2016,Russia,Central,Vegetables,1917.38,26.03,1.6740000000000002,6,29.73,37.05,80.59,75.05,Manajemen Air,30.66
+4932,2016,Russia,Central,Wheat,2202.2,17.07,0.783,1,64.9,25.14,21.86,88.21,Manajemen Air,20.35
+5683,2016,Russia,Northwestern,Fruits,2457.49,4.63,3.94,6,63.87,33.82,29.49,43.49,Rotasi Tanaman,32.93
+5402,2016,Russia,Northwestern,Soybeans,863.1,14.0,1.8,8,24.63,49.45,32.51,74.99,Manajemen Air,22.38
+5530,2016,Russia,Northwestern,Wheat,1573.55,4.77,2.78,1,78.29,31.5,98.37,67.5,Rotasi Tanaman,21.17
+3899,2016,Russia,Siberian,Barley,1420.92,17.71,2.646,9,37.23,28.99,38.77,81.56,Tanaman Tahan Kekeringan,8.89
+7562,2016,Russia,Siberian,Coffee,970.51,22.11,1.368,8,82.09,25.93,27.6,61.49,Manajemen Air,31.28
+2702,2016,Russia,Siberian,Corn,548.88,19.58,2.331,10,46.61,9.74,25.98,69.35,Tanaman Tahan Kekeringan,5.8
+6320,2016,Russia,Siberian,Corn,2239.72,14.77,1.11,0,31.58,32.01,82.38,92.0,Tanpa Adaptasi,25.74
+2184,2016,Russia,Siberian,Soybeans,1858.13,10.03,4.76,3,89.75,19.3,87.16,59.3,Pertanian Organik,18.14
+7531,2016,Russia,Siberian,Soybeans,1923.78,25.0,1.8,6,42.86,7.81,95.91,36.64,Tanpa Adaptasi,23.38
+1021,2016,Russia,Siberian,Sugarcane,2518.41,28.38,2.556,2,,29.24,86.47,67.82,Manajemen Air,13.48
+4987,2016,Russia,Siberian,Vegetables,1457.56,20.96,2.034,7,96.49,7.47,95.84,34.96,Tanpa Adaptasi,16.07
+6527,2016,Russia,Volga,Corn,852.26,12.31,3.1,6,78.85,28.19,75.07,73.89,Pertanian Organik,22.16
+5695,2016,Russia,Volga,Cotton,875.46,29.94,1.98,6,74.34,23.99,11.5,72.94,Rotasi Tanaman,11.87
+4886,2016,Russia,Volga,Rice,2330.91,20.24,2.358,9,36.97,16.84,63.92,93.01,Pertanian Organik,22.9
+681,2016,Russia,Volga,Soybeans,1678.37,24.86,2.394,3,66.77,27.07,85.5,43.55,Manajemen Air,2.28
+5261,2016,Russia,Volga,Sugarcane,2964.71,16.59,1.359,1,21.08,38.4,36.49,52.47,Tanpa Adaptasi,-3.19
+5835,2016,Russia,Volga,Vegetables,916.19,11.19,1.81,4,95.25,47.31,91.95,33.0,Tanpa Adaptasi,-0.43
+3249,2016,Russia,Volga,Wheat,2092.03,23.24,,3,96.75,46.62,26.07,92.01,Tanpa Adaptasi,22.86
+3483,2016,Russia,Volga,Wheat,2474.02,5.46,1.91,5,38.95,48.49,3.52,68.21,Tanpa Adaptasi,25.46
+1842,2017,Russia,Central,Barley,708.39,20.97,1.134,0,61.89,19.96,92.5,65.01,Pertanian Organik,6.51
+3340,2017,Russia,Central,Corn,592.23,8.96,0.66,2,13.43,24.91,48.9,90.14,Manajemen Air,3.41
+1162,2017,Russia,Central,Rice,1163.8,1.23,2.25,6,48.77,49.13,88.38,95.49,Tanaman Tahan Kekeringan,34.77
+3784,2017,Russia,Central,Sugarcane,2156.32,8.65,1.39,3,31.88,41.01,4.48,87.36,Manajemen Air,-0.21
+5012,2017,Russia,Central,Sugarcane,551.91,9.15,3.48,3,96.25,48.39,34.64,97.6,Tanaman Tahan Kekeringan,23.84
+106,2017,Russia,Central,Vegetables,808.38,22.65,2.826,10,76.01,21.95,12.41,35.1,Manajemen Air,25.85
+4514,2017,Russia,Central,Wheat,987.49,27.66,1.728,6,12.39,36.46,66.06,76.44,Pertanian Organik,31.28
+5601,2017,Russia,Central,Wheat,909.13,8.76,3.82,8,29.48,7.09,87.23,35.31,Tanaman Tahan Kekeringan,11.44
+1143,2017,Russia,Northwestern,Cotton,518.74,15.68,1.062,8,38.89,26.13,22.87,38.13,Pertanian Organik,8.87
+3913,2017,Russia,Northwestern,Cotton,2907.97,22.61,1.935,3,94.23,30.79,54.46,59.62,Manajemen Air,15.35
+7833,2017,Russia,Northwestern,Cotton,2571.9,26.99,1.782,9,45.86,31.59,64.85,49.69,Tanpa Adaptasi,10.89
+5534,2017,Russia,Northwestern,Fruits,1406.33,25.08,3.5010000000000003,8,37.13,25.23,99.16,39.17,Tanaman Tahan Kekeringan,13.84
+6,2017,Russia,Northwestern,Rice,586.35,7.0,1.07,10,88.96,42.2,71.15,45.82,Tanaman Tahan Kekeringan,7.34
+6117,2017,Russia,Northwestern,Vegetables,1017.1,14.06,1.76,3,37.57,29.4,57.83,42.56,Rotasi Tanaman,27.12
+6463,2017,Russia,Northwestern,Vegetables,825.75,12.0,1.51,2,89.38,32.11,7.15,81.04,Pertanian Organik,0.7
+5698,2017,Russia,Siberian,Coffee,1394.6,21.58,2.9160000000000004,3,76.44,46.16,56.2,45.94,Pertanian Organik,16.53
+7319,2017,Russia,Siberian,Coffee,2991.44,27.04,2.16,10,12.27,29.71,15.14,81.62,Manajemen Air,31.5
+6374,2017,Russia,Siberian,Cotton,,12.46,2.35,5,40.55,24.87,92.36,42.29,Rotasi Tanaman,34.75
+1691,2017,Russia,Siberian,Sugarcane,2592.38,20.33,3.447,4,97.07,19.1,97.54,91.65,Rotasi Tanaman,12.7
+591,2017,Russia,Volga,Cotton,1080.06,26.82,1.4580000000000002,4,44.45,28.56,22.88,60.55,Tanpa Adaptasi,5.76
+3903,2017,Russia,Volga,Fruits,677.21,16.32,3.591,1,10.67,9.69,94.4,77.2,Tanaman Tahan Kekeringan,16.37
+3715,2017,Russia,Volga,Sugarcane,2040.38,20.1,3.366,2,64.1,32.07,52.52,87.72,Rotasi Tanaman,27.77
+5719,2018,Russia,Central,Barley,1346.1,23.8,1.746,1,70.88,40.13,48.13,87.69,Tanpa Adaptasi,0.8
+402,2018,Russia,Central,Cotton,1133.72,26.37,0.972,1,40.64,9.26,48.98,98.02,Manajemen Air,-3.55
+32,2018,Russia,Northwestern,Barley,2073.63,17.94,1.566,0,56.67,10.71,36.95,34.74,Tanpa Adaptasi,22.05
+7305,2018,Russia,Northwestern,Barley,1219.24,24.49,0.891,6,20.19,23.43,29.29,45.66,Tanpa Adaptasi,-0.27
+1764,2018,Russia,Northwestern,Coffee,2920.8,21.37,2.871,5,25.57,3.06,5.79,87.84,Tanaman Tahan Kekeringan,29.73
+3312,2018,Russia,Northwestern,Coffee,1188.34,9.59,1.9,5,87.23,31.8,74.99,78.03,Manajemen Air,32.16
+1255,2018,Russia,Northwestern,Corn,1742.68,13.87,3.94,6,63.46,16.47,43.07,43.6,Rotasi Tanaman,32.04
+7586,2018,Russia,Northwestern,Corn,1923.69,28.8,0.963,1,98.58,24.2,8.35,39.45,Rotasi Tanaman,7.8
+6691,2018,Russia,Northwestern,Cotton,1763.49,6.12,2.0,2,63.39,7.7,2.42,43.24,Tanaman Tahan Kekeringan,16.31
+41,2018,Russia,Northwestern,Vegetables,2330.25,21.17,1.647,5,14.62,3.12,57.77,59.62,Rotasi Tanaman,0.23
+3491,2018,Russia,Northwestern,Wheat,2722.72,20.06,0.864,0,13.56,3.59,40.0,41.27,Manajemen Air,31.25
+661,2018,Russia,Siberian,Cotton,2899.26,14.28,0.87,0,28.79,0.4,35.38,61.37,Tanaman Tahan Kekeringan,22.48
+7835,2018,Russia,Siberian,Cotton,,14.08,2.6,9,57.75,19.2,4.4,46.03,Rotasi Tanaman,30.41
+1986,2018,Russia,Siberian,Rice,588.9,24.41,1.998,5,73.02,43.77,25.42,57.67,Manajemen Air,7.27
+2240,2018,Russia,Siberian,Soybeans,,20.36,0.738,4,88.93,46.19,56.68,51.89,Pertanian Organik,1.88
+1583,2018,Russia,Volga,Barley,1517.81,11.57,3.4,8,80.48,0.81,13.93,71.66,Pertanian Organik,20.83
+452,2018,Russia,Volga,Corn,1499.91,6.09,1.66,4,86.36,21.23,39.1,48.36,Rotasi Tanaman,-3.66
+3007,2018,Russia,Volga,Corn,515.96,6.49,1.37,3,23.06,27.73,39.67,40.42,Tanpa Adaptasi,1.02
+4327,2018,Russia,Volga,Corn,2920.8,6.01,3.33,5,12.31,49.05,71.29,73.31,Pertanian Organik,32.93
+1041,2018,Russia,Volga,Cotton,2977.11,0.75,1.83,5,74.52,39.98,54.53,69.04,Manajemen Air,0.3
+6027,2018,Russia,Volga,Rice,429.44,9.07,2.574,10,25.93,11.1,98.29,64.5,Rotasi Tanaman,5.63
+5737,2018,Russia,Volga,Wheat,2445.31,4.62,2.92,5,89.43,19.78,46.69,52.39,Tanaman Tahan Kekeringan,0.09
+1509,2018,Russia,Volga,,758.43,15.42,1.1700000000000002,1,60.55,34.24,52.18,74.46,Tanpa Adaptasi,30.57
+6664,2019,Russia,Central,Coffee,301.93,15.15,1.89,5,25.3,17.65,70.07,43.96,Tanpa Adaptasi,19.49
+1033,2019,Russia,Central,Corn,1018.31,12.07,1.92,1,99.43,23.92,5.86,63.62,Manajemen Air,33.19
+2591,2019,Russia,Central,Corn,988.54,22.73,3.0690000000000004,4,79.15,5.45,96.96,54.51,Pertanian Organik,16.5
+6628,2019,Russia,Central,Cotton,2253.77,24.21,2.781,6,50.36,28.57,61.34,69.8,Rotasi Tanaman,12.8
+1520,2019,Russia,Central,Sugarcane,1797.2,0.61,1.75,4,68.58,28.98,67.14,33.4,Tanpa Adaptasi,33.11
+378,2019,Russia,Central,Vegetables,2798.36,6.72,3.89,7,15.4,22.34,75.39,45.28,Pertanian Organik,11.93
+2835,2019,Russia,Central,Vegetables,1833.07,25.3,1.791,2,25.06,31.62,38.72,49.26,Tanaman Tahan Kekeringan,5.94
+3455,2019,Russia,Northwestern,Coffee,635.73,25.14,3.114,5,15.77,27.17,0.23,38.79,Pertanian Organik,19.99
+6316,2019,Russia,Northwestern,Coffee,918.67,24.38,1.395,3,28.5,8.35,63.53,83.11,Manajemen Air,8.77
+4613,2019,Russia,Northwestern,Corn,366.88,14.74,1.197,2,92.02,43.9,15.57,77.56,Rotasi Tanaman,26.92
+7536,2019,Russia,Northwestern,Soybeans,1490.4,9.04,1.48,4,42.96,25.31,91.44,80.93,Pertanian Organik,24.58
+1075,2019,Russia,Northwestern,Vegetables,570.95,16.95,3.384,10,31.77,16.86,66.47,92.15,Tanpa Adaptasi,19.74
+190,2019,Russia,Siberian,Barley,852.26,3.41,1.41,7,50.6,44.48,78.05,53.99,Tanpa Adaptasi,29.58
+1089,2019,Russia,Siberian,Barley,2962.56,17.08,2.259,4,95.44,32.84,73.73,37.61,Tanpa Adaptasi,0.63
+1426,2019,Russia,Siberian,Barley,1814.97,18.2,3.222,10,57.5,31.26,22.56,73.56,Pertanian Organik,18.55
+3858,2019,Russia,Siberian,Barley,2976.85,29.96,1.215,3,74.17,23.05,61.79,78.67,Tanpa Adaptasi,32.43
+1552,2019,Russia,Siberian,Corn,617.28,11.16,2.07,5,51.99,35.09,49.09,62.67,Rotasi Tanaman,8.24
+5659,2019,Russia,Siberian,Corn,1372.62,29.98,0.936,1,95.14,15.02,60.24,42.49,Tanpa Adaptasi,28.58
+778,2019,Russia,Siberian,Cotton,1215.73,10.54,2.7,7,71.16,16.93,91.98,50.26,Pertanian Organik,-4.81
+5682,2019,Russia,Siberian,Fruits,1886.24,22.84,1.062,7,65.98,22.81,92.52,73.11,Tanaman Tahan Kekeringan,6.87
+7439,2019,Russia,Siberian,Fruits,2673.73,16.75,2.133,4,13.21,0.94,67.09,99.67,Manajemen Air,33.87
+2267,2019,Russia,Siberian,Rice,1726.56,26.39,1.629,5,75.76,4.39,67.29,63.89,Tanaman Tahan Kekeringan,-1.27
+7581,2019,Russia,Siberian,Soybeans,2986.3,11.32,3.42,4,,10.06,80.86,46.88,Pertanian Organik,15.04
+139,2019,Russia,Siberian,Vegetables,1514.78,12.57,1.92,1,18.63,19.82,36.12,88.13,Tanpa Adaptasi,15.17
+1469,2019,Russia,Siberian,Vegetables,2452.8,0.95,,7,74.93,14.93,84.97,38.31,Tanpa Adaptasi,-1.33
+188,2019,Russia,Siberian,Wheat,2021.45,26.9,1.872,2,52.7,1.91,84.27,79.34,Pertanian Organik,15.29
+4642,2019,Russia,Volga,Barley,2556.17,20.66,0.9,3,87.86,29.0,93.79,39.36,Rotasi Tanaman,28.48
+6119,2019,Russia,Volga,Barley,2541.35,5.1,2.93,6,74.51,48.55,41.19,70.15,Pertanian Organik,14.1
+3374,2019,Russia,Volga,Coffee,1551.07,27.68,1.836,10,47.21,31.19,10.75,70.61,Manajemen Air,2.21
+653,2019,Russia,Volga,Vegetables,616.8,24.78,2.385,6,93.51,36.23,69.4,71.54,Manajemen Air,-4.83
+2436,2019,Russia,Volga,Vegetables,2654.03,3.98,2.88,9,59.71,24.21,79.19,36.95,Pertanian Organik,11.53
+876,2019,Russia,Volga,Wheat,517.69,11.37,1.63,2,36.68,27.85,50.44,81.28,Rotasi Tanaman,4.21
+7749,2020,Russia,Central,Coffee,837.75,17.27,1.521,10,51.54,44.2,42.63,96.55,Manajemen Air,25.7
+7529,2020,Russia,Central,Corn,1518.73,4.47,2.43,3,88.55,29.2,44.59,59.61,Rotasi Tanaman,11.24
+2972,2020,Russia,Central,Rice,236.06,8.32,2.619,6,10.57,39.66,73.38,85.85,Pertanian Organik,17.35
+3153,2020,Russia,Central,Wheat,862.59,20.69,0.5040000000000001,9,77.21,32.33,65.93,98.62,Tanpa Adaptasi,6.87
+2821,2020,Russia,Northwestern,Cotton,1201.81,20.58,2.736,4,73.04,8.96,59.02,34.02,Rotasi Tanaman,25.39
+7230,2020,Russia,Northwestern,Cotton,1029.56,6.23,0.71,9,18.3,22.63,7.75,33.98,Tanpa Adaptasi,-0.96
+2569,2020,Russia,Northwestern,Fruits,2383.16,24.21,3.402,10,91.5,43.31,88.37,40.58,Manajemen Air,32.09
+905,2020,Russia,Northwestern,Sugarcane,304.64,16.12,3.924,8,34.77,33.29,44.96,74.67,Pertanian Organik,13.35
+6088,2020,Russia,Northwestern,Sugarcane,468.59,24.24,2.313,1,56.87,46.02,90.1,49.73,Tanpa Adaptasi,5.96
+5924,2020,Russia,Northwestern,,2880.95,22.8,1.872,0,86.7,17.68,32.13,47.81,Pertanian Organik,30.87
+7367,2020,Russia,Siberian,Coffee,596.13,27.64,1.962,7,94.44,11.7,12.48,71.73,Tanaman Tahan Kekeringan,12.38
+1434,2020,Russia,Siberian,Corn,1136.99,13.99,2.16,7,60.69,36.6,57.56,31.4,Manajemen Air,26.35
+5988,2020,Russia,Siberian,Corn,2531.06,26.1,1.215,1,12.94,20.2,37.42,95.99,Pertanian Organik,34.17
+3458,2020,Russia,Siberian,Soybeans,1862.59,10.77,1.68,2,99.26,7.16,13.72,99.0,Tanaman Tahan Kekeringan,10.58
+7402,2020,Russia,Volga,Barley,1670.58,8.18,2.75,2,62.57,1.08,76.05,31.41,Manajemen Air,20.76
+824,2020,Russia,Volga,Rice,2526.4,1.18,3.89,7,23.93,29.9,83.68,72.99,Manajemen Air,30.16
+1734,2020,Russia,Volga,Rice,811.78,0.74,2.64,7,59.42,27.36,60.34,40.57,Manajemen Air,-0.52
+4776,2020,Russia,Volga,Sugarcane,2783.48,26.17,2.106,9,45.59,16.53,93.85,43.38,Tanaman Tahan Kekeringan,30.59
+1011,2021,Russia,Central,Barley,1434.15,7.15,1.88,6,68.21,11.98,32.48,34.31,Pertanian Organik,3.73
+7105,2021,Russia,Central,Fruits,1339.2,6.28,2.73,3,98.51,2.78,97.17,96.44,Pertanian Organik,6.0
+1774,2021,Russia,Central,Rice,2255.91,7.03,3.0,2,37.9,8.91,45.4,54.48,Tanpa Adaptasi,4.92
+3039,2021,Russia,Central,Rice,282.04,21.04,1.854,8,46.51,2.63,62.44,91.71,Tanpa Adaptasi,33.51
+4934,2021,Russia,Central,Rice,1896.23,28.14,1.404,9,55.02,2.18,84.39,80.6,Manajemen Air,-0.64
+1733,2021,Russia,Central,Soybeans,573.92,17.07,3.528,4,64.36,8.64,11.13,49.62,Tanpa Adaptasi,30.84
+3979,2021,Russia,Central,Soybeans,450.11,4.46,2.673,10,36.08,20.01,69.48,64.7,Tanpa Adaptasi,4.84
+7772,2021,Russia,Central,Sugarcane,2979.85,11.99,4.29,9,47.17,47.75,70.72,33.88,Pertanian Organik,15.87
+5565,2021,Russia,Northwestern,Barley,310.41,1.79,2.547,4,33.97,28.77,72.8,94.47,Tanpa Adaptasi,14.24
+269,2021,Russia,Northwestern,Coffee,2456.63,23.7,1.395,8,27.8,43.75,40.37,43.36,Rotasi Tanaman,27.61
+6062,2021,Russia,Northwestern,Coffee,2043.46,0.69,1.67,2,,11.17,11.07,93.12,Tanaman Tahan Kekeringan,32.46
+309,2021,Russia,Northwestern,Cotton,1319.66,29.39,1.6740000000000002,3,40.58,18.71,38.15,33.93,Manajemen Air,31.47
+1761,2021,Russia,Northwestern,Rice,940.0,29.33,3.753,5,18.31,17.99,41.73,68.65,Rotasi Tanaman,13.86
+4731,2021,Russia,Northwestern,Rice,327.03,27.27,1.872,8,29.57,48.85,28.42,41.06,Tanaman Tahan Kekeringan,9.91
+5784,2021,Russia,Northwestern,Soybeans,2047.29,28.84,2.097,8,50.19,45.23,90.64,49.49,Tanpa Adaptasi,6.67
+6109,2021,Russia,Northwestern,Sugarcane,2737.89,21.25,1.179,4,28.8,46.91,87.58,38.06,Pertanian Organik,0.53
+6539,2021,Russia,Siberian,Barley,1259.82,8.21,0.75,10,37.73,29.88,19.87,43.28,Rotasi Tanaman,-4.66
+4314,2021,Russia,Siberian,Corn,649.33,2.36,1.3,7,35.92,8.94,55.64,75.64,Tanaman Tahan Kekeringan,27.98
+5671,2021,Russia,Siberian,Fruits,757.04,18.81,2.9250000000000003,2,44.74,23.03,59.65,94.29,Tanaman Tahan Kekeringan,25.79
+2880,2021,Russia,Siberian,Wheat,2984.04,21.77,1.431,1,89.87,14.46,93.97,90.25,Pertanian Organik,6.17
+3253,2021,Russia,Volga,Rice,1631.19,11.06,1.41,1,55.67,17.78,60.61,88.47,Pertanian Organik,2.53
+7504,2021,Russia,Volga,Rice,1300.65,24.14,2.457,8,79.6,0.19,82.21,57.25,Tanaman Tahan Kekeringan,10.07
+3408,2021,Russia,Volga,Soybeans,1451.8,28.56,4.1850000000000005,8,,41.18,29.26,90.04,Tanpa Adaptasi,11.43
+4952,2021,Russia,Volga,Soybeans,2507.46,24.16,3.114,9,95.29,26.94,79.87,95.54,Rotasi Tanaman,18.0
+2892,2022,Russia,Central,Fruits,2281.57,8.17,2.97,2,53.67,46.48,74.02,77.59,Rotasi Tanaman,22.98
+6940,2022,Russia,Central,Rice,1574.67,24.44,1.341,5,33.21,7.25,91.67,92.26,Tanpa Adaptasi,-4.56
+6752,2022,Russia,Northwestern,Barley,715.63,23.37,1.836,2,,36.1,97.33,47.87,Tanpa Adaptasi,7.9
+943,2022,Russia,Northwestern,Fruits,445.03,19.58,0.846,8,87.9,34.73,20.78,79.4,Rotasi Tanaman,30.16
+4026,2022,Russia,Northwestern,Wheat,2693.18,11.8,1.03,0,53.81,43.08,87.12,75.0,Tanpa Adaptasi,9.27
+7383,2022,Russia,Siberian,Coffee,377.78,19.62,2.763,10,70.27,35.84,87.12,50.23,Pertanian Organik,31.5
+493,2022,Russia,Siberian,Corn,907.92,10.04,1.91,10,50.58,15.59,69.26,51.81,Tanpa Adaptasi,6.98
+5705,2022,Russia,Siberian,Fruits,924.79,3.12,2.98,1,91.21,28.48,99.61,50.27,Manajemen Air,-0.79
+2966,2022,Russia,Siberian,Rice,2819.06,5.28,3.3,3,20.25,1.11,71.35,62.54,Manajemen Air,21.84
+7933,2022,Russia,Siberian,Soybeans,1750.19,1.73,1.32,10,83.6,23.42,96.99,55.61,Manajemen Air,1.01
+155,2022,Russia,Siberian,Sugarcane,2897.17,24.17,2.421,3,13.16,10.58,39.91,96.61,Rotasi Tanaman,8.51
+4900,2022,Russia,Volga,Cotton,974.87,1.02,3.4,6,50.3,29.54,82.94,79.66,Tanpa Adaptasi,23.34
+7447,2022,Russia,Volga,Rice,210.92,1.23,2.601,1,56.31,34.33,38.65,89.09,Manajemen Air,13.94
+7245,2022,Russia,Volga,Sugarcane,2641.56,20.74,1.845,0,32.23,12.6,95.88,50.55,Tanpa Adaptasi,-1.58
+162,2023,Russia,Central,Corn,1107.2,9.95,2.35,7,47.98,32.73,54.89,34.47,Manajemen Air,-2.94
+6734,2023,Russia,Central,Corn,304.98,20.38,2.322,5,88.56,0.07,20.69,44.37,Pertanian Organik,1.08
+6448,2023,Russia,Central,Sugarcane,1305.66,5.2,1.7,5,96.54,4.61,48.52,75.25,Rotasi Tanaman,23.01
+3237,2023,Russia,Central,Vegetables,1869.55,12.65,2.08,1,78.13,3.61,60.89,71.77,Tanpa Adaptasi,-0.25
+5613,2023,Russia,Northwestern,Corn,1782.62,12.75,1.84,2,87.34,18.49,75.59,62.98,Pertanian Organik,33.86
+7680,2023,Russia,Northwestern,Corn,2524.01,4.33,3.29,4,,12.97,67.63,36.79,Tanpa Adaptasi,13.01
+838,2023,Russia,Northwestern,Cotton,1795.6,20.19,0.549,4,50.63,19.67,90.97,47.9,Tanpa Adaptasi,8.44
+4607,2023,Russia,Northwestern,Cotton,2032.84,22.34,0.6030000000000001,0,65.43,26.39,96.19,99.77,Tanpa Adaptasi,7.41
+2372,2023,Russia,Northwestern,Soybeans,1903.2,19.6,1.476,10,47.93,43.66,65.33,85.88,Tanaman Tahan Kekeringan,21.7
+7858,2023,Russia,Northwestern,Sugarcane,1024.92,3.21,1.39,9,82.83,8.32,57.14,99.53,Tanaman Tahan Kekeringan,34.34
+1328,2023,Russia,Northwestern,Wheat,2189.51,18.16,1.854,1,78.23,35.13,31.86,42.61,Rotasi Tanaman,28.5
+3647,2023,Russia,Northwestern,Wheat,1186.98,25.65,2.664,8,62.66,48.18,67.72,70.97,Tanpa Adaptasi,-3.79
+5325,2023,Russia,Northwestern,Wheat,1479.15,9.06,2.16,4,94.15,30.14,44.97,82.28,Pertanian Organik,16.29
+1993,2023,Russia,Siberian,Barley,1347.01,29.73,1.629,7,65.48,8.42,68.14,52.5,Tanpa Adaptasi,26.75
+2296,2023,Russia,Siberian,Fruits,2093.53,21.3,1.935,0,93.46,29.99,80.24,94.4,Pertanian Organik,27.61
+5772,2023,Russia,Siberian,Sugarcane,2295.96,12.76,3.36,9,89.27,39.57,97.79,38.63,Tanaman Tahan Kekeringan,23.83
+4046,2023,Russia,Siberian,Wheat,2208.58,4.84,2.06,5,92.19,30.4,89.51,62.51,Tanaman Tahan Kekeringan,9.91
+4883,2023,Russia,Volga,Barley,617.79,25.32,2.457,4,95.96,24.1,60.98,56.01,Pertanian Organik,19.81
+6234,2023,Russia,Volga,Cotton,2826.11,5.81,1.56,8,25.68,42.52,41.7,33.86,Pertanian Organik,7.37
+5743,2023,Russia,Volga,Fruits,2669.84,24.15,3.753,3,41.22,2.54,91.21,75.01,Tanpa Adaptasi,15.09
+117,2023,Russia,Volga,Soybeans,2073.11,7.65,1.82,2,85.97,8.73,3.42,99.98,Pertanian Organik,-2.8
+5827,2023,Russia,Volga,Vegetables,1793.92,4.02,3.31,5,33.81,40.77,52.9,92.6,Tanaman Tahan Kekeringan,27.61
+4283,2024,Russia,Central,Barley,1759.71,8.16,2.1,5,58.86,18.35,5.41,75.72,Rotasi Tanaman,31.82
+6862,2024,Russia,Central,Barley,1567.3,13.95,1.63,0,37.43,34.07,34.66,55.3,Manajemen Air,24.9
+7624,2024,Russia,Central,Coffee,1852.82,2.73,1.36,7,58.95,24.97,54.4,81.07,Pertanian Organik,1.17
+3789,2024,Russia,Central,Fruits,1643.83,19.78,0.8190000000000001,1,80.06,22.81,72.29,59.5,Rotasi Tanaman,-1.98
+3453,2024,Russia,Central,Soybeans,1113.45,11.82,1.94,5,37.11,21.05,60.86,77.25,Pertanian Organik,10.15
+6036,2024,Russia,Northwestern,Coffee,1520.08,11.59,2.31,10,83.63,6.84,39.7,85.23,Rotasi Tanaman,27.04
+6140,2024,Russia,Northwestern,Rice,1493.12,13.05,3.09,2,52.33,10.62,11.22,96.54,Tanpa Adaptasi,15.32
+1017,2024,Russia,Northwestern,Wheat,1464.47,28.58,1.035,1,94.69,13.61,45.78,42.51,Manajemen Air,-0.29
+1816,2024,Russia,Siberian,Coffee,622.54,24.6,3.123,3,13.5,47.67,25.91,68.21,Rotasi Tanaman,29.46
+1972,2024,Russia,Siberian,Cotton,1049.9,9.83,,2,11.94,29.62,62.87,58.36,Rotasi Tanaman,14.89
+1719,2024,Russia,Siberian,Rice,1737.96,19.32,2.205,2,97.06,4.04,64.53,41.05,Tanpa Adaptasi,11.79
+4869,2024,Russia,Siberian,Soybeans,268.86,1.24,1.584,8,30.97,22.06,29.25,36.17,Pertanian Organik,-2.01
+3158,2024,Russia,Siberian,Vegetables,200.45,18.05,1.494,5,71.71,26.4,42.96,48.61,Tanpa Adaptasi,18.42
+589,2024,Russia,Volga,Coffee,1755.87,4.65,1.47,6,66.46,15.19,10.68,92.23,Tanaman Tahan Kekeringan,-4.51
+910,2024,Russia,Volga,Corn,1721.28,23.43,2.4480000000000004,0,14.98,23.82,86.26,49.43,Manajemen Air,10.95
+206,2024,Russia,Volga,Fruits,961.12,0.86,1.32,10,75.73,28.71,88.18,49.95,Tanaman Tahan Kekeringan,9.59
+3281,2024,Russia,Volga,Fruits,374.45,1.19,,4,76.17,6.37,42.18,44.72,Pertanian Organik,5.27
+3933,2024,Russia,Volga,Rice,1591.81,19.16,1.26,0,71.04,8.09,51.05,45.34,Rotasi Tanaman,21.32
+616,2024,Russia,Volga,Sugarcane,1615.26,4.0,2.26,6,22.71,9.63,38.63,30.65,Tanaman Tahan Kekeringan,1.54
+811,2024,Russia,Volga,Sugarcane,1876.84,24.39,2.538,9,29.26,6.56,88.18,94.56,Tanaman Tahan Kekeringan,17.28
+4624,2024,Russia,Volga,,752.67,1.73,3.81,1,68.97,7.86,13.89,47.02,Manajemen Air,14.22
